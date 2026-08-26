@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { hasMeaningfulReportBody } from "./report-content.ts";
 
 const DIGESTS_DIR = "digests";
 const MANIFEST_PATH = "manifest.json";
@@ -80,13 +81,23 @@ function escapeXml(s: string): string {
 
 const SITE_URL = resolveSiteUrl();
 
+function isPublishableReport(filepath: string): boolean {
+  if (!fs.existsSync(filepath)) return false;
+
+  const content = fs.readFileSync(filepath, "utf-8");
+  if (hasMeaningfulReportBody(content)) return true;
+
+  console.warn(`Skipping empty report: ${filepath}`);
+  return false;
+}
+
 const entries = fs
   .readdirSync(DIGESTS_DIR)
   .filter((name) => DATE_RE.test(name) && fs.statSync(path.join(DIGESTS_DIR, name)).isDirectory())
   .sort()
   .reverse()
   .map((date) => {
-    const reports = REPORT_FILES.filter((r) => fs.existsSync(path.join(DIGESTS_DIR, date, `${r}.md`)));
+    const reports = REPORT_FILES.filter((r) => isPublishableReport(path.join(DIGESTS_DIR, date, `${r}.md`)));
     return { date, reports };
   })
   .filter((e) => e.reports.length > 0);

@@ -42,6 +42,14 @@ function releaseSlot(): void {
 
 const MAX_RETRIES = 3;
 const RETRY_BASE_MS = 5_000; // 5 s, 10 s, 20 s
+const EMPTY_RETRY_BASE_MS = 1_000; // 1 s, 2 s, 4 s
+
+export class EmptyLlmResponseError extends Error {
+  constructor(message = "LLM returned empty content") {
+    super(message);
+    this.name = "EmptyLlmResponseError";
+  }
+}
 
 function is429(err: unknown): boolean {
   return (err as { status?: number })?.status === 429 || String(err).includes("429");
@@ -71,10 +79,14 @@ export function hasLlmCredentials(): boolean {
   return getLlmApiKey().length > 0;
 }
 
-function extractTextContent(content: unknown): string {
-  if (typeof content === "string") return content.trim();
+export function extractTextContent(content: unknown): string {
+  let text = "";
+
+  if (typeof content === "string") {
+    text = content.trim();
+  }
   if (Array.isArray(content)) {
-    const text = content
+    text = content
       .map((part) => {
         if (typeof part === "string") return part;
         if (
@@ -91,9 +103,44 @@ function extractTextContent(content: unknown): string {
       })
       .join("")
       .trim();
-    if (text) return text;
   }
-  throw new Error("Unexpected response type from LLM");
+
+  if (!text) throw new EmptyLlmResponseError();
+  return text;
+}
+
+function formatEmptyResponseDiagnostics(
+  data: {
+    model?: string;
+    choices?: Array<{
+      finish_reason?: string | null;
+      message?: { reasoning_content?: unknown };
+    }>;
+    usage?: {
+      prompt_tokens?: number;
+      completion_tokens?: number;
+      total_tokens?: number;
+      completion_tokens_details?: { reasoning_tokens?: number };
+    };
+  },
+  requestedModel: string,
+): string {
+  const choice = data.choices?.[0];
+  const usage = data.usage;
+  const reasoningContent = choice?.message?.reasoning_content;
+  const hasReasoningContent =
+    (typeof reasoningContent === "string" && reasoningContent.trim().length > 0) ||
+    (Array.isArray(reasoningContent) && reasoningContent.length > 0);
+
+  return [
+    `model=${data.model ?? requestedModel}`,
+    `finish_reason=${choice?.finish_reason ?? "missing"}`,
+    `prompt_tokens=${usage?.prompt_tokens ?? "unknown"}`,
+    `completion_tokens=${usage?.completion_tokens ?? "unknown"}`,
+    `reasoning_tokens=${usage?.completion_tokens_details?.reasoning_tokens ?? "unknown"}`,
+    `total_tokens=${usage?.total_tokens ?? "unknown"}`,
+    `reasoning_content=${hasReasoningContent ? "present" : "absent"}`,
+  ].join(", ");
 }
 
 export async function callLlm(prompt: string, maxTokens = 4096): Promise<string> {
@@ -122,20 +169,41 @@ export async function callLlm(prompt: string, maxTokens = 4096): Promise<string>
       }
 
       const data = (await resp.json()) as {
+        model?: string;
         choices?: Array<{
+          finish_reason?: string | null;
           message?: {
             content?: unknown;
+            reasoning_content?: unknown;
           };
         }>;
+        usage?: {
+          prompt_tokens?: number;
+          completion_tokens?: number;
+          total_tokens?: number;
+          completion_tokens_details?: { reasoning_tokens?: number };
+        };
       };
       const content = data.choices?.[0]?.message?.content;
-      return extractTextContent(content);
+      try {
+        return extractTextContent(content);
+      } catch (err) {
+        if (err instanceof EmptyLlmResponseError) {
+          throw new EmptyLlmResponseError(
+            `LLM returned empty content (${formatEmptyResponseDiagnostics(data, getLlmModel())})`,
+          );
+        }
+        throw err;
+      }
     } catch (err) {
-      if (attempt < MAX_RETRIES && is429(err)) {
+      const retry429 = is429(err);
+      const retryEmpty = err instanceof EmptyLlmResponseError;
+      if (attempt < MAX_RETRIES && (retry429 || retryEmpty)) {
         releaseSlot();
         released = true;
-        const wait = RETRY_BASE_MS * 2 ** attempt;
-        console.error(`[llm] 429 — retry ${attempt + 1}/${MAX_RETRIES} in ${wait / 1000}s...`);
+        const wait = (retry429 ? RETRY_BASE_MS : EMPTY_RETRY_BASE_MS) * 2 ** attempt;
+        const reason = retry429 ? "429" : err instanceof Error ? err.message : String(err);
+        console.error(`[llm] ${reason} — retry ${attempt + 1}/${MAX_RETRIES} in ${wait / 1000}s...`);
         await sleep(wait);
         continue;
       }

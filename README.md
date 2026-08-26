@@ -6,13 +6,13 @@ A GitHub Actions workflow that runs every morning at 08:00 CST. It tracks GitHub
 
 ## Web UI
 
-**[https://gsscsd.github.io/big_model_radar](https://gsscsd.github.io/big_model_radar)**
+**[https://senmo996.github.io/big_model_radar](https://senmo996.github.io/big_model_radar)**
 
 Browse all historical digests in a clean, dark-themed interface — no login required. Reports are rendered from the Markdown files in this repo via GitHub Pages.
 
 ## RSS Feed
 
-**[https://gsscsd.github.io/big_model_radar/feed.xml](https://gsscsd.github.io/big_model_radar/feed.xml)**
+**[https://senmo996.github.io/big_model_radar/feed.xml](https://senmo996.github.io/big_model_radar/feed.xml)**
 
 Subscribe in any RSS reader (Feedly, Reeder, NewsBlur, etc.) to receive new digests automatically. The feed includes the latest 30 reports across all report types, updated daily alongside `manifest.json`.
 
@@ -374,4 +374,4 @@ To change the schedule, edit the cron expressions in the corresponding workflow 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gsscsd/big_model_radar&type=Date)](https://star-history.com/#gsscsd/big_model_radar&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=senmo996/big_model_radar&type=Date)](https://star-history.com/#senmo996/big_model_radar&Date)
