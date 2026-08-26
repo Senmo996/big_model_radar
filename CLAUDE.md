@@ -2,7 +2,7 @@
 
 ## Project overview
 
-agents-radar is a daily digest generator for the AI open-source ecosystem. A GitHub Actions cron job runs at 00:00 UTC (08:00 CST) and produces five Chinese-language reports, published as GitHub Issues and committed Markdown files.
+agents-radar is a daily digest generator for the AI open-source ecosystem. A GitHub Actions cron job runs at 00:00 UTC (08:00 CST) and produces five Chinese-language reports as committed Markdown files. GitHub Issue publishing is optional and disabled by default in the bundled workflows.
 
 ## Commands
 
@@ -22,6 +22,7 @@ export GITHUB_TOKEN=ghp_xxxxx
 export ANTHROPIC_API_KEY=sk-ant-xxxxx
 export ANTHROPIC_BASE_URL=https://api.kimi.com/coding/  # omit for Anthropic
 export DIGEST_REPO=owner/repo   # omit to skip GitHub issue creation
+export PUBLISH_ISSUES=false     # keep Markdown/Pages output without creating Issues
 ```
 
 ## Architecture
@@ -31,7 +32,7 @@ The pipeline runs in four sequential phases, each implemented as a named async f
 1. **`fetchAllData`** — all network I/O in parallel: GitHub API (issues/PRs/releases) for 17 repos, Claude Code Skills, Anthropic/OpenAI sitemaps, GitHub Trending HTML + Search API, Hacker News Algolia API.
 2. **`generateSummaries`** — per-repo LLM calls, all in parallel, rate-limited to 5 concurrent requests by a queue in `src/report.ts`.
 3. **Comparisons** — two LLM calls: cross-tool CLI comparison and OpenClaw cross-ecosystem comparison.
-4. **Save phase** — `buildCliReportContent` / `buildOpenclawReportContent` build Markdown strings; `saveWebReport` / `saveTrendingReport` / `saveHnReport` call LLM + write file + create GitHub Issue.
+4. **Save phase** — `buildCliReportContent` / `buildOpenclawReportContent` build Markdown strings; `saveWebReport` / `saveTrendingReport` / `saveHnReport` call LLM and write files. Issues are created only when `PUBLISH_ISSUES` is enabled.
 
 ## Source files
 

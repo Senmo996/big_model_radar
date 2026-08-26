@@ -2,7 +2,7 @@
 
 English | [中文](./README.zh.md)
 
-A GitHub Actions workflow that runs every morning at 08:00 CST. It tracks GitHub activity from AI CLI tools, OpenClaw and its peer projects in the AI agent ecosystem, scrapes official news and research from Anthropic and OpenAI, and monitors the GitHub AI trending repos daily — then publishes bilingual (Chinese + English) daily digests as GitHub Issues and committed Markdown files. Weekly and monthly rollup reports are also generated automatically.
+A GitHub Actions workflow that runs every morning at 08:00 CST. It tracks GitHub activity from AI CLI tools, OpenClaw and its peer projects in the AI agent ecosystem, scrapes official news and research from Anthropic and OpenAI, and monitors the GitHub AI trending repos daily — then publishes bilingual (Chinese + English) daily digests as committed Markdown files. Optional GitHub Issue publishing is disabled by default. Weekly and monthly rollup reports are also generated automatically.
 
 ## Web UI
 
@@ -159,7 +159,7 @@ New articles are detected by comparing sitemap `lastmod` timestamps against a pe
 - Scrapes official Anthropic and OpenAI web content via sitemaps; detects new articles incrementally
 - Monitors GitHub Trending daily + searches 6 AI topic tags; classifies repos by dimension and extracts trend signals
 - Fetches top-30 AI stories from Hacker News (last 24h, ranked by points); generates community sentiment report
-- Publishes GitHub Issues for each report type; commits Markdown files to `digests/YYYY-MM-DD/`
+- Commits Markdown files to `digests/YYYY-MM-DD/`; optional GitHub Issue publishing is controlled by `PUBLISH_ISSUES`
 - Runs on a daily schedule via GitHub Actions; supports manual triggering
 - All tracked repositories are configurable via `config.yml` — no code changes needed
 
@@ -195,6 +195,7 @@ Go to **Settings → Secrets and variables → Actions** and add:
 | `OPENAI_BASE_URL` | optional | API endpoint override. Leave unset for OpenAI, or set a compatible provider URL such as `https://api.openai.com/v1` |
 | `OPENAI_MODEL` | optional | Model name passed to `chat/completions`, e.g. `gpt-4.1-mini` |
 | `REPORT_LANGS` | optional | Report languages, e.g. `zh` or `zh,en` (default: `zh`) |
+| `PUBLISH_ISSUES` | optional | Set to `true` to publish reports as GitHub Issues. The bundled workflows default to `false` |
 | `PAGES_URL` | recommended | Public site base URL, e.g. `https://your-user.github.io/big_model_radar`. Prefer a repository variable for this |
 | `TELEGRAM_BOT_TOKEN` | optional | Telegram bot token from [@BotFather](https://t.me/BotFather). If set, a message is sent after each digest run |
 | `TELEGRAM_CHAT_ID` | optional | Telegram chat/channel/group ID to send notifications to. Required if you enable Telegram notifications |
@@ -232,6 +233,7 @@ export OPENAI_API_KEY=sk-xxxxxxxx
 export OPENAI_MODEL=gpt-4.1-mini
 export REPORT_LANGS=zh
 export DIGEST_REPO=your-username/big_model_radar  # optional; omit to only write files
+export PUBLISH_ISSUES=false
 
 pnpm start
 ```
@@ -360,7 +362,7 @@ Top projects & releases
 Looking ahead
 ```
 
-Historical digests are stored in [`digests/`](./digests/). Published issues are tagged by type: [`digest`](../../issues?label=digest) · [`openclaw`](../../issues?label=openclaw) · [`web`](../../issues?label=web) · [`trending`](../../issues?label=trending) · [`hn`](../../issues?label=hn) · [`weekly`](../../issues?label=weekly) · [`monthly`](../../issues?label=monthly).
+Historical digests are stored in [`digests/`](./digests/). If `PUBLISH_ISSUES=true`, published issues are tagged by report type.
 
 ## Schedule
 

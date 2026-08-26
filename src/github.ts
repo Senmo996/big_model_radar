@@ -1,6 +1,6 @@
 /**
  * GitHub API types and fetch helpers.
- * Reads GITHUB_TOKEN and DIGEST_REPO from environment at call time.
+ * Reads GITHUB_TOKEN, DIGEST_REPO, and PUBLISH_ISSUES from environment at call time.
  */
 
 // ---------------------------------------------------------------------------
@@ -102,6 +102,13 @@ async function fetchItemPage(
 // Exports
 // ---------------------------------------------------------------------------
 
+const DISABLED_VALUES = new Set(["0", "false", "no", "off"]);
+
+/** Whether report publishing to GitHub Issues is enabled. Defaults to true for backward compatibility. */
+export function isIssuePublishingEnabled(value = process.env["PUBLISH_ISSUES"]): boolean {
+  return !DISABLED_VALUES.has((value ?? "").trim().toLowerCase());
+}
+
 /**
  * Fetch items updated since `since`.
  * Paginated repos: keeps fetching until a page ends before `since` or MAX_PAGES reached.
@@ -185,6 +192,9 @@ const GITHUB_ISSUE_BODY_LIMIT = 65536;
 const TRUNCATION_NOTICE = "\n\n---\n> ⚠️ 内容超过 GitHub Issue 上限，完整报告见提交的 Markdown 文件。";
 
 export async function createGitHubIssue(title: string, body: string, label: string): Promise<string> {
+  if (!isIssuePublishingEnabled()) {
+    throw new Error("GitHub Issue publishing is disabled by PUBLISH_ISSUES");
+  }
   const digestRepo = process.env["DIGEST_REPO"] ?? "";
   if (body.length > GITHUB_ISSUE_BODY_LIMIT) {
     body = body.slice(0, GITHUB_ISSUE_BODY_LIMIT - TRUNCATION_NOTICE.length) + TRUNCATION_NOTICE;

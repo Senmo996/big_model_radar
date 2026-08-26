@@ -7,7 +7,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { callLlm, saveFile, autoGenFooter } from "./report.ts";
 import { buildWeeklyPrompt, buildMonthlyPrompt } from "./prompts.ts";
-import { createGitHubIssue } from "./github.ts";
+import { createGitHubIssue, isIssuePublishingEnabled } from "./github.ts";
 
 const DIGESTS_DIR = "digests";
 const MAX_CHARS_PER_REPORT = 2500;
@@ -70,7 +70,7 @@ export async function runWeeklyRollup(): Promise<void> {
   const dateStr = cstDate.toISOString().slice(0, 10);
   const utcStr = now.toISOString().slice(0, 16).replace("T", " ");
   const weekStr = toWeekStr(cstDate);
-  const digestRepo = process.env["DIGEST_REPO"] ?? "";
+  const digestRepo = isIssuePublishingEnabled() ? (process.env["DIGEST_REPO"] ?? "") : "";
   const langs = (process.env["REPORT_LANGS"] ?? "zh")
     .split(",")
     .map((s) => s.trim().toLowerCase())
@@ -147,7 +147,7 @@ export async function runMonthlyRollup(): Promise<void> {
   const monthStr = prevMonth.toISOString().slice(0, 7); // "2026-02"
   const dateStr = cstDate.toISOString().slice(0, 10);
   const utcStr = now.toISOString().slice(0, 16).replace("T", " ");
-  const digestRepo = process.env["DIGEST_REPO"] ?? "";
+  const digestRepo = isIssuePublishingEnabled() ? (process.env["DIGEST_REPO"] ?? "") : "";
   const langs = (process.env["REPORT_LANGS"] ?? "zh")
     .split(",")
     .map((s) => s.trim().toLowerCase())

@@ -10,6 +10,7 @@
  *   ANTHROPIC_MODEL     - Backward-compatible alias for OPENAI_MODEL
  *   GITHUB_TOKEN        - GitHub token for API access and issue creation
  *   DIGEST_REPO         - owner/repo where digest issues are posted (optional)
+ *   PUBLISH_ISSUES      - set to false/0/no/off to skip GitHub Issue creation
  */
 
 import {
@@ -20,6 +21,7 @@ import {
   fetchRecentReleases,
   fetchSkillsData,
   createGitHubIssue,
+  isIssuePublishingEnabled,
 } from "./github.ts";
 import {
   type RepoDigest,
@@ -546,8 +548,10 @@ async function main(): Promise<void> {
   const dateStr = new Date(now.getTime() + 8 * 60 * 60 * 1000).toISOString().slice(0, 10);
   const utcStr = now.toISOString().slice(0, 16).replace("T", " ");
   const digestRepo = process.env["DIGEST_REPO"] ?? "";
+  const issueRepo = isIssuePublishingEnabled() ? digestRepo : "";
 
   console.log(`[${now.toISOString()}] Starting digest | endpoint: ${getLlmBaseUrl()}`);
+  console.log(`  GitHub Issues: ${issueRepo ? "enabled" : "disabled"}`);
 
   const langs = (process.env["REPORT_LANGS"] ?? "zh")
     .split(",")
@@ -653,7 +657,7 @@ async function main(): Promise<void> {
     );
     console.log(`  Saved ${saveFile(digestContent, dateStr, "ai-cli.md")}`);
     console.log(`  Saved ${saveFile(openclawContent, dateStr, "ai-agents.md")}`);
-    if (digestRepo) {
+    if (issueRepo) {
       const cliUrl = await createGitHubIssue(
         `📊 AI CLI 工具社区动态日报 ${dateStr}`,
         digestContent,
@@ -690,7 +694,7 @@ async function main(): Promise<void> {
     );
     console.log(`  Saved ${saveFile(enDigestContent, dateStr, "ai-cli-en.md")}`);
     console.log(`  Saved ${saveFile(enOpenclawContent, dateStr, "ai-agents-en.md")}`);
-    if (digestRepo) {
+    if (issueRepo) {
       const cliEnUrl = await createGitHubIssue(
         `📊 AI CLI Tools Digest ${dateStr}`,
         enDigestContent,
@@ -707,8 +711,8 @@ async function main(): Promise<void> {
   }
 
   // Web report: zh saves state, en skips state save
-  if (genZh) await saveWebReport(webResults, webState, utcStr, dateStr, digestRepo, footer, "zh");
-  if (genEn) await saveWebReport(webResults, webState, utcStr, dateStr, digestRepo, enFooter, "en");
+  if (genZh) await saveWebReport(webResults, webState, utcStr, dateStr, issueRepo, footer, "zh");
+  if (genEn) await saveWebReport(webResults, webState, utcStr, dateStr, issueRepo, enFooter, "en");
 
   await Promise.all([
     genZh && zhSummaries
@@ -717,7 +721,7 @@ async function main(): Promise<void> {
           zhSummaries.trendingSummary,
           utcStr,
           dateStr,
-          digestRepo,
+          issueRepo,
           footer,
           "zh",
         )
@@ -728,13 +732,13 @@ async function main(): Promise<void> {
           enSummaries.trendingSummary,
           utcStr,
           dateStr,
-          digestRepo,
+          issueRepo,
           enFooter,
           "en",
         )
       : Promise.resolve(),
-    genZh ? saveHnReport(hnData, utcStr, dateStr, digestRepo, footer, "zh") : Promise.resolve(),
-    genEn ? saveHnReport(hnData, utcStr, dateStr, digestRepo, enFooter, "en") : Promise.resolve(),
+    genZh ? saveHnReport(hnData, utcStr, dateStr, issueRepo, footer, "zh") : Promise.resolve(),
+    genEn ? saveHnReport(hnData, utcStr, dateStr, issueRepo, enFooter, "en") : Promise.resolve(),
   ]);
 
   console.log("Done!");

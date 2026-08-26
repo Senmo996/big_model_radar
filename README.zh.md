@@ -2,7 +2,7 @@
 
 [English](./README.md) | 中文
 
-每天早上 08:00 CST 自动运行的 GitHub Actions 工作流。追踪主流 AI CLI 工具的 GitHub 动态、OpenClaw 及其同赛道项目的生态活动、Anthropic 和 OpenAI 官网最新资讯，并每日监测 GitHub AI 热门仓库趋势，以中英双语每日简报的形式发布为 GitHub Issues 并提交为 Markdown 文件。每周和每月自动生成汇总报告。
+每天早上 08:00 CST 自动运行的 GitHub Actions 工作流。追踪主流 AI CLI 工具的 GitHub 动态、OpenClaw 及其同赛道项目的生态活动、Anthropic 和 OpenAI 官网最新资讯，并每日监测 GitHub AI 热门仓库趋势，以中英双语每日简报的形式提交为 Markdown 文件。GitHub Issue 发布为可选功能，默认关闭。每周和每月自动生成汇总报告。
 
 ## Web UI
 
@@ -159,7 +159,7 @@ LLM 负责过滤非 AI 项目，将结果按维度分类（AI 基础工具 / AI 
 - 通过 Sitemap 抓取 Anthropic 和 OpenAI 官网内容，增量检测新文章
 - 每日监测 GitHub Trending + 搜索 6 个 AI 主题标签，按维度分类并提炼趋势信号
 - 抓取 Hacker News 过去 24 小时 AI 热门帖子（top 30，按分数排序），生成社区情绪报告
-- 以 GitHub Issues 形式发布报告，同时提交 Markdown 文件至 `digests/YYYY-MM-DD/`
+- 提交 Markdown 文件至 `digests/YYYY-MM-DD/`；可通过 `PUBLISH_ISSUES` 选择是否发布 GitHub Issues
 - 每日通过 GitHub Actions 定时运行，支持手动触发
 - 所有追踪仓库均可通过 `config.yml` 配置，无需修改代码
 
@@ -195,6 +195,7 @@ openclaw_peers:
 | `OPENAI_BASE_URL` | 可选 | API 地址覆盖。使用 OpenAI 默认接口可留空，或设置兼容服务地址，如 `https://api.openai.com/v1` |
 | `OPENAI_MODEL` | 可选 | 传给 `chat/completions` 的模型名，例如 `gpt-4.1-mini` |
 | `REPORT_LANGS` | 可选 | 报告语言，例如 `zh` 或 `zh,en`（默认：`zh`） |
+| `PUBLISH_ISSUES` | 可选 | 设为 `true` 时才发布 GitHub Issues；仓库内置工作流默认为 `false` |
 | `PAGES_URL` | 建议配置 | 站点公开地址，例如 `https://your-user.github.io/big_model_radar`。建议放在仓库 Variables 中 |
 | `TELEGRAM_BOT_TOKEN` | 可选 | Telegram bot token，从 [@BotFather](https://t.me/BotFather) 获取。设置后每次 digest 完成自动推送通知 |
 | `TELEGRAM_CHAT_ID` | 可选 | 接收通知的 Telegram 频道 / 群组 / 用户 ID。启用 Telegram 推送时必须配置 |
@@ -232,6 +233,7 @@ export OPENAI_API_KEY=sk-xxxxxxxx
 export OPENAI_MODEL=gpt-4.1-mini
 export REPORT_LANGS=zh
 export DIGEST_REPO=your-username/big_model_radar  # 可选，留空则仅写入本地文件
+export PUBLISH_ISSUES=false
 
 pnpm start
 ```
@@ -335,7 +337,7 @@ OpenAI 内容精选            (research / release / company / safety / ...)
 值得深读
 ```
 
-历史简报存储在 [`digests/`](./digests/)。已发布的 Issues 按类型打标签：[`digest`](../../issues?label=digest) · [`openclaw`](../../issues?label=openclaw) · [`web`](../../issues?label=web) · [`trending`](../../issues?label=trending) · [`hn`](../../issues?label=hn)。
+历史简报存储在 [`digests/`](./digests/)。仅当 `PUBLISH_ISSUES=true` 时才会发布并按报告类型标记 GitHub Issues。
 
 ## 定时计划
 
