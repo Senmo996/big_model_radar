@@ -8,7 +8,7 @@
 
 **[https://senmo996.github.io/big_model_radar](https://senmo996.github.io/big_model_radar)**
 
-在线浏览所有历史简报，深色主题，无需登录。报告直接由本仓库的 Markdown 文件通过 GitHub Pages 渲染。每份报告支持中文 / 英文切换。
+在线浏览所有历史简报，深色主题，无需登录。最新日期默认展示跨源情报事件卡片，将 GitHub、官方网站、GitHub Trending 与 Hacker News 的关联证据聚合在一起。报告和结构化信号数据均由 GitHub Pages 提供。
 
 ## RSS 订阅
 
@@ -30,6 +30,7 @@
 | `get_latest` | 获取某类报告的最新一期 |
 | `get_report` | 按日期和类型精确获取报告 |
 | `search` | 关键词搜索最近 N 天的报告 |
+| `get_signals` | 获取带证据链和评分的跨源情报事件卡片 |
 
 **Claude Desktop 接入** — 编辑 `~/Library/Application Support/Claude/claude_desktop_config.json`：
 
@@ -159,6 +160,8 @@ LLM 负责过滤非 AI 项目，将结果按维度分类（AI 基础工具 / AI 
 - 通过 Sitemap 抓取 Anthropic 和 OpenAI 官网内容，增量检测新文章
 - 每日监测 GitHub Trending + 搜索 6 个 AI 主题标签，按维度分类并提炼趋势信号
 - 抓取 Hacker News 过去 24 小时 AI 热门帖子（top 30，按分数排序），生成社区情绪报告
+- 将 GitHub、官网、Trending、媒体文章和 Hacker News 证据聚合成可解释、可追溯的情报事件卡片
+- 在 CI 中预生成可缓存搜索索引，网页无需再下载全部历史 Markdown 才能搜索
 - 提交 Markdown 文件至 `digests/YYYY-MM-DD/`；可通过 `PUBLISH_ISSUES` 选择是否发布 GitHub Issues
 - 每日通过 GitHub Actions 定时运行，支持手动触发
 - 所有追踪仓库均可通过 `config.yml` 配置，无需修改代码
@@ -249,8 +252,11 @@ pnpm start
 | `ai-web.md` | 官网内容报告（仅在有新内容时生成） | `web` |
 | `ai-trending.md` | GitHub AI 趋势热榜 — 按维度分类 + 趋势信号分析（仅在有数据时生成） | `trending` |
 | `ai-hn.md` | Hacker News AI 社区动态 — 热门帖子分类 + 情绪分析（仅在抓取成功时生成） | `hn` |
+| `signals.json` | 跨源情报事件卡片，包括证据链接、来源类型、实体、主题和透明评分明细 | — |
 
 `digests/web-state.json` 用于记录已处理的 URL，随每日简报一并提交。
+
+`signals.json` 是与语言无关的结构化数据。每日运行时，关键事实、URL、时间和互动指标直接从源数据确定性写入，不让 LLM 改写这些字段。
 
 ---
 

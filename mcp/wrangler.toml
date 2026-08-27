@@ -2,5 +2,8 @@ name = "big-model-radar-mcp"
 main = "src/index.ts"
 compatibility_date = "2025-11-01"
 
+[vars]
+PAGES_URL = "https://senmo996.github.io/big_model_radar"
+
 [observability]
 enabled = true

@@ -6,7 +6,14 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://senmo996.github.io/big_model_radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 27 Aug 2026 06:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:56:14 +0000</lastBuildDate>
+    <item>
+      <title>跨源情报信号 2026-08-27</title>
+      <link>https://senmo996.github.io/big_model_radar/#2026-08-27/signals</link>
+      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-27/signals</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>跨源情报信号 2026-08-27</description>
+    </item>
     <item>
       <title>AI CLI 工具社区动态日报 2026-08-27</title>
       <link>https://senmo996.github.io/big_model_radar/#2026-08-27/ai-cli</link>
@@ -41,6 +48,13 @@
       <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-27/ai-hn</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <description>Hacker News AI 社区动态日报 2026-08-27</description>
+    </item>
+    <item>
+      <title>跨源情报信号 2026-08-26</title>
+      <link>https://senmo996.github.io/big_model_radar/#2026-08-26/signals</link>
+      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-26/signals</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>跨源情报信号 2026-08-26</description>
     </item>
     <item>
       <title>AI CLI 工具社区动态日报 2026-08-26</title>
@@ -202,20 +216,6 @@
       <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-22/ai-web</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>AI 官方内容追踪报告 2026-08-22</description>
-    </item>
-    <item>
-      <title>AI 开源趋势日报 2026-08-22</title>
-      <link>https://senmo996.github.io/big_model_radar/#2026-08-22/ai-trending</link>
-      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-22/ai-trending</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI 开源趋势日报 2026-08-22</description>
-    </item>
-    <item>
-      <title>Hacker News AI 社区动态日报 2026-08-22</title>
-      <link>https://senmo996.github.io/big_model_radar/#2026-08-22/ai-hn</link>
-      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-22/ai-hn</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Hacker News AI 社区动态日报 2026-08-22</description>
     </item>
   </channel>
 </rss>

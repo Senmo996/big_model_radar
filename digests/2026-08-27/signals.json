@@ -1,0 +1,1428 @@
+{
+  "version": 1,
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T08:56:13.880Z",
+  "cards": [
+    {
+      "id": "sig-ba68128cff1f",
+      "date": "2026-08-27",
+      "title": "Gpt 5 Safe Completions",
+      "summary": "同一主题出现 11 条关联证据，覆盖 OpenAI 官网、AI CLI GitHub 动态。核心动态：Gpt 5 Safe Completions。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 11,
+      "sourceFamilies": [
+        "github",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "OpenAI Codex"
+      ],
+      "topics": [
+        "Model",
+        "Security",
+        "Coding",
+        "Open Source"
+      ],
+      "primaryUrl": "https://openai.com/index/gpt-5-safe-completions",
+      "evidence": [
+        {
+          "id": "ev-238c8b24697c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Gpt 5 Safe Completions",
+          "url": "https://openai.com/index/gpt-5-safe-completions",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-71bc59d7f0da",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Gpt 5 System Card",
+          "url": "https://openai.com/index/gpt-5-system-card",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f2e8b5d36d7f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Gpt 5 System Card Addendum Gpt 5 1",
+          "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-aff510bd8592",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Gpt 5 1 Codex Max System Card",
+          "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5a99ce370c12",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Gpt 5 System Card Sensitive Conversations",
+          "url": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-bd22951b53a9",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "O3 O4 Mini System Card",
+          "url": "https://openai.com/index/o3-o4-mini-system-card",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-101ee2310cda",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Sora System Card",
+          "url": "https://openai.com/index/sora-system-card",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3d2fc95ee4ce",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Gpt Oss Model Card",
+          "url": "https://openai.com/index/gpt-oss-model-card",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ceb579beef1d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Gpt 5 6 In Kiro",
+          "url": "https://openai.com/index/gpt-5-6-in-kiro",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7eef63e30ef8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Building Codex Windows Sandbox",
+          "url": "https://openai.com/index/building-codex-windows-sandbox",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6df9a1c13744",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "OpenAI Codex",
+          "url": "https://github.com/openai/codex",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9bdc61473acd",
+      "date": "2026-08-27",
+      "title": "支持 AGENTS.md 和 .agents/skills/ 目录结构 #31005",
+      "summary": "同一主题出现 9 条关联证据，覆盖 AI CLI GitHub 动态。核心动态：支持 AGENTS.md 和 .agents/skills/ 目录结构 #31005。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 49,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": false,
+      "sourceCount": 9,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic",
+        "Model Context Protocol"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "MCP",
+        "Security"
+      ],
+      "primaryUrl": "https://github.com/anthropics/claude-code/issues/31005",
+      "evidence": [
+        {
+          "id": "ev-9564cca15e0d",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "支持 AGENTS.md 和 .agents/skills/ 目录结构 #31005",
+          "url": "https://github.com/anthropics/claude-code/issues/31005",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7097bf68b7eb",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "支持针对非 main 分支的 diff 比较 #23626",
+          "url": "https://github.com/anthropics/claude-code/issues/23626",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-911866c5a8de",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "MCP 集成支持多个 Gmail 账号 #36024",
+          "url": "https://github.com/anthropics/claude-code/issues/36024",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ee5d1e8ce241",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "归档 Claude Cowork 聊天记录后丢失 #22931",
+          "url": "https://github.com/anthropics/claude-code/issues/22931",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a8a678c9b8f1",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "安全插件将原始 OAuth 令牌回显至会话记录 #90010",
+          "url": "https://github.com/anthropics/claude-code/issues/90010",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ff5cdef9bdce",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "Claude Code",
+          "url": "https://github.com/anthropics/claude-code",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3f2dab98005e",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "Claude Code Skills",
+          "url": "https://github.com/anthropics/skills",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b1208199afb4",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        },
+        {
+          "id": "ev-35e6da506137",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "v2.1.247",
+          "url": "https://github.com/anthropics/claude-code/releases",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-81fb31c94bd5",
+      "date": "2026-08-27",
+      "title": "Introducing Openai Privacy Filter",
+      "summary": "同一主题出现 4 条关联证据，覆盖 OpenAI 官网。核心动态：Introducing Openai Privacy Filter。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 49,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": false,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent",
+        "Security"
+      ],
+      "primaryUrl": "https://openai.com/index/introducing-openai-privacy-filter",
+      "evidence": [
+        {
+          "id": "ev-f186f995d372",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Introducing Openai Privacy Filter",
+          "url": "https://openai.com/index/introducing-openai-privacy-filter",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-62599d54a020",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Introducing Life Sci Bench",
+          "url": "https://openai.com/index/introducing-life-sci-bench",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-94a5bba35146",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Introducing Genebench Pro",
+          "url": "https://openai.com/index/introducing-genebench-pro",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-bd88b75cd43d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Introducing Evmbench",
+          "url": "https://openai.com/index/introducing-evmbench",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b075234eb089",
+      "date": "2026-08-27",
+      "title": "Release Notes",
+      "summary": "同一主题出现 10 条关联证据，覆盖 AI CLI GitHub 动态。核心动态：Release Notes。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 49,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": false,
+      "sourceCount": 10,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Coding",
+        "Model",
+        "Agent",
+        "MCP",
+        "Security"
+      ],
+      "primaryUrl": "https://github.com/QwenLM/qwen-code/releases/tag/v0.22.2",
+      "evidence": [
+        {
+          "id": "ev-ae5f79955696",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "Release Notes",
+          "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.22.2",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-dc22bc14a767",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#8662 - 迁移 TUI 渲染层从 Ink 到 OpenTUI",
+          "url": "https://github.com/QwenLM/qwen-code/issues/8662",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-41f91e0e9e37",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#10000 - `/find-simplifications` 候选账本",
+          "url": "https://github.com/QwenLM/qwen-code/issues/10000",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7ea080da0d0f",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#10218 - `permissions.allow` 语义变化导致工具被静默禁用",
+          "url": "https://github.com/QwenLM/qwen-code/issues/10218",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a1b6aa65a64f",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#10227 - 自定义模型供应商无法对话",
+          "url": "https://github.com/QwenLM/qwen-code/issues/10227",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d9fa8403701b",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#10074 - Agent Team 生命周期审计：发现 5 个竞态与清理风险",
+          "url": "https://github.com/QwenLM/qwen-code/issues/10074",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-59dc89d287eb",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#10199 - 安全漏洞：MCP 权限别名可能跨服务器授权",
+          "url": "https://github.com/QwenLM/qwen-code/issues/10199",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4d90f287a3ab",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#10194 - qwen3.8-flash 被误判为纯文本模型",
+          "url": "https://github.com/QwenLM/qwen-code/issues/10194",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-941fe9bcd682",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#10242 - CI E2E 测试间歇性无法访问 OPENAI_BASE_URL",
+          "url": "https://github.com/QwenLM/qwen-code/issues/10242",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-0bc5f1ccfdf5",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "Qwen Code",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b05cb6958b1d",
+      "date": "2026-08-27",
+      "title": "Societal Impacts Research",
+      "summary": "同一主题出现 5 条关联证据，覆盖 Anthropic 官网。核心动态：Societal Impacts Research。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 49,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": false,
+      "sourceCount": 5,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model",
+        "Security"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/team/societal-impacts",
+      "evidence": [
+        {
+          "id": "ev-6c0c6bdb7000",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Societal Impacts Research",
+          "url": "https://www.anthropic.com/research/team/societal-impacts",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5256dd4cf49c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Frontier Red Team Research",
+          "url": "https://www.anthropic.com/research/team/frontier-red-team",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-01696bc7c07e",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Economic Research",
+          "url": "https://www.anthropic.com/research/team/economics",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2496f6827698",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Claude for Enterprise powers LLNL research",
+          "url": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a9753d25af07",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Frontier model security",
+          "url": "https://www.anthropic.com/news/frontier-model-security",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9811142d53b0",
+      "date": "2026-08-27",
+      "title": "Codex Security Now In Research Preview",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI 官网。核心动态：Codex Security Now In Research Preview。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 45,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 75
+      },
+      "crossSource": false,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Coding",
+        "Model",
+        "Security",
+        "Agent"
+      ],
+      "primaryUrl": "https://openai.com/index/codex-security-now-in-research-preview",
+      "evidence": [
+        {
+          "id": "ev-966015f3a6fa",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Codex Security Now In Research Preview",
+          "url": "https://openai.com/index/codex-security-now-in-research-preview",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-da777a31dc75",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Why Codex Security Doesnt Include Sast",
+          "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-bad0de614251",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Advanced Account Security",
+          "url": "https://openai.com/index/advanced-account-security",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-08a281a86506",
+      "date": "2026-08-27",
+      "title": "Persona vectors: Monitoring and controlling character traits in language models",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Anthropic 官网。核心动态：Persona vectors: Monitoring and controlling character traits in language models。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 45,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 75
+      },
+      "crossSource": false,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model",
+        "RAG"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/persona-vectors",
+      "evidence": [
+        {
+          "id": "ev-6bedb6ce6b57",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Persona vectors: Monitoring and controlling character traits in language models",
+          "url": "https://www.anthropic.com/research/persona-vectors",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-16764332f3b8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Language models (mostly) know what they know",
+          "url": "https://www.anthropic.com/research/language-models-mostly-know-what-they-know",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3eead1a3c4bf",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Measuring the persuasiveness of language models",
+          "url": "https://www.anthropic.com/research/measuring-model-persuasiveness",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f8bafa5b9612",
+      "date": "2026-08-27",
+      "title": "ironclaw-v1.4.0-rc.1",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Agent GitHub 动态。核心动态：ironclaw-v1.4.0-rc.1。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 41,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": false,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://github.com/nearai/ironclaw/releases/tag/ironclaw-v1.4.0-rc.1",
+      "evidence": [
+        {
+          "id": "ev-b8d50ee82b31",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "ironclaw-v1.4.0-rc.1",
+          "url": "https://github.com/nearai/ironclaw/releases/tag/ironclaw-v1.4.0-rc.1",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1c96b054abb9",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "IronClaw",
+          "url": "https://github.com/nearai/ironclaw",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6aac902b51c1",
+      "date": "2026-08-27",
+      "title": "Mixpanel Incident",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官网。核心动态：Mixpanel Incident。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 41,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": false,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [
+        "Security"
+      ],
+      "primaryUrl": "https://openai.com/index/mixpanel-incident",
+      "evidence": [
+        {
+          "id": "ev-a951a4a3d3bd",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Mixpanel Incident",
+          "url": "https://openai.com/index/mixpanel-incident",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c0f7996a35c2",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Hugging Face Incident And The Road Ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-48e0a4d16ec7",
+      "date": "2026-08-27",
+      "title": "Safety Alignment",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官网。核心动态：Safety Alignment。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 41,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": false,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model",
+        "Security",
+        "Agent"
+      ],
+      "primaryUrl": "https://openai.com/news/safety-alignment",
+      "evidence": [
+        {
+          "id": "ev-df60ecc2df2c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Safety Alignment",
+          "url": "https://openai.com/news/safety-alignment",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-267ab847945f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Ai Agent Link Safety",
+          "url": "https://openai.com/index/ai-agent-link-safety",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b12777987171",
+      "date": "2026-08-27",
+      "title": "SKT partnership announcement",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic 官网。核心动态：SKT partnership announcement。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 41,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": false,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/news/skt-partnership-announcement",
+      "evidence": [
+        {
+          "id": "ev-30df634876fc",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "SKT partnership announcement",
+          "url": "https://www.anthropic.com/news/skt-partnership-announcement",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2620e4650fb5",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Zoom partnership and investment in Anthropic",
+          "url": "https://www.anthropic.com/news/zoom-partnership-and-investment",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-165014229847",
+      "date": "2026-08-27",
+      "title": "Trusted Access For Cyber",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官网。核心动态：Trusted Access For Cyber。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 41,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": false,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model",
+        "Security"
+      ],
+      "primaryUrl": "https://openai.com/index/trusted-access-for-cyber",
+      "evidence": [
+        {
+          "id": "ev-129e8b747e66",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Trusted Access For Cyber",
+          "url": "https://openai.com/index/trusted-access-for-cyber",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-69d327abaf8c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Putting Frontier Cyber Models In More Trusted Hands",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5df13fbc075a",
+      "date": "2026-08-27",
+      "title": "v2026.8.1-beta.3",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Agent GitHub 动态。核心动态：v2026.8.1-beta.3。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 41,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": false,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "OpenClaw"
+      ],
+      "topics": [],
+      "primaryUrl": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3",
+      "evidence": [
+        {
+          "id": "ev-550963e1b71e",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "v2026.8.1-beta.3",
+          "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-635267e73c56",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "OpenClaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7b7ffa9bbfed",
+      "date": "2026-08-27",
+      "title": "Accenture, AWS, and Anthropic collaboration",
+      "summary": "发现一条来自 Anthropic 官网 的新信号：Accenture, AWS, and Anthropic collaboration。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/news/accenture-aws-anthropic",
+      "evidence": [
+        {
+          "id": "ev-c80beb3befd7",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Accenture, AWS, and Anthropic collaboration",
+          "url": "https://www.anthropic.com/news/accenture-aws-anthropic",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9dcbf8848101",
+      "date": "2026-08-27",
+      "title": "Anthropic joins White House pledge for AI education",
+      "summary": "发现一条来自 Anthropic 官网 的新信号：Anthropic joins White House pledge for AI education。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
+      "evidence": [
+        {
+          "id": "ev-6362de52ff90",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Anthropic joins White House pledge for AI education",
+          "url": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5511dd1f0cf7",
+      "date": "2026-08-27",
+      "title": "Anthropic partners with Google Cloud",
+      "summary": "发现一条来自 Anthropic 官网 的新信号：Anthropic partners with Google Cloud。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
+      "evidence": [
+        {
+          "id": "ev-9d2cca1d81d7",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Anthropic partners with Google Cloud",
+          "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e937f0c8ccdb",
+      "date": "2026-08-27",
+      "title": "Bringing Chatgpt For Teachers To More Us School Districts",
+      "summary": "发现一条来自 OpenAI 官网 的新信号：Bringing Chatgpt For Teachers To More Us School Districts。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "evidence": [
+        {
+          "id": "ev-15eb485ac503",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Bringing Chatgpt For Teachers To More Us School Districts",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-810cb010d741",
+      "date": "2026-08-27",
+      "title": "Challenges in red teaming AI systems",
+      "summary": "发现一条来自 Anthropic 官网 的新信号：Challenges in red teaming AI systems。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
+      "evidence": [
+        {
+          "id": "ev-295389757156",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Challenges in red teaming AI systems",
+          "url": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-176b566f0ab9",
+      "date": "2026-08-27",
+      "title": "Chatgpt Ads Expands Across Europe",
+      "summary": "发现一条来自 OpenAI 官网 的新信号：Chatgpt Ads Expands Across Europe。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "evidence": [
+        {
+          "id": "ev-6e815a7f4e28",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Chatgpt Ads Expands Across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b7c522f05e04",
+      "date": "2026-08-27",
+      "title": "Constitutional AI: Harmlessness from AI feedback",
+      "summary": "发现一条来自 Anthropic 官网 的新信号：Constitutional AI: Harmlessness from AI feedback。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback",
+      "evidence": [
+        {
+          "id": "ev-5e189c865348",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Constitutional AI: Harmlessness from AI feedback",
+          "url": "https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-215839928646",
+      "date": "2026-08-27",
+      "title": "Constitutional Classifiers: Defending against universal jailbreaks",
+      "summary": "发现一条来自 Anthropic 官网 的新信号：Constitutional Classifiers: Defending against universal jailbreaks。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/research/constitutional-classifiers",
+      "evidence": [
+        {
+          "id": "ev-e7bb5fa7156d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Constitutional Classifiers: Defending against universal jailbreaks",
+          "url": "https://www.anthropic.com/research/constitutional-classifiers",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-385576b3cc50",
+      "date": "2026-08-27",
+      "title": "Daybreak Securing The World",
+      "summary": "发现一条来自 OpenAI 官网 的新信号：Daybreak Securing The World。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/daybreak-securing-the-world",
+      "evidence": [
+        {
+          "id": "ev-334cc718ca1f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官网",
+          "title": "Daybreak Securing The World",
+          "url": "https://openai.com/index/daybreak-securing-the-world",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-73a34bd6a00d",
+      "date": "2026-08-27",
+      "title": "Detecting and countering malicious uses of Claude",
+      "summary": "发现一条来自 Anthropic 官网 的新信号：Detecting and countering malicious uses of Claude。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
+      "evidence": [
+        {
+          "id": "ev-82799851f15f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Detecting and countering malicious uses of Claude",
+          "url": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b7a6d3260fbf",
+      "date": "2026-08-27",
+      "title": "Developing nuclear safeguards for AI",
+      "summary": "发现一条来自 Anthropic 官网 的新信号：Developing nuclear safeguards for AI。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 38,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 25
+      },
+      "crossSource": false,
+      "sourceCount": 1,
+      "sourceFamilies": [
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/research/nuclear-safeguards-for-ai",
+      "evidence": [
+        {
+          "id": "ev-74a58e4c1ef8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官网",
+          "title": "Developing nuclear safeguards for AI",
+          "url": "https://www.anthropic.com/research/nuclear-safeguards-for-ai",
+          "publishedAt": "2026-08-27T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 149,
+    "cardCount": 24,
+    "crossSourceCount": 1,
+    "sourceFamilies": 4
+  }
+}

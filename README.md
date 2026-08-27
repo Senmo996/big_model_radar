@@ -8,7 +8,7 @@ A GitHub Actions workflow that runs every morning at 08:00 CST. It tracks GitHub
 
 **[https://senmo996.github.io/big_model_radar](https://senmo996.github.io/big_model_radar)**
 
-Browse all historical digests in a clean, dark-themed interface — no login required. Reports are rendered from the Markdown files in this repo via GitHub Pages.
+Browse all historical digests in a clean, dark-themed interface — no login required. The latest dates open with ranked cross-source intelligence cards that connect evidence from GitHub, official sites, GitHub Trending, and Hacker News. Reports are rendered from the files in this repo via GitHub Pages.
 
 ## RSS Feed
 
@@ -30,6 +30,7 @@ A hosted [Model Context Protocol](https://modelcontextprotocol.io) server that e
 | `get_latest` | Fetch the most recent report of a given type |
 | `get_report` | Fetch a specific report by date and type |
 | `search` | Keyword search across recent reports |
+| `get_signals` | Get ranked cross-source intelligence cards with their evidence chains |
 
 **Claude Desktop setup** — add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
@@ -159,6 +160,8 @@ New articles are detected by comparing sitemap `lastmod` timestamps against a pe
 - Scrapes official Anthropic and OpenAI web content via sitemaps; detects new articles incrementally
 - Monitors GitHub Trending daily + searches 6 AI topic tags; classifies repos by dimension and extracts trend signals
 - Fetches top-30 AI stories from Hacker News (last 24h, ranked by points); generates community sentiment report
+- Clusters GitHub, official-site, Trending, media, and Hacker News evidence into deterministic signal cards with transparent scores
+- Builds a cacheable search index in CI instead of downloading every historical Markdown report in the browser
 - Commits Markdown files to `digests/YYYY-MM-DD/`; optional GitHub Issue publishing is controlled by `PUBLISH_ISSUES`
 - Runs on a daily schedule via GitHub Actions; supports manual triggering
 - All tracked repositories are configurable via `config.yml` — no code changes needed
@@ -249,10 +252,13 @@ Files are written to `digests/YYYY-MM-DD/`:
 | `ai-web.md` | Official web content report (only written when new content exists) | `web` |
 | `ai-trending.md` | GitHub AI trending report — repos classified by dimension + trend signals (only written when data is available) | `trending` |
 | `ai-hn.md` | Hacker News AI community digest — top stories + sentiment analysis (only written when fetch succeeds) | `hn` |
+| `signals.json` | Ranked cross-source intelligence cards, evidence links, source families, entities, topics, and score breakdown | — |
 
 A shared state file `digests/web-state.json` tracks which web URLs have been seen; it is committed alongside the daily digests.
 
 Each report is generated in both Chinese (`ai-cli.md`) and English (`ai-cli-en.md`). The Web UI sidebar shows ZH / EN toggle buttons for reports that have both variants.
+
+`signals.json` is language-neutral structured data. Critical facts, URLs, timestamps, and engagement metrics are rendered directly from source data; the LLM-generated reports are not used to invent or rewrite these fields during daily runs.
 
 ---
 

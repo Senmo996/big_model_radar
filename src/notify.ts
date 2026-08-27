@@ -67,7 +67,7 @@ async function sendTelegram(text: string): Promise<void> {
   }
 }
 
-function buildMessage(date: string, reports: string[]): string {
+function buildMessage(date: string, reports: string[], signals = false): string {
   const baseReports = reports.filter((r) => !r.endsWith("-en"));
   const isWeekly = baseReports.includes("ai-weekly");
   const isMonthly = baseReports.includes("ai-monthly");
@@ -75,6 +75,10 @@ function buildMessage(date: string, reports: string[]): string {
   const icon = isMonthly ? "📆" : isWeekly ? "📅" : "📡";
   const suffix = isMonthly ? " 月报" : isWeekly ? " 周报" : "";
   const lines: string[] = [`${icon} <b>Big Model Radar${suffix} · ${date}</b>\n`];
+
+  if (signals) {
+    lines.push(`• <a href="${PAGES_URL}/#${date}/signals">📡 跨源情报信号</a>`);
+  }
 
   // Daily reports first, then rollups
   const ordered = [
@@ -115,7 +119,7 @@ async function main(): Promise<void> {
   }
 
   const { dates } = JSON.parse(fs.readFileSync("manifest.json", "utf-8")) as {
-    dates: { date: string; reports: string[] }[];
+    dates: { date: string; reports: string[]; signals?: boolean }[];
   };
 
   const latest = dates?.[0];
@@ -123,8 +127,8 @@ async function main(): Promise<void> {
     console.log("[notify] manifest is empty — skipping.");
     return;
   }
-  const { date, reports } = latest;
-  const text = buildMessage(date, reports);
+  const { date, reports, signals } = latest;
+  const text = buildMessage(date, reports, signals);
 
   console.log(`[notify] Sending Telegram message for ${date} (${reports.length} reports)…`);
   await sendTelegram(text);

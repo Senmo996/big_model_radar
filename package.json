@@ -5,13 +5,14 @@
   "packageManager": "pnpm@9.15.9",
   "scripts": {
     "start": "tsx src/index.ts",
-    "test": "tsx --test src/report.test.ts src/github.test.ts",
+    "test": "tsx --test src/report.test.ts src/github.test.ts src/signals.test.ts",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
     "format": "prettier --write src",
     "format:check": "prettier --check src",
     "manifest": "tsx src/generate-manifest.ts",
+    "signals:backfill": "tsx src/backfill-signals.ts",
     "weekly": "tsx src/weekly.ts",
     "monthly": "tsx src/monthly.ts",
     "notify": "tsx src/notify.ts"

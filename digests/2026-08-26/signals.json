@@ -1,0 +1,1503 @@
+{
+  "version": 1,
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-27T07:17:12.956Z",
+  "cards": [
+    {
+      "id": "sig-3b04eb8ee42e",
+      "date": "2026-08-26",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News 讨论。核心动态：OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic",
+        "Google Gemini"
+      ],
+      "topics": [
+        "Coding",
+        "API",
+        "Pricing"
+      ],
+      "primaryUrl": "https://developers.openai.com/api/docs/pricing",
+      "evidence": [
+        {
+          "id": "ev-84c36a88e333",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+          "url": "https://developers.openai.com/api/docs/pricing",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-fa7ad6bad51c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+          "url": "https://news.ycombinator.com/item?id=49421074",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-05c2f435c47e",
+      "date": "2026-08-26",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：My agent.md to improve LLM-assisted code quality。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 50,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49410932",
+      "evidence": [
+        {
+          "id": "ev-a0593eb36521",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "My agent.md to improve LLM-assisted code quality",
+          "url": "https://news.ycombinator.com/item?id=49410932",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d3e8df973030",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "My agent.md to improve LLM-assisted code quality",
+          "url": "https://fabiensanglard.net/agent.md/index.html",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-dd6fed248f96",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "index.html",
+          "url": "https://fabiensanglard.net/agent.md/index.html",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2acfa92a6512",
+      "date": "2026-08-26",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：OpenAI Jalapeño: Better than Nvidia Blackwell。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 50,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49434378",
+      "evidence": [
+        {
+          "id": "ev-a779205cd804",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+          "url": "https://news.ycombinator.com/item?id=49434378",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4369f86110d1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-cacc8102c59e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "openai jalapeno better than nvidia",
+          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-70278a4bc819",
+      "date": "2026-08-26",
+      "title": "AI Chip Architectures",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：AI Chip Architectures。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49405657",
+      "evidence": [
+        {
+          "id": "ev-a7d1cef4f1ec",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "AI Chip Architectures",
+          "url": "https://news.ycombinator.com/item?id=49405657",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7e349d4a51b5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Chip Architectures",
+          "url": "https://www.jepeake.com/ai-chip-architectures",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-492a8a5b0404",
+      "date": "2026-08-26",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：AI is hitting entry-level jobs hardest, Stanford study finds。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49435147",
+      "evidence": [
+        {
+          "id": "ev-fac8421c6926",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "url": "https://news.ycombinator.com/item?id=49435147",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2ecf05832e2b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8ca0ce87495d",
+      "date": "2026-08-26",
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Anthropic tells staff to work from home due to possible security team strike。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model",
+        "Security"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49434291",
+      "evidence": [
+        {
+          "id": "ev-d38745453d5a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Anthropic tells staff to work from home due to possible security team strike",
+          "url": "https://news.ycombinator.com/item?id=49434291",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-bc2fc5161875",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic tells staff to work from home due to possible security team strike",
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-df869fe97cad",
+      "date": "2026-08-26",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Anthropic's best AI model struggles to attract users as cheaper tools thrive。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model",
+        "API",
+        "Pricing"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49411102",
+      "evidence": [
+        {
+          "id": "ev-ff64f512c1e3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://news.ycombinator.com/item?id=49411102",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-105b39b54e5a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-824f4b07e824",
+      "date": "2026-08-26",
+      "title": "Apple introduces M6 and M5 Ultra",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Apple introduces M6 and M5 Ultra。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49433292",
+      "evidence": [
+        {
+          "id": "ev-7d0d3400ef68",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Apple introduces M6 and M5 Ultra",
+          "url": "https://news.ycombinator.com/item?id=49433292",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-33f972d3adcd",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Apple introduces M6 and M5 Ultra",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8e36968f8edb",
+      "date": "2026-08-26",
+      "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Behaviorally fingerprinting Ox Alpha's provenance。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49435641",
+      "evidence": [
+        {
+          "id": "ev-fbda1c2cb933",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+          "url": "https://news.ycombinator.com/item?id=49435641",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-431922236c63",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+          "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a051f02a8f48",
+      "date": "2026-08-26",
+      "title": "Fences, Not Sandboxes",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Fences, Not Sandboxes。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Security"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49423146",
+      "evidence": [
+        {
+          "id": "ev-ccdf40397396",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Fences, Not Sandboxes",
+          "url": "https://news.ycombinator.com/item?id=49423146",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d4374e2bc04f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Fences, Not Sandboxes",
+          "url": "https://yegge.ai/essays/fences-not-sandboxes",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-26fb5f109c75",
+      "date": "2026-08-26",
+      "title": "Headlong: A microharness for persistent agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Headlong: A microharness for persistent agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49428882",
+      "evidence": [
+        {
+          "id": "ev-157fd89afea1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Headlong: A microharness for persistent agents",
+          "url": "https://news.ycombinator.com/item?id=49428882",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1a2ea826d4b3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Headlong: A microharness for persistent agents",
+          "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f48cf854e2a2",
+      "date": "2026-08-26",
+      "title": "How much of HN is AI?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：How much of HN is AI?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49435728",
+      "evidence": [
+        {
+          "id": "ev-7d015e841e67",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "How much of HN is AI?",
+          "url": "https://news.ycombinator.com/item?id=49435728",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7fd730aa7468",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "How much of HN is AI?",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-cde7f92a62af",
+      "date": "2026-08-26",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：I built a low-latency AI companion that plays Skyrim with me。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49413561",
+      "evidence": [
+        {
+          "id": "ev-2c8c6d09c6fc",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-80a34fab50a0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6e1f2e449e93",
+      "date": "2026-08-26",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：I were 17, I'd learn how to build LLMs from scratch。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49412396",
+      "evidence": [
+        {
+          "id": "ev-a9c049c8fa0e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "I were 17, I'd learn how to build LLMs from scratch",
+          "url": "https://news.ycombinator.com/item?id=49412396",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-602e76d33c45",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I were 17, I'd learn how to build LLMs from scratch",
+          "url": "https://twitter.com/paulg/status/2091544343589060625",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-19febf5c8b23",
+      "date": "2026-08-26",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：LLMs could control their host machines by exploiting inference engines。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Model",
+        "Security"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49424387",
+      "evidence": [
+        {
+          "id": "ev-3a57868aa4e5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "LLMs could control their host machines by exploiting inference engines",
+          "url": "https://news.ycombinator.com/item?id=49424387",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a34ed736db45",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "LLMs could control their host machines by exploiting inference engines",
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9fde85de322b",
+      "date": "2026-08-26",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：OCR It – pull text out of un-copyable documents for your LLM。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49415852",
+      "evidence": [
+        {
+          "id": "ev-5c63cd556f84",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "OCR It – pull text out of un-copyable documents for your LLM",
+          "url": "https://news.ycombinator.com/item?id=49415852",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-eea3b8e36c6a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OCR It – pull text out of un-copyable documents for your LLM",
+          "url": "https://github.com/thiagotigaz/ocr-it",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e1179d4a6eca",
+      "date": "2026-08-26",
+      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49432879",
+      "evidence": [
+        {
+          "id": "ev-ea122e8949d1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+          "url": "https://news.ycombinator.com/item?id=49432879",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-621838cb8fac",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+          "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-28a206afeb4b",
+      "date": "2026-08-26",
+      "title": "Ox-Alpha Is GLM?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Ox-Alpha Is GLM?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model",
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49422226",
+      "evidence": [
+        {
+          "id": "ev-9127ccbe61b3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Ox-Alpha Is GLM?",
+          "url": "https://news.ycombinator.com/item?id=49422226",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-215d2b91a679",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Ox-Alpha Is GLM?",
+          "url": "https://dejan.ai/blog/ox-alpha",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2906519875b2",
+      "date": "2026-08-26",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Show HN: I made a Raspberry with Qwen my local car AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49435675",
+      "evidence": [
+        {
+          "id": "ev-135520a6e50d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+          "url": "https://news.ycombinator.com/item?id=49435675",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d2c5525f813c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+          "url": "https://github.com/ThinkOffApp/CarWatch",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9b952764bf06",
+      "date": "2026-08-26",
+      "title": "Training AI to Paint with Code",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News 讨论、原始文章。核心动态：Training AI to Paint with Code。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 46,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49411800",
+      "evidence": [
+        {
+          "id": "ev-6a293108f86b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News 讨论",
+          "title": "Training AI to Paint with Code",
+          "url": "https://news.ycombinator.com/item?id=49411800",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-848f7c4c64ac",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Training AI to Paint with Code",
+          "url": "https://surya.website/rling-qwen-to-paint-with-code",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d7eedb2dc98d",
+      "date": "2026-08-26",
+      "title": "rust-v0.150.0-alpha.9",
+      "summary": "同一主题出现 25 条关联证据，覆盖 AI CLI GitHub 动态。核心动态：rust-v0.150.0-alpha.9。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 49,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": false,
+      "sourceCount": 25,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "OpenAI Codex",
+        "OpenAI",
+        "Model Context Protocol"
+      ],
+      "topics": [
+        "Coding",
+        "MCP",
+        "Model",
+        "Agent"
+      ],
+      "primaryUrl": "https://github.com/openai/codex/releases/tag/rust-v0.150.0-alpha.9",
+      "evidence": [
+        {
+          "id": "ev-e5acf4208e9c",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "rust-v0.150.0-alpha.9",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.150.0-alpha.9",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-16a64b247a01",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "rust-v0.150.0-alpha.10",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.150.0-alpha.10",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-793e6db6d12d",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "rust-v0.150.0-alpha.11",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.150.0-alpha.11",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1293dca42059",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40739 为企业 IdP 添加 MCP OAuth 身份解析",
+          "url": "https://github.com/openai/codex/pull/40739",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-08a21397a302",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40722 企业 ID-JAG 交换机制",
+          "url": "https://github.com/openai/codex/pull/40722",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-dc1a4d3da038",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40728 MCP 服务器权限归属修正",
+          "url": "https://github.com/openai/codex/pull/40728",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a8f80a0c36bc",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40713 从 Git 远程元数据中清理凭据",
+          "url": "https://github.com/openai/codex/pull/40713",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3acf8e644230",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40735 技能遥测改用 model info 访问器",
+          "url": "https://github.com/openai/codex/pull/40735",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e9c36a9e0567",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40724 插件归属技能遥测",
+          "url": "https://github.com/openai/codex/pull/40724",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3163bc20f9a9",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40726 SQLite 日志持久化遥测",
+          "url": "https://github.com/openai/codex/pull/40726",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7b7f6b02144d",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40714 追踪图像生成请求 ID",
+          "url": "https://github.com/openai/codex/pull/40714",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d6670f457f82",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40736 Bazel 下运行 exec-server 兼容性测试",
+          "url": "https://github.com/openai/codex/pull/40736",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4760c952de6a",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40718 为固定 Codex 版本添加 Bazel 仓库",
+          "url": "https://github.com/openai/codex/pull/40718",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-759178761e7c",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40710 显式远程执行器连接刷新",
+          "url": "https://github.com/openai/codex/pull/40710",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ca92742b45e7",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#11023 Codex Linux 桌面版（已关闭）",
+          "url": "https://github.com/openai/codex/issues/11023",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-37b4c4520258",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#13993 支持 Windows 独立安装器 codex-setup.exe",
+          "url": "https://github.com/openai/codex/issues/13993",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ed7a370b5157",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40715 Windows 版 MCP 配置 \"invalid transport\" 错误",
+          "url": "https://github.com/openai/codex/issues/40715",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5830ee78fea6",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#28392 Windows Store 版启动失败：\"Unable to locate the Codex CLI binary\"",
+          "url": "https://github.com/openai/codex/issues/28392",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4924f357a238",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#34026 Windows 桌面版：已完成线程仍显示 \"thinking\"",
+          "url": "https://github.com/openai/codex/issues/34026",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2ea001b0c758",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#39443 Windows 版在 chrome.dll 中立即崩溃（C0000005）",
+          "url": "https://github.com/openai/codex/issues/39443",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-539f1d5efc95",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#40700 Windows 版无法启动：WindowsApps 目录中 codex.exe 重定位失败",
+          "url": "https://github.com/openai/codex/issues/40700",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3b91b1abf7a5",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#25179 桌面版积累陈旧 subagents 无法可靠关闭（21 评论）",
+          "url": "https://github.com/openai/codex/issues/25179",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4648010becd0",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#31868 支持 GPT-5.6 可选 1M 上下文（8 评论 / 22 👍）",
+          "url": "https://github.com/openai/codex/issues/31868",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a1e3c7e3a877",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "#39819 恢复 Tool Call 可见性选项（已关闭，3 评论 / 10 👍）",
+          "url": "https://github.com/openai/codex/issues/39819",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6df9a1c13744",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "OpenAI Codex",
+          "url": "https://github.com/openai/codex",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-17abe84589ec",
+      "date": "2026-08-26",
+      "title": "fix(cron): preserve delivered channel context（#1243）",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Agent GitHub 动态。核心动态：fix(cron): preserve delivered channel context（#1243）。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 45,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 75
+      },
+      "crossSource": false,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding",
+        "API"
+      ],
+      "primaryUrl": "https://github.com/moltis-org/moltis/pull/1243",
+      "evidence": [
+        {
+          "id": "ev-b2b4149cdade",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "fix(cron): preserve delivered channel context（#1243）",
+          "url": "https://github.com/moltis-org/moltis/pull/1243",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-64b8d3ab9d21",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "Add Coder remote workspace sandbox support（#1199）",
+          "url": "https://github.com/moltis-org/moltis/pull/1199",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-cbf5b07c1490",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "Moltis",
+          "url": "https://github.com/moltis-org/moltis",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-462d989704de",
+      "date": "2026-08-26",
+      "title": "v2026.8.1-beta.3",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Agent GitHub 动态。核心动态：v2026.8.1-beta.3。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 41,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 50
+      },
+      "crossSource": false,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "OpenClaw"
+      ],
+      "topics": [],
+      "primaryUrl": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3",
+      "evidence": [
+        {
+          "id": "ev-550963e1b71e",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "v2026.8.1-beta.3",
+          "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.8.1-beta.3",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-635267e73c56",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "Agent GitHub 动态",
+          "title": "OpenClaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9ce11baa59f0",
+      "date": "2026-08-26",
+      "title": "Claude Code",
+      "summary": "同一主题出现 3 条关联证据，覆盖 AI CLI GitHub 动态。核心动态：Claude Code。",
+      "whyItMatters": "当前仍是单一渠道信号，建议等待更多一手来源或社区证据确认。",
+      "score": 29,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 35,
+        "engagement": 0,
+        "corroboration": 75
+      },
+      "crossSource": false,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://github.com/anthropics/claude-code",
+      "evidence": [
+        {
+          "id": "ev-ff5cdef9bdce",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "Claude Code",
+          "url": "https://github.com/anthropics/claude-code",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3f2dab98005e",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "Claude Code Skills",
+          "url": "https://github.com/anthropics/skills",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b1208199afb4",
+          "source": "report",
+          "sourceFamily": "github",
+          "sourceLabel": "AI CLI GitHub 动态",
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "publishedAt": "2026-08-26T00:00:00.000Z",
+          "authority": "derived",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 115,
+    "cardCount": 24,
+    "crossSourceCount": 20,
+    "sourceFamilies": 5
+  }
+}

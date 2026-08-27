@@ -67,7 +67,7 @@ jobs:
 
       - name: Commit manifest and feed
         run: |
-          git add manifest.json feed.xml
+          git add manifest.json feed.xml search-index.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: update manifest.json"
             git pull --rebase

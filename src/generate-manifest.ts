@@ -5,6 +5,7 @@ import { hasMeaningfulReportBody } from "./report-content.ts";
 const DIGESTS_DIR = "digests";
 const MANIFEST_PATH = "manifest.json";
 const FEED_PATH = "feed.xml";
+const SEARCH_INDEX_PATH = "search-index.json";
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const REPORT_FILES = [
   "ai-cli",
@@ -25,6 +26,7 @@ const REPORT_FILES = [
 const MAX_FEED_ITEMS = 30;
 
 const REPORT_LABELS: Record<string, string> = {
+  signals: "跨源情报信号",
   "ai-cli": "AI CLI 工具社区动态日报",
   "ai-cli-en": "AI CLI Tools Digest",
   "ai-agents": "AI Agents 生态日报",
@@ -44,11 +46,23 @@ const REPORT_LABELS: Record<string, string> = {
 interface DateEntry {
   date: string;
   reports: string[];
+  signals?: true;
 }
 
 interface Manifest {
   generated: string;
   dates: DateEntry[];
+}
+
+interface SearchDocument {
+  date: string;
+  report: string;
+  text: string;
+}
+
+interface SearchIndex {
+  generated: string;
+  documents: SearchDocument[];
 }
 
 const DAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
@@ -91,6 +105,29 @@ function isPublishableReport(filepath: string): boolean {
   return false;
 }
 
+function hasSignalCards(filepath: string): boolean {
+  if (!fs.existsSync(filepath)) return false;
+
+  try {
+    const data = JSON.parse(fs.readFileSync(filepath, "utf-8")) as { cards?: unknown[] };
+    return Array.isArray(data.cards) && data.cards.length > 0;
+  } catch {
+    console.warn(`Skipping invalid signal bundle: ${filepath}`);
+    return false;
+  }
+}
+
+function markdownToSearchText(content: string): string {
+  return content
+    .replace(/```[\s\S]*?```/g, " ")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/https?:\/\/\S+/g, " ")
+    .replace(/[>#*_`|~-]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+}
+
 const entries = fs
   .readdirSync(DIGESTS_DIR)
   .filter((name) => DATE_RE.test(name) && fs.statSync(path.join(DIGESTS_DIR, name)).isDirectory())
@@ -98,9 +135,10 @@ const entries = fs
   .reverse()
   .map((date) => {
     const reports = REPORT_FILES.filter((r) => isPublishableReport(path.join(DIGESTS_DIR, date, `${r}.md`)));
-    return { date, reports };
+    const signals = hasSignalCards(path.join(DIGESTS_DIR, date, "signals.json"));
+    return { date, reports, ...(signals ? { signals: true as const } : {}) };
   })
-  .filter((e) => e.reports.length > 0);
+  .filter((e) => e.reports.length > 0 || e.signals);
 
 const manifest: Manifest = {
   generated: new Date().toISOString(),
@@ -110,10 +148,63 @@ const manifest: Manifest = {
 fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + "\n");
 console.log(`manifest.json updated: ${entries.length} dates`);
 
+// ── Search index ─────────────────────────────────────────────────────────────
+// Build once in CI so the browser and MCP server do not fetch every historical
+// Markdown file merely to discover which reports may match a query.
+const searchDocuments: SearchDocument[] = [];
+for (const entry of entries) {
+  for (const report of entry.reports) {
+    const filepath = path.join(DIGESTS_DIR, entry.date, `${report}.md`);
+    searchDocuments.push({
+      date: entry.date,
+      report,
+      text: markdownToSearchText(fs.readFileSync(filepath, "utf-8")),
+    });
+  }
+
+  if (entry.signals) {
+    const filepath = path.join(DIGESTS_DIR, entry.date, "signals.json");
+    const data = JSON.parse(fs.readFileSync(filepath, "utf-8")) as {
+      cards?: Array<{
+        title?: string;
+        summary?: string;
+        whyItMatters?: string;
+        entities?: string[];
+        topics?: string[];
+        evidence?: Array<{ title?: string; sourceLabel?: string }>;
+      }>;
+    };
+    const signalText = (data.cards ?? [])
+      .flatMap((card) => [
+        card.title,
+        card.summary,
+        card.whyItMatters,
+        ...(card.entities ?? []),
+        ...(card.topics ?? []),
+        ...(card.evidence ?? []).flatMap((evidence) => [evidence.title, evidence.sourceLabel]),
+      ])
+      .filter((value): value is string => Boolean(value))
+      .join(" ")
+      .toLowerCase();
+    searchDocuments.push({ date: entry.date, report: "signals", text: signalText });
+  }
+}
+
+const searchIndex: SearchIndex = {
+  generated: manifest.generated,
+  documents: searchDocuments,
+};
+fs.writeFileSync(SEARCH_INDEX_PATH, JSON.stringify(searchIndex) + "\n");
+console.log(`search-index.json updated: ${searchDocuments.length} documents`);
+
 // ── RSS Feed ──────────────────────────────────────────────────────────────────
 
 const feedItems: Array<{ date: string; report: string }> = [];
 outer: for (const entry of entries) {
+  if (entry.signals) {
+    feedItems.push({ date: entry.date, report: "signals" });
+    if (feedItems.length >= MAX_FEED_ITEMS) break;
+  }
   for (const report of entry.reports) {
     feedItems.push({ date: entry.date, report });
     if (feedItems.length >= MAX_FEED_ITEMS) break outer;

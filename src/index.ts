@@ -39,6 +39,7 @@ import { loadWebState, saveWebState, fetchSiteContent, type WebFetchResult, type
 import { fetchTrendingData, type TrendingData } from "./trending.ts";
 import { fetchHnData, type HnData } from "./hn.ts";
 import { loadConfig } from "./config.ts";
+import { buildSignalBundle } from "./signals.ts";
 
 // ---------------------------------------------------------------------------
 // Repo config — loaded from config.yml, falls back to built-in defaults
@@ -565,6 +566,26 @@ async function main(): Promise<void> {
   // 1. Fetch all data in parallel
   const webState = loadWebState();
   const { fetched, skillsData, webResults, trendingData, hnData } = await fetchAllData(since, webState);
+
+  const signalBundle = buildSignalBundle({
+    date: dateStr,
+    generatedAt: now.toISOString(),
+    repoActivities: fetched,
+    skills: {
+      repo: CLAUDE_SKILLS_REPO,
+      name: "Claude Code Skills",
+      issues: skillsData.issues,
+      prs: skillsData.prs,
+    },
+    webResults,
+    trendingData,
+    hnData,
+  });
+  console.log(
+    `  Signals: ${signalBundle.stats.cardCount} cards, ` +
+      `${signalBundle.stats.crossSourceCount} cross-source, ${signalBundle.stats.evidenceCount} evidence items`,
+  );
+  console.log(`  Saved ${saveFile(`${JSON.stringify(signalBundle, null, 2)}\n`, dateStr, "signals.json")}`);
 
   const peerIds = new Set(OPENCLAW_PEERS.map((p) => p.id));
   const fetchedCli = fetched.filter((f) => f.cfg.id !== OPENCLAW.id && !peerIds.has(f.cfg.id));
