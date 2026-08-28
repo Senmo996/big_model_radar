@@ -1,0 +1,1413 @@
+{
+  "version": 1,
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T07:44:58.216Z",
+  "cards": [
+    {
+      "id": "sig-9cd80f306db3",
+      "date": "2026-08-28",
+      "title": "Patterns and problems in multiagent systems",
+      "summary": "同一主题出现 7 条关联证据，覆盖 Anthropic (Claude)、Hacker News、原始文章。核心动态：Patterns and problems in multiagent systems。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 86,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 49,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude Code"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "Pricing",
+        "API",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/multiagent-systems",
+      "evidence": [
+        {
+          "id": "ev-ae819ad501df",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Patterns and problems in multiagent systems",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "publishedAt": "2026-08-27T15:38:32.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b00e48d4b886",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "How scientists are using Claude to accelerate research and discovery",
+          "url": "https://www.anthropic.com/news/accelerating-scientific-research",
+          "publishedAt": "2026-08-27T15:12:10.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7b91bbe5fde7",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+          "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+          "publishedAt": "2026-08-27T15:10:45.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ee07cd6aaece",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Concord – let Claude Code, Codex and Cursor talk to each other",
+          "url": "https://news.ycombinator.com/item?id=49464704",
+          "publishedAt": "2026-08-27T13:34:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-4e4f1b6016db",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+          "url": "https://news.ycombinator.com/item?id=49468285",
+          "publishedAt": "2026-08-27T17:30:42Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-3057e4aa056b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Concord – let Claude Code, Codex and Cursor talk to each other",
+          "url": "https://github.com/Get-Concord-AI/concord-mcp",
+          "publishedAt": "2026-08-27T13:34:54Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b23f8a77275e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+          "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks",
+          "publishedAt": "2026-08-27T17:30:42Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-37efc56f1bf1",
+      "date": "2026-08-28",
+      "title": "Hugging Face Incident And The Road Ahead",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Hugging Face Incident And The Road Ahead。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 79,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 38,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "evidence": [
+        {
+          "id": "ev-c0f7996a35c2",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Hugging Face Incident And The Road Ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "publishedAt": "2026-08-28T00:23:01.616Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7b7a77221586",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Independent investigation of agents' behavior in OpenAI/Hugging Face incident",
+          "url": "https://news.ycombinator.com/item?id=49461314",
+          "publishedAt": "2026-08-27T07:47:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-d82ce4c53557",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Independent investigation of agents' behavior in OpenAI/Hugging Face incident",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "publishedAt": "2026-08-27T07:47:52Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6bfe3f49ef89",
+      "date": "2026-08-28",
+      "title": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Anthropic (Claude)、Hacker News、原始文章。核心动态：Anthropic and Iceland announce one of the world’s first national AI education pilots。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 78,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 35,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
+      "evidence": [
+        {
+          "id": "ev-fd63d00f070b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
+          "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
+          "publishedAt": "2026-08-27T15:13:17.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6b3487e138bf",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Salesforce and Anthropic Announce Claudeforce",
+          "url": "https://news.ycombinator.com/item?id=49465688",
+          "publishedAt": "2026-08-27T14:42:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-1930c9add9d2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Salesforce and Anthropic Announce Claudeforce",
+          "url": "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/?bc=HL",
+          "publishedAt": "2026-08-27T14:42:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9fbed958725d",
+      "date": "2026-08-28",
+      "title": "Previewing the Model Hardware Standard",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic (Claude)、Hacker News。核心动态：Previewing the Model Hardware Standard。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 73,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 79,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "evidence": [
+        {
+          "id": "ev-17c26037c4d6",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Previewing the Model Hardware Standard",
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "publishedAt": "2026-08-28T02:15:31.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-17683caf27f9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Previewing the Model Hardware Standard",
+          "url": "https://news.ycombinator.com/item?id=49468834",
+          "publishedAt": "2026-08-27T18:04:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 110,
+            "comments": 36
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-1644c2d9ac07",
+      "date": "2026-08-28",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: The load-bearing vocabulary of Claude。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49461817",
+      "evidence": [
+        {
+          "id": "ev-85349a895437",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: The load-bearing vocabulary of Claude",
+          "url": "https://news.ycombinator.com/item?id=49461817",
+          "publishedAt": "2026-08-27T08:59:49Z",
+          "authority": "community",
+          "metrics": {
+            "points": 459,
+            "comments": 219
+          }
+        },
+        {
+          "id": "ev-dc9d82f61a6d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: The load-bearing vocabulary of Claude",
+          "url": "https://louisabraham.github.io/load-bearing",
+          "publishedAt": "2026-08-27T08:59:49Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-518286154ad6",
+      "date": "2026-08-28",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 93,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49473522",
+      "evidence": [
+        {
+          "id": "ev-5911dbaf1cf9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+          "url": "https://news.ycombinator.com/item?id=49473522",
+          "publishedAt": "2026-08-28T02:03:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 240,
+            "comments": 106
+          }
+        },
+        {
+          "id": "ev-6eef202d9a9d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+          "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+          "publishedAt": "2026-08-28T02:03:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c6cad6138e6a",
+      "date": "2026-08-28",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Please stop flooding our projects with AI slop to furnish your CV。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 90,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49474143",
+      "evidence": [
+        {
+          "id": "ev-0a4410bd732a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "url": "https://news.ycombinator.com/item?id=49474143",
+          "publishedAt": "2026-08-28T03:49:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 156,
+            "comments": 105
+          }
+        },
+        {
+          "id": "ev-a7a2148b06f4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+          "publishedAt": "2026-08-28T03:49:33Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4ccd5f79b168",
+      "date": "2026-08-28",
+      "title": "fix(tui): preserve full UI in Herdr panes",
+      "summary": "同一主题出现 6 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(tui): preserve full UI in Herdr panes。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 24,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "OpenAI",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "RAG",
+        "API",
+        "Coding",
+        "Security"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5576",
+      "evidence": [
+        {
+          "id": "ev-7d4055d1dd14",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5576",
+          "title": "fix(tui): preserve full UI in Herdr panes",
+          "url": "https://github.com/HKUDS/nanobot/pull/5576",
+          "publishedAt": "2026-08-28T07:20:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-688fc7a22e75",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5568",
+          "title": "refactor(agent): let runner own request-fit compaction",
+          "url": "https://github.com/HKUDS/nanobot/pull/5568",
+          "publishedAt": "2026-08-28T07:06:59Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-53e832c48d76",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5504",
+          "title": "fix(ui): surface model retry status (NAN-34)",
+          "url": "https://github.com/HKUDS/nanobot/pull/5504",
+          "publishedAt": "2026-08-28T06:06:38Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-682b463d06c2",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5567",
+          "title": "Feat: 飞书渠道应整合多轮回复为单条流式卡片消息",
+          "url": "https://github.com/HKUDS/nanobot/issues/5567",
+          "publishedAt": "2026-08-27T10:38:06Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-5db5bec583a8",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5564",
+          "title": "fix(session): prevent path traversal in session file handling",
+          "url": "https://github.com/HKUDS/nanobot/issues/5564",
+          "publishedAt": "2026-08-27T08:01:35Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-08-28T05:52:03Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47480
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-9d8499ce9491",
+      "date": "2026-08-28",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 82,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49471965",
+      "evidence": [
+        {
+          "id": "ev-be60a7e2eec0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+          "url": "https://news.ycombinator.com/item?id=49471965",
+          "publishedAt": "2026-08-27T22:10:47Z",
+          "authority": "community",
+          "metrics": {
+            "points": 147,
+            "comments": 35
+          }
+        },
+        {
+          "id": "ev-ef73f3255ae3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+          "url": "https://github.com/elyosh/OpenTIE",
+          "publishedAt": "2026-08-27T22:10:47Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-34ae79274517",
+      "date": "2026-08-28",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: We built open OpenRouter that turns usage into a better model。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 82,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49471407",
+      "evidence": [
+        {
+          "id": "ev-b6e4503d98fe",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+          "url": "https://news.ycombinator.com/item?id=49471407",
+          "publishedAt": "2026-08-27T21:18:35Z",
+          "authority": "community",
+          "metrics": {
+            "points": 166,
+            "comments": 30
+          }
+        },
+        {
+          "id": "ev-06cb4abf72fa",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+          "url": "https://github.com/experientiallabs/experiential",
+          "publishedAt": "2026-08-27T21:18:35Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-48a7278a9128",
+      "date": "2026-08-28",
+      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 80,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49467551",
+      "evidence": [
+        {
+          "id": "ev-7209684e7b8d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+          "url": "https://news.ycombinator.com/item?id=49467551",
+          "publishedAt": "2026-08-27T16:37:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 76,
+            "comments": 55
+          }
+        },
+        {
+          "id": "ev-a982454fb47f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+          "url": "https://github.com/kelviq/tare",
+          "publishedAt": "2026-08-27T16:37:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-96fc2fb2c600",
+      "date": "2026-08-28",
+      "title": "A call for collective action on cyber defense",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News。核心动态：A call for collective action on cyber defense。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 46,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://openai.com/collective-cyberdefense",
+      "evidence": [
+        {
+          "id": "ev-08428425ac4b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "A call for collective action on cyber defense",
+          "url": "https://openai.com/collective-cyberdefense",
+          "publishedAt": "2026-08-27T17:12:00Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-05b3cb7f0579",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "A call for collective action on cyber defense",
+          "url": "https://news.ycombinator.com/item?id=49467993",
+          "publishedAt": "2026-08-27T17:12:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-2b9a83f41cbe",
+      "date": "2026-08-28",
+      "title": "Alphabet stock sheds $700B as AI bills climb",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Alphabet stock sheds $700B as AI bills climb。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 58,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49473629",
+      "evidence": [
+        {
+          "id": "ev-fcfc5388aae3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Alphabet stock sheds $700B as AI bills climb",
+          "url": "https://news.ycombinator.com/item?id=49473629",
+          "publishedAt": "2026-08-28T02:23:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 35,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-a83b36d4546f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Alphabet stock sheds $700B as AI bills climb",
+          "url": "https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb",
+          "publishedAt": "2026-08-28T02:23:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1c70002eeba5",
+      "date": "2026-08-28",
+      "title": "Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 61,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49469753",
+      "evidence": [
+        {
+          "id": "ev-94127683f1c5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft",
+          "url": "https://news.ycombinator.com/item?id=49469753",
+          "publishedAt": "2026-08-27T19:09:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 26,
+            "comments": 14
+          }
+        },
+        {
+          "id": "ev-150d4433f3ad",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft",
+          "url": "https://wjamesau.substack.com/p/fewer-americans-pay-to-use-chatgpt",
+          "publishedAt": "2026-08-27T19:09:55Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-232141fc7e57",
+      "date": "2026-08-28",
+      "title": "The \"I don't know, Claude wrote this\" pandemic",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The \"I don't know, Claude wrote this\" pandemic。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 57,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49473184",
+      "evidence": [
+        {
+          "id": "ev-698a4ee34573",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The \"I don't know, Claude wrote this\" pandemic",
+          "url": "https://news.ycombinator.com/item?id=49473184",
+          "publishedAt": "2026-08-28T01:01:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 27,
+            "comments": 7
+          }
+        },
+        {
+          "id": "ev-3b8efa0f8f17",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The \"I don't know, Claude wrote this\" pandemic",
+          "url": "https://www.manager.dev/newsletter/the-i-don-t-know-claude-wrote-this-pandemic",
+          "publishedAt": "2026-08-28T01:01:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a33b3940678d",
+      "date": "2026-08-28",
+      "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Watches user sessions, finds bugs that matter, and fixes them。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 51,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49466704",
+      "evidence": [
+        {
+          "id": "ev-cdab81ddf329",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+          "url": "https://news.ycombinator.com/item?id=49466704",
+          "publishedAt": "2026-08-27T15:45:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 19,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-6780754362c9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+          "url": "https://github.com/opslane/opslane",
+          "publishedAt": "2026-08-27T15:45:16Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8714d41a313b",
+      "date": "2026-08-28",
+      "title": "Anthropic's Opus 4.6 is a smut-machine",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic's Opus 4.6 is a smut-machine。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 44,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49464179",
+      "evidence": [
+        {
+          "id": "ev-b6cbf20fb7c8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic's Opus 4.6 is a smut-machine",
+          "url": "https://news.ycombinator.com/item?id=49464179",
+          "publishedAt": "2026-08-27T12:59:25Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-c4843754affc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic's Opus 4.6 is a smut-machine",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
+          "publishedAt": "2026-08-27T12:59:25Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2781760c5f77",
+      "date": "2026-08-28",
+      "title": "Meta projected to spend $10B on Anthropic AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Meta projected to spend $10B on Anthropic AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49466201",
+      "evidence": [
+        {
+          "id": "ev-4a107a1a723e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Meta projected to spend $10B on Anthropic AI",
+          "url": "https://news.ycombinator.com/item?id=49466201",
+          "publishedAt": "2026-08-27T15:14:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-9aeef1b32f02",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Meta projected to spend $10B on Anthropic AI",
+          "url": "https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html",
+          "publishedAt": "2026-08-27T15:14:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-db2c0b2aceb5",
+      "date": "2026-08-28",
+      "title": "Show HN: Beating GPT5.5-xhigh for Coding agent security with SLMs and IRM",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Beating GPT5.5-xhigh for Coding agent security with SLMs and IRM。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 42,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Security"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49472151",
+      "evidence": [
+        {
+          "id": "ev-55d1019ba214",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Beating GPT5.5-xhigh for Coding agent security with SLMs and IRM",
+          "url": "https://news.ycombinator.com/item?id=49472151",
+          "publishedAt": "2026-08-27T22:33:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-c8436a127dd8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Beating GPT5.5-xhigh for Coding agent security with SLMs and IRM",
+          "url": "https://harden.run/blog/aif-research-and-evidence",
+          "publishedAt": "2026-08-27T22:33:19Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-34295000411c",
+      "date": "2026-08-28",
+      "title": "I measured what my Claude.md, skills and hooks are worth",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I measured what my Claude.md, skills and hooks are worth。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49468945",
+      "evidence": [
+        {
+          "id": "ev-8f9b1d31f64d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I measured what my Claude.md, skills and hooks are worth",
+          "url": "https://news.ycombinator.com/item?id=49468945",
+          "publishedAt": "2026-08-27T18:12:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-ee1ca24bb3bb",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I measured what my Claude.md, skills and hooks are worth",
+          "url": "https://github.com/jameskomo/config-drift-checker",
+          "publishedAt": "2026-08-27T18:12:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6c23e7200a04",
+      "date": "2026-08-28",
+      "title": "Show HN: Telem – Route agent web search across providers and inspect the traces",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Telem – Route agent web search across providers and inspect the traces。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49469804",
+      "evidence": [
+        {
+          "id": "ev-96b59f1c89f4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Telem – Route agent web search across providers and inspect the traces",
+          "url": "https://news.ycombinator.com/item?id=49469804",
+          "publishedAt": "2026-08-27T19:13:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-9d0dd057f3f6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Telem – Route agent web search across providers and inspect the traces",
+          "url": "https://telem.ai",
+          "publishedAt": "2026-08-27T19:13:57Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-157957f569de",
+      "date": "2026-08-28",
+      "title": "Hy4 Preview",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Hy4 Preview。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49475015",
+      "evidence": [
+        {
+          "id": "ev-bd997fd7a600",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Hy4 Preview",
+          "url": "https://news.ycombinator.com/item?id=49475015",
+          "publishedAt": "2026-08-28T06:24:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-1e0d9ef170c5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Hy4 Preview",
+          "url": "https://hy.tencent.ai/research/hy4-preview",
+          "publishedAt": "2026-08-28T06:24:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0694897e77f2",
+      "date": "2026-08-28",
+      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Judge blocks Pentagon blacklist of Anthropic as supply chain risk。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49474619",
+      "evidence": [
+        {
+          "id": "ev-b6b3639550a8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+          "url": "https://news.ycombinator.com/item?id=49474619",
+          "publishedAt": "2026-08-28T05:16:47Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-1694faba78bb",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+          "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+          "publishedAt": "2026-08-28T05:16:47Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7c6873849c60",
+      "date": "2026-08-28",
+      "title": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI to start showing ads on ChatGPT's free and Go tiers in India。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49466027",
+      "evidence": [
+        {
+          "id": "ev-44bfc9277e94",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
+          "url": "https://news.ycombinator.com/item?id=49466027",
+          "publishedAt": "2026-08-27T15:02:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-8cd7b991f3b4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
+          "publishedAt": "2026-08-27T15:02:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 293,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
