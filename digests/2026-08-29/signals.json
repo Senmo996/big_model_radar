@@ -1,0 +1,1602 @@
+{
+  "version": 1,
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T04:41:52.012Z",
+  "cards": [
+    {
+      "id": "sig-d060a99c26cf",
+      "date": "2026-08-29",
+      "title": "Our Decision On Cursor Following Its Acquisition By Spacex",
+      "summary": "同一主题出现 4 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Our Decision On Cursor Following Its Acquisition By Spacex。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 96,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 91,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "evidence": [
+        {
+          "id": "ev-6e46ebde5c1e",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Our Decision On Cursor Following Its Acquisition By Spacex",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "publishedAt": "2026-08-29T01:44:47.079Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-24f10fb3c2c8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://news.ycombinator.com/item?id=49486172",
+          "publishedAt": "2026-08-29T01:47:53Z",
+          "authority": "community",
+          "metrics": {
+            "points": 226,
+            "comments": 86
+          }
+        },
+        {
+          "id": "ev-a8f289a1ac04",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://news.ycombinator.com/item?id=49486297",
+          "publishedAt": "2026-08-29T02:17:35Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-7f6cdd0fd994",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://twitter.com/OpenAI/status/2093515564786540695",
+          "publishedAt": "2026-08-29T02:17:35Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5adaf329302d",
+      "date": "2026-08-29",
+      "title": "A Practical Guide To Building Ai Agents",
+      "summary": "同一主题出现 4 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：A Practical Guide To Building Ai Agents。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 83,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 38,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+      "evidence": [
+        {
+          "id": "ev-dcfe3f7fefbf",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "A Practical Guide To Building Ai Agents",
+          "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+          "publishedAt": "2026-08-28T19:01:19.954Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-58152b9d7006",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "A Practical Guide To Building With Ai",
+          "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai",
+          "publishedAt": "2026-08-28T19:01:19.426Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-22c20171dfc8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Investigation of agents' behavior in the OpenAI/HuggingFace hacking incident",
+          "url": "https://news.ycombinator.com/item?id=49480431",
+          "publishedAt": "2026-08-28T15:55:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-9689e60c5923",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Investigation of agents' behavior in the OpenAI/HuggingFace hacking incident",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "publishedAt": "2026-08-28T15:55:56Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-447db270fecb",
+      "date": "2026-08-29",
+      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "summary": "同一主题出现 6 条关联证据，覆盖 Hacker News、原始文章。核心动态：Pentagon's blacklisting of Anthropic was unlawful, US judge rules。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 76,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 90,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49477055",
+      "evidence": [
+        {
+          "id": "ev-858a9b3bb0ff",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+          "url": "https://news.ycombinator.com/item?id=49477055",
+          "publishedAt": "2026-08-28T11:25:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 324,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-b6b3639550a8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+          "url": "https://news.ycombinator.com/item?id=49474619",
+          "publishedAt": "2026-08-28T05:16:47Z",
+          "authority": "community",
+          "metrics": {
+            "points": 21,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-dac4c8ed1e41",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Judge rules Trump administration illegally punished AI firm Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49476125",
+          "publishedAt": "2026-08-28T08:56:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-555922582dff",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
+          "publishedAt": "2026-08-28T11:25:30Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1694faba78bb",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+          "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+          "publishedAt": "2026-08-28T05:16:47Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-33463ce2d77c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Judge rules Trump administration illegally punished AI firm Anthropic",
+          "url": "https://www.cbsnews.com/news/judge-rules-trump-administration-illegally-punished-ai-firm-anthropic",
+          "publishedAt": "2026-08-28T08:56:55Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-049d0dff6f2c",
+      "date": "2026-08-29",
+      "title": "GLM-5.3 is now open-weight",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：GLM-5.3 is now open-weight。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49479878",
+      "evidence": [
+        {
+          "id": "ev-249942e98227",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "GLM-5.3 is now open-weight",
+          "url": "https://news.ycombinator.com/item?id=49479878",
+          "publishedAt": "2026-08-28T15:20:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 628,
+            "comments": 218
+          }
+        },
+        {
+          "id": "ev-66756ed35e98",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "GLM-5.3 is now open-weight",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "publishedAt": "2026-08-28T15:20:13Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c612e21d3855",
+      "date": "2026-08-29",
+      "title": "fix(webui): preserve named pane groups",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(webui): preserve named pane groups。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 33,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Model Context Protocol",
+        "OpenAI",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "RAG",
+        "MCP",
+        "Security",
+        "Coding"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5591",
+      "evidence": [
+        {
+          "id": "ev-0db7bcf0e571",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5591",
+          "title": "fix(webui): preserve named pane groups",
+          "url": "https://github.com/HKUDS/nanobot/pull/5591",
+          "publishedAt": "2026-08-29T03:44:28Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-8545f450cd54",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5560",
+          "title": "feat(cli): make nanobot the default agent command",
+          "url": "https://github.com/HKUDS/nanobot/pull/5560",
+          "publishedAt": "2026-08-29T03:26:53Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-8803a79ad6cb",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5590",
+          "title": "fix: summarize persisted JSON tool results",
+          "url": "https://github.com/HKUDS/nanobot/pull/5590",
+          "publishedAt": "2026-08-28T17:20:48Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-e0f686e648a4",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5251",
+          "title": "Feature: Add MCP Apps host support to the WebUI",
+          "url": "https://github.com/HKUDS/nanobot/issues/5251",
+          "publishedAt": "2026-08-28T17:14:17Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-2924c14db754",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #4429",
+          "title": "feat: Allow custom provider to configure thinking style",
+          "url": "https://github.com/HKUDS/nanobot/issues/4429",
+          "publishedAt": "2026-08-28T08:37:26Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-afa4ce6b54a5",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5586",
+          "title": "Let a runtime-context block opt out of history persistence (`ephemeral` blocks)",
+          "url": "https://github.com/HKUDS/nanobot/issues/5586",
+          "publishedAt": "2026-08-28T13:11:07Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-08-29T03:44:09Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47509
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-ec20a8c98a6f",
+      "date": "2026-08-29",
+      "title": "Migrating to HTTPX2",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Migrating to HTTPX2。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 68,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 89,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49477212",
+      "evidence": [
+        {
+          "id": "ev-fca03875df3e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Migrating to HTTPX2",
+          "url": "https://news.ycombinator.com/item?id=49477212",
+          "publishedAt": "2026-08-28T11:51:20Z",
+          "authority": "community",
+          "metrics": {
+            "points": 190,
+            "comments": 81
+          }
+        },
+        {
+          "id": "ev-a877c57bca12",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Migrating to HTTPX2",
+          "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+          "publishedAt": "2026-08-28T11:51:20Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-33f834a3f9ae",
+      "date": "2026-08-29",
+      "title": "OpenAI and Anthropic are ruining San Francisco",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI and Anthropic are ruining San Francisco。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 68,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 56,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49486188",
+      "evidence": [
+        {
+          "id": "ev-6caf2a9055fc",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://news.ycombinator.com/item?id=49486188",
+          "publishedAt": "2026-08-29T01:50:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-e5ca6d52fc07",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://news.ycombinator.com/item?id=49486491",
+          "publishedAt": "2026-08-29T02:57:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-1d7b0388b676",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
+          "publishedAt": "2026-08-29T01:50:40Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-0e530743b65e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+          "publishedAt": "2026-08-29T02:57:13Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ba274311ef08",
+      "date": "2026-08-29",
+      "title": "How Enterprises Put Ai To Work",
+      "summary": "同一主题出现 11 条关联证据，覆盖 OpenAI、NanoClaw。核心动态：How Enterprises Put Ai To Work。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 24,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 11,
+      "sourceFamilies": [
+        "github",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "NanoClaw",
+        "OpenAI Codex",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding",
+        "Agent",
+        "Model",
+        "API",
+        "Benchmark",
+        "MCP"
+      ],
+      "primaryUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "evidence": [
+        {
+          "id": "ev-55842b5dc8c5",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "How Enterprises Put Ai To Work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "publishedAt": "2026-08-28T23:24:04.869Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-895bd0e5b353",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "How Enterprises Are Scaling Ai",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "publishedAt": "2026-08-28T19:01:21.181Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-cabd96a3019c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "How Openai Uses Codex",
+          "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+          "publishedAt": "2026-08-28T19:01:21.175Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4f4733c77796",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Codex",
+          "url": "https://openai.com/index/introducing-codex",
+          "publishedAt": "2026-08-28T17:54:40.655Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d223dcddf1b3",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Gpt Rosalind",
+          "url": "https://openai.com/index/introducing-gpt-rosalind",
+          "publishedAt": "2026-08-28T11:25:29.208Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-24637f23fee1",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #2361",
+          "title": "[codex] tighten codex provider contracts",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/2361",
+          "publishedAt": "2026-08-29T03:28:10Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-622475c30731",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #2363",
+          "title": "fix(credential-proxy): proactively refresh expiring Anthropic OAuth tokens (v2 port of #1102)",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/2363",
+          "publishedAt": "2026-08-29T03:28:00Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-3a4f373c9c9a",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #1102",
+          "title": "fix(credential-proxy): auto-refresh OAuth token, handle keychain-only auth",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/1102",
+          "publishedAt": "2026-08-29T03:27:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-93e897ceb2cb",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · Issue #3645",
+          "title": "`bash nanoclaw.sh` just hangs indefinitely with no feedback or logging",
+          "url": "https://github.com/nanocoai/nanoclaw/issues/3645",
+          "publishedAt": "2026-08-29T02:33:58Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0ca746284e70",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · Issue #3643",
+          "title": "Hardcoded 30-min ABSOLUTE_CEILING_MS cold-kills long local-model turns; no config seam",
+          "url": "https://github.com/nanocoai/nanoclaw/issues/3643",
+          "publishedAt": "2026-08-28T21:38:53Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-80d016bb47f1",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · Issue #3599",
+          "title": "feat: persist rate_limit/quota classification on task runs so failed runs can be auto-retried once capacity returns",
+          "url": "https://github.com/nanocoai/nanoclaw/issues/3599",
+          "publishedAt": "2026-08-28T15:01:29Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-da18b82958d8",
+      "date": "2026-08-29",
+      "title": "Show HN: Hacker News Client with Claude Code and Codex Integration",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Hacker News Client with Claude Code and Codex Integration。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49483436",
+      "evidence": [
+        {
+          "id": "ev-8d98d6a52c48",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Hacker News Client with Claude Code and Codex Integration",
+          "url": "https://news.ycombinator.com/item?id=49483436",
+          "publishedAt": "2026-08-28T19:55:47Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-5f15e4c8d55d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Passively Earn BTC/Sol/Anthropic for Using Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49484082",
+          "publishedAt": "2026-08-28T20:48:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-48a1d95e1b5d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Hacker News Client with Claude Code and Codex Integration",
+          "url": "https://github.com/nilbuild/rundown",
+          "publishedAt": "2026-08-28T19:55:47Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-26535bcd3994",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Passively Earn BTC/Sol/Anthropic for Using Claude Code",
+          "url": "https://prmpt.cash",
+          "publishedAt": "2026-08-28T20:48:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c6c2eaeffeef",
+      "date": "2026-08-29",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I accidentally turned LLM memory into program analysis。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 68,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49485416",
+      "evidence": [
+        {
+          "id": "ev-323b4c51091b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "url": "https://news.ycombinator.com/item?id=49485416",
+          "publishedAt": "2026-08-28T23:27:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 69,
+            "comments": 10
+          }
+        },
+        {
+          "id": "ev-04bfe20bb858",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I accidentally turned LLM memory into program analysis",
+          "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+          "publishedAt": "2026-08-28T23:27:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-92520be85478",
+      "date": "2026-08-29",
+      "title": "Identifying fake cosmetics using AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Identifying fake cosmetics using AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 65,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49484925",
+      "evidence": [
+        {
+          "id": "ev-8b156d865186",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Identifying fake cosmetics using AI",
+          "url": "https://news.ycombinator.com/item?id=49484925",
+          "publishedAt": "2026-08-28T22:18:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 42,
+            "comments": 14
+          }
+        },
+        {
+          "id": "ev-b1b510a97d62",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Identifying fake cosmetics using AI",
+          "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+          "publishedAt": "2026-08-28T22:18:27Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3433a4e2bf23",
+      "date": "2026-08-29",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：StemDeck, a free, open-source and local AI stem separator。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 65,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49486081",
+      "evidence": [
+        {
+          "id": "ev-5cdca91336f4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://news.ycombinator.com/item?id=49486081",
+          "publishedAt": "2026-08-29T01:24:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 48,
+            "comments": 11
+          }
+        },
+        {
+          "id": "ev-dba9b9cda55e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "StemDeck, a free, open-source and local AI stem separator",
+          "url": "https://github.com/stemdeckapp/stemdeck",
+          "publishedAt": "2026-08-29T01:24:13Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-60e7154ce886",
+      "date": "2026-08-29",
+      "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49486494",
+      "evidence": [
+        {
+          "id": "ev-a76164b8f411",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+          "url": "https://news.ycombinator.com/item?id=49486494",
+          "publishedAt": "2026-08-29T02:58:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 22,
+            "comments": 13
+          }
+        },
+        {
+          "id": "ev-9c117061ba10",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+          "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+          "publishedAt": "2026-08-29T02:58:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c54b07718ebc",
+      "date": "2026-08-29",
+      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Conduct, open-source guardrails for LLM and MCP tool calls。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 50,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Model Context Protocol"
+      ],
+      "topics": [
+        "MCP",
+        "Model",
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49483173",
+      "evidence": [
+        {
+          "id": "ev-32e6cc926f69",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "url": "https://news.ycombinator.com/item?id=49483173",
+          "publishedAt": "2026-08-28T19:29:20Z",
+          "authority": "community",
+          "metrics": {
+            "points": 20,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-d12b6216e5b5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+          "url": "https://github.com/sseshachala/conductai",
+          "publishedAt": "2026-08-28T19:29:20Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-cd99bedeb5c6",
+      "date": "2026-08-29",
+      "title": "I Signed Up for Claude Pro, Why I'm Canceling (and What I'm Using Instead)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I Signed Up for Claude Pro, Why I'm Canceling (and What I'm Using Instead)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 42,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49480294",
+      "evidence": [
+        {
+          "id": "ev-93c624cae90a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I Signed Up for Claude Pro, Why I'm Canceling (and What I'm Using Instead)",
+          "url": "https://news.ycombinator.com/item?id=49480294",
+          "publishedAt": "2026-08-28T15:46:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-3d56d7ea6203",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I Signed Up for Claude Pro, Why I'm Canceling (and What I'm Using Instead)",
+          "url": "https://medium.com/@eliotdill/i-signed-up-for-claude-pro-why-im-canceling-already-and-what-i-m-using-instead-a8fd014b6fe2",
+          "publishedAt": "2026-08-28T15:46:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-677a79ee1162",
+      "date": "2026-08-29",
+      "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49482754",
+      "evidence": [
+        {
+          "id": "ev-141bf045852e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
+          "url": "https://news.ycombinator.com/item?id=49482754",
+          "publishedAt": "2026-08-28T18:46:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-dcc03e95b60c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
+          "url": "https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e",
+          "publishedAt": "2026-08-28T18:46:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0d666cf97cae",
+      "date": "2026-08-29",
+      "title": "Anthropic Just Beat The Pentagon in Court",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic Just Beat The Pentagon in Court。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49485447",
+      "evidence": [
+        {
+          "id": "ev-d454f4420768",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic Just Beat The Pentagon in Court",
+          "url": "https://news.ycombinator.com/item?id=49485447",
+          "publishedAt": "2026-08-28T23:31:34Z",
+          "authority": "community",
+          "metrics": {
+            "points": 14,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-e73ad20c2978",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic Just Beat The Pentagon in Court",
+          "url": "https://www.ibtimes.com/anthropic-just-beat-pentagon-court-judge-said-national-security-was-used-punish-its-ai-rules-3806895",
+          "publishedAt": "2026-08-28T23:31:34Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2f4ea626cb0d",
+      "date": "2026-08-29",
+      "title": "AI made the boring work visible. Cut the work, not the people",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI made the boring work visible. Cut the work, not the people。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49485940",
+      "evidence": [
+        {
+          "id": "ev-6eceb1b8d549",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI made the boring work visible. Cut the work, not the people",
+          "url": "https://news.ycombinator.com/item?id=49485940",
+          "publishedAt": "2026-08-29T01:01:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-0a9a828f94aa",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI made the boring work visible. Cut the work, not the people",
+          "url": "https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people",
+          "publishedAt": "2026-08-29T01:01:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-bf3f88864b4b",
+      "date": "2026-08-29",
+      "title": "OSS harness took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OSS harness took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49480080",
+      "evidence": [
+        {
+          "id": "ev-8d4ef5010238",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OSS harness took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3",
+          "url": "https://news.ycombinator.com/item?id=49480080",
+          "publishedAt": "2026-08-28T15:33:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-625fdf30e913",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OSS harness took Claude Opus 5 from 30% to 99.95% on ARC-AGI-3",
+          "url": "https://twitter.com/MorgantWillis/status/2093342777841013096",
+          "publishedAt": "2026-08-28T15:33:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-365d264b9f2a",
+      "date": "2026-08-29",
+      "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：X claims it found a Chinese bot farm posting anti-AI data center sentiments。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49485926",
+      "evidence": [
+        {
+          "id": "ev-e0fe39477dd6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+          "url": "https://news.ycombinator.com/item?id=49485926",
+          "publishedAt": "2026-08-29T01:00:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-e0ec5545a309",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+          "url": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments",
+          "publishedAt": "2026-08-29T01:00:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0ebd16a393e7",
+      "date": "2026-08-29",
+      "title": "Anti-AI Populism is Reshaping American Politics",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anti-AI Populism is Reshaping American Politics。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49485992",
+      "evidence": [
+        {
+          "id": "ev-3f875afab178",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anti-AI Populism is Reshaping American Politics",
+          "url": "https://news.ycombinator.com/item?id=49485992",
+          "publishedAt": "2026-08-29T01:10:59Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-addc4fe765b2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anti-AI Populism is Reshaping American Politics",
+          "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics",
+          "publishedAt": "2026-08-29T01:10:59Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-25bf9dfdd3c3",
+      "date": "2026-08-29",
+      "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Debian Votes to Allow \"Responsible Use of Generative AI\"。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49486493",
+      "evidence": [
+        {
+          "id": "ev-d50e45d1758d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+          "url": "https://news.ycombinator.com/item?id=49486493",
+          "publishedAt": "2026-08-29T02:57:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-32cb2a56c7d8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+          "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+          "publishedAt": "2026-08-29T02:57:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fd4356248182",
+      "date": "2026-08-29",
+      "title": "Results for LLM Usage in Debian",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Results for LLM Usage in Debian。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49485928",
+      "evidence": [
+        {
+          "id": "ev-57724a94c1a0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Results for LLM Usage in Debian",
+          "url": "https://news.ycombinator.com/item?id=49485928",
+          "publishedAt": "2026-08-29T01:00:18Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-42a5bd8811fe",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Results for LLM Usage in Debian",
+          "url": "https://lists.debian.org/debian-vote/2026/08/msg00360.html",
+          "publishedAt": "2026-08-29T01:00:18Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-abb2eca9c952",
+      "date": "2026-08-29",
+      "title": "Capacity of lifts not kept up with UK obesity levels, study shows",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Capacity of lifts not kept up with UK obesity levels, study shows。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49480848",
+      "evidence": [
+        {
+          "id": "ev-56ffa0f997f8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Capacity of lifts not kept up with UK obesity levels, study shows",
+          "url": "https://news.ycombinator.com/item?id=49480848",
+          "publishedAt": "2026-08-28T16:25:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-5dff6de1a014",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Capacity of lifts not kept up with UK obesity levels, study shows",
+          "url": "https://www.theguardian.com/society/2026/may/12/capacity-lifts-elevators-weight-limits-obesity-safety-equity",
+          "publishedAt": "2026-08-28T16:25:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 290,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
