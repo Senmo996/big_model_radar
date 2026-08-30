@@ -1,0 +1,1485 @@
+{
+  "version": 1,
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T02:15:37.326Z",
+  "cards": [
+    {
+      "id": "sig-5e9ac8d56d9c",
+      "date": "2026-08-30",
+      "title": "OpenContext – Persistent, project-local memory for AI coding agents via MCP",
+      "summary": "同一主题出现 8 条关联证据，覆盖 Hacker News、原始文章、OpenClaw。核心动态：OpenContext – Persistent, project-local memory for AI coding agents via MCP。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 91,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 72,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "community",
+        "github",
+        "media"
+      ],
+      "entities": [
+        "Model Context Protocol",
+        "OpenClaw",
+        "OpenAI",
+        "Google Gemini"
+      ],
+      "topics": [
+        "Agent",
+        "MCP",
+        "Coding",
+        "Benchmark",
+        "Security",
+        "API"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49494219",
+      "evidence": [
+        {
+          "id": "ev-4b029bd6e881",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenContext – Persistent, project-local memory for AI coding agents via MCP",
+          "url": "https://news.ycombinator.com/item?id=49494219",
+          "publishedAt": "2026-08-29T23:24:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-751cf6dcefd4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenContext – Persistent, project-local memory for AI coding agents via MCP",
+          "url": "https://www.opencntx.dev",
+          "publishedAt": "2026-08-29T23:24:44Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d04d18dcd309",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #133007",
+          "title": "perf(agents): normalize tool inventories once",
+          "url": "https://github.com/openclaw/openclaw/pull/133007",
+          "publishedAt": "2026-08-30T02:15:30Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-2cff4a9d4f43",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #133009",
+          "title": "refactor(voice-call): share replay pruning",
+          "url": "https://github.com/openclaw/openclaw/pull/133009",
+          "publishedAt": "2026-08-30T02:15:27Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-2a25ef92bec4",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #122899",
+          "title": "feat(agents): discover workspace files without shell access",
+          "url": "https://github.com/openclaw/openclaw/pull/122899",
+          "publishedAt": "2026-08-30T02:15:27Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-83bd826da650",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #91588",
+          "title": "Critical: Gateway Memory Leak — RSS grows from 350MB to 15.5GB over days, causing repeated OOM crashes",
+          "url": "https://github.com/openclaw/openclaw/issues/91588",
+          "publishedAt": "2026-08-29T23:30:11Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 22,
+            "reactions": 1
+          }
+        },
+        {
+          "id": "ev-461230488907",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #74586",
+          "title": "AM embedded run aborts memory_search tool calls; classifies as timeout despite model completion",
+          "url": "https://github.com/openclaw/openclaw/issues/74586",
+          "publishedAt": "2026-08-29T22:47:18Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 13,
+            "reactions": 3
+          }
+        },
+        {
+          "id": "ev-f40736808624",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #84516",
+          "title": "Codex app-server: long agent replies silently truncated at ~1000-1100 chars (stop=null, aborted=false)",
+          "url": "https://github.com/openclaw/openclaw/issues/84516",
+          "publishedAt": "2026-08-30T00:12:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-5efa7482eb9e",
+      "date": "2026-08-30",
+      "title": "Claude Code is going reduce limits by 25% from September 14",
+      "summary": "同一主题出现 5 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude Code is going reduce limits by 25% from September 14。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 69,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 5,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49491631",
+      "evidence": [
+        {
+          "id": "ev-843987643f05",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://news.ycombinator.com/item?id=49491631",
+          "publishedAt": "2026-08-29T17:27:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 24,
+            "comments": 13
+          }
+        },
+        {
+          "id": "ev-4a0f99c62c5d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Ask HN: How to break Claude Code addiction?",
+          "url": "https://news.ycombinator.com/item?id=49491745",
+          "publishedAt": "2026-08-29T17:43:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 10
+          }
+        },
+        {
+          "id": "ev-9aa64656702d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Code can be tricked simply by asking it to summarize a website",
+          "url": "https://news.ycombinator.com/item?id=49489082",
+          "publishedAt": "2026-08-29T11:46:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-104f0f365391",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Code is going reduce limits by 25% from September 14",
+          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+          "publishedAt": "2026-08-29T17:27:31Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-fbcf82b0b798",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Code can be tricked simply by asking it to summarize a website",
+          "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
+          "publishedAt": "2026-08-29T11:46:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6c99b902dd61",
+      "date": "2026-08-30",
+      "title": "OpenAI and Anthropic are ruining San Francisco",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI and Anthropic are ruining San Francisco。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 52,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49486491",
+      "evidence": [
+        {
+          "id": "ev-e5ca6d52fc07",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://news.ycombinator.com/item?id=49486491",
+          "publishedAt": "2026-08-29T02:57:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-57d202650a21",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Sony Music and Warner Chappell Are Suing Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49492119",
+          "publishedAt": "2026-08-29T18:28:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-0e530743b65e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI and Anthropic are ruining San Francisco",
+          "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+          "publishedAt": "2026-08-29T02:57:13Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2e8981cb9b4f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Sony Music and Warner Chappell Are Suing Anthropic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "publishedAt": "2026-08-29T18:28:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c7a23f9d26e5",
+      "date": "2026-08-30",
+      "title": "LLMs are making me lose my savviness",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：LLMs are making me lose my savviness。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 80,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49492184",
+      "evidence": [
+        {
+          "id": "ev-d65cf2e4ee10",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "publishedAt": "2026-08-29T18:38:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 52,
+            "comments": 70
+          }
+        },
+        {
+          "id": "ev-57c69e9b2243",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "publishedAt": "2026-08-29T18:38:52Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-303076c20482",
+      "date": "2026-08-30",
+      "title": "vLLM v0.28.0",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：vLLM v0.28.0。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 78,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49492067",
+      "evidence": [
+        {
+          "id": "ev-708f8278f147",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "vLLM v0.28.0",
+          "url": "https://news.ycombinator.com/item?id=49492067",
+          "publishedAt": "2026-08-29T18:22:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 102,
+            "comments": 32
+          }
+        },
+        {
+          "id": "ev-1d6c6e833df5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "vLLM v0.28.0",
+          "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+          "publishedAt": "2026-08-29T18:22:00Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6a8e9b5a0e2e",
+      "date": "2026-08-30",
+      "title": "Warp builds self-improving agents on Claude",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Warp builds self-improving agents on Claude。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 78,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49492432",
+      "evidence": [
+        {
+          "id": "ev-c3ab3f4de729",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://news.ycombinator.com/item?id=49492432",
+          "publishedAt": "2026-08-29T19:09:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 55,
+            "comments": 55
+          }
+        },
+        {
+          "id": "ev-a4c5bf125e21",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Warp builds self-improving agents on Claude",
+          "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+          "publishedAt": "2026-08-29T19:09:33Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-365aff80995c",
+      "date": "2026-08-30",
+      "title": "Claude permanently raising weekly limits by 25%",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude permanently raising weekly limits by 25%。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49491282",
+      "evidence": [
+        {
+          "id": "ev-7d80d8ccbdf1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude permanently raising weekly limits by 25%",
+          "url": "https://news.ycombinator.com/item?id=49491282",
+          "publishedAt": "2026-08-29T16:37:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 25,
+            "comments": 12
+          }
+        },
+        {
+          "id": "ev-11bd2bc2602b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude permanently raising weekly limits by 25%",
+          "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+          "publishedAt": "2026-08-29T16:37:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-679b000b4d46",
+      "date": "2026-08-30",
+      "title": "refactor(agent): let runner own context compaction",
+      "summary": "同一主题出现 6 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：refactor(agent): let runner own context compaction。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "OpenAI",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "API",
+        "Coding",
+        "RAG",
+        "Security"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5568",
+      "evidence": [
+        {
+          "id": "ev-8a6572e91df0",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5568",
+          "title": "refactor(agent): let runner own context compaction",
+          "url": "https://github.com/HKUDS/nanobot/pull/5568",
+          "publishedAt": "2026-08-30T01:10:40Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-20cf27d2f0c8",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5600",
+          "title": "fix(agent): close native reasoning on cancellation",
+          "url": "https://github.com/HKUDS/nanobot/pull/5600",
+          "publishedAt": "2026-08-29T23:47:32Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a5894a6a3a6b",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5536",
+          "title": "fix(exec): fail closed when restricted shell lacks a sandbox",
+          "url": "https://github.com/HKUDS/nanobot/pull/5536",
+          "publishedAt": "2026-08-29T23:47:32Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-31ea55d70fb9",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5593",
+          "title": "Session message rate-limit state retains expired one-shot sessions",
+          "url": "https://github.com/HKUDS/nanobot/issues/5593",
+          "publishedAt": "2026-08-29T06:54:24Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c70d390aca88",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5592",
+          "title": "edit_file documentation does not state that match selectors are mutually exclusive",
+          "url": "https://github.com/HKUDS/nanobot/issues/5592",
+          "publishedAt": "2026-08-29T04:57:16Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-08-29T15:03:23Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47525
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-a0efc296669f",
+      "date": "2026-08-30",
+      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 50,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49491641",
+      "evidence": [
+        {
+          "id": "ev-5c716749be14",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://news.ycombinator.com/item?id=49491641",
+          "publishedAt": "2026-08-29T17:28:53Z",
+          "authority": "community",
+          "metrics": {
+            "points": 17,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-02d3038d7b14",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "publishedAt": "2026-08-29T17:28:53Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-76c48bc2b859",
+      "date": "2026-08-30",
+      "title": "AI surveillance in schools raises safety and equity concerns",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI surveillance in schools raises safety and equity concerns。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49493775",
+      "evidence": [
+        {
+          "id": "ev-7a40398c8809",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI surveillance in schools raises safety and equity concerns",
+          "url": "https://news.ycombinator.com/item?id=49493775",
+          "publishedAt": "2026-08-29T22:15:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-093acc06947f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI surveillance in schools raises safety and equity concerns",
+          "url": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns",
+          "publishedAt": "2026-08-29T22:15:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ced241c7aa39",
+      "date": "2026-08-30",
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49493468",
+      "evidence": [
+        {
+          "id": "ev-86700f9a07da",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+          "url": "https://news.ycombinator.com/item?id=49493468",
+          "publishedAt": "2026-08-29T21:25:17Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-9084423f9e9d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+          "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years",
+          "publishedAt": "2026-08-29T21:25:17Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-10cb1ab1f427",
+      "date": "2026-08-30",
+      "title": "China is fueling America's data center rage",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：China is fueling America's data center rage。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "RAG"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49494853",
+      "evidence": [
+        {
+          "id": "ev-1650d1ce28f7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "China is fueling America's data center rage",
+          "url": "https://news.ycombinator.com/item?id=49494853",
+          "publishedAt": "2026-08-30T01:31:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-4045505990cd",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "China is fueling America's data center rage",
+          "url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
+          "publishedAt": "2026-08-30T01:31:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-41b0344eb6fa",
+      "date": "2026-08-30",
+      "title": "Researcher Tricked Claude, Codex and Hermes into Running Malware",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Researcher Tricked Claude, Codex and Hermes into Running Malware。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49488021",
+      "evidence": [
+        {
+          "id": "ev-1e2ad80b47d0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Researcher Tricked Claude, Codex and Hermes into Running Malware",
+          "url": "https://news.ycombinator.com/item?id=49488021",
+          "publishedAt": "2026-08-29T08:24:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-41c291d2e171",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Researcher Tricked Claude, Codex and Hermes into Running Malware",
+          "url": "https://startupfortune.com/researcher-alon-hertz-tricked-claude-codex-and-hermes-into-running-malware",
+          "publishedAt": "2026-08-29T08:24:36Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c7a18b2498be",
+      "date": "2026-08-30",
+      "title": "Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49491968",
+      "evidence": [
+        {
+          "id": "ev-5dd7e90f5fe0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting",
+          "url": "https://news.ycombinator.com/item?id=49491968",
+          "publishedAt": "2026-08-29T18:09:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-632d3117bb05",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: PhpEZ – A tiny PHP framework for shared LAMP hosting",
+          "url": "https://github.com/QcFe/phpEZ",
+          "publishedAt": "2026-08-29T18:09:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-938808d6d2d9",
+      "date": "2026-08-30",
+      "title": "Building an LLM runtime in 700 lines of C",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Building an LLM runtime in 700 lines of C。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49489618",
+      "evidence": [
+        {
+          "id": "ev-48535783768a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Building an LLM runtime in 700 lines of C",
+          "url": "https://news.ycombinator.com/item?id=49489618",
+          "publishedAt": "2026-08-29T13:10:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-d9f5498f79a6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Building an LLM runtime in 700 lines of C",
+          "url": "https://github.com/ryanssenn/gemma4.c",
+          "publishedAt": "2026-08-29T13:10:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6bcbc69c9b4a",
+      "date": "2026-08-30",
+      "title": "OpenAI Dumps Cursor",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Dumps Cursor。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49486444",
+      "evidence": [
+        {
+          "id": "ev-421f3b1c54f0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Dumps Cursor",
+          "url": "https://news.ycombinator.com/item?id=49486444",
+          "publishedAt": "2026-08-29T02:49:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-8d4de66db62b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Dumps Cursor",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+          "publishedAt": "2026-08-29T02:49:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-545b436d8181",
+      "date": "2026-08-30",
+      "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The new Go JSON API: twice as fast, or 1.5x slower?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49492591",
+      "evidence": [
+        {
+          "id": "ev-3fc4997f8d2c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
+          "url": "https://news.ycombinator.com/item?id=49492591",
+          "publishedAt": "2026-08-29T19:29:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-9439215bcf87",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The new Go JSON API: twice as fast, or 1.5x slower?",
+          "url": "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower",
+          "publishedAt": "2026-08-29T19:29:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-266610333bab",
+      "date": "2026-08-30",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The Rise and Fall of Agent Civilizations。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49494301",
+      "evidence": [
+        {
+          "id": "ev-441cdbed5333",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The Rise and Fall of Agent Civilizations",
+          "url": "https://news.ycombinator.com/item?id=49494301",
+          "publishedAt": "2026-08-29T23:43:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-334c704e7879",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The Rise and Fall of Agent Civilizations",
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "publishedAt": "2026-08-29T23:43:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-de043494756a",
+      "date": "2026-08-30",
+      "title": "Andrew Garfield on Playing Sam Altman in \"Artifical\"",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Andrew Garfield on Playing Sam Altman in \"Artifical\"。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49486521",
+      "evidence": [
+        {
+          "id": "ev-628137621ad6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Andrew Garfield on Playing Sam Altman in \"Artifical\"",
+          "url": "https://news.ycombinator.com/item?id=49486521",
+          "publishedAt": "2026-08-29T03:04:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-941dcbff18d1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Andrew Garfield on Playing Sam Altman in \"Artifical\"",
+          "url": "https://variety.com/2026/film/news/andrew-garfield-talks-playing-sam-altman-artificial-open-ai-1236842579",
+          "publishedAt": "2026-08-29T03:04:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-01e9d7045e37",
+      "date": "2026-08-30",
+      "title": "Major security weaknesses found in leading open AI models",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Major security weaknesses found in leading open AI models。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model",
+        "Security"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49490082",
+      "evidence": [
+        {
+          "id": "ev-c71075dcb6de",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Major security weaknesses found in leading open AI models",
+          "url": "https://news.ycombinator.com/item?id=49490082",
+          "publishedAt": "2026-08-29T14:15:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-041be97ef6b8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Major security weaknesses found in leading open AI models",
+          "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+          "publishedAt": "2026-08-29T14:15:36Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ff3824a5a4e2",
+      "date": "2026-08-30",
+      "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI to end agreement with SpaceX's AI coding tool Cursor。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49487134",
+      "evidence": [
+        {
+          "id": "ev-a51f8d2a3a40",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor",
+          "url": "https://news.ycombinator.com/item?id=49487134",
+          "publishedAt": "2026-08-29T05:27:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-f38f0f5790af",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor",
+          "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29",
+          "publishedAt": "2026-08-29T05:27:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-aee135c368a5",
+      "date": "2026-08-30",
+      "title": "Speech to text in a crowded room with the OpenAI Realtime API",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Speech to text in a crowded room with the OpenAI Realtime API。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "API"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49494257",
+      "evidence": [
+        {
+          "id": "ev-b251284cd3b2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Speech to text in a crowded room with the OpenAI Realtime API",
+          "url": "https://news.ycombinator.com/item?id=49494257",
+          "publishedAt": "2026-08-29T23:32:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-15c8f0c69d7e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Speech to text in a crowded room with the OpenAI Realtime API",
+          "url": "https://trpevski.com/blog/voice-assistant-noisy-environments-openai-realtime",
+          "publishedAt": "2026-08-29T23:32:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-927f15236683",
+      "date": "2026-08-30",
+      "title": "SwarmWorld: Stigmergic technological evolution in societies of LLM agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：SwarmWorld: Stigmergic technological evolution in societies of LLM agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49490461",
+      "evidence": [
+        {
+          "id": "ev-582963da42ff",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "SwarmWorld: Stigmergic technological evolution in societies of LLM agents",
+          "url": "https://news.ycombinator.com/item?id=49490461",
+          "publishedAt": "2026-08-29T14:59:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-b7c166ffe9cb",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "SwarmWorld: Stigmergic technological evolution in societies of LLM agents",
+          "url": "https://arxiv.org/abs/2608.26081",
+          "publishedAt": "2026-08-29T14:59:33Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-732ad26f74b4",
+      "date": "2026-08-30",
+      "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49492798",
+      "evidence": [
+        {
+          "id": "ev-984e200919ec",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
+          "url": "https://news.ycombinator.com/item?id=49492798",
+          "publishedAt": "2026-08-29T19:52:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-99754e6c8092",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
+          "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
+          "publishedAt": "2026-08-29T19:52:56Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 258,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
