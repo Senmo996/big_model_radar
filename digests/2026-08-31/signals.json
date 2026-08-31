@@ -1,0 +1,1402 @@
+{
+  "version": 1,
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T02:10:50.186Z",
+  "cards": [
+    {
+      "id": "sig-7f56a1544f0f",
+      "date": "2026-08-31",
+      "title": "Our Approach To The Model Spec",
+      "summary": "同一主题出现 4 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Our Approach To The Model Spec。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 85,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 45,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://openai.com/index/our-approach-to-the-model-spec",
+      "evidence": [
+        {
+          "id": "ev-46ff8e762221",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Our Approach To The Model Spec",
+          "url": "https://openai.com/index/our-approach-to-the-model-spec",
+          "publishedAt": "2026-08-30T08:39:08.784Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f4ee71bddd35",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "Inside Gpt5 Our Best Model For Work",
+          "url": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+          "publishedAt": "2026-08-30T08:33:50.377Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-70a2572798db",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The viral leftist teens of Campaign 2020 work for OpenAI now",
+          "url": "https://news.ycombinator.com/item?id=49495761",
+          "publishedAt": "2026-08-30T04:41:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-28e09d6a76fc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The viral leftist teens of Campaign 2020 work for OpenAI now",
+          "url": "https://www.cnn.com/2026/08/29/us/gravel-teens-openai-cec",
+          "publishedAt": "2026-08-30T04:41:16Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-00c28ee97706",
+      "date": "2026-08-31",
+      "title": "fix(session): move persistence off event loop",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(session): move persistence off event loop。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 72,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 43,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Model Context Protocol",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "API",
+        "Model",
+        "MCP",
+        "Coding",
+        "Pricing"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5580",
+      "evidence": [
+        {
+          "id": "ev-1775edb4bea4",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5580",
+          "title": "fix(session): move persistence off event loop",
+          "url": "https://github.com/HKUDS/nanobot/pull/5580",
+          "publishedAt": "2026-08-31T01:52:56Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-286bdd93ac08",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5571",
+          "title": "feat(memory): require explicit recall by default",
+          "url": "https://github.com/HKUDS/nanobot/pull/5571",
+          "publishedAt": "2026-08-30T21:08:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-8ddd7d404fa2",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5570",
+          "title": "feat(memory): add pluggable recall backend",
+          "url": "https://github.com/HKUDS/nanobot/pull/5570",
+          "publishedAt": "2026-08-30T21:08:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-edc7dce1c975",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5505",
+          "title": "Add AnySearch as a web search provider (key-optional, anonymous quota)",
+          "url": "https://github.com/HKUDS/nanobot/issues/5505",
+          "publishedAt": "2026-08-30T10:31:54Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 7,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-d7604a48d666",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #1697",
+          "title": "The result wasn’t returned and the output was incorrect.",
+          "url": "https://github.com/HKUDS/nanobot/issues/1697",
+          "publishedAt": "2026-08-30T09:00:09Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c33370cdc1b6",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5463",
+          "title": "DingTalk does not observe or drain inbound background tasks",
+          "url": "https://github.com/HKUDS/nanobot/issues/5463",
+          "publishedAt": "2026-08-30T09:56:36Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-08-30T16:06:16Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47543
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-43a0a18f2e42",
+      "date": "2026-08-31",
+      "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+      "summary": "同一主题出现 6 条关联证据，覆盖 Hacker News、原始文章。核心动态：I am no longer letting Claude Code add itself as Co-author in my commits。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 72,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 74,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49502101",
+      "evidence": [
+        {
+          "id": "ev-a7ce0fc949ef",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "url": "https://news.ycombinator.com/item?id=49502101",
+          "publishedAt": "2026-08-30T19:47:53Z",
+          "authority": "community",
+          "metrics": {
+            "points": 18,
+            "comments": 38
+          }
+        },
+        {
+          "id": "ev-0847a8cc1781",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Code can be tricked simply by asking it to summarize a website",
+          "url": "https://news.ycombinator.com/item?id=49501930",
+          "publishedAt": "2026-08-30T19:25:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-b0c754b7f9d8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://news.ycombinator.com/item?id=49495858",
+          "publishedAt": "2026-08-30T05:04:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-7d98ed334314",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
+          "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor",
+          "publishedAt": "2026-08-30T19:47:53Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-fbcf82b0b798",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Code can be tricked simply by asking it to summarize a website",
+          "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
+          "publishedAt": "2026-08-30T19:25:50Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1e283e85b277",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
+          "publishedAt": "2026-08-30T05:04:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-30523a89df02",
+      "date": "2026-08-31",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude Session URL appended to commit messages and PR descriptions by default。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 70,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 97,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49498201",
+      "evidence": [
+        {
+          "id": "ev-1028c1e36afc",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://news.ycombinator.com/item?id=49498201",
+          "publishedAt": "2026-08-30T12:50:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 186,
+            "comments": 207
+          }
+        },
+        {
+          "id": "ev-808fa79e06d0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "publishedAt": "2026-08-30T12:50:54Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fd12382a3a9c",
+      "date": "2026-08-31",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Continuous Diffusion Language Models (CDLM's)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 70,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49502611",
+      "evidence": [
+        {
+          "id": "ev-ef84d66f6e9a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
+          "publishedAt": "2026-08-30T20:46:53Z",
+          "authority": "community",
+          "metrics": {
+            "points": 59,
+            "comments": 19
+          }
+        },
+        {
+          "id": "ev-9cff559254e4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "publishedAt": "2026-08-30T20:46:53Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1a5f04c80f1e",
+      "date": "2026-08-31",
+      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Academa – Long-form STEM lecture videos generated by LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 66,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49503421",
+      "evidence": [
+        {
+          "id": "ev-1733c2d69033",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://news.ycombinator.com/item?id=49503421",
+          "publishedAt": "2026-08-30T22:22:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 28,
+            "comments": 24
+          }
+        },
+        {
+          "id": "ev-b4a723e06d96",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://academa.ai",
+          "publishedAt": "2026-08-30T22:22:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8b3930189f56",
+      "date": "2026-08-31",
+      "title": "Why your boss doesn't seem to care about your tech career anymore",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Why your boss doesn't seem to care about your tech career anymore。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 56,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49503003",
+      "evidence": [
+        {
+          "id": "ev-03877b49b7e6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Why your boss doesn't seem to care about your tech career anymore",
+          "url": "https://news.ycombinator.com/item?id=49503003",
+          "publishedAt": "2026-08-30T21:26:58Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 13
+          }
+        },
+        {
+          "id": "ev-65a80310434c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Why your boss doesn't seem to care about your tech career anymore",
+          "url": "https://www.businessinsider.com/tech-managers-career-development-ai-great-flattening-2026-8",
+          "publishedAt": "2026-08-30T21:26:58Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ed2fdc905e76",
+      "date": "2026-08-31",
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The shrinking landscape of linguistic diversity in the age of LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 49,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49497996",
+      "evidence": [
+        {
+          "id": "ev-01e5124cf87e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49497996",
+          "publishedAt": "2026-08-30T12:12:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 18,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-cd1d98a33e4a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+          "url": "https://www.nature.com/articles/s41562-026-02550-0",
+          "publishedAt": "2026-08-30T12:12:56Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9c1e1098b5d7",
+      "date": "2026-08-31",
+      "title": "Debian developer resigns after corporate LLM use without disclosure wins vote",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Debian developer resigns after corporate LLM use without disclosure wins vote。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 42,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding",
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49504083",
+      "evidence": [
+        {
+          "id": "ev-d02be40b0bac",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Debian developer resigns after corporate LLM use without disclosure wins vote",
+          "url": "https://news.ycombinator.com/item?id=49504083",
+          "publishedAt": "2026-08-30T23:57:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-862c701e20dd",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Debian developer resigns after corporate LLM use without disclosure wins vote",
+          "url": "https://lists.debian.org/debian-devel/2026/08/msg00318.html",
+          "publishedAt": "2026-08-30T23:57:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a5ebc71ea157",
+      "date": "2026-08-31",
+      "title": "LLM usage in Debian neither endorsed nor prohibited",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：LLM usage in Debian neither endorsed nor prohibited。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49497883",
+      "evidence": [
+        {
+          "id": "ev-dea0130785c4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "LLM usage in Debian neither endorsed nor prohibited",
+          "url": "https://news.ycombinator.com/item?id=49497883",
+          "publishedAt": "2026-08-30T11:52:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-e3b2bf880aa1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "LLM usage in Debian neither endorsed nor prohibited",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "publishedAt": "2026-08-30T11:52:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-44a15a73ef5f",
+      "date": "2026-08-31",
+      "title": "OpenAI ends it partnership with Cursor",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI ends it partnership with Cursor。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49503609",
+      "evidence": [
+        {
+          "id": "ev-aeb8dbb91646",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI ends it partnership with Cursor",
+          "url": "https://news.ycombinator.com/item?id=49503609",
+          "publishedAt": "2026-08-30T22:50:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-27312bd7ed85",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI ends it partnership with Cursor",
+          "url": "https://twitter.com/OpenAI/status/2093515564786540695",
+          "publishedAt": "2026-08-30T22:50:36Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f8e59dc01b24",
+      "date": "2026-08-31",
+      "title": "Show HN: Murmell – Collaborative cloud canvas for coding agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Murmell – Collaborative cloud canvas for coding agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49499167",
+      "evidence": [
+        {
+          "id": "ev-4c3cc52a0e61",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Murmell – Collaborative cloud canvas for coding agents",
+          "url": "https://news.ycombinator.com/item?id=49499167",
+          "publishedAt": "2026-08-30T14:51:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-dee19f0ad7c8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Murmell – Collaborative cloud canvas for coding agents",
+          "url": "https://murmell.com",
+          "publishedAt": "2026-08-30T14:51:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-be552a02b6ba",
+      "date": "2026-08-31",
+      "title": "The LLM is not Intelligence",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The LLM is not Intelligence。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49500275",
+      "evidence": [
+        {
+          "id": "ev-68cbccb61ada",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The LLM is not Intelligence",
+          "url": "https://news.ycombinator.com/item?id=49500275",
+          "publishedAt": "2026-08-30T16:45:06Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-fbe32b88de07",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The LLM is not Intelligence",
+          "url": "https://www.vivekv.info/posts/llm-is-not-intelligent",
+          "publishedAt": "2026-08-30T16:45:06Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9522b2613a1b",
+      "date": "2026-08-31",
+      "title": "Asahi Linux: Initial USB4/Thunderbolt Support for M1/M2/M3 on LKML",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Asahi Linux: Initial USB4/Thunderbolt Support for M1/M2/M3 on LKML。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49502515",
+      "evidence": [
+        {
+          "id": "ev-a9e115c68c18",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Asahi Linux: Initial USB4/Thunderbolt Support for M1/M2/M3 on LKML",
+          "url": "https://news.ycombinator.com/item?id=49502515",
+          "publishedAt": "2026-08-30T20:37:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-c444940951d2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Asahi Linux: Initial USB4/Thunderbolt Support for M1/M2/M3 on LKML",
+          "url": "https://social.treehouse.systems/@sven/117186314116319619",
+          "publishedAt": "2026-08-30T20:37:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-bef0b14aea39",
+      "date": "2026-08-31",
+      "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Israel Is Running a Synthetic Think Tank to Influence AI Search Results。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49504123",
+      "evidence": [
+        {
+          "id": "ev-598c57a6b88a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+          "url": "https://news.ycombinator.com/item?id=49504123",
+          "publishedAt": "2026-08-31T00:02:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-ad0156016931",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+          "url": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results",
+          "publishedAt": "2026-08-31T00:02:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6a7ead0ece71",
+      "date": "2026-08-31",
+      "title": "Show HN: 1endpoint – Cheaper access to AI models",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: 1endpoint – Cheaper access to AI models。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model",
+        "API"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49497665",
+      "evidence": [
+        {
+          "id": "ev-371676b43937",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: 1endpoint – Cheaper access to AI models",
+          "url": "https://news.ycombinator.com/item?id=49497665",
+          "publishedAt": "2026-08-30T11:13:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-fe466592f997",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: 1endpoint – Cheaper access to AI models",
+          "url": "https://1endpoint.dev",
+          "publishedAt": "2026-08-30T11:13:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e2d32978b99b",
+      "date": "2026-08-31",
+      "title": "Show HN: Cogram Studio – CAD and BIM workspace for humans and agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Cogram Studio – CAD and BIM workspace for humans and agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49501620",
+      "evidence": [
+        {
+          "id": "ev-7ae3f1e7400a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Cogram Studio – CAD and BIM workspace for humans and agents",
+          "url": "https://news.ycombinator.com/item?id=49501620",
+          "publishedAt": "2026-08-30T18:49:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-000f671758c7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Cogram Studio – CAD and BIM workspace for humans and agents",
+          "url": "https://studio.cogram.com",
+          "publishedAt": "2026-08-30T18:49:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b5321342ba25",
+      "date": "2026-08-31",
+      "title": "Show HN: ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49497791",
+      "evidence": [
+        {
+          "id": "ev-75c58fef2506",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration",
+          "url": "https://news.ycombinator.com/item?id=49497791",
+          "publishedAt": "2026-08-30T11:36:46Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-87aa50829b32",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration",
+          "url": "https://orchestra.shevtoneaudio.com",
+          "publishedAt": "2026-08-30T11:36:46Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-88a5229088a0",
+      "date": "2026-08-31",
+      "title": "Which AI Wrote This?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Which AI Wrote This?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49503620",
+      "evidence": [
+        {
+          "id": "ev-b80626548c2a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Which AI Wrote This?",
+          "url": "https://news.ycombinator.com/item?id=49503620",
+          "publishedAt": "2026-08-30T22:52:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-128180bbe5c7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Which AI Wrote This?",
+          "url": "https://modelaccent.com",
+          "publishedAt": "2026-08-30T22:52:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-28ec18dfc34f",
+      "date": "2026-08-31",
+      "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Why shaming people about AI slop isn't enough to stop Big AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49501787",
+      "evidence": [
+        {
+          "id": "ev-55e41e0fff14",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+          "url": "https://news.ycombinator.com/item?id=49501787",
+          "publishedAt": "2026-08-30T19:08:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-a4d45512fbf6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+          "url": "https://www.anildash.com/2026/08/21/ai-slop-and-shame",
+          "publishedAt": "2026-08-30T19:08:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a719a2e816d9",
+      "date": "2026-08-31",
+      "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI Can Answer Almost Anything. It Still Can't Tell You What Matters。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49503291",
+      "evidence": [
+        {
+          "id": "ev-ea586e429743",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+          "url": "https://news.ycombinator.com/item?id=49503291",
+          "publishedAt": "2026-08-30T22:00:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-4b6d17e209f7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+          "url": "https://medium.com/freedomofthought/ai-can-answer-almost-anything-it-still-cant-tell-you-what-matters-31fd8b08437b",
+          "publishedAt": "2026-08-30T22:00:03Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d29042cd7093",
+      "date": "2026-08-31",
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65B in July",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic tells investors annualized revenue run rate climbed to $65B in July。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49497126",
+      "evidence": [
+        {
+          "id": "ev-05894f75de61",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic tells investors annualized revenue run rate climbed to $65B in July",
+          "url": "https://news.ycombinator.com/item?id=49497126",
+          "publishedAt": "2026-08-30T09:38:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-da428e93974e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic tells investors annualized revenue run rate climbed to $65B in July",
+          "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+          "publishedAt": "2026-08-30T09:38:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3e6e6ad11420",
+      "date": "2026-08-31",
+      "title": "Have We Seen an Acceleration in Discoveries?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Have We Seen an Acceleration in Discoveries?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49495926",
+      "evidence": [
+        {
+          "id": "ev-0da1ef3c9d7b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Have We Seen an Acceleration in Discoveries?",
+          "url": "https://news.ycombinator.com/item?id=49495926",
+          "publishedAt": "2026-08-30T05:19:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-9eec4b124098",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Have We Seen an Acceleration in Discoveries?",
+          "url": "https://metr.org/notes/2026-08-14-llm-contribution-to-discoveries",
+          "publishedAt": "2026-08-30T05:19:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1170531806ea",
+      "date": "2026-08-31",
+      "title": "Lady Gaga is now an AI-longevity biotech founder",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Lady Gaga is now an AI-longevity biotech founder。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49503980",
+      "evidence": [
+        {
+          "id": "ev-21ddc103d45e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Lady Gaga is now an AI-longevity biotech founder",
+          "url": "https://news.ycombinator.com/item?id=49503980",
+          "publishedAt": "2026-08-30T23:44:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-4ade75e880a1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Lady Gaga is now an AI-longevity biotech founder",
+          "url": "https://www.regeneration.ai/p/lady-gaga-is-now-an-ai-longevity",
+          "publishedAt": "2026-08-30T23:44:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 268,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
