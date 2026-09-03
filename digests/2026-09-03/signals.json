@@ -1,0 +1,1597 @@
+{
+  "version": 1,
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T01:57:16.751Z",
+  "cards": [
+    {
+      "id": "sig-a5ce55c6c4c0",
+      "date": "2026-09-03",
+      "title": "Hugging Face Incident And The Road Ahead",
+      "summary": "同一主题出现 5 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Hugging Face Incident And The Road Ahead。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 94,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 83,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 5,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [
+        "Agent",
+        "Security"
+      ],
+      "primaryUrl": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "evidence": [
+        {
+          "id": "ev-c0f7996a35c2",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Hugging Face Incident And The Road Ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "publishedAt": "2026-09-02T14:23:55.492Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-50c2eeba2428",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "url": "https://news.ycombinator.com/item?id=49543841",
+          "publishedAt": "2026-09-02T23:08:47Z",
+          "authority": "community",
+          "metrics": {
+            "points": 87,
+            "comments": 72
+          }
+        },
+        {
+          "id": "ev-b5f70f6d0702",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI's agents exploited a patched Linux bug in Hugging Face incident",
+          "url": "https://news.ycombinator.com/item?id=49539066",
+          "publishedAt": "2026-09-02T16:52:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-d8ec649da615",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "publishedAt": "2026-09-02T23:08:47Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-743ea53ce0cf",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI's agents exploited a patched Linux bug in Hugging Face incident",
+          "url": "https://www.zdnet.com/tech/cve-2026-53362-fraggap-linux-kernel-exploit-openai-incident",
+          "publishedAt": "2026-09-02T16:52:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-db5efef1e92b",
+      "date": "2026-09-03",
+      "title": "Path To Astra",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Path To Astra。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 75,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 21,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://openai.com/index/path-to-astra",
+      "evidence": [
+        {
+          "id": "ev-7b89e11bd961",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Path To Astra",
+          "url": "https://openai.com/index/path-to-astra",
+          "publishedAt": "2026-09-03T01:50:12.995Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8883417a3f9a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI's Astra Model",
+          "url": "https://news.ycombinator.com/item?id=49538665",
+          "publishedAt": "2026-09-02T16:27:34Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-a6ac0869e67b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI's Astra Model",
+          "url": "https://twitter.com/rasbt/status/2095141254958858496",
+          "publishedAt": "2026-09-02T16:27:34Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8c8dcfadc9a5",
+      "date": "2026-09-03",
+      "title": "Check if a file was made with Claude",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Check if a file was made with Claude。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 90,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49535201",
+      "evidence": [
+        {
+          "id": "ev-f8a9950a3a7c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Check if a file was made with Claude",
+          "url": "https://news.ycombinator.com/item?id=49535201",
+          "publishedAt": "2026-09-02T12:23:20Z",
+          "authority": "community",
+          "metrics": {
+            "points": 149,
+            "comments": 111
+          }
+        },
+        {
+          "id": "ev-d58ad4005281",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Check if a file was made with Claude",
+          "url": "https://claude.com/check-content",
+          "publishedAt": "2026-09-02T12:23:20Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f8021eba7777",
+      "date": "2026-09-03",
+      "title": "fix(webui): align native sidebar controls",
+      "summary": "同一主题出现 6 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(webui): align native sidebar controls。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 24,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "OpenAI",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "API",
+        "RAG",
+        "Pricing"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5636",
+      "evidence": [
+        {
+          "id": "ev-d16d572dd798",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5636",
+          "title": "fix(webui): align native sidebar controls",
+          "url": "https://github.com/HKUDS/nanobot/pull/5636",
+          "publishedAt": "2026-09-03T01:21:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c2817fb562ba",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5212",
+          "title": "feat: add MiniMax music guidance",
+          "url": "https://github.com/HKUDS/nanobot/pull/5212",
+          "publishedAt": "2026-09-02T21:31:50Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-480f7d53fa84",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5403",
+          "title": "fix(memory): use API-reported prompt tokens to trigger consolidation",
+          "url": "https://github.com/HKUDS/nanobot/pull/5403",
+          "publishedAt": "2026-09-02T18:15:40Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-afa4ce6b54a5",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5586",
+          "title": "Let a runtime-context block opt out of history persistence (`ephemeral` blocks)",
+          "url": "https://github.com/HKUDS/nanobot/issues/5586",
+          "publishedAt": "2026-09-02T11:33:54Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-629f9c919346",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5631",
+          "title": "在webui里面展示上下文、模型速度这些信息",
+          "url": "https://github.com/HKUDS/nanobot/issues/5631",
+          "publishedAt": "2026-09-02T08:21:03Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-03T01:21:50Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47659
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-6cebc1a6830d",
+      "date": "2026-09-03",
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Six curl CVEs after OpenAI and Anthropic came back with zero。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 85,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49536114",
+      "evidence": [
+        {
+          "id": "ev-bc4475f73391",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+          "url": "https://news.ycombinator.com/item?id=49536114",
+          "publishedAt": "2026-09-02T13:43:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 152,
+            "comments": 54
+          }
+        },
+        {
+          "id": "ev-a886f63087e9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+          "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+          "publishedAt": "2026-09-02T13:43:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-75a084ac8f16",
+      "date": "2026-09-03",
+      "title": "Justice Dept. Sides with OpenAI in New York Times Copyright Suit",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：Justice Dept. Sides with OpenAI in New York Times Copyright Suit。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 50,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49543821",
+      "evidence": [
+        {
+          "id": "ev-e44988e9995d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Justice Dept. Sides with OpenAI in New York Times Copyright Suit",
+          "url": "https://news.ycombinator.com/item?id=49543821",
+          "publishedAt": "2026-09-02T23:07:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-d1c34accbc0f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "US Government backs OpenAI in New York Times copyright case",
+          "url": "https://news.ycombinator.com/item?id=49538820",
+          "publishedAt": "2026-09-02T16:37:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-1731cbcaf159",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Justice Dept. Sides with OpenAI in New York Times Copyright Suit",
+          "url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
+          "publishedAt": "2026-09-02T23:07:07Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e751e1c07d52",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "US Government backs OpenAI in New York Times copyright case",
+          "url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02",
+          "publishedAt": "2026-09-02T16:37:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-159d46717c09",
+      "date": "2026-09-03",
+      "title": "Mushroom hunting with LLMs: what can go wrong?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Mushroom hunting with LLMs: what can go wrong?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 80,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49539152",
+      "evidence": [
+        {
+          "id": "ev-a6e36b804c3d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Mushroom hunting with LLMs: what can go wrong?",
+          "url": "https://news.ycombinator.com/item?id=49539152",
+          "publishedAt": "2026-09-02T16:58:34Z",
+          "authority": "community",
+          "metrics": {
+            "points": 50,
+            "comments": 71
+          }
+        },
+        {
+          "id": "ev-bd2be2cecb9e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Mushroom hunting with LLMs: what can go wrong?",
+          "url": "https://quesma.com/blog/mushroom-llm-vision",
+          "publishedAt": "2026-09-02T16:58:34Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-eba1d303d392",
+      "date": "2026-09-03",
+      "title": "Reflections on Americans' Net Worth",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Reflections on Americans' Net Worth。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 70,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49544226",
+      "evidence": [
+        {
+          "id": "ev-8c701b8ffa93",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Reflections on Americans' Net Worth",
+          "url": "https://news.ycombinator.com/item?id=49544226",
+          "publishedAt": "2026-09-02T23:57:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 29,
+            "comments": 36
+          }
+        },
+        {
+          "id": "ev-26c48a1e0068",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Reflections on Americans' Net Worth",
+          "url": "https://www.betonit.ai/p/reflections-on-americans-net-worth",
+          "publishedAt": "2026-09-02T23:57:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8c3b686d03e4",
+      "date": "2026-09-03",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 68,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49543530",
+      "evidence": [
+        {
+          "id": "ev-03d72cfeeadf",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+          "url": "https://news.ycombinator.com/item?id=49543530",
+          "publishedAt": "2026-09-02T22:36:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 24,
+            "comments": 31
+          }
+        },
+        {
+          "id": "ev-77989c8811a6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+          "url": "https://ronanrx.com",
+          "publishedAt": "2026-09-02T22:36:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0150026f018e",
+      "date": "2026-09-03",
+      "title": "OpenAI Lawsuits Mount over Canadian School Shooting",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Lawsuits Mount over Canadian School Shooting。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49539455",
+      "evidence": [
+        {
+          "id": "ev-2833e08bcded",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Lawsuits Mount over Canadian School Shooting",
+          "url": "https://news.ycombinator.com/item?id=49539455",
+          "publishedAt": "2026-09-02T17:24:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-d0d3750835f8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Teachers, students file new lawsuits against OpenAI over Tumbler Ridge shooting",
+          "url": "https://news.ycombinator.com/item?id=49540646",
+          "publishedAt": "2026-09-02T18:48:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-9762ceafcee4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Lawsuits Mount over Canadian School Shooting",
+          "url": "https://www.wsj.com/us-news/law/openai-lawsuits-mount-over-canadian-school-shooting-ca24c762",
+          "publishedAt": "2026-09-02T17:24:32Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c058faad1d9a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Teachers, students file new lawsuits against OpenAI over Tumbler Ridge shooting",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/tumbler-ridge-shooting-open-ai-lawsuits-9.7328382",
+          "publishedAt": "2026-09-02T18:48:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-197a48ec8d78",
+      "date": "2026-09-03",
+      "title": "How Enterprises Put Ai To Work",
+      "summary": "同一主题出现 16 条关联证据，覆盖 OpenAI、IronClaw。核心动态：How Enterprises Put Ai To Work。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 16,
+      "sourceFamilies": [
+        "github",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "IronClaw"
+      ],
+      "topics": [
+        "Coding",
+        "Security",
+        "Model",
+        "Agent",
+        "RAG",
+        "API"
+      ],
+      "primaryUrl": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "evidence": [
+        {
+          "id": "ev-55842b5dc8c5",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "How Enterprises Put Ai To Work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "publishedAt": "2026-09-03T00:17:33.910Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-76d71d7c4a6d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Work With Codex From Anywhere",
+          "url": "https://openai.com/index/work-with-codex-from-anywhere",
+          "publishedAt": "2026-09-02T19:00:22.873Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-966015f3a6fa",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Codex Security Now In Research Preview",
+          "url": "https://openai.com/index/codex-security-now-in-research-preview",
+          "publishedAt": "2026-09-02T19:00:20.924Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2c79830e92ff",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Openai Frontier Models And Codex Are Now Available On Aws",
+          "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+          "publishedAt": "2026-09-02T19:00:19.139Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e083bbe33277",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Developers Can Now Submit Apps To Chatgpt",
+          "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+          "publishedAt": "2026-09-02T19:00:18.332Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-da777a31dc75",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Why Codex Security Doesnt Include Sast",
+          "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+          "publishedAt": "2026-09-02T19:00:13.804Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2e4ed6e320a1",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Daybreak Models Are Now Available On Aws",
+          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "publishedAt": "2026-09-02T19:00:12.146Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b8523cb3c5ef",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Codex For Every Role Tool Workflow",
+          "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+          "publishedAt": "2026-09-02T19:00:11.382Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a25cbe0dbb3c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "How Agents Are Transforming Work",
+          "url": "https://openai.com/index/how-agents-are-transforming-work",
+          "publishedAt": "2026-09-02T14:23:49.323Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a528017add3f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Offering Zero Data Retention For Frontier Models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "publishedAt": "2026-09-02T14:23:41.717Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-eb5c111203cb",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "IronClaw · PR #8051",
+          "title": "fix(reply): the answer is the current model call's text; earlier calls are narration",
+          "url": "https://github.com/nearai/ironclaw/pull/8051",
+          "publishedAt": "2026-09-03T00:43:16Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a8a3890881db",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "IronClaw · PR #8045",
+          "title": "fix(ci): wait for CLI listener readiness in smoke tests",
+          "url": "https://github.com/nearai/ironclaw/pull/8045",
+          "publishedAt": "2026-09-02T22:41:07Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-9d8cbeb85ba4",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "IronClaw · PR #7985",
+          "title": "fix(memory): a missing document is a domain failure, not a malformed request",
+          "url": "https://github.com/nearai/ironclaw/pull/7985",
+          "publishedAt": "2026-09-02T22:03:27Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-01130869f217",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "IronClaw · Issue #8041",
+          "title": "A tool failure whose kind is wrong sends the model somewhere it cannot recover",
+          "url": "https://github.com/nearai/ironclaw/issues/8041",
+          "publishedAt": "2026-09-02T15:11:29Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-ea954393c9b5",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "IronClaw · Issue #8018",
+          "title": "Replace native SettingsField controls with shared Input and SelectMenu",
+          "url": "https://github.com/nearai/ironclaw/issues/8018",
+          "publishedAt": "2026-09-02T08:07:29Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-6fed234387f9",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "IronClaw · Issue #8036",
+          "title": "Type WebUI Test Infrastructure and Remove Remaining Test Suppressions",
+          "url": "https://github.com/nearai/ironclaw/issues/8036",
+          "publishedAt": "2026-09-02T08:00:30Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-832f8e0d2495",
+      "date": "2026-09-03",
+      "title": "Reasons robotics is hard",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Reasons robotics is hard。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49543191",
+      "evidence": [
+        {
+          "id": "ev-826ad039f83a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Reasons robotics is hard",
+          "url": "https://news.ycombinator.com/item?id=49543191",
+          "publishedAt": "2026-09-02T22:02:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 37,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-9ad8ca111561",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Reasons robotics is hard",
+          "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+          "publishedAt": "2026-09-02T22:02:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-83cafec99c1c",
+      "date": "2026-09-03",
+      "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Aura – a Rust agent that investigates and fixes production incidents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 49,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49538195",
+      "evidence": [
+        {
+          "id": "ev-814245432842",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
+          "url": "https://news.ycombinator.com/item?id=49538195",
+          "publishedAt": "2026-09-02T15:55:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 20,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-ee8383de06ea",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Aura – a Rust agent that investigates and fixes production incidents",
+          "url": "https://github.com/mezmo/aura",
+          "publishedAt": "2026-09-02T15:55:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-487857093521",
+      "date": "2026-09-03",
+      "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Every AI agrees with you. This writes your startup's obituary instead。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 48,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49543617",
+      "evidence": [
+        {
+          "id": "ev-b7f317cfb5c6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+          "url": "https://news.ycombinator.com/item?id=49543617",
+          "publishedAt": "2026-09-02T22:45:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 7
+          }
+        },
+        {
+          "id": "ev-9b1cafcceca6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Every AI agrees with you. This writes your startup's obituary instead",
+          "url": "https://theyfell.com",
+          "publishedAt": "2026-09-02T22:45:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-41ff608851ba",
+      "date": "2026-09-03",
+      "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：US gov sides with OpenAI on issue of training LLMs on copyrighted material。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49544650",
+      "evidence": [
+        {
+          "id": "ev-237cb0d1cb0d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+          "url": "https://news.ycombinator.com/item?id=49544650",
+          "publishedAt": "2026-09-03T00:54:01Z",
+          "authority": "community",
+          "metrics": {
+            "points": 14,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-dd3a788f5c36",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+          "publishedAt": "2026-09-03T00:54:01Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7992376094c2",
+      "date": "2026-09-03",
+      "title": "Show HN: Kit. Claude Code but Concise",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Kit. Claude Code but Concise。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49537801",
+      "evidence": [
+        {
+          "id": "ev-8047448c1424",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Kit. Claude Code but Concise",
+          "url": "https://news.ycombinator.com/item?id=49537801",
+          "publishedAt": "2026-09-02T15:30:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-486cf3e52371",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Kit. Claude Code but Concise",
+          "url": "https://github.com/speakeasy-api/kit",
+          "publishedAt": "2026-09-02T15:30:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1e02d548ecd2",
+      "date": "2026-09-03",
+      "title": "US Government worried that AI companies can't innovate without legal theft",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：US Government worried that AI companies can't innovate without legal theft。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49543408",
+      "evidence": [
+        {
+          "id": "ev-408cf6c576d4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "US Government worried that AI companies can't innovate without legal theft",
+          "url": "https://news.ycombinator.com/item?id=49543408",
+          "publishedAt": "2026-09-02T22:22:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-b740f2a89e13",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "US Government worried that AI companies can't innovate without legal theft",
+          "url": "https://appleinsider.com/articles/26/09/02/us-government-worried-that-ai-companies-cant-innovate-without-legal-theft",
+          "publishedAt": "2026-09-02T22:22:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-76f7fa565c41",
+      "date": "2026-09-03",
+      "title": "Anthropic 3Q26 Profit over $1B: The Anthropic IPO Financials Sneak Peak",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic 3Q26 Profit over $1B: The Anthropic IPO Financials Sneak Peak。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49535477",
+      "evidence": [
+        {
+          "id": "ev-b194d6e0e293",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic 3Q26 Profit over $1B: The Anthropic IPO Financials Sneak Peak",
+          "url": "https://news.ycombinator.com/item?id=49535477",
+          "publishedAt": "2026-09-02T12:49:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-6bc895bf99f5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic 3Q26 Profit over $1B: The Anthropic IPO Financials Sneak Peak",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-3q26-profit-over-1b-the",
+          "publishedAt": "2026-09-02T12:49:52Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-84392df7e010",
+      "date": "2026-09-03",
+      "title": "Anthropic Has Some Alignment Problems",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic Has Some Alignment Problems。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49540839",
+      "evidence": [
+        {
+          "id": "ev-132afe94d81a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic Has Some Alignment Problems",
+          "url": "https://news.ycombinator.com/item?id=49540839",
+          "publishedAt": "2026-09-02T19:03:25Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-a0919de68718",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic Has Some Alignment Problems",
+          "url": "https://thezvi.substack.com/p/anthropic-has-some-alignment-problems",
+          "publishedAt": "2026-09-02T19:03:25Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e335cbbe1858",
+      "date": "2026-09-03",
+      "title": "Lessons from shipping a watch-only Apple Watch app, built with Claude",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Lessons from shipping a watch-only Apple Watch app, built with Claude。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49535845",
+      "evidence": [
+        {
+          "id": "ev-412dd08e6dbc",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Lessons from shipping a watch-only Apple Watch app, built with Claude",
+          "url": "https://news.ycombinator.com/item?id=49535845",
+          "publishedAt": "2026-09-02T13:23:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-39db9862e0ff",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Lessons from shipping a watch-only Apple Watch app, built with Claude",
+          "url": "https://silentbell.app/lessons.html",
+          "publishedAt": "2026-09-02T13:23:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2a99525c4323",
+      "date": "2026-09-03",
+      "title": "Show HN: Codeknow – Architecture health scores for any codebase, no LLM needed",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Codeknow – Architecture health scores for any codebase, no LLM needed。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding",
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49540277",
+      "evidence": [
+        {
+          "id": "ev-344de36080f3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Codeknow – Architecture health scores for any codebase, no LLM needed",
+          "url": "https://news.ycombinator.com/item?id=49540277",
+          "publishedAt": "2026-09-02T18:21:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-73a196e23dbe",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Codeknow – Architecture health scores for any codebase, no LLM needed",
+          "url": "https://github.com/asalsali/codeknow",
+          "publishedAt": "2026-09-02T18:21:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-95dcc922070e",
+      "date": "2026-09-03",
+      "title": "Show HN: Redactle LLM Leaderboard",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Redactle LLM Leaderboard。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49544338",
+      "evidence": [
+        {
+          "id": "ev-7a3997957b8a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Redactle LLM Leaderboard",
+          "url": "https://news.ycombinator.com/item?id=49544338",
+          "publishedAt": "2026-09-03T00:11:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-3d29ce09e4a3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Redactle LLM Leaderboard",
+          "url": "https://redactle.net/llm-leaderboard",
+          "publishedAt": "2026-09-03T00:11:55Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-525e256c583e",
+      "date": "2026-09-03",
+      "title": "US judge blocks Trump's newest order limiting birthright citizenship",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：US judge blocks Trump's newest order limiting birthright citizenship。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49543307",
+      "evidence": [
+        {
+          "id": "ev-29d08f003e2e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "US judge blocks Trump's newest order limiting birthright citizenship",
+          "url": "https://news.ycombinator.com/item?id=49543307",
+          "publishedAt": "2026-09-02T22:12:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-fe9377b4ff15",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "US judge blocks Trump's newest order limiting birthright citizenship",
+          "url": "https://www.reuters.com/world/us-judge-wont-immediately-block-trumps-newest-order-limiting-birthright-2026-08-28",
+          "publishedAt": "2026-09-02T22:12:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1beb91eac53e",
+      "date": "2026-09-03",
+      "title": "Why Google Bid $10M for a Failed Airline's Data",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Why Google Bid $10M for a Failed Airline's Data。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49544642",
+      "evidence": [
+        {
+          "id": "ev-61641238d40b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Why Google Bid $10M for a Failed Airline's Data",
+          "url": "https://news.ycombinator.com/item?id=49544642",
+          "publishedAt": "2026-09-03T00:52:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-7e887e6d5d2c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Why Google Bid $10M for a Failed Airline's Data",
+          "url": "https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL",
+          "publishedAt": "2026-09-03T00:52:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 395,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
