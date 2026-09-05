@@ -6,7 +6,42 @@
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
     <atom:link href="https://senmo996.github.io/big_model_radar/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 04 Sep 2026 02:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:08:55 +0000</lastBuildDate>
+    <item>
+      <title>跨源情报信号 2026-09-05</title>
+      <link>https://senmo996.github.io/big_model_radar/#2026-09-05/signals</link>
+      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-09-05/signals</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>跨源情报信号 2026-09-05</description>
+    </item>
+    <item>
+      <title>AI CLI 工具社区动态日报 2026-09-05</title>
+      <link>https://senmo996.github.io/big_model_radar/#2026-09-05/ai-cli</link>
+      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-09-05/ai-cli</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI CLI 工具社区动态日报 2026-09-05</description>
+    </item>
+    <item>
+      <title>AI Agents 生态日报 2026-09-05</title>
+      <link>https://senmo996.github.io/big_model_radar/#2026-09-05/ai-agents</link>
+      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-09-05/ai-agents</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI Agents 生态日报 2026-09-05</description>
+    </item>
+    <item>
+      <title>AI 官方内容追踪报告 2026-09-05</title>
+      <link>https://senmo996.github.io/big_model_radar/#2026-09-05/ai-web</link>
+      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-09-05/ai-web</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI 官方内容追踪报告 2026-09-05</description>
+    </item>
+    <item>
+      <title>AI 开源趋势日报 2026-09-05</title>
+      <link>https://senmo996.github.io/big_model_radar/#2026-09-05/ai-trending</link>
+      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-09-05/ai-trending</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <description>AI 开源趋势日报 2026-09-05</description>
+    </item>
     <item>
       <title>跨源情报信号 2026-09-04</title>
       <link>https://senmo996.github.io/big_model_radar/#2026-09-04/signals</link>
@@ -181,41 +216,6 @@
       <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-31/ai-weekly</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description>AI 工具生态周报 2026-08-31</description>
-    </item>
-    <item>
-      <title>跨源情报信号 2026-08-30</title>
-      <link>https://senmo996.github.io/big_model_radar/#2026-08-30/signals</link>
-      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-30/signals</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>跨源情报信号 2026-08-30</description>
-    </item>
-    <item>
-      <title>AI CLI 工具社区动态日报 2026-08-30</title>
-      <link>https://senmo996.github.io/big_model_radar/#2026-08-30/ai-cli</link>
-      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-30/ai-cli</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI CLI 工具社区动态日报 2026-08-30</description>
-    </item>
-    <item>
-      <title>AI Agents 生态日报 2026-08-30</title>
-      <link>https://senmo996.github.io/big_model_radar/#2026-08-30/ai-agents</link>
-      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-30/ai-agents</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI Agents 生态日报 2026-08-30</description>
-    </item>
-    <item>
-      <title>AI 官方内容追踪报告 2026-08-30</title>
-      <link>https://senmo996.github.io/big_model_radar/#2026-08-30/ai-web</link>
-      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-30/ai-web</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI 官方内容追踪报告 2026-08-30</description>
-    </item>
-    <item>
-      <title>AI 开源趋势日报 2026-08-30</title>
-      <link>https://senmo996.github.io/big_model_radar/#2026-08-30/ai-trending</link>
-      <guid isPermaLink="true">https://senmo996.github.io/big_model_radar/#2026-08-30/ai-trending</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AI 开源趋势日报 2026-08-30</description>
     </item>
   </channel>
 </rss>
