@@ -1,0 +1,1749 @@
+{
+  "version": 1,
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T01:53:04.301Z",
+  "cards": [
+    {
+      "id": "sig-df7bda6f87ce",
+      "date": "2026-09-05",
+      "title": "Formalizing Fermat&#x27;s Last Theorem",
+      "summary": "同一主题出现 7 条关联证据，覆盖 Anthropic (Claude)、Anthropic 官方、Hacker News、原始文章。核心动态：Formalizing Fermat&#x27;s Last Theorem。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 98,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "evidence": [
+        {
+          "id": "ev-70ffe2067c3a",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Formalizing Fermat&#x27;s Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "publishedAt": "2026-09-04T18:21:03.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-09bb58edb021",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官方",
+          "title": "Formalizing Fermat's Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "publishedAt": "2026-09-04T18:42:56Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e90b01bc2d09",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Formalizing Fermat's Last Theorem",
+          "url": "https://news.ycombinator.com/item?id=49568506",
+          "publishedAt": "2026-09-04T18:42:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 489,
+            "comments": 319
+          }
+        },
+        {
+          "id": "ev-e3c01f6acdfb",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Fermat's Last Theorem in Lean 4",
+          "url": "https://news.ycombinator.com/item?id=49568697",
+          "publishedAt": "2026-09-04T18:57:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 65,
+            "comments": 15
+          }
+        },
+        {
+          "id": "ev-74de8a0221b4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+          "url": "https://news.ycombinator.com/item?id=49570133",
+          "publishedAt": "2026-09-04T21:00:02Z",
+          "authority": "community",
+          "metrics": {
+            "points": 34,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-ce7325990739",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Fermat's Last Theorem in Lean 4",
+          "url": "https://github.com/anthropics/fermats-last-theorem",
+          "publishedAt": "2026-09-04T18:57:32Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4a9e325a3341",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+          "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it",
+          "publishedAt": "2026-09-04T21:00:02Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1567a7b0e2ca",
+      "date": "2026-09-05",
+      "title": "Gpt 6 Astra",
+      "summary": "同一主题出现 7 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Gpt 6 Astra。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 95,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 86,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/gpt-6-astra",
+      "evidence": [
+        {
+          "id": "ev-0a868c3c4605",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "publishedAt": "2026-09-05T01:49:50.119Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-63174188a691",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Safety Overview Gpt 6 Astra",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "publishedAt": "2026-09-05T01:49:01.960Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7b89e11bd961",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Path To Astra",
+          "url": "https://openai.com/index/path-to-astra",
+          "publishedAt": "2026-09-05T00:32:59.878Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-53d330d38ff8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "GPT-6 Astra on OpenRouter",
+          "url": "https://news.ycombinator.com/item?id=49570545",
+          "publishedAt": "2026-09-04T21:39:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 121,
+            "comments": 63
+          }
+        },
+        {
+          "id": "ev-c9edc468ccb6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "GPT-6 Astra Generally Available",
+          "url": "https://news.ycombinator.com/item?id=49569707",
+          "publishedAt": "2026-09-04T20:16:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 22,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-52962b767a3a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "GPT-6 Astra on OpenRouter",
+          "url": "https://openrouter.ai/openai/gpt-6-astra",
+          "publishedAt": "2026-09-04T21:39:19Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c5f3906feced",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "GPT-6 Astra Generally Available",
+          "url": "https://twitter.com/OpenAI/status/2095968413646737608",
+          "publishedAt": "2026-09-04T20:16:50Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-28de7c6fc54e",
+      "date": "2026-09-05",
+      "title": "Why Codex Security Doesnt Include Sast",
+      "summary": "同一主题出现 4 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Why Codex Security Doesnt Include Sast。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 91,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 70,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Coding",
+        "Security"
+      ],
+      "primaryUrl": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "evidence": [
+        {
+          "id": "ev-da777a31dc75",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Why Codex Security Doesnt Include Sast",
+          "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+          "publishedAt": "2026-09-05T01:51:42.851Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-966015f3a6fa",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Codex Security Now In Research Preview",
+          "url": "https://openai.com/index/codex-security-now-in-research-preview",
+          "publishedAt": "2026-09-05T01:51:42.110Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f94c53a0ec9a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Pause OpenAI Now",
+          "url": "https://news.ycombinator.com/item?id=49566007",
+          "publishedAt": "2026-09-04T15:24:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 37,
+            "comments": 31
+          }
+        },
+        {
+          "id": "ev-5ec40a6269de",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Pause OpenAI Now",
+          "url": "https://garymarcus.substack.com/p/pause-openai-now",
+          "publishedAt": "2026-09-04T15:24:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8e7084310f57",
+      "date": "2026-09-05",
+      "title": "mattpocock/skills",
+      "summary": "同一主题出现 8 条关联证据，覆盖 GitHub Trending、Claude Code Skills。核心动态：mattpocock/skills。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 86,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "skills",
+        "Anthropic",
+        "Claude Code Skills",
+        "Claude Code"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "API",
+        "Benchmark",
+        "Pricing"
+      ],
+      "primaryUrl": "https://github.com/mattpocock/skills",
+      "evidence": [
+        {
+          "id": "ev-f249d743f145",
+          "source": "github_trending",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Trending",
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "publishedAt": "2026-09-05T01:53:04.301Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 0,
+            "todayStars": 2758,
+            "forks": 0
+          }
+        },
+        {
+          "id": "ev-d39b8a28508f",
+          "source": "github_trending",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Trending",
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "publishedAt": "2026-09-05T01:53:04.301Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 0,
+            "todayStars": 511,
+            "forks": 0
+          }
+        },
+        {
+          "id": "ev-e51d926b8643",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1298",
+          "title": "fix(skill-creator): run_eval.py always reports 0% recall — install the eval artifact as a real skill; fix Windows stream reading, trigger detection, and parallel workers",
+          "url": "https://github.com/anthropics/skills/pull/1298",
+          "publishedAt": "2026-06-23T08:05:00Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-9cfbd99e72ab",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #514",
+          "title": "Add document-typography skill: typographic quality control for generated documents",
+          "url": "https://github.com/anthropics/skills/pull/514",
+          "publishedAt": "2026-03-13T09:26:16Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c97e31e2dad6",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1615",
+          "title": "Add scnet-hpc skill",
+          "url": "https://github.com/anthropics/skills/pull/1615",
+          "publishedAt": "2026-08-24T08:20:56Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-02ba38506add",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #492",
+          "title": "Security: Community skills distributed under anthropic/ namespace enable trust boundary abuse",
+          "url": "https://github.com/anthropics/skills/issues/492",
+          "publishedAt": "2026-07-20T12:27:13Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 43,
+            "reactions": 2
+          }
+        },
+        {
+          "id": "ev-eb4aa16ed764",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #228",
+          "title": "Enable org-wide skill sharing in Claude.ai",
+          "url": "https://github.com/anthropics/skills/issues/228",
+          "publishedAt": "2026-07-25T13:30:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 8
+          }
+        },
+        {
+          "id": "ev-41e2bfa7c38b",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #556",
+          "title": "run_eval.py: claude -p never triggers skills/commands (0% trigger rate across all queries)",
+          "url": "https://github.com/anthropics/skills/issues/556",
+          "publishedAt": "2026-06-10T02:37:30Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-fd0d18043387",
+      "date": "2026-09-05",
+      "title": "v1.18.29",
+      "summary": "同一主题出现 16 条关联证据，覆盖 OpenCode、GitHub Trending、NanoBot、GitHub Search。核心动态：v1.18.29。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 84,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 93,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 16,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "OpenCode",
+        "OpenAI",
+        "opencode",
+        "NanoBot",
+        "Model Context Protocol",
+        "OpenAI Codex"
+      ],
+      "topics": [
+        "Coding",
+        "Model",
+        "Agent",
+        "Open Source",
+        "API",
+        "MCP"
+      ],
+      "primaryUrl": "https://github.com/anomalyco/opencode/releases/tag/v1.18.29",
+      "evidence": [
+        {
+          "id": "ev-2577844cf6f9",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Release",
+          "title": "v1.18.29",
+          "url": "https://github.com/anomalyco/opencode/releases/tag/v1.18.29",
+          "publishedAt": "2026-09-04T23:47:16Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-98fe99729a4b",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Release",
+          "title": "v1.18.28",
+          "url": "https://github.com/anomalyco/opencode/releases/tag/v1.18.28",
+          "publishedAt": "2026-09-04T15:38:23Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1c047823a12e",
+          "source": "github_trending",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Trending",
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "publishedAt": "2026-09-05T01:53:04.301Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 0,
+            "todayStars": 345,
+            "forks": 0
+          }
+        },
+        {
+          "id": "ev-63d4c52b5150",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #47424",
+          "title": "fix(app): increase vertical tabs minimum width",
+          "url": "https://github.com/anomalyco/opencode/pull/47424",
+          "publishedAt": "2026-09-05T01:42:43Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-49e9c14c8e0e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #47423",
+          "title": "feat(core): support provider OAuth client credentials",
+          "url": "https://github.com/anomalyco/opencode/pull/47423",
+          "publishedAt": "2026-09-05T01:42:24Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-9c8e4b668735",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #47390",
+          "title": "fix(app,enterprise): make custom-elements.d.ts a valid triple-slash reference",
+          "url": "https://github.com/anomalyco/opencode/pull/47390",
+          "publishedAt": "2026-09-05T01:39:53Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c8f852125c08",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5666",
+          "title": "feat(providers): add aimlapi.com as an OpenAI-compatible gateway provider",
+          "url": "https://github.com/HKUDS/nanobot/pull/5666",
+          "publishedAt": "2026-09-04T19:20:36Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f62c881d9852",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5656",
+          "title": "feat: make context compaction visible in channels",
+          "url": "https://github.com/HKUDS/nanobot/pull/5656",
+          "publishedAt": "2026-09-04T18:56:33Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a4a5834705df",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5665",
+          "title": "fix(mcp): bound browser OAuth flows",
+          "url": "https://github.com/HKUDS/nanobot/pull/5665",
+          "publishedAt": "2026-09-04T18:00:38Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-63ec545672d7",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #30086",
+          "title": "High CPU usage in newer versions of OpenCode",
+          "url": "https://github.com/anomalyco/opencode/issues/30086",
+          "publishedAt": "2026-09-04T17:40:01Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 50,
+            "reactions": 26
+          }
+        },
+        {
+          "id": "ev-8db5130f614a",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #33356",
+          "title": "Unbounded growth of the `event` table: opencode.db reaches 13GB+, mostly `message.updated.1` snapshots (no retention/compaction)",
+          "url": "https://github.com/anomalyco/opencode/issues/33356",
+          "publishedAt": "2026-09-04T19:43:33Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 27,
+            "reactions": 9
+          }
+        },
+        {
+          "id": "ev-b2b3191774f8",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #47363",
+          "title": "GPT-6 Astra is missing from the OpenAI Codex OAuth model picker",
+          "url": "https://github.com/anomalyco/opencode/issues/47363",
+          "publishedAt": "2026-09-05T00:41:26Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 3,
+            "reactions": 20
+          }
+        },
+        {
+          "id": "ev-682b463d06c2",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5567",
+          "title": "Feat: 飞书渠道应整合多轮回复为单条流式卡片消息",
+          "url": "https://github.com/HKUDS/nanobot/issues/5567",
+          "publishedAt": "2026-09-04T23:02:20Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 4,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-629f9c919346",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5631",
+          "title": "在webui里面展示上下文、模型速度这些信息",
+          "url": "https://github.com/HKUDS/nanobot/issues/5631",
+          "publishedAt": "2026-09-04T13:58:06Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-14575d18ad0b",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5645",
+          "title": "Current Time runtime context is absent by default in 0.3.0 despite timezone documentation",
+          "url": "https://github.com/HKUDS/nanobot/issues/5645",
+          "publishedAt": "2026-09-04T07:53:12Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-04T16:32:29Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47714
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-552e53bb3f31",
+      "date": "2026-09-05",
+      "title": "Discovery of a new OpenAI agent message board",
+      "summary": "同一主题出现 6 条关联证据，覆盖 Hacker News、原始文章。核心动态：Discovery of a new OpenAI agent message board。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 79,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49563355",
+      "evidence": [
+        {
+          "id": "ev-e06903596e5c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://news.ycombinator.com/item?id=49563355",
+          "publishedAt": "2026-09-04T11:54:53Z",
+          "authority": "community",
+          "metrics": {
+            "points": 1481,
+            "comments": 1189
+          }
+        },
+        {
+          "id": "ev-561a2aec26af",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "More Targets of the OpenAI Agent Swarm",
+          "url": "https://news.ycombinator.com/item?id=49569146",
+          "publishedAt": "2026-09-04T19:31:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-af03e35db356",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://news.ycombinator.com/item?id=49563304",
+          "publishedAt": "2026-09-04T11:48:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-c06ddeed3d90",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://collusion.wiki",
+          "publishedAt": "2026-09-04T11:54:53Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a476dce00b2a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "More Targets of the OpenAI Agent Swarm",
+          "url": "https://fi-le.net/vanderbilt",
+          "publishedAt": "2026-09-04T19:31:04Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-bacd5724c9b3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Discovery of a new OpenAI agent message board",
+          "url": "https://collusion.wiki/index.html",
+          "publishedAt": "2026-09-04T11:48:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-cecfd053d035",
+      "date": "2026-09-05",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Corporate America is getting hooked on open-source AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49566137",
+      "evidence": [
+        {
+          "id": "ev-ae9c6f5c8d92",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Corporate America is getting hooked on open-source AI",
+          "url": "https://news.ycombinator.com/item?id=49566137",
+          "publishedAt": "2026-09-04T15:33:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 267,
+            "comments": 251
+          }
+        },
+        {
+          "id": "ev-025727d9d779",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Corporate America is getting hooked on open-source AI",
+          "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+          "publishedAt": "2026-09-04T15:33:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d608b06dfd14",
+      "date": "2026-09-05",
+      "title": "“Next-token predictor” is the wrong mental model for LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：“Next-token predictor” is the wrong mental model for LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 92,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49567310",
+      "evidence": [
+        {
+          "id": "ev-54d9cb2bacd1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "“Next-token predictor” is the wrong mental model for LLMs",
+          "url": "https://news.ycombinator.com/item?id=49567310",
+          "publishedAt": "2026-09-04T17:09:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 84,
+            "comments": 175
+          }
+        },
+        {
+          "id": "ev-2bf67dafc43f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "“Next-token predictor” is the wrong mental model for LLMs",
+          "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+          "publishedAt": "2026-09-04T17:09:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6a53e16f137f",
+      "date": "2026-09-05",
+      "title": "Nobody is saying why OpenAI and Anthropic had outages",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Nobody is saying why OpenAI and Anthropic had outages。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 80,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49567594",
+      "evidence": [
+        {
+          "id": "ev-717dea97e97c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Nobody is saying why OpenAI and Anthropic had outages",
+          "url": "https://news.ycombinator.com/item?id=49567594",
+          "publishedAt": "2026-09-04T17:29:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 192,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-c46b41791db6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Nobody is saying why OpenAI and Anthropic had outages",
+          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+          "publishedAt": "2026-09-04T17:29:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c7650ba874ab",
+      "date": "2026-09-05",
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: TERMy – A fast terminal assistant that does not use LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 76,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49562219",
+      "evidence": [
+        {
+          "id": "ev-b7e3d816bf1a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+          "url": "https://news.ycombinator.com/item?id=49562219",
+          "publishedAt": "2026-09-04T09:03:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 91,
+            "comments": 28
+          }
+        },
+        {
+          "id": "ev-448469d07881",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+          "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+          "publishedAt": "2026-09-04T09:03:00Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4d7b99025d33",
+      "date": "2026-09-05",
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 73,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Hugging Face"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49567357",
+      "evidence": [
+        {
+          "id": "ev-9ede34379d5b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+          "url": "https://news.ycombinator.com/item?id=49567357",
+          "publishedAt": "2026-09-04T17:12:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 71,
+            "comments": 25
+          }
+        },
+        {
+          "id": "ev-88ff09e212ff",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+          "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+          "publishedAt": "2026-09-04T17:12:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5762bda84905",
+      "date": "2026-09-05",
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI agents hijacked German website in previously undisclosed AI breakout。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 70,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49562744",
+      "evidence": [
+        {
+          "id": "ev-8e86cee5732b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+          "url": "https://news.ycombinator.com/item?id=49562744",
+          "publishedAt": "2026-09-04T10:30:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 93,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-2b97af725c28",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+          "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04",
+          "publishedAt": "2026-09-04T10:30:57Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-00047bcf3fb5",
+      "date": "2026-09-05",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Artificial Analysis Intelligence Index v4.2。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 65,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49571632",
+      "evidence": [
+        {
+          "id": "ev-f0a8c6df3bb9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Artificial Analysis Intelligence Index v4.2",
+          "url": "https://news.ycombinator.com/item?id=49571632",
+          "publishedAt": "2026-09-05T00:04:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 45,
+            "comments": 14
+          }
+        },
+        {
+          "id": "ev-7f3d4f1feeaf",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Artificial Analysis Intelligence Index v4.2",
+          "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+          "publishedAt": "2026-09-05T00:04:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1fde36eb799e",
+      "date": "2026-09-05",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Portal by Spotify cut my Claude Code token usage by 90%。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49571465",
+      "evidence": [
+        {
+          "id": "ev-3c4ab508ff0f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "url": "https://news.ycombinator.com/item?id=49571465",
+          "publishedAt": "2026-09-04T23:38:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 35,
+            "comments": 7
+          }
+        },
+        {
+          "id": "ev-1e6b650aa2f3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+          "publishedAt": "2026-09-04T23:38:50Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-204fe26fa921",
+      "date": "2026-09-05",
+      "title": "Almost half of ICANN-accredited registrars under the control of a single busines",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Almost half of ICANN-accredited registrars under the control of a single busines。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 50,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49570802",
+      "evidence": [
+        {
+          "id": "ev-38933e8a44b4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Almost half of ICANN-accredited registrars under the control of a single busines",
+          "url": "https://news.ycombinator.com/item?id=49570802",
+          "publishedAt": "2026-09-04T22:06:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 25,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-530fb87b215d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Almost half of ICANN-accredited registrars under the control of a single busines",
+          "url": "https://domainincite.com/31912-dropcatch-acquires-300-more-registrars",
+          "publishedAt": "2026-09-04T22:06:54Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-71f8d7c657e5",
+      "date": "2026-09-05",
+      "title": "Microsoft says Windows 11 age checks will limit features, starting with Teams",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Microsoft says Windows 11 age checks will limit features, starting with Teams。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 47,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49568724",
+      "evidence": [
+        {
+          "id": "ev-930d08949f97",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Microsoft says Windows 11 age checks will limit features, starting with Teams",
+          "url": "https://news.ycombinator.com/item?id=49568724",
+          "publishedAt": "2026-09-04T18:59:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 15,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-0d42bec117bc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Microsoft says Windows 11 age checks will limit features, starting with Teams",
+          "url": "https://www.neowin.net/news/microsoft-confirms-windows-11-age-verification-to-heavily-limit-features-starting-with-teams",
+          "publishedAt": "2026-09-04T18:59:13Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b37da00ebeff",
+      "date": "2026-09-05",
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Moadim.io – A scheduler for agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49571537",
+      "evidence": [
+        {
+          "id": "ev-4b909328364e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Moadim.io – A scheduler for agents",
+          "url": "https://news.ycombinator.com/item?id=49571537",
+          "publishedAt": "2026-09-04T23:50:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-7b17164e4afa",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Moadim.io – A scheduler for agents",
+          "url": "https://moadim.io",
+          "publishedAt": "2026-09-04T23:50:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-38830c0e5e64",
+      "date": "2026-09-05",
+      "title": "Gimlet's Series B",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Gimlet's Series B。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49571255",
+      "evidence": [
+        {
+          "id": "ev-6ffa20e747fe",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Gimlet's Series B",
+          "url": "https://news.ycombinator.com/item?id=49571255",
+          "publishedAt": "2026-09-04T23:09:18Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-4c60e8337da5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Gimlet's Series B",
+          "url": "https://gimletlabs.ai/blog/announcing-series-b",
+          "publishedAt": "2026-09-04T23:09:18Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8e18ec21b476",
+      "date": "2026-09-05",
+      "title": "Show HN: Declick – Turn an OpenAPI Spec, MCP Server or SQLite DB into a CLI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Declick – Turn an OpenAPI Spec, MCP Server or SQLite DB into a CLI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Model Context Protocol"
+      ],
+      "topics": [
+        "MCP"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49564984",
+      "evidence": [
+        {
+          "id": "ev-578fc4f4d693",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Declick – Turn an OpenAPI Spec, MCP Server or SQLite DB into a CLI",
+          "url": "https://news.ycombinator.com/item?id=49564984",
+          "publishedAt": "2026-09-04T14:15:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-ff5b51c1b132",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Declick – Turn an OpenAPI Spec, MCP Server or SQLite DB into a CLI",
+          "url": "https://github.com/ucsandman/declick",
+          "publishedAt": "2026-09-04T14:15:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-64f852f59b1d",
+      "date": "2026-09-05",
+      "title": "Fast weights and sparse attention in GLM-5.3-Flash",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Fast weights and sparse attention in GLM-5.3-Flash。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49566170",
+      "evidence": [
+        {
+          "id": "ev-35e80204f5b6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Fast weights and sparse attention in GLM-5.3-Flash",
+          "url": "https://news.ycombinator.com/item?id=49566170",
+          "publishedAt": "2026-09-04T15:36:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-4e11e1ff55e4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Fast weights and sparse attention in GLM-5.3-Flash",
+          "url": "https://idlemachines.co.uk/essays/glm-5-3-flash",
+          "publishedAt": "2026-09-04T15:36:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-50ce2eed187d",
+      "date": "2026-09-05",
+      "title": "LLMs Are Bad at Teaching",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：LLMs Are Bad at Teaching。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49568654",
+      "evidence": [
+        {
+          "id": "ev-49942ed6b1e6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "LLMs Are Bad at Teaching",
+          "url": "https://news.ycombinator.com/item?id=49568654",
+          "publishedAt": "2026-09-04T18:55:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-1e6589248578",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "LLMs Are Bad at Teaching",
+          "url": "https://www.heyaristotle.com/blog/funneling-vs-focusing",
+          "publishedAt": "2026-09-04T18:55:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-19d809557834",
+      "date": "2026-09-05",
+      "title": "Microsoft announces monthly hour usage limits for Xbox game pass",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Microsoft announces monthly hour usage limits for Xbox game pass。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49571677",
+      "evidence": [
+        {
+          "id": "ev-5720eb0e29b5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Microsoft announces monthly hour usage limits for Xbox game pass",
+          "url": "https://news.ycombinator.com/item?id=49571677",
+          "publishedAt": "2026-09-05T00:09:59Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-5a61678d942b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Microsoft announces monthly hour usage limits for Xbox game pass",
+          "url": "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes",
+          "publishedAt": "2026-09-05T00:09:59Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7de701f5e6ca",
+      "date": "2026-09-05",
+      "title": "Show HN: SiteTweak – a browser extension to modify any website",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: SiteTweak – a browser extension to modify any website。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49564393",
+      "evidence": [
+        {
+          "id": "ev-89e8d761d171",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: SiteTweak – a browser extension to modify any website",
+          "url": "https://news.ycombinator.com/item?id=49564393",
+          "publishedAt": "2026-09-04T13:32:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-f0bcd59b0161",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: SiteTweak – a browser extension to modify any website",
+          "url": "https://chromewebstore.google.com/detail/sitetweak-edit-any-site-w/jnhmhgddbeljneddgcpglgchbdheakbk",
+          "publishedAt": "2026-09-04T13:32:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-23b6874fc04e",
+      "date": "2026-09-05",
+      "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Chinese businesses giving away AI tokens with coffee, credit cards, dumplings。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49569949",
+      "evidence": [
+        {
+          "id": "ev-4cf1231f840c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+          "url": "https://news.ycombinator.com/item?id=49569949",
+          "publishedAt": "2026-09-04T20:39:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-61b207aed9d1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+          "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek",
+          "publishedAt": "2026-09-04T20:39:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 280,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
