@@ -1,0 +1,1418 @@
+{
+  "version": 1,
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T01:44:35.858Z",
+  "cards": [
+    {
+      "id": "sig-9e4326ff804d",
+      "date": "2026-09-07",
+      "title": "Gpt 6 Astra",
+      "summary": "同一主题出现 4 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Gpt 6 Astra。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 98,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 97,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/gpt-6-astra",
+      "evidence": [
+        {
+          "id": "ev-0a868c3c4605",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "publishedAt": "2026-09-06T15:49:04.459Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7b89e11bd961",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Path To Astra",
+          "url": "https://openai.com/index/path-to-astra",
+          "publishedAt": "2026-09-06T13:33:52.534Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a84ad02c16d4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://news.ycombinator.com/item?id=49582582",
+          "publishedAt": "2026-09-06T01:52:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 231,
+            "comments": 181
+          }
+        },
+        {
+          "id": "ev-a7043867e062",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "GPT-6 Astra on robot arms",
+          "url": "https://openai.robocurve.org/gpt-6-astra",
+          "publishedAt": "2026-09-06T01:52:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9349a0c0709a",
+      "date": "2026-09-07",
+      "title": "anomalyco/opencode",
+      "summary": "同一主题出现 7 条关联证据，覆盖 GitHub Trending、OpenCode。核心动态：anomalyco/opencode。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 84,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 92,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "opencode",
+        "OpenCode",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Open Source",
+        "RAG",
+        "Benchmark",
+        "Pricing"
+      ],
+      "primaryUrl": "https://github.com/anomalyco/opencode",
+      "evidence": [
+        {
+          "id": "ev-1c047823a12e",
+          "source": "github_trending",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Trending",
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "publishedAt": "2026-09-07T01:44:35.858Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 0,
+            "todayStars": 551,
+            "forks": 0
+          }
+        },
+        {
+          "id": "ev-ad30d50b7e50",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #47706",
+          "title": "perf(app): externalize large draft text into content-addressed chunks",
+          "url": "https://github.com/anomalyco/opencode/pull/47706",
+          "publishedAt": "2026-09-07T01:44:25Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-312f94088ecf",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #47705",
+          "title": "perf(app): serialize persisted stores on a schedule instead of per setter call",
+          "url": "https://github.com/anomalyco/opencode/pull/47705",
+          "publishedAt": "2026-09-07T01:44:22Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-52f61fb9be0a",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #47704",
+          "title": "perf(app): cache storage namespaces and batch writes in the renderer",
+          "url": "https://github.com/anomalyco/opencode/pull/47704",
+          "publishedAt": "2026-09-07T01:44:20Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-5a5ab5e3c90d",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #7006",
+          "title": "`permission.ask` plugin hook is defined but not triggered",
+          "url": "https://github.com/anomalyco/opencode/issues/7006",
+          "publishedAt": "2026-09-06T18:45:26Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 25
+          }
+        },
+        {
+          "id": "ev-e0b4bdfd4987",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #24335",
+          "title": "Permission Wildcard * Overwriting Lower Permissions",
+          "url": "https://github.com/anomalyco/opencode/issues/24335",
+          "publishedAt": "2026-09-07T01:43:41Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 10,
+            "reactions": 5
+          }
+        },
+        {
+          "id": "ev-c6a92795698d",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #45278",
+          "title": "Payment Declined After 3 Months Despite No Issue With Card or Bank",
+          "url": "https://github.com/anomalyco/opencode/issues/45278",
+          "publishedAt": "2026-09-06T18:56:02Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-dccd4838827d",
+      "date": "2026-09-07",
+      "title": "An Alien Mind",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI、Hacker News。核心动态：An Alien Mind。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 79,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/an-alien-mind",
+      "evidence": [
+        {
+          "id": "ev-c6c1ac9c7351",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "publishedAt": "2026-09-06T16:02:34.689Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c5083771df27",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An Alien Mind",
+          "url": "https://news.ycombinator.com/item?id=49588080",
+          "publishedAt": "2026-09-06T16:27:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 323,
+            "comments": 286
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-726eaa10b7c6",
+      "date": "2026-09-07",
+      "title": "Research Acceleration View Inside Openai",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、OpenAI 官方、Hacker News。核心动态：Research Acceleration View Inside Openai。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 79,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 85,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "evidence": [
+        {
+          "id": "ev-a4c8fe33fc47",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Research Acceleration View Inside Openai",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "publishedAt": "2026-09-06T15:01:11.338Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a6064ca0c36e",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "publishedAt": "2026-09-06T15:08:44Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1726f792f48b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49587217",
+          "publishedAt": "2026-09-06T15:08:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 110,
+            "comments": 76
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-1e61f3c30235",
+      "date": "2026-09-07",
+      "title": "How we monitor internal coding agents for misalignment",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News。核心动态：How we monitor internal coding agents for misalignment。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 72,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 75,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Coding"
+      ],
+      "primaryUrl": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "evidence": [
+        {
+          "id": "ev-695985d01f6d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+          "publishedAt": "2026-09-06T16:37:55Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2f474af2ca8e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "How we monitor internal coding agents for misalignment",
+          "url": "https://news.ycombinator.com/item?id=49588214",
+          "publishedAt": "2026-09-06T16:37:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 46,
+            "comments": 45
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-c1e9363ef683",
+      "date": "2026-09-07",
+      "title": "Alberta (Canada) slaps punitive tax on solar panels",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Alberta (Canada) slaps punitive tax on solar panels。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 81,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49587285",
+      "evidence": [
+        {
+          "id": "ev-2249f794ba32",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Alberta (Canada) slaps punitive tax on solar panels",
+          "url": "https://news.ycombinator.com/item?id=49587285",
+          "publishedAt": "2026-09-06T15:14:06Z",
+          "authority": "community",
+          "metrics": {
+            "points": 62,
+            "comments": 70
+          }
+        },
+        {
+          "id": "ev-f9e60ab92734",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Alberta (Canada) slaps punitive tax on solar panels",
+          "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy",
+          "publishedAt": "2026-09-06T15:14:06Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-394a61ea7a5c",
+      "date": "2026-09-07",
+      "title": "AI Is Making Us Less Human",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI Is Making Us Less Human。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 46,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49588106",
+      "evidence": [
+        {
+          "id": "ev-e759c33c62b6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Is Making Us Less Human",
+          "url": "https://news.ycombinator.com/item?id=49588106",
+          "publishedAt": "2026-09-06T16:29:35Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-647fecd2d351",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Is Already Making Us Less Human",
+          "url": "https://news.ycombinator.com/item?id=49592456",
+          "publishedAt": "2026-09-07T00:38:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-85a13f546554",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Is Making Us Less Human",
+          "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535",
+          "publishedAt": "2026-09-06T16:29:35Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4d63611080b2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Is Already Making Us Less Human",
+          "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535",
+          "publishedAt": "2026-09-07T00:38:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7071f1965a84",
+      "date": "2026-09-07",
+      "title": "fix(exec): resolve relative working_dir from workspace",
+      "summary": "同一主题出现 4 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(exec): resolve relative working_dir from workspace。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "MCP",
+        "Open Source"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5682",
+      "evidence": [
+        {
+          "id": "ev-5830e88427e0",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5682",
+          "title": "fix(exec): resolve relative working_dir from workspace",
+          "url": "https://github.com/HKUDS/nanobot/pull/5682",
+          "publishedAt": "2026-09-07T00:28:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-4942476ecdc3",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5680",
+          "title": "ci: parallelize tests and filter unrelated jobs",
+          "url": "https://github.com/HKUDS/nanobot/pull/5680",
+          "publishedAt": "2026-09-06T16:42:55Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0cc21d2c3023",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5679",
+          "title": "fix(tui): show context window usage in footer",
+          "url": "https://github.com/HKUDS/nanobot/pull/5679",
+          "publishedAt": "2026-09-06T15:50:24Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-06T16:42:54Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47791
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-fe52af82fba4",
+      "date": "2026-09-07",
+      "title": "GOP issues stark warning to AI companies",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：GOP issues stark warning to AI companies。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 56,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49591782",
+      "evidence": [
+        {
+          "id": "ev-caf8990cd615",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "GOP issues stark warning to AI companies",
+          "url": "https://news.ycombinator.com/item?id=49591782",
+          "publishedAt": "2026-09-06T22:59:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 18,
+            "comments": 11
+          }
+        },
+        {
+          "id": "ev-b03b8d02d519",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "GOP issues stark warning to AI companies",
+          "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+          "publishedAt": "2026-09-06T22:59:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-61d3d6453e12",
+      "date": "2026-09-07",
+      "title": "Pivot to AI safety, I beg you",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Pivot to AI safety, I beg you。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 49,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49592035",
+      "evidence": [
+        {
+          "id": "ev-5c3be26ec40d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Pivot to AI safety, I beg you",
+          "url": "https://news.ycombinator.com/item?id=49592035",
+          "publishedAt": "2026-09-06T23:37:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 8
+          }
+        },
+        {
+          "id": "ev-05bf82f3200a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Pivot to AI safety, I beg you",
+          "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
+          "publishedAt": "2026-09-06T23:37:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f8ffd6d8daf2",
+      "date": "2026-09-07",
+      "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 44,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49587839",
+      "evidence": [
+        {
+          "id": "ev-c6fd1de3f973",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
+          "url": "https://news.ycombinator.com/item?id=49587839",
+          "publishedAt": "2026-09-06T16:03:28Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 7
+          }
+        },
+        {
+          "id": "ev-2f5bec446c2c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
+          "url": "https://github.com/manuelschipper/mdmanager",
+          "publishedAt": "2026-09-06T16:03:28Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0f5dd65722d9",
+      "date": "2026-09-07",
+      "title": "LLM representations have implicit symbolic structure",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：LLM representations have implicit symbolic structure。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49586590",
+      "evidence": [
+        {
+          "id": "ev-50d8ef0fcdaa",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "LLM representations have implicit symbolic structure",
+          "url": "https://news.ycombinator.com/item?id=49586590",
+          "publishedAt": "2026-09-06T13:54:25Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-08667b663302",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "LLM representations have implicit symbolic structure",
+          "url": "https://twitter.com/RTomMcCoy/status/2094870131939684488",
+          "publishedAt": "2026-09-06T13:54:25Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2c72b22eae15",
+      "date": "2026-09-07",
+      "title": "Show HN: Get hard to get backcountry permit",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Get hard to get backcountry permit。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49589572",
+      "evidence": [
+        {
+          "id": "ev-8814bdc53d7c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Get hard to get backcountry permit",
+          "url": "https://news.ycombinator.com/item?id=49589572",
+          "publishedAt": "2026-09-06T18:48:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-0d7c251c1ceb",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Get hard to get backcountry permit",
+          "url": "https://permitsnag.com",
+          "publishedAt": "2026-09-06T18:48:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-837e857262d1",
+      "date": "2026-09-07",
+      "title": "Show HN: Slock – A one-bit messenger inside your capslock key",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Slock – A one-bit messenger inside your capslock key。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49583881",
+      "evidence": [
+        {
+          "id": "ev-314e0ba930a2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Slock – A one-bit messenger inside your capslock key",
+          "url": "https://news.ycombinator.com/item?id=49583881",
+          "publishedAt": "2026-09-06T06:33:26Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-ee86a49f1a82",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Slock – A one-bit messenger inside your capslock key",
+          "url": "https://github.com/jonaraphael/slock",
+          "publishedAt": "2026-09-06T06:33:26Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b9cde60e947a",
+      "date": "2026-09-07",
+      "title": "All of Claude's hilarious \"Never Do This\" in Fable 5.1 System Prompt",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：All of Claude's hilarious \"Never Do This\" in Fable 5.1 System Prompt。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49588374",
+      "evidence": [
+        {
+          "id": "ev-6f5bddc18b17",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "All of Claude's hilarious \"Never Do This\" in Fable 5.1 System Prompt",
+          "url": "https://news.ycombinator.com/item?id=49588374",
+          "publishedAt": "2026-09-06T16:53:49Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-24022182c5b0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "All of Claude's hilarious \"Never Do This\" in Fable 5.1 System Prompt",
+          "url": "https://artifactbin.dev/@vivek/MLWEU6-claude-s-nevers",
+          "publishedAt": "2026-09-06T16:53:49Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1d36f727a2b5",
+      "date": "2026-09-07",
+      "title": "Show HN: Deviant – Sci-Fi Thriller Movie about the Threat/Promise of AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Deviant – Sci-Fi Thriller Movie about the Threat/Promise of AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49590897",
+      "evidence": [
+        {
+          "id": "ev-ef7bc70a5581",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Deviant – Sci-Fi Thriller Movie about the Threat/Promise of AI",
+          "url": "https://news.ycombinator.com/item?id=49590897",
+          "publishedAt": "2026-09-06T21:00:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-a23611012d71",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Deviant – Sci-Fi Thriller Movie about the Threat/Promise of AI",
+          "url": "https://www.youtube.com/watch?v=WTbYRsC8NZw",
+          "publishedAt": "2026-09-06T21:00:55Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4575f69549f0",
+      "date": "2026-09-07",
+      "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49585787",
+      "evidence": [
+        {
+          "id": "ev-aabab185567f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
+          "url": "https://news.ycombinator.com/item?id=49585787",
+          "publishedAt": "2026-09-06T12:17:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-2c45ac969412",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: I stopped using an LLM gateway and put rate-limits/fallback in-process",
+          "url": "https://github.com/LakBud/vernLLM",
+          "publishedAt": "2026-09-06T12:17:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1b450661a0a2",
+      "date": "2026-09-07",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Abliteration.ai is making a business out of removing AI guardrails。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49592655",
+      "evidence": [
+        {
+          "id": "ev-8e7aa4232abf",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://news.ycombinator.com/item?id=49592655",
+          "publishedAt": "2026-09-07T01:09:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-ab8915d250ec",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Abliteration.ai is making a business out of removing AI guardrails",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+          "publishedAt": "2026-09-07T01:09:19Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-03c8887fc174",
+      "date": "2026-09-07",
+      "title": "Meet Claude: ABC's new regional cadet journalist",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Meet Claude: ABC's new regional cadet journalist。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49584944",
+      "evidence": [
+        {
+          "id": "ev-2b36d9055c48",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Meet Claude: ABC's new regional cadet journalist",
+          "url": "https://news.ycombinator.com/item?id=49584944",
+          "publishedAt": "2026-09-06T10:03:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-2ea6ab681815",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Meet Claude: ABC's new regional cadet journalist",
+          "url": "https://independentaustralia.net/business/business-display/meet-claude-abcs-new-regional-cadet-journalist,21521",
+          "publishedAt": "2026-09-06T10:03:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ac0c07c40da1",
+      "date": "2026-09-07",
+      "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：'Model fatigue' sets in as AI labs race to roll out new versions。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49591552",
+      "evidence": [
+        {
+          "id": "ev-095eaf71fb7c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
+          "url": "https://news.ycombinator.com/item?id=49591552",
+          "publishedAt": "2026-09-06T22:26:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-06e6975ac7a5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
+          "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+          "publishedAt": "2026-09-06T22:26:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e5dad465b108",
+      "date": "2026-09-07",
+      "title": "Anthropic IPO launch shifts toward mid-October",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic IPO launch shifts toward mid-October。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49583675",
+      "evidence": [
+        {
+          "id": "ev-d9292d3c8d7b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic IPO launch shifts toward mid-October",
+          "url": "https://news.ycombinator.com/item?id=49583675",
+          "publishedAt": "2026-09-06T05:45:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-6bdafa5e01a2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic IPO launch shifts toward mid-October",
+          "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
+          "publishedAt": "2026-09-06T05:45:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-cd7d941b4553",
+      "date": "2026-09-07",
+      "title": "Show HN: Blunderbase: A Personal Chess Database",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Blunderbase: A Personal Chess Database。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49584085",
+      "evidence": [
+        {
+          "id": "ev-633f3d53a622",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Blunderbase: A Personal Chess Database",
+          "url": "https://news.ycombinator.com/item?id=49584085",
+          "publishedAt": "2026-09-06T07:21:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-7166566045ce",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Blunderbase: A Personal Chess Database",
+          "url": "https://github.com/philphilphil/blunderbase",
+          "publishedAt": "2026-09-06T07:21:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-84dac24452c9",
+      "date": "2026-09-07",
+      "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49587868",
+      "evidence": [
+        {
+          "id": "ev-35d474167378",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49587868",
+          "publishedAt": "2026-09-06T16:07:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-b775d3cd2de7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
+          "url": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
+          "publishedAt": "2026-09-06T16:07:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-21a6ebb0d64a",
+      "date": "2026-09-07",
+      "title": "Airbnb cut authentication code by 60% with server-driven flows",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Airbnb cut authentication code by 60% with server-driven flows。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49592388",
+      "evidence": [
+        {
+          "id": "ev-fffa191d4e11",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Airbnb cut authentication code by 60% with server-driven flows",
+          "url": "https://news.ycombinator.com/item?id=49592388",
+          "publishedAt": "2026-09-07T00:23:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-42e9d1b6944f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Airbnb cut authentication code by 60% with server-driven flows",
+          "url": "https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137",
+          "publishedAt": "2026-09-07T00:23:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 262,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
