@@ -1,0 +1,1579 @@
+{
+  "version": 1,
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T01:55:55.303Z",
+  "cards": [
+    {
+      "id": "sig-a4638022157f",
+      "date": "2026-09-08",
+      "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
+      "summary": "同一主题出现 8 条关联证据，覆盖 Hacker News、原始文章、CoPaw。核心动态：OpenAI's rebel agent swarm died young, but its chilling logs live on。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 88,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 59,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "community",
+        "github",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "CoPaw",
+        "Anthropic"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "RAG",
+        "API",
+        "Benchmark",
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49597354",
+      "evidence": [
+        {
+          "id": "ev-d6b8ba02dc60",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
+          "url": "https://news.ycombinator.com/item?id=49597354",
+          "publishedAt": "2026-09-07T12:07:08Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-72098b9b8876",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
+          "url": "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
+          "publishedAt": "2026-09-07T12:07:08Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f1fea12d6cf5",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · PR #7521",
+          "title": "fix(agent): fold consumed thinking under context pressure",
+          "url": "https://github.com/agentscope-ai/QwenPaw/pull/7521",
+          "publishedAt": "2026-09-07T23:43:52Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-ee7a410edd19",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · PR #7616",
+          "title": "refactor(memory): migrate ADBPG and PowerContext to plugins",
+          "url": "https://github.com/agentscope-ai/QwenPaw/pull/7616",
+          "publishedAt": "2026-09-07T14:38:57Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-4a7442fcce32",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · PR #6399",
+          "title": "feat: add reranker UI config panel to ReMeLightMemoryCard",
+          "url": "https://github.com/agentscope-ai/QwenPaw/pull/6399",
+          "publishedAt": "2026-09-07T14:29:33Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-105ff481b3fd",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · Issue #7505",
+          "title": "[Question]: qwenpaw访问局域网LLM SERVER频繁出现client disconnect导致LLM访问频繁重试，最终超时失败。",
+          "url": "https://github.com/agentscope-ai/QwenPaw/issues/7505",
+          "publishedAt": "2026-09-07T02:29:25Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-6aed5727d148",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · Issue #7576",
+          "title": "[Bug] RetryChatModel hardcoded 32768 context_size fallback causes CONTEXT_UNFIT (>31130 tokens) for all models",
+          "url": "https://github.com/agentscope-ai/QwenPaw/issues/7576",
+          "publishedAt": "2026-09-07T16:59:33Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 5,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-b99d34fbd812",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · Issue #7579",
+          "title": "[Bug]: 模型的回复意外从上下文中丢失",
+          "url": "https://github.com/agentscope-ai/QwenPaw/issues/7579",
+          "publishedAt": "2026-09-07T15:00:05Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 5,
+            "reactions": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-f52ce9750410",
+      "date": "2026-09-08",
+      "title": "Improving our alignment and security practices",
+      "summary": "同一主题出现 7 条关联证据，覆盖 Anthropic (Claude)、Claude Code Skills。核心动态：Improving our alignment and security practices。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 81,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 79,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "github",
+        "official"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude Code Skills",
+        "Claude Code"
+      ],
+      "topics": [
+        "Model",
+        "Security",
+        "Benchmark",
+        "Coding",
+        "API",
+        "Pricing"
+      ],
+      "primaryUrl": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "evidence": [
+        {
+          "id": "ev-5fd4c8cc9b6d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Improving our alignment and security practices",
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "publishedAt": "2026-09-07T09:43:45.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e51d926b8643",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1298",
+          "title": "fix(skill-creator): run_eval.py always reports 0% recall — install the eval artifact as a real skill; fix Windows stream reading, trigger detection, and parallel workers",
+          "url": "https://github.com/anthropics/skills/pull/1298",
+          "publishedAt": "2026-06-23T08:05:00Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-9cfbd99e72ab",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #514",
+          "title": "Add document-typography skill: typographic quality control for generated documents",
+          "url": "https://github.com/anthropics/skills/pull/514",
+          "publishedAt": "2026-03-13T09:26:16Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c97e31e2dad6",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1615",
+          "title": "Add scnet-hpc skill",
+          "url": "https://github.com/anthropics/skills/pull/1615",
+          "publishedAt": "2026-08-24T08:20:56Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-02ba38506add",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #492",
+          "title": "Security: Community skills distributed under anthropic/ namespace enable trust boundary abuse",
+          "url": "https://github.com/anthropics/skills/issues/492",
+          "publishedAt": "2026-07-20T12:27:13Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 43,
+            "reactions": 2
+          }
+        },
+        {
+          "id": "ev-eb4aa16ed764",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #228",
+          "title": "Enable org-wide skill sharing in Claude.ai",
+          "url": "https://github.com/anthropics/skills/issues/228",
+          "publishedAt": "2026-07-25T13:30:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 8
+          }
+        },
+        {
+          "id": "ev-41e2bfa7c38b",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #556",
+          "title": "run_eval.py: claude -p never triggers skills/commands (0% trigger rate across all queries)",
+          "url": "https://github.com/anthropics/skills/issues/556",
+          "publishedAt": "2026-06-10T02:37:30Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-cd1826b2baef",
+      "date": "2026-09-08",
+      "title": "Formalizing Fermat&#x27;s Last Theorem",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Anthropic (Claude)、Hacker News、原始文章。核心动态：Formalizing Fermat&#x27;s Last Theorem。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 78,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 32,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "evidence": [
+        {
+          "id": "ev-70ffe2067c3a",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Formalizing Fermat&#x27;s Last Theorem",
+          "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+          "publishedAt": "2026-09-07T11:07:52.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6017165b426a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days",
+          "url": "https://news.ycombinator.com/item?id=49604319",
+          "publishedAt": "2026-09-08T00:07:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-e9545a2609bc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic AI 'formalizes' proof of Fermat's last theorem in just 11 days",
+          "url": "https://www.nature.com/articles/d41586-026-02822-9",
+          "publishedAt": "2026-09-08T00:07:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8c9978dceae3",
+      "date": "2026-09-08",
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "summary": "同一主题出现 6 条关联证据，覆盖 Hacker News、原始文章。核心动态：Coop – Isolated VM Environments for Running Claude Code and Codex。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 68,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49593842",
+      "evidence": [
+        {
+          "id": "ev-04c84f027c89",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "url": "https://news.ycombinator.com/item?id=49593842",
+          "publishedAt": "2026-09-07T04:18:28Z",
+          "authority": "community",
+          "metrics": {
+            "points": 54,
+            "comments": 12
+          }
+        },
+        {
+          "id": "ev-f441a8a9cd3b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "10-task GLM 5.3 harness bench: Claude, OpenCode, pi, zcode, Hermes and 3code",
+          "url": "https://news.ycombinator.com/item?id=49596553",
+          "publishedAt": "2026-09-07T10:31:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-df8c246a2f09",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Code plugin that shunts work saving 82-94% of tokens",
+          "url": "https://news.ycombinator.com/item?id=49598706",
+          "publishedAt": "2026-09-07T14:13:18Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-965b1fab1b30",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+          "url": "https://github.com/trailofbits/coop",
+          "publishedAt": "2026-09-07T04:18:28Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a0f275f03c2b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "10-task GLM 5.3 harness bench: Claude, OpenCode, pi, zcode, Hermes and 3code",
+          "url": "https://capocasa.dev/10-task-glm-5-3-harness-bench-claude-opencode-pi-zcode-hermes-and-3code",
+          "publishedAt": "2026-09-07T10:31:57Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e627dee66e3d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Code plugin that shunts work saving 82-94% of tokens",
+          "url": "https://github.com/sorantis/portal-ai-plugins/tree/add-shunt-claude/plugins/shunt",
+          "publishedAt": "2026-09-07T14:13:18Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ffa78f45abd6",
+      "date": "2026-09-08",
+      "title": "fix(providers): allow model failover after runner deadlines",
+      "summary": "同一主题出现 6 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(providers): allow model failover after runner deadlines。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 70,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 36,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "OpenAI Codex",
+        "OpenAI",
+        "Model Context Protocol",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "RAG",
+        "MCP",
+        "API"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5675",
+      "evidence": [
+        {
+          "id": "ev-ef6d9d5eb4e7",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5675",
+          "title": "fix(providers): allow model failover after runner deadlines",
+          "url": "https://github.com/HKUDS/nanobot/pull/5675",
+          "publishedAt": "2026-09-08T01:55:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-b02b7af146e8",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5676",
+          "title": "feat(cli): add attach-only Desktop target selection",
+          "url": "https://github.com/HKUDS/nanobot/pull/5676",
+          "publishedAt": "2026-09-08T01:41:52Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-cd8620a7ba3e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5602",
+          "title": "feat(webui): add completion notification sound",
+          "url": "https://github.com/HKUDS/nanobot/pull/5602",
+          "publishedAt": "2026-09-08T00:18:24Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-682b463d06c2",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5567",
+          "title": "Feat: 飞书渠道应整合多轮回复为单条流式卡片消息",
+          "url": "https://github.com/HKUDS/nanobot/issues/5567",
+          "publishedAt": "2026-09-07T19:09:16Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 5,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0a423f913291",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5693",
+          "title": "建议：支持Ultra-lightweight, open-source, self-hosted person，适配无人零售/IoT场景",
+          "url": "https://github.com/HKUDS/nanobot/issues/5693",
+          "publishedAt": "2026-09-08T01:00:25Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-08T01:41:51Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47858
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-c1aab5cde6d9",
+      "date": "2026-09-08",
+      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 83,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49594189",
+      "evidence": [
+        {
+          "id": "ev-c5206caa0ab5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49594189",
+          "publishedAt": "2026-09-07T05:23:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 37,
+            "comments": 95
+          }
+        },
+        {
+          "id": "ev-8e4f6ec53f34",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+          "publishedAt": "2026-09-07T05:23:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-98fbcc4fbe21",
+      "date": "2026-09-08",
+      "title": "El Yayster – a resident LLM that inhabits Emacs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：El Yayster – a resident LLM that inhabits Emacs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49602258",
+      "evidence": [
+        {
+          "id": "ev-4596a96c4476",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "El Yayster – a resident LLM that inhabits Emacs",
+          "url": "https://news.ycombinator.com/item?id=49602258",
+          "publishedAt": "2026-09-07T19:50:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 34,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-687a76c1054e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "El Yayster – a resident LLM that inhabits Emacs",
+          "url": "https://github.com/yayster/yayster.el",
+          "publishedAt": "2026-09-07T19:50:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fce7597bf857",
+      "date": "2026-09-08",
+      "title": "OpenAI 2025 financials $38.5B loss ahead of IPO",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI 2025 financials $38.5B loss ahead of IPO。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 58,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49594296",
+      "evidence": [
+        {
+          "id": "ev-1ad03dd8f34d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI 2025 financials $38.5B loss ahead of IPO",
+          "url": "https://news.ycombinator.com/item?id=49594296",
+          "publishedAt": "2026-09-07T05:41:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 33,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-7dd608d32080",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI 2025 financials $38.5B loss ahead of IPO",
+          "url": "https://qz.com/openai-leaked-financials-losses-revenue-ipo-061626",
+          "publishedAt": "2026-09-07T05:41:13Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-df7951febd3c",
+      "date": "2026-09-08",
+      "title": "The smallest edge AI device for local LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The smallest edge AI device for local LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 60,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49603011",
+      "evidence": [
+        {
+          "id": "ev-a853e0d7ddbd",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The smallest edge AI device for local LLMs",
+          "url": "https://news.ycombinator.com/item?id=49603011",
+          "publishedAt": "2026-09-07T21:09:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 19,
+            "comments": 16
+          }
+        },
+        {
+          "id": "ev-1751352ee219",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The smallest edge AI device for local LLMs",
+          "url": "https://tiiny.ai",
+          "publishedAt": "2026-09-07T21:09:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-afd3bbd938b3",
+      "date": "2026-09-08",
+      "title": "What We Can Learn from Claude's Fable 5.1 System Prompt Changes",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：What We Can Learn from Claude's Fable 5.1 System Prompt Changes。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49601206",
+      "evidence": [
+        {
+          "id": "ev-8f3de8d42e79",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "What We Can Learn from Claude's Fable 5.1 System Prompt Changes",
+          "url": "https://news.ycombinator.com/item?id=49601206",
+          "publishedAt": "2026-09-07T18:12:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-ec9e58a5961c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Fable 5.1 Solves the Cyphral Distich",
+          "url": "https://news.ycombinator.com/item?id=49596536",
+          "publishedAt": "2026-09-07T10:29:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-a9bec7be228c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "What We Can Learn from Claude's Fable 5.1 System Prompt Changes",
+          "url": "https://www.dbreunig.com/2026/09/07/what-we-can-learn-from-claude-s-fable-5-1-system-prompt.html",
+          "publishedAt": "2026-09-07T18:12:45Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8573dffae539",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Fable 5.1 Solves the Cyphral Distich",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "publishedAt": "2026-09-07T10:29:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-eac591e15c55",
+      "date": "2026-09-08",
+      "title": "ChatGPT Was Built on Concealed 'Mass Piracy', Authors Tell Court",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：ChatGPT Was Built on Concealed 'Mass Piracy', Authors Tell Court。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 54,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49598892",
+      "evidence": [
+        {
+          "id": "ev-fc7d47b65103",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "ChatGPT Was Built on Concealed 'Mass Piracy', Authors Tell Court",
+          "url": "https://news.ycombinator.com/item?id=49598892",
+          "publishedAt": "2026-09-07T14:31:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 15,
+            "comments": 9
+          }
+        },
+        {
+          "id": "ev-ee74eb854514",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "ChatGPT Was Built on Concealed 'Mass Piracy', Authors Tell Court",
+          "url": "https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court",
+          "publishedAt": "2026-09-07T14:31:27Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1385a2b7495d",
+      "date": "2026-09-08",
+      "title": "Emacs Bedrock 2.0 Released",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Emacs Bedrock 2.0 Released。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 55,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49602490",
+      "evidence": [
+        {
+          "id": "ev-6df3e6efb02f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Emacs Bedrock 2.0 Released",
+          "url": "https://news.ycombinator.com/item?id=49602490",
+          "publishedAt": "2026-09-07T20:12:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 36,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-4baa7c310393",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Emacs Bedrock 2.0 Released",
+          "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2",
+          "publishedAt": "2026-09-07T20:12:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8349382bcd6e",
+      "date": "2026-09-08",
+      "title": "Secure temporary file sharing for AI agents and humans",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Secure temporary file sharing for AI agents and humans。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 45,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49604280",
+      "evidence": [
+        {
+          "id": "ev-9f82b335e7b8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Secure temporary file sharing for AI agents and humans",
+          "url": "https://news.ycombinator.com/item?id=49604280",
+          "publishedAt": "2026-09-07T23:59:58Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-50c6f4421c8e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Secure temporary file sharing for AI agents and humans",
+          "url": "https://github.com/aispace-sh/aispace-client",
+          "publishedAt": "2026-09-07T23:59:58Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7495f07fef99",
+      "date": "2026-09-08",
+      "title": "Ollama replacement 2-4x faster for no extra compute cost",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Ollama replacement 2-4x faster for no extra compute cost。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Pricing"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49602825",
+      "evidence": [
+        {
+          "id": "ev-bc028e0ae050",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Ollama replacement 2-4x faster for no extra compute cost",
+          "url": "https://news.ycombinator.com/item?id=49602825",
+          "publishedAt": "2026-09-07T20:46:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-494d6f100fa4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Ollama replacement 2-4x faster for no extra compute cost",
+          "url": "https://github.com/omgitsbase/llmash",
+          "publishedAt": "2026-09-07T20:46:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-18b36bb63f8a",
+      "date": "2026-09-08",
+      "title": "WeatherNext 3: Our most advanced global weather AI model",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：WeatherNext 3: Our most advanced global weather AI model。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49604257",
+      "evidence": [
+        {
+          "id": "ev-e05977c3aa28",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "WeatherNext 3: Our most advanced global weather AI model",
+          "url": "https://news.ycombinator.com/item?id=49604257",
+          "publishedAt": "2026-09-07T23:56:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-c633899d88d9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "WeatherNext 3: Our most advanced global weather AI model",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3",
+          "publishedAt": "2026-09-07T23:56:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8271ab032b5d",
+      "date": "2026-09-08",
+      "title": "\"Intelligence curse\" means promise of abundance and UBI unlikely to be fulfilled",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：\"Intelligence curse\" means promise of abundance and UBI unlikely to be fulfilled。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49603217",
+      "evidence": [
+        {
+          "id": "ev-42c75c7d1eac",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "\"Intelligence curse\" means promise of abundance and UBI unlikely to be fulfilled",
+          "url": "https://news.ycombinator.com/item?id=49603217",
+          "publishedAt": "2026-09-07T21:36:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-50bb41c1d287",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "\"Intelligence curse\" means promise of abundance and UBI unlikely to be fulfilled",
+          "url": "https://intelligence-curse.ai/defining",
+          "publishedAt": "2026-09-07T21:36:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3ab3af1f9600",
+      "date": "2026-09-08",
+      "title": "Show HN: Brw - better than Claude chrome",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Brw - better than Claude chrome。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49604261",
+      "evidence": [
+        {
+          "id": "ev-fc9f3c548794",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Brw - better than Claude chrome",
+          "url": "https://news.ycombinator.com/item?id=49604261",
+          "publishedAt": "2026-09-07T23:56:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-4d6b8c964746",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Brw - better than Claude chrome",
+          "url": "https://brw.donworks.co.uk",
+          "publishedAt": "2026-09-07T23:56:50Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-cf739bd5fb0d",
+      "date": "2026-09-08",
+      "title": "Train Jazz",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Train Jazz。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49603156",
+      "evidence": [
+        {
+          "id": "ev-7b8d8686bfcd",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Train Jazz",
+          "url": "https://news.ycombinator.com/item?id=49603156",
+          "publishedAt": "2026-09-07T21:26:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-d61a77ddc0e2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Train Jazz",
+          "url": "https://www.aico.nyc/amtrak",
+          "publishedAt": "2026-09-07T21:26:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c330cd4a8d5d",
+      "date": "2026-09-08",
+      "title": "I put my Electron app on my landing page, no screenshots (React/CodeMirror/Waku)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I put my Electron app on my landing page, no screenshots (React/CodeMirror/Waku)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49602810",
+      "evidence": [
+        {
+          "id": "ev-ad39d7cf3d10",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I put my Electron app on my landing page, no screenshots (React/CodeMirror/Waku)",
+          "url": "https://news.ycombinator.com/item?id=49602810",
+          "publishedAt": "2026-09-07T20:45:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-56f3fac38976",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I put my Electron app on my landing page, no screenshots (React/CodeMirror/Waku)",
+          "url": "https://www.devas.life/how-i-designed-my-saas-landing-page-with-ai-tools",
+          "publishedAt": "2026-09-07T20:45:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6322dacf1c54",
+      "date": "2026-09-08",
+      "title": "Actually Real AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Actually Real AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49603155",
+      "evidence": [
+        {
+          "id": "ev-92cf96977d9d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Actually Real AI",
+          "url": "https://news.ycombinator.com/item?id=49603155",
+          "publishedAt": "2026-09-07T21:26:02Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-779b6d5bd0fc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Actually Real AI",
+          "url": "https://actually-real-ai.com",
+          "publishedAt": "2026-09-07T21:26:02Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a678a32c1677",
+      "date": "2026-09-08",
+      "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49602598",
+      "evidence": [
+        {
+          "id": "ev-7d0a8f1e6881",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+          "url": "https://news.ycombinator.com/item?id=49602598",
+          "publishedAt": "2026-09-07T20:22:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-1f1e9464b9f1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+          "url": "https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious",
+          "publishedAt": "2026-09-07T20:22:54Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0750ed0b5adb",
+      "date": "2026-09-08",
+      "title": "OpenCode team's X analytics leaderboard",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenCode team's X analytics leaderboard。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49604328",
+      "evidence": [
+        {
+          "id": "ev-0708f8069c3e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenCode team's X analytics leaderboard",
+          "url": "https://news.ycombinator.com/item?id=49604328",
+          "publishedAt": "2026-09-08T00:08:48Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-af7930bb7a2e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenCode team's X analytics leaderboard",
+          "url": "https://xrank.opencode.ai",
+          "publishedAt": "2026-09-08T00:08:48Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9580a89d063f",
+      "date": "2026-09-08",
+      "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding",
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49599867",
+      "evidence": [
+        {
+          "id": "ev-f09952bed1f8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+          "url": "https://news.ycombinator.com/item?id=49599867",
+          "publishedAt": "2026-09-07T16:05:58Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-2ff2200e67be",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+          "url": "https://github.com/oooscoos/Benzi",
+          "publishedAt": "2026-09-07T16:05:58Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f38296ac8f5e",
+      "date": "2026-09-08",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The Download: the hunt for underground hydrogen and more rogue OpenAI agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49600457",
+      "evidence": [
+        {
+          "id": "ev-c281ccce11d4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "url": "https://news.ycombinator.com/item?id=49600457",
+          "publishedAt": "2026-09-07T17:01:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-4ac36efaa2f9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents",
+          "publishedAt": "2026-09-07T17:01:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 271,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
