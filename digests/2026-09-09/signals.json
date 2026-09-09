@@ -1,0 +1,1415 @@
+{
+  "version": 1,
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T02:01:16.345Z",
+  "cards": [
+    {
+      "id": "sig-670a1d628bb0",
+      "date": "2026-09-09",
+      "title": "Introducing Chatgpt Images 2 5",
+      "summary": "同一主题出现 5 条关联证据，覆盖 OpenAI、OpenAI 官方、Hacker News。核心动态：Introducing Chatgpt Images 2 5。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 86,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 5,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "evidence": [
+        {
+          "id": "ev-8a7501ee51ed",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Images 2 5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "publishedAt": "2026-09-09T02:01:04.920Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4831ff99c0e0",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Aardvark",
+          "url": "https://openai.com/index/introducing-aardvark",
+          "publishedAt": "2026-09-08T22:22:47.215Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d223dcddf1b3",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Gpt Rosalind",
+          "url": "https://openai.com/index/introducing-gpt-rosalind",
+          "publishedAt": "2026-09-08T20:07:46.468Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ef1754a44fce",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "ChatGPT Images 2.5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "publishedAt": "2026-09-08T18:37:51Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6ecb04bdd824",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "ChatGPT Images 2.5",
+          "url": "https://news.ycombinator.com/item?id=49614720",
+          "publishedAt": "2026-09-08T18:37:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 274,
+            "comments": 366
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-811dbb87b9d6",
+      "date": "2026-09-09",
+      "title": "Why Codex Security Doesnt Include Sast",
+      "summary": "同一主题出现 4 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Why Codex Security Doesnt Include Sast。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 86,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 50,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Coding",
+        "Security"
+      ],
+      "primaryUrl": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "evidence": [
+        {
+          "id": "ev-da777a31dc75",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Why Codex Security Doesnt Include Sast",
+          "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+          "publishedAt": "2026-09-08T22:22:48.745Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-966015f3a6fa",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Codex Security Now In Research Preview",
+          "url": "https://openai.com/index/codex-security-now-in-research-preview",
+          "publishedAt": "2026-09-08T22:22:48.589Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ce4775dcb119",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI stole mathematicians' private research from their own Codex chats",
+          "url": "https://news.ycombinator.com/item?id=49610921",
+          "publishedAt": "2026-09-08T14:35:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 18,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-e9ee32ba9296",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI stole mathematicians' private research from their own Codex chats",
+          "url": "https://www.reddit.com/r/technology/comments/1waoiai/report_openai_stole_mathematicians_private",
+          "publishedAt": "2026-09-08T14:35:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2b5fe470aefe",
+      "date": "2026-09-09",
+      "title": "Navier Stokes Solution",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、OpenAI 官方、Hacker News。核心动态：Navier Stokes Solution。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 82,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/navier-stokes-solution",
+      "evidence": [
+        {
+          "id": "ev-9707281a2207",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Navier Stokes Solution",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "publishedAt": "2026-09-08T18:13:59.989Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-77d35415a00e",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "publishedAt": "2026-09-08T17:13:21Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-bbb9493c3ebc",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "url": "https://news.ycombinator.com/item?id=49613262",
+          "publishedAt": "2026-09-08T17:13:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 1127,
+            "comments": 972
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-103c38422008",
+      "date": "2026-09-09",
+      "title": "OpenAI fought dirty on career-making math problem",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI fought dirty on career-making math problem。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 75,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 86,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49615926",
+      "evidence": [
+        {
+          "id": "ev-11d9b7fd55cf",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI fought dirty on career-making math problem",
+          "url": "https://news.ycombinator.com/item?id=49615926",
+          "publishedAt": "2026-09-08T19:47:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 157,
+            "comments": 57
+          }
+        },
+        {
+          "id": "ev-2562cd3efed3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Says It Has Solved a Millennium Prize Problem–A Holy Grail of Math",
+          "url": "https://news.ycombinator.com/item?id=49614718",
+          "publishedAt": "2026-09-08T18:37:46Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-894a2074d58b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI fought dirty on career-making math problem",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "publishedAt": "2026-09-08T19:47:13Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-327752adb661",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Says It Has Solved a Millennium Prize Problem–A Holy Grail of Math",
+          "url": "https://www.wsj.com/tech/ai/openai-millennium-prize-navier-stokes-math-2bf240f8",
+          "publishedAt": "2026-09-08T18:37:46Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-44998bf2ecdd",
+      "date": "2026-09-09",
+      "title": "fix(agent): bound idle summary cache",
+      "summary": "同一主题出现 6 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(agent): bound idle summary cache。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 33,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "RAG",
+        "Coding",
+        "Model",
+        "API",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5664",
+      "evidence": [
+        {
+          "id": "ev-dd05bce3fb90",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5664",
+          "title": "fix(agent): bound idle summary cache",
+          "url": "https://github.com/HKUDS/nanobot/pull/5664",
+          "publishedAt": "2026-09-08T18:56:25Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-d008b836a904",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #4919",
+          "title": "feat(telegram): support custom Bot API base URL and extra headers",
+          "url": "https://github.com/HKUDS/nanobot/pull/4919",
+          "publishedAt": "2026-09-08T18:56:25Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-dc8fa9ff215d",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5711",
+          "title": "fix(command): rename hyphenated slash commands to Telegram-safe underscores",
+          "url": "https://github.com/HKUDS/nanobot/pull/5711",
+          "publishedAt": "2026-09-08T18:02:45Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0a423f913291",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5693",
+          "title": "建议：支持Ultra-lightweight, open-source, self-hosted person，适配无人零售/IoT场景",
+          "url": "https://github.com/HKUDS/nanobot/issues/5693",
+          "publishedAt": "2026-09-08T12:18:42Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 3,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-b4a723b617a5",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5696",
+          "title": "[First-time contributor] Looking for beginner-friendly issues to contribute",
+          "url": "https://github.com/HKUDS/nanobot/issues/5696",
+          "publishedAt": "2026-09-08T07:54:35Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-08T17:03:40Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47902
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-7935e20e7708",
+      "date": "2026-09-09",
+      "title": "I resigned from Anthropic today",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I resigned from Anthropic today。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 68,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 87,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49619227",
+      "evidence": [
+        {
+          "id": "ev-78582f52d9ea",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I resigned from Anthropic today",
+          "url": "https://news.ycombinator.com/item?id=49619227",
+          "publishedAt": "2026-09-09T00:40:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 99,
+            "comments": 104
+          }
+        },
+        {
+          "id": "ev-0724edb4e98c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I resigned from Anthropic today",
+          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+          "publishedAt": "2026-09-09T00:40:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5e416f2f7a1f",
+      "date": "2026-09-09",
+      "title": "OUI-1: world's first model for Generative UI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OUI-1: world's first model for Generative UI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 79,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49613182",
+      "evidence": [
+        {
+          "id": "ev-f3570f5cbcb2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OUI-1: world's first model for Generative UI",
+          "url": "https://news.ycombinator.com/item?id=49613182",
+          "publishedAt": "2026-09-08T17:07:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 57,
+            "comments": 60
+          }
+        },
+        {
+          "id": "ev-a9f429035a0e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OUI-1: world's first model for Generative UI",
+          "url": "https://www.openui.com/blog/oui-1",
+          "publishedAt": "2026-09-08T17:07:54Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f0c5feb91d5e",
+      "date": "2026-09-09",
+      "title": "Show HN: LLM Attention Visualization",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: LLM Attention Visualization。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 79,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49613068",
+      "evidence": [
+        {
+          "id": "ev-020fbd9b5dc0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: LLM Attention Visualization",
+          "url": "https://news.ycombinator.com/item?id=49613068",
+          "publishedAt": "2026-09-08T16:59:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 130,
+            "comments": 22
+          }
+        },
+        {
+          "id": "ev-637b78704262",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: LLM Attention Visualization",
+          "url": "https://ishamf.dev/p/llm-attention-visualizer",
+          "publishedAt": "2026-09-08T16:59:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d4c7fb7f9d80",
+      "date": "2026-09-09",
+      "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 58,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49610528",
+      "evidence": [
+        {
+          "id": "ev-13dc1b75c427",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+          "url": "https://news.ycombinator.com/item?id=49610528",
+          "publishedAt": "2026-09-08T14:05:06Z",
+          "authority": "community",
+          "metrics": {
+            "points": 31,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-ccb3a9f9f0c9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+          "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google",
+          "publishedAt": "2026-09-08T14:05:06Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-edb8e90297ab",
+      "date": "2026-09-09",
+      "title": "Controversy over OpenAI's Maths Breakthrough",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Controversy over OpenAI's Maths Breakthrough。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49613033",
+      "evidence": [
+        {
+          "id": "ev-e7ba8e6a4353",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Controversy over OpenAI's Maths Breakthrough",
+          "url": "https://news.ycombinator.com/item?id=49613033",
+          "publishedAt": "2026-09-08T16:57:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 32,
+            "comments": 8
+          }
+        },
+        {
+          "id": "ev-7891975a1ad2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Controversy over OpenAI's Maths Breakthrough",
+          "url": "https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy",
+          "publishedAt": "2026-09-08T16:57:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5dfb272afc07",
+      "date": "2026-09-09",
+      "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 54,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49618622",
+      "evidence": [
+        {
+          "id": "ev-323e09ff45b3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49618622",
+          "publishedAt": "2026-09-08T23:28:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 10
+          }
+        },
+        {
+          "id": "ev-a56d192a2ee7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
+          "url": "https://media.defense.gov/2026/Sep/08/2003992823/-1/-1/1/CSA_CHINA_BASED_AI_COMPANIES_MALICIOUS_DISTILLATION_AGAINST_US.PDF",
+          "publishedAt": "2026-09-08T23:28:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-da9318750d98",
+      "date": "2026-09-09",
+      "title": "After Work, We'll Have Each Other",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：After Work, We'll Have Each Other。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 51,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49616238",
+      "evidence": [
+        {
+          "id": "ev-1e0eb61d8285",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "After Work, We'll Have Each Other",
+          "url": "https://news.ycombinator.com/item?id=49616238",
+          "publishedAt": "2026-09-08T20:06:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 17,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-86e9136adaec",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "After Work, We'll Have Each Other",
+          "url": "https://asteriskmag.com/issues/15/after-work-we-ll-have-each-other",
+          "publishedAt": "2026-09-08T20:06:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-292e0825457f",
+      "date": "2026-09-09",
+      "title": "Has OpenAI model solved 80-year-old Navier-Stokes problem?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Has OpenAI model solved 80-year-old Navier-Stokes problem?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 50,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49611362",
+      "evidence": [
+        {
+          "id": "ev-995dc994d829",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Has OpenAI model solved 80-year-old Navier-Stokes problem?",
+          "url": "https://news.ycombinator.com/item?id=49611362",
+          "publishedAt": "2026-09-08T15:02:35Z",
+          "authority": "community",
+          "metrics": {
+            "points": 20,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-8908f1487773",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Has OpenAI model solved 80-year-old Navier-Stokes problem?",
+          "url": "https://www.firstpost.com/tech/has-openai-model-solved-80-year-old-navier-stokes-problem-mathematician-raises-questions-14044080.html",
+          "publishedAt": "2026-09-08T15:02:35Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6eef5a983848",
+      "date": "2026-09-09",
+      "title": "\"Please Remove All Mannered Prose\" and Other LLM Incantations",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：\"Please Remove All Mannered Prose\" and Other LLM Incantations。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 48,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49613200",
+      "evidence": [
+        {
+          "id": "ev-b936f6ea6313",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "\"Please Remove All Mannered Prose\" and Other LLM Incantations",
+          "url": "https://news.ycombinator.com/item?id=49613200",
+          "publishedAt": "2026-09-08T17:08:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 21,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-c26f9bfba05f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "\"Please Remove All Mannered Prose\" and Other LLM Incantations",
+          "url": "https://matthewritch.com/blog/2026/09/08/Mannered-Prose-Style-Prompts",
+          "publishedAt": "2026-09-08T17:08:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c4b220cb4213",
+      "date": "2026-09-09",
+      "title": "Feds accuse China of 'systematic' distillation of U.S. AI models",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Feds accuse China of 'systematic' distillation of U.S. AI models。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 46,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49618459",
+      "evidence": [
+        {
+          "id": "ev-c0d84f58b2c4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Feds accuse China of 'systematic' distillation of U.S. AI models",
+          "url": "https://news.ycombinator.com/item?id=49618459",
+          "publishedAt": "2026-09-08T23:12:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-635c4da6e266",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Feds accuse China of 'systematic' distillation of U.S. AI models",
+          "url": "https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation",
+          "publishedAt": "2026-09-08T23:12:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-60e51e0a357e",
+      "date": "2026-09-09",
+      "title": "OpenAI Says It Has Cracked One of Math's 'Millennium Problems'",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Says It Has Cracked One of Math's 'Millennium Problems'。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 42,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49613247",
+      "evidence": [
+        {
+          "id": "ev-b93edc075a55",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Says It Has Cracked One of Math's 'Millennium Problems'",
+          "url": "https://news.ycombinator.com/item?id=49613247",
+          "publishedAt": "2026-09-08T17:11:48Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-2ac2bc8a732e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Says It Has Cracked One of Math's 'Millennium Problems'",
+          "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+          "publishedAt": "2026-09-08T17:11:48Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f41046613ecc",
+      "date": "2026-09-09",
+      "title": "Python sets and dictionaries can have quadratic-time performance",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Python sets and dictionaries can have quadratic-time performance。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49612470",
+      "evidence": [
+        {
+          "id": "ev-d2be900d905f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Python sets and dictionaries can have quadratic-time performance",
+          "url": "https://news.ycombinator.com/item?id=49612470",
+          "publishedAt": "2026-09-08T16:17:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-ae177fd0946b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Python sets and dictionaries can have quadratic-time performance",
+          "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance",
+          "publishedAt": "2026-09-08T16:17:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9d2988dc293f",
+      "date": "2026-09-09",
+      "title": "80% of OpenAI, Anthropic's enterprise revenues come from 1% of their customers",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：80% of OpenAI, Anthropic's enterprise revenues come from 1% of their customers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49613331",
+      "evidence": [
+        {
+          "id": "ev-2fc17be381a1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "80% of OpenAI, Anthropic's enterprise revenues come from 1% of their customers",
+          "url": "https://news.ycombinator.com/item?id=49613331",
+          "publishedAt": "2026-09-08T17:17:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-a197d702ed8d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "80% of OpenAI, Anthropic's enterprise revenues come from 1% of their customers",
+          "url": "https://bsky.app/profile/arakharazian.bsky.social/post/3mukjsrupvs2t",
+          "publishedAt": "2026-09-08T17:17:57Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0a1a6373aba1",
+      "date": "2026-09-09",
+      "title": "Countries with France,UK announce sanctions on Israeli settlements in WestBank",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Countries with France,UK announce sanctions on Israeli settlements in WestBank。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49615639",
+      "evidence": [
+        {
+          "id": "ev-e06fb911b4f9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Countries with France,UK announce sanctions on Israeli settlements in WestBank",
+          "url": "https://news.ycombinator.com/item?id=49615639",
+          "publishedAt": "2026-09-08T19:30:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 14,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-1b100cf34128",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Countries with France,UK announce sanctions on Israeli settlements in WestBank",
+          "url": "https://www.lemonde.fr/en/international/article/2026/09/08/12-countries-including-france-uk-say-to-sanction-trade-from-israeli-settlements_6757291_4.html",
+          "publishedAt": "2026-09-08T19:30:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-24ea157c08b4",
+      "date": "2026-09-09",
+      "title": "OpenAI Just Claimed a Math Discovery. Some Academics Are Crying Foul",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Just Claimed a Math Discovery. Some Academics Are Crying Foul。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49614049",
+      "evidence": [
+        {
+          "id": "ev-7110b2fdbe2d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Just Claimed a Math Discovery. Some Academics Are Crying Foul",
+          "url": "https://news.ycombinator.com/item?id=49614049",
+          "publishedAt": "2026-09-08T17:58:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-21b80bbe3c16",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Just Claimed a Math Discovery. Some Academics Are Crying Foul",
+          "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics",
+          "publishedAt": "2026-09-08T17:58:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3670316e77a8",
+      "date": "2026-09-09",
+      "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：ex-OpenAI Researcher Quits Anthropic over AI Safety Fears。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49619672",
+      "evidence": [
+        {
+          "id": "ev-102420698736",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
+          "url": "https://news.ycombinator.com/item?id=49619672",
+          "publishedAt": "2026-09-09T01:36:17Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-63fb26f58436",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
+          "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
+          "publishedAt": "2026-09-09T01:36:17Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-499935fabe3c",
+      "date": "2026-09-09",
+      "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49616247",
+      "evidence": [
+        {
+          "id": "ev-b300886ef51f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+          "url": "https://news.ycombinator.com/item?id=49616247",
+          "publishedAt": "2026-09-08T20:07:08Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-7fd5d438d225",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor",
+          "publishedAt": "2026-09-08T20:07:08Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-eb8d0858a6e8",
+      "date": "2026-09-09",
+      "title": "OpenAI's German Wiki Hack Is Less About \"Rogue AI\" Than Failed Agent Containment",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI's German Wiki Hack Is Less About \"Rogue AI\" Than Failed Agent Containment。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49614911",
+      "evidence": [
+        {
+          "id": "ev-af847c4d30ef",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI's German Wiki Hack Is Less About \"Rogue AI\" Than Failed Agent Containment",
+          "url": "https://news.ycombinator.com/item?id=49614911",
+          "publishedAt": "2026-09-08T18:49:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-250349a9430a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI's German Wiki Hack Is Less About \"Rogue AI\" Than Failed Agent Containment",
+          "url": "https://securityboulevard.com/2026/09/openais-german-wiki-hack-is-less-about-rogue-ai-than-failed-agent-containment",
+          "publishedAt": "2026-09-08T18:49:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e0809fba93f1",
+      "date": "2026-09-09",
+      "title": "Super Smash Brothers Melee has been 100% decompilated with the help of LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Super Smash Brothers Melee has been 100% decompilated with the help of LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49612081",
+      "evidence": [
+        {
+          "id": "ev-59de99e71327",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Super Smash Brothers Melee has been 100% decompilated with the help of LLMs",
+          "url": "https://news.ycombinator.com/item?id=49612081",
+          "publishedAt": "2026-09-08T15:49:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-31ea59724aa9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Super Smash Brothers Melee has been 100% decompilated with the help of LLMs",
+          "url": "https://github.com/doldecomp/melee",
+          "publishedAt": "2026-09-08T15:49:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 286,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
