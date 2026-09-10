@@ -1,0 +1,2425 @@
+{
+  "version": 1,
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T01:57:59.131Z",
+  "cards": [
+    {
+      "id": "sig-5257dd5e6cef",
+      "date": "2026-09-10",
+      "title": "Release v0.23.2",
+      "summary": "同一主题出现 37 条关联证据，覆盖 Qwen Code、Anthropic (Claude)、Hacker News、原始文章、PicoClaw。核心动态：Release v0.23.2。",
+      "whyItMatters": "该主题已跨越 4 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 94,
+      "scoreBreakdown": {
+        "sourceDiversity": 100,
+        "authority": 100,
+        "engagement": 74,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 37,
+      "sourceFamilies": [
+        "community",
+        "github",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "Qwen Code",
+        "OpenAI",
+        "Anthropic",
+        "Model Context Protocol",
+        "Claude Code",
+        "Google Gemini"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "API",
+        "MCP",
+        "RAG"
+      ],
+      "primaryUrl": "https://github.com/QwenLM/qwen-code/releases/tag/v0.23.2",
+      "evidence": [
+        {
+          "id": "ev-7766955ecbb0",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · Release",
+          "title": "Release v0.23.2",
+          "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.23.2",
+          "publishedAt": "2026-09-09T10:51:34Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c0a7367ef3b6",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · Release",
+          "title": "Release v0.23.2-nightly.20260909.2e212144d3",
+          "url": "https://github.com/QwenLM/qwen-code/releases/tag/v0.23.2-nightly.20260909.2e212144d3",
+          "publishedAt": "2026-09-09T22:00:29Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8488fabf3d14",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · Release",
+          "title": "SDK TypeScript Release v0.1.11",
+          "url": "https://github.com/QwenLM/qwen-code/releases/tag/sdk-typescript-v0.1.11",
+          "publishedAt": "2026-09-09T11:47:33Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-06b88cfdc000",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Apple’s Xcode now supports the Claude Agent SDK",
+          "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+          "publishedAt": "2026-09-09T21:33:07.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a776c6ef4639",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Measuring AI agent autonomy in practice",
+          "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+          "publishedAt": "2026-09-09T21:19:12.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ff40b3322da0",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Trustworthy agents in practice",
+          "url": "https://www.anthropic.com/research/trustworthy-agents",
+          "publishedAt": "2026-09-09T20:38:30.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8fe75590d7ff",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Agents for financial services",
+          "url": "https://www.anthropic.com/news/finance-agents",
+          "publishedAt": "2026-09-09T20:22:41.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-fafeda447dad",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Specific versus general principles for Constitutional AI",
+          "url": "https://www.anthropic.com/research/specific-versus-general-principles-for-constitutional-ai",
+          "publishedAt": "2026-09-09T20:18:42.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-05e34b76ac44",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Frontier threats red teaming for AI safety",
+          "url": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
+          "publishedAt": "2026-09-09T19:59:08.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-33b65fb4b608",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Measuring faithfulness in Chain-of-Thought reasoning",
+          "url": "https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning",
+          "publishedAt": "2026-09-09T19:56:50.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f20ce5cedab0",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Question decomposition improves reasoning faithfulness",
+          "url": "https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning",
+          "publishedAt": "2026-09-09T19:54:49.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c0ba21b39c8b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Measuring subjective global opinions in LLMs",
+          "url": "https://www.anthropic.com/research/towards-measuring-the-representation-of-subjective-global-opinions-in-language-models",
+          "publishedAt": "2026-09-09T19:51:23.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5efe6d94e3f8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Measuring progress on scalable oversight",
+          "url": "https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models",
+          "publishedAt": "2026-09-09T19:23:46.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a082151fa9fa",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Red teaming language models to reduce harms",
+          "url": "https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned",
+          "publishedAt": "2026-09-09T19:22:02.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-16764332f3b8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Language models (mostly) know what they know",
+          "url": "https://www.anthropic.com/research/language-models-mostly-know-what-they-know",
+          "publishedAt": "2026-09-09T19:21:02.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3384d450747f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "A general language assistant as a lab for alignment",
+          "url": "https://www.anthropic.com/research/a-general-language-assistant-as-a-laboratory-for-alignment",
+          "publishedAt": "2026-09-09T19:08:39.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6a3d46fee9e3",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Measuring LLMs’ ability to develop exploits",
+          "url": "https://www.anthropic.com/research/exploit-evals",
+          "publishedAt": "2026-09-09T15:46:02.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-de21de5edf84",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Measuring LLMs&#x27; impact on N-day exploits",
+          "url": "https://www.anthropic.com/research/n-days",
+          "publishedAt": "2026-09-09T15:35:41.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-9c6e1b7490c5",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "DXC integrates Claude for regulated industries",
+          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+          "publishedAt": "2026-09-09T15:33:53.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-bc4d4d3ace60",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "TCS brings Claude to regulated industries",
+          "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+          "publishedAt": "2026-09-09T15:32:36.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-581cbd2ccb08",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "An off switch for dual-use knowledge",
+          "url": "https://www.anthropic.com/research/off-switch-dual-use",
+          "publishedAt": "2026-09-09T15:21:24.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c6f483cb3ce6",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing Claude for Teachers",
+          "url": "https://www.anthropic.com/news/claude-for-teachers",
+          "publishedAt": "2026-09-09T15:14:47.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e8c793d0014a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases",
+          "url": "https://news.ycombinator.com/item?id=49626148",
+          "publishedAt": "2026-09-09T13:24:02Z",
+          "authority": "community",
+          "metrics": {
+            "points": 14,
+            "comments": 9
+          }
+        },
+        {
+          "id": "ev-a931133d21db",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Dive into FrontierHarness Eval: Claude Code cost 5.6× for the same pass rate",
+          "url": "https://news.ycombinator.com/item?id=49628679",
+          "publishedAt": "2026-09-09T15:59:47Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-07fd9fb37494",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Dive into FrontierHarness Eval: Claude Code cost 5.6× for the same pass rate",
+          "url": "https://runta.com/blog/introducing-frontierharness-eval",
+          "publishedAt": "2026-09-09T15:59:47Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4b229381fc97",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · PR #11360",
+          "title": "feat(goal): start approved Web Shell proposals after their owning turn",
+          "url": "https://github.com/QwenLM/qwen-code/pull/11360",
+          "publishedAt": "2026-09-10T01:56:26Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-d84aacbe8ffd",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · PR #11456",
+          "title": "feat(review): focus automatic static navigation reviews",
+          "url": "https://github.com/QwenLM/qwen-code/pull/11456",
+          "publishedAt": "2026-09-10T01:56:02Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f1f7ddc097c6",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · PR #11003",
+          "title": "feat: delegate a subagent turn to an external agent over ACP (Claude Code first)",
+          "url": "https://github.com/QwenLM/qwen-code/pull/11003",
+          "publishedAt": "2026-09-10T01:55:40Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-5d3ea2885f0c",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · PR #1349",
+          "title": "feat(qq): support parsing and replying to more attachment types",
+          "url": "https://github.com/sipeed/picoclaw/pull/1349",
+          "publishedAt": "2026-09-09T18:50:12Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f7275d19826d",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · PR #3358",
+          "title": "fix(agent): thread responses to the originating question message",
+          "url": "https://github.com/sipeed/picoclaw/pull/3358",
+          "publishedAt": "2026-09-09T18:14:01Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f14763214de6",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · PR #3354",
+          "title": "feat(irc): assemble IRCv3 multiline messages",
+          "url": "https://github.com/sipeed/picoclaw/pull/3354",
+          "publishedAt": "2026-09-09T18:13:58Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-4d74cce3b807",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · Issue #11303",
+          "title": "[Windows] qwen-cli (VS Code Companion) leaks headless conhost.exe ConPTY processes - 347 processes / ~2.8 GB after ~12h uptime",
+          "url": "https://github.com/QwenLM/qwen-code/issues/11303",
+          "publishedAt": "2026-09-09T17:19:29Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-51a23c68fc91",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · Issue #11119",
+          "title": "serve: background shell output and wake notifications silently dropped when the session runtime recycles, wedging the session",
+          "url": "https://github.com/QwenLM/qwen-code/issues/11119",
+          "publishedAt": "2026-09-09T10:53:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 10,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-e94022572994",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Qwen Code · Issue #11100",
+          "title": "fix(web-shell): the transcript entry still carries the daemon hook runtime",
+          "url": "https://github.com/QwenLM/qwen-code/issues/11100",
+          "publishedAt": "2026-09-09T13:05:53Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 5,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-242d20019b7c",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · Issue #3269",
+          "title": "[BUG]If the MCP server connection fails, the agent loop will hang, causing the Picoclaw chat interface to stop replying to users.",
+          "url": "https://github.com/sipeed/picoclaw/issues/3269",
+          "publishedAt": "2026-09-09T18:13:48Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 9,
+            "reactions": 1
+          }
+        },
+        {
+          "id": "ev-42f207c00639",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · Issue #3265",
+          "title": "Gateway startup fails with 'channel deltachat has unknown type deltachat'",
+          "url": "https://github.com/sipeed/picoclaw/issues/3265",
+          "publishedAt": "2026-09-09T04:40:29Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 4,
+            "reactions": 1
+          }
+        },
+        {
+          "id": "ev-1dbd7548a414",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · Issue #3345",
+          "title": "Proposal: lightweight PicoClaw worker mode for household edge compute",
+          "url": "https://github.com/sipeed/picoclaw/issues/3345",
+          "publishedAt": "2026-09-09T18:13:52Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-3976e8d5187d",
+      "date": "2026-09-10",
+      "title": "Finding bugs with Claude and property-based testing",
+      "summary": "同一主题出现 18 条关联证据，覆盖 Anthropic (Claude)、Hacker News、原始文章。核心动态：Finding bugs with Claude and property-based testing。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 89,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 63,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 18,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude Code"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "Open Source",
+        "Security",
+        "Pricing"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/property-based-testing",
+      "evidence": [
+        {
+          "id": "ev-f4d23a617f2f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Finding bugs with Claude and property-based testing",
+          "url": "https://www.anthropic.com/research/property-based-testing",
+          "publishedAt": "2026-09-09T21:50:18.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ba816facdecc",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic partners with Allen Institute and HHMI",
+          "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+          "publishedAt": "2026-09-09T21:34:03.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1022534d06cb",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic partners with CodePath",
+          "url": "https://www.anthropic.com/news/anthropic-codepath-partnership",
+          "publishedAt": "2026-09-09T21:24:21.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8733b83262e3",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic and Infosys build AI agents",
+          "url": "https://www.anthropic.com/news/anthropic-infosys",
+          "publishedAt": "2026-09-09T21:20:06.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-9bdf2c6e7880",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Detecting and preventing distillation attacks",
+          "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+          "publishedAt": "2026-09-09T21:16:18.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f979910ffff6",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic expands Google and Broadcom compute deal",
+          "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+          "publishedAt": "2026-09-09T20:43:14.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d5ec6d25f53a",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic and Amazon expand compute collaboration",
+          "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+          "publishedAt": "2026-09-09T20:33:26.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e4b14b187304",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic and NEC build AI engineering in Japan",
+          "url": "https://www.anthropic.com/news/anthropic-nec",
+          "publishedAt": "2026-09-09T20:29:29.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8c360ac75058",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Higher usage limits and a SpaceX compute deal",
+          "url": "https://www.anthropic.com/news/higher-limits-spacex",
+          "publishedAt": "2026-09-09T20:21:59.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-64f84f7dce58",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic partners with BCG",
+          "url": "https://www.anthropic.com/news/anthropic-bcg",
+          "publishedAt": "2026-09-09T20:05:01.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b2336d3da169",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Distributed representations: Composition and superposition",
+          "url": "https://www.anthropic.com/research/distributed-representations-composition-superposition",
+          "publishedAt": "2026-09-09T19:38:49.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-9d2cca1d81d7",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic partners with Google Cloud",
+          "url": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
+          "publishedAt": "2026-09-09T19:27:41.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-caf52950c934",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Superposition, memorization, and double descent",
+          "url": "https://www.anthropic.com/research/superposition-memorization-and-double-descent",
+          "publishedAt": "2026-09-09T19:26:39.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-05c69d545d65",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Toy models of superposition",
+          "url": "https://www.anthropic.com/research/toy-models-of-superposition",
+          "publishedAt": "2026-09-09T19:22:49.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a80e79070073",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Training a helpful and harmless assistant with RLHF",
+          "url": "https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback",
+          "publishedAt": "2026-09-09T19:15:01.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c35b2011c462",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic partners with the Gates Foundation",
+          "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+          "publishedAt": "2026-09-09T15:48:49.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-66ea37048056",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+          "url": "https://news.ycombinator.com/item?id=49630606",
+          "publishedAt": "2026-09-09T17:57:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 41,
+            "comments": 10
+          }
+        },
+        {
+          "id": "ev-396e8a814a18",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+          "url": "https://github.com/OtoDock/oto-dock",
+          "publishedAt": "2026-09-09T17:57:55Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e5dd9cda1a1c",
+      "date": "2026-09-10",
+      "title": "What will our economic future look like?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic 官方、Hacker News。核心动态：What will our economic future look like?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 79,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/institute/econ-scenarios",
+      "evidence": [
+        {
+          "id": "ev-a794accef753",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官方",
+          "title": "What will our economic future look like?",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "publishedAt": "2026-09-09T13:38:23Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-18d745037b88",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "What will our economic future look like?",
+          "url": "https://news.ycombinator.com/item?id=49626373",
+          "publishedAt": "2026-09-09T13:38:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 176,
+            "comments": 340
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-1f1921db0e11",
+      "date": "2026-09-10",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "summary": "同一主题出现 8 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic researcher believes more than 10% chance AI 'could kill all humans'。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 77,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 94,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49624255",
+      "evidence": [
+        {
+          "id": "ev-242961614876",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+          "url": "https://news.ycombinator.com/item?id=49624255",
+          "publishedAt": "2026-09-09T10:37:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 44,
+            "comments": 98
+          }
+        },
+        {
+          "id": "ev-405fedac2851",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+          "url": "https://news.ycombinator.com/item?id=49627887",
+          "publishedAt": "2026-09-09T15:10:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 42,
+            "comments": 98
+          }
+        },
+        {
+          "id": "ev-1d1bdad5b310",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic insiders warn AI could kill all humans",
+          "url": "https://news.ycombinator.com/item?id=49626716",
+          "publishedAt": "2026-09-09T13:59:48Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-c6577b4ab0a7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans'",
+          "url": "https://news.ycombinator.com/item?id=49623847",
+          "publishedAt": "2026-09-09T09:51:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-5625485a3604",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+          "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+          "publishedAt": "2026-09-09T10:37:16Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ed0892e3e8c9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+          "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance",
+          "publishedAt": "2026-09-09T15:10:39Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-df4d568b1365",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic insiders warn AI could kill all humans",
+          "url": "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans",
+          "publishedAt": "2026-09-09T13:59:48Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c96f67ec8a15",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans'",
+          "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+          "publishedAt": "2026-09-09T09:51:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ce5af4b195e7",
+      "date": "2026-09-10",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News。核心动态：How GPT‑5.6 Sol helps run quantum computing experiments。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 76,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 89,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/codex-quantum-computing-experiments",
+      "evidence": [
+        {
+          "id": "ev-c22f73ca3db4",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "publishedAt": "2026-09-09T07:22:46Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4ffd8ca954ac",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+          "url": "https://news.ycombinator.com/item?id=49622561",
+          "publishedAt": "2026-09-09T07:22:46Z",
+          "authority": "community",
+          "metrics": {
+            "points": 144,
+            "comments": 106
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-ec33da292df6",
+      "date": "2026-09-10",
+      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：Gambling with our lives: AI researcher quits Anthropic with warning about safety。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 75,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 87,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49623306",
+      "evidence": [
+        {
+          "id": "ev-417169223d6e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+          "url": "https://news.ycombinator.com/item?id=49623306",
+          "publishedAt": "2026-09-09T08:43:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 81,
+            "comments": 100
+          }
+        },
+        {
+          "id": "ev-d54fb2437c38",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic Researcher Quits over 'Out-of-Control' AI Fears",
+          "url": "https://news.ycombinator.com/item?id=49628725",
+          "publishedAt": "2026-09-09T16:02:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-dfc54982da06",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+          "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans",
+          "publishedAt": "2026-09-09T08:43:27Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-70530ec570be",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic Researcher Quits over 'Out-of-Control' AI Fears",
+          "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
+          "publishedAt": "2026-09-09T16:02:55Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-faffa1d6e82c",
+      "date": "2026-09-10",
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "summary": "同一主题出现 14 条关联证据，覆盖 Anthropic (Claude)、OpenAI、Hacker News。核心动态：An alignment assessment of recent cybersecurity incidents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 73,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 49,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 14,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "Anthropic",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "Security",
+        "Benchmark",
+        "Coding",
+        "RAG"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "evidence": [
+        {
+          "id": "ev-e86a975d2dbb",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "An alignment assessment of recent cybersecurity incidents",
+          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+          "publishedAt": "2026-09-10T01:13:21.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-02fa2c694648",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Alignment Research",
+          "url": "https://www.anthropic.com/research/team/alignment",
+          "publishedAt": "2026-09-09T20:44:04.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8740399aec9d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Claude Mythos Preview&#x27;s cybersecurity capabilities",
+          "url": "https://www.anthropic.com/research/mythos-preview",
+          "publishedAt": "2026-09-09T20:42:09.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7bc47dc0768f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Automated Alignment Researchers",
+          "url": "https://www.anthropic.com/research/automated-alignment-researchers",
+          "publishedAt": "2026-09-09T20:37:06.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-0a55fa845089",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Prompting Claude&#x27;s long context window",
+          "url": "https://www.anthropic.com/news/prompting-long-context",
+          "publishedAt": "2026-09-09T20:09:35.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2f103a94d0a5",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Claude&#x27;s constitution",
+          "url": "https://www.anthropic.com/news/claudes-constitution",
+          "publishedAt": "2026-09-09T19:42:15.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6a7636e6929c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Anthropic&#x27;s core views on AI safety",
+          "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+          "publishedAt": "2026-09-09T19:29:33.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d7c87e785380",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Economic Futures Research Fund agenda",
+          "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+          "publishedAt": "2026-09-09T15:08:55.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6ebb3bc321cc",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Investigating three incidents in our cybersecurity evaluations",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "publishedAt": "2026-09-09T15:04:52.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7cb0f1f6aa16",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Improving Fable 5&#x27;s safeguards",
+          "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+          "publishedAt": "2026-09-09T15:02:25.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-db819149f3f8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Claude&#x27;s progress on the Riemann hypothesis",
+          "url": "https://www.anthropic.com/research/riemann-zeta",
+          "publishedAt": "2026-09-09T15:01:09.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c24563896555",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "How Claude&#x27;s text watermarking works",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "publishedAt": "2026-09-09T14:58:19.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f4ee71bddd35",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "Inside Gpt5 Our Best Model For Work",
+          "url": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+          "publishedAt": "2026-09-09T20:52:35.419Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-fbe5de4642e2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An alignment assessment of recent cybersecurity incidents",
+          "url": "https://news.ycombinator.com/item?id=49632274",
+          "publishedAt": "2026-09-09T19:03:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 18,
+            "comments": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-dcf7f5af95fa",
+      "date": "2026-09-10",
+      "title": "Claude, change the “Add to Cart” button to blue",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude, change the “Add to Cart” button to blue。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49623754",
+      "evidence": [
+        {
+          "id": "ev-f0baa75feede",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude, change the “Add to Cart” button to blue",
+          "url": "https://news.ycombinator.com/item?id=49623754",
+          "publishedAt": "2026-09-09T09:39:46Z",
+          "authority": "community",
+          "metrics": {
+            "points": 1018,
+            "comments": 399
+          }
+        },
+        {
+          "id": "ev-2c28154abb3f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude, change the “Add to Cart” button to blue",
+          "url": "https://opusfived.dev",
+          "publishedAt": "2026-09-09T09:39:46Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-83277812921c",
+      "date": "2026-09-10",
+      "title": "No Man's Sky Cosmos",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：No Man's Sky Cosmos。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49628493",
+      "evidence": [
+        {
+          "id": "ev-1baaf9c3889a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "No Man's Sky Cosmos",
+          "url": "https://news.ycombinator.com/item?id=49628493",
+          "publishedAt": "2026-09-09T15:47:42Z",
+          "authority": "community",
+          "metrics": {
+            "points": 299,
+            "comments": 326
+          }
+        },
+        {
+          "id": "ev-488603b6cb0a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "No Man's Sky Cosmos",
+          "url": "https://www.nomanssky.com/cosmos-update",
+          "publishedAt": "2026-09-09T15:47:42Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-841c3fd3ba93",
+      "date": "2026-09-10",
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic Is Building a Predictive Surveillance System to Monitor Activists。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 70,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 97,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49628704",
+      "evidence": [
+        {
+          "id": "ev-efc9d32b3de7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+          "url": "https://news.ycombinator.com/item?id=49628704",
+          "publishedAt": "2026-09-09T16:01:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 275,
+            "comments": 154
+          }
+        },
+        {
+          "id": "ev-823f9eb3e5f2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+          "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
+          "publishedAt": "2026-09-09T16:01:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-46251b1bb15d",
+      "date": "2026-09-10",
+      "title": "feat(webui): expand and organize settings with autosave",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：feat(webui): expand and organize settings with autosave。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 24,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "OpenAI",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "RAG",
+        "API",
+        "Benchmark",
+        "Coding"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5704",
+      "evidence": [
+        {
+          "id": "ev-011c3fbc4bad",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5704",
+          "title": "feat(webui): expand and organize settings with autosave",
+          "url": "https://github.com/HKUDS/nanobot/pull/5704",
+          "publishedAt": "2026-09-10T01:56:59Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a17a889e87a0",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5437",
+          "title": "feat(web-search): add Serply (Google Search API) provider",
+          "url": "https://github.com/HKUDS/nanobot/pull/5437",
+          "publishedAt": "2026-09-10T01:06:59Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a5894a6a3a6b",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5536",
+          "title": "fix(exec): fail closed when restricted shell lacks a sandbox",
+          "url": "https://github.com/HKUDS/nanobot/pull/5536",
+          "publishedAt": "2026-09-09T19:06:06Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-74c815a30fd1",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5661",
+          "title": "feat(providers): send x-opencode-session header for OpenCode Zen/Go session affinity (required after 2026-09-06)",
+          "url": "https://github.com/HKUDS/nanobot/issues/5661",
+          "publishedAt": "2026-09-09T17:16:19Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 1
+          }
+        },
+        {
+          "id": "ev-8334934d7288",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5647",
+          "title": "fix(webui): session title not generated when frontend envelope lacks webui flag",
+          "url": "https://github.com/HKUDS/nanobot/issues/5647",
+          "publishedAt": "2026-09-09T04:47:52Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f1ac4df0bd04",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5721",
+          "title": "Could nanobot support durable memory across sessions?",
+          "url": "https://github.com/HKUDS/nanobot/issues/5721",
+          "publishedAt": "2026-09-09T19:05:26Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-09T17:16:18Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 47950
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-0ba23f134515",
+      "date": "2026-09-10",
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Muse, the band, lost its social media handles to Muse, Meta's new AI agent。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 79,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49636345",
+      "evidence": [
+        {
+          "id": "ev-402b95ec03f7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+          "url": "https://news.ycombinator.com/item?id=49636345",
+          "publishedAt": "2026-09-09T23:57:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 166,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-d04885db3a3c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+          "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent",
+          "publishedAt": "2026-09-09T23:57:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b76172eca239",
+      "date": "2026-09-10",
+      "title": "Introducing Bloom: Automated behavioral evals",
+      "summary": "同一主题出现 22 条关联证据，覆盖 Anthropic (Claude)、NanoClaw。核心动态：Introducing Bloom: Automated behavioral evals。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 17,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 22,
+      "sourceFamilies": [
+        "github",
+        "official"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude Code",
+        "Model Context Protocol",
+        "OpenAI",
+        "NanoClaw"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "Benchmark",
+        "Open Source",
+        "MCP",
+        "Coding"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/bloom",
+      "evidence": [
+        {
+          "id": "ev-a0ea5a3da286",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Introducing Bloom: Automated behavioral evals",
+          "url": "https://www.anthropic.com/research/bloom",
+          "publishedAt": "2026-09-09T21:55:31.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-70d2969bda4c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing Labs",
+          "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
+          "publishedAt": "2026-09-09T21:51:07.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-810321eca07b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Introducing our Science Blog",
+          "url": "https://www.anthropic.com/research/introducing-anthropic-science",
+          "publishedAt": "2026-09-09T20:50:27.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-89c33d6d91b8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing Claude Design by Anthropic Labs",
+          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+          "publishedAt": "2026-09-09T20:34:10.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-79ac02b11ec0",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "An update on our election safeguards",
+          "url": "https://www.anthropic.com/news/election-safeguards-update",
+          "publishedAt": "2026-09-09T20:30:24.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d3a174e5a9cc",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing Anthropic&#x27;s Responsible Scaling Policy",
+          "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+          "publishedAt": "2026-09-09T20:08:24.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d65858ef7cdb",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing Claude Pro",
+          "url": "https://www.anthropic.com/news/claude-pro",
+          "publishedAt": "2026-09-09T20:04:17.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b691544c94ee",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing 100K context windows",
+          "url": "https://www.anthropic.com/news/100k-context-windows",
+          "publishedAt": "2026-09-09T19:42:51.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-02d157d9c7e2",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing Claude",
+          "url": "https://www.anthropic.com/news/introducing-claude",
+          "publishedAt": "2026-09-09T19:31:04.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-30b7f530421f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Scaling laws of learning from repeated data",
+          "url": "https://www.anthropic.com/research/scaling-laws-and-interpretability-of-learning-from-repeated-data",
+          "publishedAt": "2026-09-09T19:17:55.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-9310be8514b1",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "In-context learning and induction heads",
+          "url": "https://www.anthropic.com/research/in-context-learning-and-induction-heads",
+          "publishedAt": "2026-09-09T19:13:29.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e4c8f8b73557",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Predictability and surprise in large generative models",
+          "url": "https://www.anthropic.com/research/predictability-and-surprise-in-large-generative-models",
+          "publishedAt": "2026-09-09T19:11:51.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e3d98d82d393",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing Claude Opus 4.8",
+          "url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "publishedAt": "2026-09-09T15:41:17.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c9a1e53deafd",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Introducing Claude Corps",
+          "url": "https://www.anthropic.com/news/claude-corps",
+          "publishedAt": "2026-09-09T15:33:18.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b7b76f086398",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Fable 5&#x27;s cyber safeguards and our jailbreak framework",
+          "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+          "publishedAt": "2026-09-09T15:23:35.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b51b6168b724",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Alberta uses Claude to find and fix security vulnerabilities",
+          "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+          "publishedAt": "2026-09-09T15:22:07.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-05faa64f1f8a",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Expanding our partnership with Cognizant",
+          "url": "https://www.anthropic.com/news/cognizant-anthropic",
+          "publishedAt": "2026-09-09T15:07:16.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a440e455e519",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Claude accelerates protein design and analytical chemistry",
+          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+          "publishedAt": "2026-09-09T14:56:38.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-39b26bcebaf4",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #3756",
+          "title": "fix(agent-runner): a spent usage allowance is said in a sentence",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/3756",
+          "publishedAt": "2026-09-09T19:38:00Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-d99f8dae8c66",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #3754",
+          "title": "fix(setup): print one portal link for the not-enrolled browser handoff",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/3754",
+          "publishedAt": "2026-09-09T12:27:09Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-8c68a978633b",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #3755",
+          "title": "fix(agent-runner): sweep processing_ack rows whose message no longer exists",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/3755",
+          "publishedAt": "2026-09-09T12:15:25Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-79e9978e4fd4",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · Issue #3705",
+          "title": "ncl tasks update --recurrence doesn't recompute the next scheduled fire (process_after)",
+          "url": "https://github.com/nanocoai/nanoclaw/issues/3705",
+          "publishedAt": "2026-09-09T08:35:39Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-9b2c2404018f",
+      "date": "2026-09-10",
+      "title": "Is OpenAI Taking Everyone for Fools?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Is OpenAI Taking Everyone for Fools?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 75,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49629802",
+      "evidence": [
+        {
+          "id": "ev-1560be4ada78",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Is OpenAI Taking Everyone for Fools?",
+          "url": "https://news.ycombinator.com/item?id=49629802",
+          "publishedAt": "2026-09-09T17:09:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 61,
+            "comments": 40
+          }
+        },
+        {
+          "id": "ev-ee4e79865674",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Is OpenAI Taking Everyone for Fools?",
+          "url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
+          "publishedAt": "2026-09-09T17:09:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1091b50240eb",
+      "date": "2026-09-10",
+      "title": "I resigned from Anthropic today (Jacob Coxon)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I resigned from Anthropic today (Jacob Coxon)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 70,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49624157",
+      "evidence": [
+        {
+          "id": "ev-7a9e544681f6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I resigned from Anthropic today (Jacob Coxon)",
+          "url": "https://news.ycombinator.com/item?id=49624157",
+          "publishedAt": "2026-09-09T10:25:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 54,
+            "comments": 21
+          }
+        },
+        {
+          "id": "ev-e31a462a9863",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I resigned from Anthropic today (Jacob Coxon)",
+          "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20",
+          "publishedAt": "2026-09-09T10:25:03Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e21717eba5a6",
+      "date": "2026-09-10",
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I'm sorry, you're not going to die from an AI-engineered supervirus。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 71,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49636906",
+      "evidence": [
+        {
+          "id": "ev-997ad43f23e5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+          "url": "https://news.ycombinator.com/item?id=49636906",
+          "publishedAt": "2026-09-10T01:02:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 37,
+            "comments": 36
+          }
+        },
+        {
+          "id": "ev-2238c3c186c7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+          "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+          "publishedAt": "2026-09-10T01:02:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-793b24f208b0",
+      "date": "2026-09-10",
+      "title": "Better AI code comment detector",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Better AI code comment detector。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 67,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49628454",
+      "evidence": [
+        {
+          "id": "ev-b4a2e0f062bc",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Better AI code comment detector",
+          "url": "https://news.ycombinator.com/item?id=49628454",
+          "publishedAt": "2026-09-09T15:45:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 39,
+            "comments": 22
+          }
+        },
+        {
+          "id": "ev-a611fa998484",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Better AI code comment detector",
+          "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+          "publishedAt": "2026-09-09T15:45:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fa0db45f2786",
+      "date": "2026-09-10",
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Procedural Graphs: Self-Evolving Execution Structures for LLM Agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 66,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49629868",
+      "evidence": [
+        {
+          "id": "ev-75f43d210ca2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+          "url": "https://news.ycombinator.com/item?id=49629868",
+          "publishedAt": "2026-09-09T17:13:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 47,
+            "comments": 15
+          }
+        },
+        {
+          "id": "ev-4ee7b22aba0c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+          "url": "https://arxiv.org/abs/2609.09153",
+          "publishedAt": "2026-09-09T17:13:52Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c53d4390cd8c",
+      "date": "2026-09-10",
+      "title": "OpenAI's rogue agents used at least 10 more sites",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI's rogue agents used at least 10 more sites。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 65,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49629242",
+      "evidence": [
+        {
+          "id": "ev-d548076e5b7d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI's rogue agents used at least 10 more sites",
+          "url": "https://news.ycombinator.com/item?id=49629242",
+          "publishedAt": "2026-09-09T16:35:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 48,
+            "comments": 12
+          }
+        },
+        {
+          "id": "ev-2fd65f4896f5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI's rogue agents used at least 10 more sites",
+          "url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09",
+          "publishedAt": "2026-09-09T16:35:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7e8c923b301c",
+      "date": "2026-09-10",
+      "title": "Show HN: Rdltr – Inbox zero for your reading list",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Rdltr – Inbox zero for your reading list。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 61,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49629747",
+      "evidence": [
+        {
+          "id": "ev-1ca66c3720b3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Rdltr – Inbox zero for your reading list",
+          "url": "https://news.ycombinator.com/item?id=49629747",
+          "publishedAt": "2026-09-09T17:06:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 21,
+            "comments": 17
+          }
+        },
+        {
+          "id": "ev-d7be2046024a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Rdltr – Inbox zero for your reading list",
+          "url": "https://rdltr.app",
+          "publishedAt": "2026-09-09T17:06:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c43369c02393",
+      "date": "2026-09-10",
+      "title": "Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 50,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49625975",
+      "evidence": [
+        {
+          "id": "ev-5beeef1a3d84",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing",
+          "url": "https://news.ycombinator.com/item?id=49625975",
+          "publishedAt": "2026-09-09T13:10:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 8
+          }
+        },
+        {
+          "id": "ev-e1138e46c24e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Maxxwell – The IDE for Optimal Tokenmaxxing",
+          "url": "https://maxxwell.dev",
+          "publishedAt": "2026-09-09T13:10:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fd88415f5833",
+      "date": "2026-09-10",
+      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic discloses fourth AI hacking incident missed in earlier review。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 44,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49636547",
+      "evidence": [
+        {
+          "id": "ev-3651b1af8c68",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+          "url": "https://news.ycombinator.com/item?id=49636547",
+          "publishedAt": "2026-09-10T00:25:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-04c2255b2dfd",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+          "url": "https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09",
+          "publishedAt": "2026-09-10T00:25:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a2d37734b2c6",
+      "date": "2026-09-10",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Astra for Coding: Why Are We Doing This Again?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 44,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49630778",
+      "evidence": [
+        {
+          "id": "ev-3e7c1164cb65",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Astra for Coding: Why Are We Doing This Again?",
+          "url": "https://news.ycombinator.com/item?id=49630778",
+          "publishedAt": "2026-09-09T18:08:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-f96dc6760d89",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Astra for Coding: Why Are We Doing This Again?",
+          "url": "https://lucumr.pocoo.org/2026/9/7/astra-why",
+          "publishedAt": "2026-09-09T18:08:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c7130a1d107d",
+      "date": "2026-09-10",
+      "title": "Anthropic researchers say AI could cause human extinction by 2030",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic researchers say AI could cause human extinction by 2030。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49629102",
+      "evidence": [
+        {
+          "id": "ev-eb80a912a658",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic researchers say AI could cause human extinction by 2030",
+          "url": "https://news.ycombinator.com/item?id=49629102",
+          "publishedAt": "2026-09-09T16:26:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-5aac7df5fa16",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic researchers say AI could cause human extinction by 2030",
+          "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+          "publishedAt": "2026-09-09T16:26:33Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 444,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
