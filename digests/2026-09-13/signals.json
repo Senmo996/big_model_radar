@@ -1,0 +1,1536 @@
+{
+  "version": 1,
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T01:55:23.801Z",
+  "cards": [
+    {
+      "id": "sig-0bf89764f770",
+      "date": "2026-09-13",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "同一主题出现 10 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic boss Dario Amodei calls for AI development to slow down。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 76,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 88,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 10,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49674395",
+      "evidence": [
+        {
+          "id": "ev-08e2f85a9e7a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "url": "https://news.ycombinator.com/item?id=49674395",
+          "publishedAt": "2026-09-12T16:56:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 50,
+            "comments": 105
+          }
+        },
+        {
+          "id": "ev-c69dd83fa348",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic CEO calls for immediate slowdown in AI development",
+          "url": "https://news.ycombinator.com/item?id=49673344",
+          "publishedAt": "2026-09-12T15:30:17Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-4d9a4ec8dccf",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic CEO Calls for A.I. Slowdown",
+          "url": "https://news.ycombinator.com/item?id=49673967",
+          "publishedAt": "2026-09-12T16:19:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-b7eb1600d1b8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
+          "url": "https://news.ycombinator.com/item?id=49675270",
+          "publishedAt": "2026-09-12T18:08:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-c9af061d3037",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic CEO calls for the AI industry to slow down",
+          "url": "https://news.ycombinator.com/item?id=49675061",
+          "publishedAt": "2026-09-12T17:50:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-8540e16cdf5f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+          "publishedAt": "2026-09-12T16:56:52Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-55528b276c35",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic CEO calls for immediate slowdown in AI development",
+          "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
+          "publishedAt": "2026-09-12T15:30:17Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-eb7577c14b0b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic CEO Calls for A.I. Slowdown",
+          "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+          "publishedAt": "2026-09-12T16:19:03Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-90c7f1da774f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "'We must slow the pace': CEO of Anthropic calls for an AI slowdown",
+          "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+          "publishedAt": "2026-09-12T18:08:33Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a1736d82fcce",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic CEO calls for the AI industry to slow down",
+          "url": "https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down",
+          "publishedAt": "2026-09-12T17:50:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3fd475ca5b82",
+      "date": "2026-09-13",
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 74,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 80,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49676849",
+      "evidence": [
+        {
+          "id": "ev-04849dc5beb8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "url": "https://news.ycombinator.com/item?id=49676849",
+          "publishedAt": "2026-09-12T20:28:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 74,
+            "comments": 57
+          }
+        },
+        {
+          "id": "ev-6b1b1cfd1a43",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+          "url": "https://news.ycombinator.com/item?id=49676564",
+          "publishedAt": "2026-09-12T19:55:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-a96816f9158b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "publishedAt": "2026-09-12T20:28:29Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-52838b729032",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+          "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+          "publishedAt": "2026-09-12T19:55:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-41dc5ac0e569",
+      "date": "2026-09-13",
+      "title": "fix(webui): simplify settings catalog controls and headings",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(webui): simplify settings catalog controls and headings。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 30,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "nanobot"
+      ],
+      "topics": [
+        "MCP",
+        "Model",
+        "RAG",
+        "API",
+        "Benchmark",
+        "Agent"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5743",
+      "evidence": [
+        {
+          "id": "ev-797d0d79b626",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5743",
+          "title": "fix(webui): simplify settings catalog controls and headings",
+          "url": "https://github.com/HKUDS/nanobot/pull/5743",
+          "publishedAt": "2026-09-12T21:43:06Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f17f666fd2f8",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5633",
+          "title": "fix(session): reject session keys with path traversal components",
+          "url": "https://github.com/HKUDS/nanobot/pull/5633",
+          "publishedAt": "2026-09-12T21:17:25Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c85828fa15cb",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5735",
+          "title": "fix(webui): make headless login self-explanatory",
+          "url": "https://github.com/HKUDS/nanobot/pull/5735",
+          "publishedAt": "2026-09-12T21:01:14Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-7b3c8810e4f8",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5726",
+          "title": "Startuo initial password?",
+          "url": "https://github.com/HKUDS/nanobot/issues/5726",
+          "publishedAt": "2026-09-12T21:01:15Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f1ac4df0bd04",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5721",
+          "title": "Could nanobot support durable memory across sessions?",
+          "url": "https://github.com/HKUDS/nanobot/issues/5721",
+          "publishedAt": "2026-09-12T15:07:05Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-07026ad3e882",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5749",
+          "title": "Expose stable tool invocation context for idempotent side effects",
+          "url": "https://github.com/HKUDS/nanobot/issues/5749",
+          "publishedAt": "2026-09-12T05:11:21Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-12T21:43:06Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48064
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-d4a8fde4ab7b",
+      "date": "2026-09-13",
+      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic CEO Says It's Time to Slow AI Model Advances。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 80,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49675247",
+      "evidence": [
+        {
+          "id": "ev-5c92da492365",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+          "url": "https://news.ycombinator.com/item?id=49675247",
+          "publishedAt": "2026-09-12T18:07:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 47,
+            "comments": 73
+          }
+        },
+        {
+          "id": "ev-ac2456a9d166",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "publishedAt": "2026-09-12T18:07:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ba1c2c657d5f",
+      "date": "2026-09-13",
+      "title": "Altman tells staff OpenAI is open to slowing AI development",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Altman tells staff OpenAI is open to slowing AI development。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 76,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49671274",
+      "evidence": [
+        {
+          "id": "ev-5626c2f9bc79",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Altman tells staff OpenAI is open to slowing AI development",
+          "url": "https://news.ycombinator.com/item?id=49671274",
+          "publishedAt": "2026-09-12T11:33:02Z",
+          "authority": "community",
+          "metrics": {
+            "points": 26,
+            "comments": 61
+          }
+        },
+        {
+          "id": "ev-c93a582033e1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Altman tells staff OpenAI is open to slowing AI development",
+          "url": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11",
+          "publishedAt": "2026-09-12T11:33:02Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-70c9081dda87",
+      "date": "2026-09-13",
+      "title": "LLMs are real, AI is fake",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：LLMs are real, AI is fake。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 75,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49672281",
+      "evidence": [
+        {
+          "id": "ev-ed5b0da29ed3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "LLMs are real, AI is fake",
+          "url": "https://news.ycombinator.com/item?id=49672281",
+          "publishedAt": "2026-09-12T13:47:28Z",
+          "authority": "community",
+          "metrics": {
+            "points": 69,
+            "comments": 33
+          }
+        },
+        {
+          "id": "ev-3a64c2f32859",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "LLMs are real, AI is fake",
+          "url": "https://pluralistic.net/2026/09/12/god-in-the-box",
+          "publishedAt": "2026-09-12T13:47:28Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c5087ed5837c",
+      "date": "2026-09-13",
+      "title": "Scaling Storage One Billion Users Part One",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、OpenAI 官方、Hacker News。核心动态：Scaling Storage One Billion Users Part One。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 32,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "RAG"
+      ],
+      "primaryUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "evidence": [
+        {
+          "id": "ev-f1f26ea643d7",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Scaling Storage One Billion Users Part One",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "publishedAt": "2026-09-12T02:19:32.976Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8b9537b0c929",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "Rapidly scaling online storage to serve over 1B ChatGPT users",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "publishedAt": "2026-09-12T02:07:00Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8b32249e3321",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Rapidly scaling online storage to serve over 1B ChatGPT users",
+          "url": "https://news.ycombinator.com/item?id=49667957",
+          "publishedAt": "2026-09-12T02:07:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-85d92114043e",
+      "date": "2026-09-13",
+      "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 71,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49671043",
+      "evidence": [
+        {
+          "id": "ev-01b221da0974",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+          "url": "https://news.ycombinator.com/item?id=49671043",
+          "publishedAt": "2026-09-12T10:49:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 22,
+            "comments": 41
+          }
+        },
+        {
+          "id": "ev-911a1cb2c747",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+          "url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+          "publishedAt": "2026-09-12T10:49:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c808b9e23e0a",
+      "date": "2026-09-13",
+      "title": "Everyone should slow down AI development except for me",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Everyone should slow down AI development except for me。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 73,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49678683",
+      "evidence": [
+        {
+          "id": "ev-4fb6baafd362",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Everyone should slow down AI development except for me",
+          "url": "https://news.ycombinator.com/item?id=49678683",
+          "publishedAt": "2026-09-13T00:30:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 96,
+            "comments": 13
+          }
+        },
+        {
+          "id": "ev-29d5df6e6408",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Everyone should slow down AI development except for me",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "publishedAt": "2026-09-13T00:30:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1fe1f215bc2c",
+      "date": "2026-09-13",
+      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Resistance Training Prescription for Muscle Function, Hypertrophy in Health。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 73,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49670493",
+      "evidence": [
+        {
+          "id": "ev-2058bab5d3c9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+          "url": "https://news.ycombinator.com/item?id=49670493",
+          "publishedAt": "2026-09-12T09:08:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 56,
+            "comments": 32
+          }
+        },
+        {
+          "id": "ev-28f3f9bf212e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823",
+          "publishedAt": "2026-09-12T09:08:54Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-72843343505f",
+      "date": "2026-09-13",
+      "title": "Apple wants to train AI on your private personal data",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Apple wants to train AI on your private personal data。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 61,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49678878",
+      "evidence": [
+        {
+          "id": "ev-3d894f1f3f6d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Apple wants to train AI on your private personal data",
+          "url": "https://news.ycombinator.com/item?id=49678878",
+          "publishedAt": "2026-09-13T01:06:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 24,
+            "comments": 16
+          }
+        },
+        {
+          "id": "ev-92f8af1d76b8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Apple wants to train AI on your private personal data",
+          "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+          "publishedAt": "2026-09-13T01:06:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-083cde1e18fc",
+      "date": "2026-09-13",
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI agents attacked RubyGems back in May。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 55,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49668914",
+      "evidence": [
+        {
+          "id": "ev-450622c90c63",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI agents attacked RubyGems back in May",
+          "url": "https://news.ycombinator.com/item?id=49668914",
+          "publishedAt": "2026-09-12T04:46:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 35,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-02884cfce60f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI agents attacked RubyGems back in May",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+          "publishedAt": "2026-09-12T04:46:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a60656cf17b5",
+      "date": "2026-09-13",
+      "title": "Anthropic is no longer a frontier lab",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic is no longer a frontier lab。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49675971",
+      "evidence": [
+        {
+          "id": "ev-1a489c0c744f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic is no longer a frontier lab",
+          "url": "https://news.ycombinator.com/item?id=49675971",
+          "publishedAt": "2026-09-12T19:05:18Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-f4379e846296",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic is no longer a frontier lab",
+          "url": "https://twitter.com/trydotworks/status/2098618997230985375",
+          "publishedAt": "2026-09-12T19:05:18Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-cb0e701e90ba",
+      "date": "2026-09-13",
+      "title": "Nobody wrote the Matrix and AI code-writing will be dead by 2036",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Nobody wrote the Matrix and AI code-writing will be dead by 2036。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49678510",
+      "evidence": [
+        {
+          "id": "ev-f5adf0d0c932",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Nobody wrote the Matrix and AI code-writing will be dead by 2036",
+          "url": "https://news.ycombinator.com/item?id=49678510",
+          "publishedAt": "2026-09-12T23:59:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-3290206cde93",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Nobody wrote the Matrix and AI code-writing will be dead by 2036",
+          "url": "https://lufzle.dev/write/nobody-wrote-the-matrix",
+          "publishedAt": "2026-09-12T23:59:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-140661ebca79",
+      "date": "2026-09-13",
+      "title": "OpenAI 20x Pro subscription plans temporarily unavabilable",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI 20x Pro subscription plans temporarily unavabilable。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49670938",
+      "evidence": [
+        {
+          "id": "ev-f32d7b3aa4a0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI 20x Pro subscription plans temporarily unavabilable",
+          "url": "https://news.ycombinator.com/item?id=49670938",
+          "publishedAt": "2026-09-12T10:33:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-1ff30fc50778",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI 20x Pro subscription plans temporarily unavabilable",
+          "url": "https://twitter.com/marindedix/status/2098721309593120924",
+          "publishedAt": "2026-09-12T10:33:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ec614ee102fe",
+      "date": "2026-09-13",
+      "title": "OpenAI won't go public this year",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI won't go public this year。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49676297",
+      "evidence": [
+        {
+          "id": "ev-c78efa4a8781",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI won't go public this year",
+          "url": "https://news.ycombinator.com/item?id=49676297",
+          "publishedAt": "2026-09-12T19:33:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-543530278999",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI won't go public this year",
+          "url": "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns",
+          "publishedAt": "2026-09-12T19:33:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-bbe21f0c55f1",
+      "date": "2026-09-13",
+      "title": "Iran's Internet Blackout Is Almost Impossible to Escape",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Iran's Internet Blackout Is Almost Impossible to Escape。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49678519",
+      "evidence": [
+        {
+          "id": "ev-7f600a500204",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Iran's Internet Blackout Is Almost Impossible to Escape",
+          "url": "https://news.ycombinator.com/item?id=49678519",
+          "publishedAt": "2026-09-13T00:00:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-9857307edc73",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Iran's Internet Blackout Is Almost Impossible to Escape",
+          "url": "https://www.bloomberg.com/features/2026-iran-internet",
+          "publishedAt": "2026-09-13T00:00:55Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-00c64f368690",
+      "date": "2026-09-13",
+      "title": "Russian developers used Claude to build 'kamikaze' attack drone software",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Russian developers used Claude to build 'kamikaze' attack drone software。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49669350",
+      "evidence": [
+        {
+          "id": "ev-bc59951ca6ab",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Russian developers used Claude to build 'kamikaze' attack drone software",
+          "url": "https://news.ycombinator.com/item?id=49669350",
+          "publishedAt": "2026-09-12T06:02:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-25008144d007",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Russian developers used Claude to build 'kamikaze' attack drone software",
+          "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+          "publishedAt": "2026-09-12T06:02:57Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-66299a8498f8",
+      "date": "2026-09-13",
+      "title": "Show HN: Don't Hit Send – the model answers while you type",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Don't Hit Send – the model answers while you type。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49669012",
+      "evidence": [
+        {
+          "id": "ev-8509bf0261ab",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Don't Hit Send – the model answers while you type",
+          "url": "https://news.ycombinator.com/item?id=49669012",
+          "publishedAt": "2026-09-12T05:06:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-3e3f9581e6ec",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Don't Hit Send – the model answers while you type",
+          "url": "https://github.com/scalattice/dont-hit-send",
+          "publishedAt": "2026-09-12T05:06:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5a5820be2010",
+      "date": "2026-09-13",
+      "title": "Align AI and Mathematics–To Something Else",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Align AI and Mathematics–To Something Else。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49678783",
+      "evidence": [
+        {
+          "id": "ev-beae2a61b15e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Align AI and Mathematics–To Something Else",
+          "url": "https://news.ycombinator.com/item?id=49678783",
+          "publishedAt": "2026-09-13T00:47:48Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-0769b37ef250",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Align AI and Mathematics–To Something Else",
+          "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else",
+          "publishedAt": "2026-09-13T00:47:48Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9d7b184234a7",
+      "date": "2026-09-13",
+      "title": "Nvidia in talks to invest in Anthropic's mega IPO",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Nvidia in talks to invest in Anthropic's mega IPO。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49671303",
+      "evidence": [
+        {
+          "id": "ev-445657ae0034",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Nvidia in talks to invest in Anthropic's mega IPO",
+          "url": "https://news.ycombinator.com/item?id=49671303",
+          "publishedAt": "2026-09-12T11:38:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-54894788eaa2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Nvidia in talks to invest in Anthropic's mega IPO",
+          "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11",
+          "publishedAt": "2026-09-12T11:38:27Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d0e1d87628eb",
+      "date": "2026-09-13",
+      "title": "OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49677642",
+      "evidence": [
+        {
+          "id": "ev-1a38cc249225",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast",
+          "url": "https://news.ycombinator.com/item?id=49677642",
+          "publishedAt": "2026-09-12T21:59:06Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-2c9e3b722c3f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast",
+          "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+          "publishedAt": "2026-09-12T21:59:06Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1ab1cfa85314",
+      "date": "2026-09-13",
+      "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model",
+        "Pricing"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49674280",
+      "evidence": [
+        {
+          "id": "ev-a209ea2e28c3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+          "url": "https://news.ycombinator.com/item?id=49674280",
+          "publishedAt": "2026-09-12T16:45:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-fd52c3a1bc4c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+          "url": "https://www.tokendelivery.ai",
+          "publishedAt": "2026-09-12T16:45:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-764ca220c41b",
+      "date": "2026-09-13",
+      "title": "feat(skill): implement two-tier progressive skill disclosure",
+      "summary": "同一主题出现 6 条关联证据，覆盖 OpenCode。核心动态：feat(skill): implement two-tier progressive skill disclosure。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 74,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": false,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "OpenCode",
+        "OpenAI",
+        "Anthropic",
+        "Claude Code",
+        "Google Gemini"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "API",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://github.com/anomalyco/opencode/pull/48324",
+      "evidence": [
+        {
+          "id": "ev-ee775dc45d7e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #48324",
+          "title": "feat(skill): implement two-tier progressive skill disclosure",
+          "url": "https://github.com/anomalyco/opencode/pull/48324",
+          "publishedAt": "2026-09-13T01:46:54Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-6f613ff397d4",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #48729",
+          "title": "fix(session): keep todo list current for non-Claude models",
+          "url": "https://github.com/anomalyco/opencode/pull/48729",
+          "publishedAt": "2026-09-13T01:46:37Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-70ce79dffa4c",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · PR #48737",
+          "title": "test(app): add real timeline storybook",
+          "url": "https://github.com/anomalyco/opencode/pull/48737",
+          "publishedAt": "2026-09-13T01:20:11Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-3e65f1f01dfc",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #4283",
+          "title": "Copy To Clipboard is not working",
+          "url": "https://github.com/anomalyco/opencode/issues/4283",
+          "publishedAt": "2026-09-12T20:56:18Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 131,
+            "reactions": 123
+          }
+        },
+        {
+          "id": "ev-711c786b8764",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #13984",
+          "title": "can not copy and paste in opencode CLI",
+          "url": "https://github.com/anomalyco/opencode/issues/13984",
+          "publishedAt": "2026-09-12T20:55:10Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 57,
+            "reactions": 32
+          }
+        },
+        {
+          "id": "ev-b46a2809b12a",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenCode · Issue #41470",
+          "title": "“Copied to clipboard” doesn't work",
+          "url": "https://github.com/anomalyco/opencode/issues/41470",
+          "publishedAt": "2026-09-12T20:55:35Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 22,
+            "reactions": 1
+          }
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 257,
+    "cardCount": 24,
+    "crossSourceCount": 23,
+    "sourceFamilies": 5
+  }
+}
