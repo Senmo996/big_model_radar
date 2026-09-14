@@ -1,0 +1,1373 @@
+{
+  "version": 1,
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T02:13:15.397Z",
+  "cards": [
+    {
+      "id": "sig-cde1867959ca",
+      "date": "2026-09-14",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "summary": "同一主题出现 8 条关联证据，覆盖 Hacker News、原始文章、Claude Code Skills。核心动态：David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 98,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "community",
+        "github",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic",
+        "Claude Code Skills",
+        "Claude Code"
+      ],
+      "topics": [
+        "Model",
+        "Coding",
+        "API",
+        "Benchmark",
+        "Pricing",
+        "MCP"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49685991",
+      "evidence": [
+        {
+          "id": "ev-bcc12018af57",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "url": "https://news.ycombinator.com/item?id=49685991",
+          "publishedAt": "2026-09-13T16:52:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 272,
+            "comments": 204
+          }
+        },
+        {
+          "id": "ev-367697daabc5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "publishedAt": "2026-09-13T16:52:33Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e51d926b8643",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1298",
+          "title": "fix(skill-creator): run_eval.py always reports 0% recall — install the eval artifact as a real skill; fix Windows stream reading, trigger detection, and parallel workers",
+          "url": "https://github.com/anthropics/skills/pull/1298",
+          "publishedAt": "2026-09-13T09:59:30Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-66daa73fed31",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1742",
+          "title": "fix(mcp-builder): support mcp>=2 streamable_http_client import and custom headers",
+          "url": "https://github.com/anthropics/skills/pull/1742",
+          "publishedAt": "2026-09-13T09:59:27Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-e09cb54df329",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1734",
+          "title": "Detect orphaned docx comments",
+          "url": "https://github.com/anthropics/skills/pull/1734",
+          "publishedAt": "2026-09-11T12:09:43Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-02ba38506add",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #492",
+          "title": "Security: Community skills distributed under anthropic/ namespace enable trust boundary abuse",
+          "url": "https://github.com/anthropics/skills/issues/492",
+          "publishedAt": "2026-07-20T12:27:13Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 43,
+            "reactions": 2
+          }
+        },
+        {
+          "id": "ev-eb4aa16ed764",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #228",
+          "title": "Enable org-wide skill sharing in Claude.ai",
+          "url": "https://github.com/anthropics/skills/issues/228",
+          "publishedAt": "2026-07-25T13:30:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 8
+          }
+        },
+        {
+          "id": "ev-41e2bfa7c38b",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #556",
+          "title": "run_eval.py: claude -p never triggers skills/commands (0% trigger rate across all queries)",
+          "url": "https://github.com/anthropics/skills/issues/556",
+          "publishedAt": "2026-06-10T02:37:30Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-f5f4085e20c3",
+      "date": "2026-09-14",
+      "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News。核心动态：Due to concerns about malicious applications, GPT2 will not be released (2019)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 72,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 72,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/better-language-models",
+      "evidence": [
+        {
+          "id": "ev-deb1392b1347",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+          "url": "https://openai.com/index/better-language-models",
+          "publishedAt": "2026-09-13T23:11:17Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1e8dd5ba32d7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+          "url": "https://news.ycombinator.com/item?id=49689706",
+          "publishedAt": "2026-09-13T23:11:17Z",
+          "authority": "community",
+          "metrics": {
+            "points": 58,
+            "comments": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-88450a22d288",
+      "date": "2026-09-14",
+      "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Houthis used Claude Code to develop missile guidance software: Anthropic。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 85,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49684266",
+      "evidence": [
+        {
+          "id": "ev-997e0a97969d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49684266",
+          "publishedAt": "2026-09-13T14:15:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 95,
+            "comments": 85
+          }
+        },
+        {
+          "id": "ev-cf73445676d0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "publishedAt": "2026-09-13T14:15:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6d390ce2dc8a",
+      "date": "2026-09-14",
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Libraries Run Rust Inside Python (With PyO3)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 74,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49685037",
+      "evidence": [
+        {
+          "id": "ev-3617f712fd71",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Libraries Run Rust Inside Python (With PyO3)",
+          "url": "https://news.ycombinator.com/item?id=49685037",
+          "publishedAt": "2026-09-13T15:24:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 61,
+            "comments": 33
+          }
+        },
+        {
+          "id": "ev-fdf0e0404971",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Libraries Run Rust Inside Python (With PyO3)",
+          "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python",
+          "publishedAt": "2026-09-13T15:24:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-69c60842537d",
+      "date": "2026-09-14",
+      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 72,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49679685",
+      "evidence": [
+        {
+          "id": "ev-4141d33b3082",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+          "url": "https://news.ycombinator.com/item?id=49679685",
+          "publishedAt": "2026-09-13T03:25:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 47,
+            "comments": 32
+          }
+        },
+        {
+          "id": "ev-db7ade23f4c2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+          "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+          "publishedAt": "2026-09-13T03:25:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-73df74190c4a",
+      "date": "2026-09-14",
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Cpak – OCI application package format for Linux desktops, servers and devices。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 68,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49684778",
+      "evidence": [
+        {
+          "id": "ev-f3f652461156",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+          "url": "https://news.ycombinator.com/item?id=49684778",
+          "publishedAt": "2026-09-13T15:02:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 49,
+            "comments": 19
+          }
+        },
+        {
+          "id": "ev-04ff7e057dcc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+          "url": "https://cpak.it",
+          "publishedAt": "2026-09-13T15:02:56Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c571ca547f39",
+      "date": "2026-09-14",
+      "title": "[codex] fix(cron): persist claim before await",
+      "summary": "同一主题出现 4 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：[codex] fix(cron): persist claim before await。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "nanobot"
+      ],
+      "topics": [
+        "Coding",
+        "Agent",
+        "Model",
+        "API",
+        "Benchmark",
+        "RAG"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/3245",
+      "evidence": [
+        {
+          "id": "ev-1ef5808d2c25",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #3245",
+          "title": "[codex] fix(cron): persist claim before await",
+          "url": "https://github.com/HKUDS/nanobot/pull/3245",
+          "publishedAt": "2026-09-14T01:02:16Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0be564b87984",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5757",
+          "title": "fix(session): search older pages of persisted conversation history",
+          "url": "https://github.com/HKUDS/nanobot/pull/5757",
+          "publishedAt": "2026-09-14T00:31:05Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0ab221519627",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5751",
+          "title": "fix(cron): preserve pending runs when editing automation details",
+          "url": "https://github.com/HKUDS/nanobot/pull/5751",
+          "publishedAt": "2026-09-13T19:01:14Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-13T15:35:17Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48121
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-2458aec02e24",
+      "date": "2026-09-14",
+      "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 61,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49687013",
+      "evidence": [
+        {
+          "id": "ev-daac1d366543",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+          "url": "https://news.ycombinator.com/item?id=49687013",
+          "publishedAt": "2026-09-13T18:22:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 18,
+            "comments": 19
+          }
+        },
+        {
+          "id": "ev-8f5f1b481c4e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+          "url": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html",
+          "publishedAt": "2026-09-13T18:22:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5eee9a788bf4",
+      "date": "2026-09-14",
+      "title": "Open-Source AI and Open Models Reading List",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Open-Source AI and Open Models Reading List。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 50,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model",
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49690260",
+      "evidence": [
+        {
+          "id": "ev-ba43b2c48f86",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Open-Source AI and Open Models Reading List",
+          "url": "https://news.ycombinator.com/item?id=49690260",
+          "publishedAt": "2026-09-14T00:22:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 23,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-b3449cb81d78",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Open-Source AI and Open Models Reading List",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "publishedAt": "2026-09-14T00:22:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5f166df1cc46",
+      "date": "2026-09-14",
+      "title": "Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to \"AI 1\"]",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to \"AI 1\"]。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 49,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49680142",
+      "evidence": [
+        {
+          "id": "ev-958ee7af5d79",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to \"AI 1\"]",
+          "url": "https://news.ycombinator.com/item?id=49680142",
+          "publishedAt": "2026-09-13T04:52:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 18,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-99a9cdaa9f15",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to \"AI 1\"]",
+          "url": "https://www.thisamericanlife.org/896/transcript",
+          "publishedAt": "2026-09-13T04:52:16Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-93948f96d446",
+      "date": "2026-09-14",
+      "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 46,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49687566",
+      "evidence": [
+        {
+          "id": "ev-96a79acd5ed3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+          "url": "https://news.ycombinator.com/item?id=49687566",
+          "publishedAt": "2026-09-13T19:13:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-95481f663116",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+          "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+          "publishedAt": "2026-09-13T19:13:33Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f62c999c0a79",
+      "date": "2026-09-14",
+      "title": "Donald Trump rejects calls from tech bosses for AI slowdown",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Donald Trump rejects calls from tech bosses for AI slowdown。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 44,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49689413",
+      "evidence": [
+        {
+          "id": "ev-7537abda2d1a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Donald Trump rejects calls from tech bosses for AI slowdown",
+          "url": "https://news.ycombinator.com/item?id=49689413",
+          "publishedAt": "2026-09-13T22:32:59Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-19c1c3ebf1e8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Donald Trump rejects calls from tech bosses for AI slowdown",
+          "url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed",
+          "publishedAt": "2026-09-13T22:32:59Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7acfb846d7fd",
+      "date": "2026-09-14",
+      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：It's All Fun and Games Until You Give AI Your Credit Card。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49689664",
+      "evidence": [
+        {
+          "id": "ev-127f974a15f3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+          "url": "https://news.ycombinator.com/item?id=49689664",
+          "publishedAt": "2026-09-13T23:05:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-b0c6ce3f6386",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+          "url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607",
+          "publishedAt": "2026-09-13T23:05:13Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-dd8bc9af5d01",
+      "date": "2026-09-14",
+      "title": "LLMs are real, AI is fake",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：LLMs are real, AI is fake。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49684086",
+      "evidence": [
+        {
+          "id": "ev-aca9c73f41f6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "LLMs are real, AI is fake",
+          "url": "https://news.ycombinator.com/item?id=49684086",
+          "publishedAt": "2026-09-13T13:59:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-3a64c2f32859",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "LLMs are real, AI is fake",
+          "url": "https://pluralistic.net/2026/09/12/god-in-the-box",
+          "publishedAt": "2026-09-13T13:59:36Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1da09f72462c",
+      "date": "2026-09-14",
+      "title": "OpenAI built a text generator so good, it's considered too dangerous (2019)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI built a text generator so good, it's considered too dangerous (2019)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49681166",
+      "evidence": [
+        {
+          "id": "ev-96f3197e71d0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI built a text generator so good, it's considered too dangerous (2019)",
+          "url": "https://news.ycombinator.com/item?id=49681166",
+          "publishedAt": "2026-09-13T07:51:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-cacd1d2509ee",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI built a text generator so good, it's considered too dangerous (2019)",
+          "url": "https://techcrunch.com/2019/02/17/openai-text-generator-dangerous",
+          "publishedAt": "2026-09-13T07:51:03Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7dd29d64475f",
+      "date": "2026-09-14",
+      "title": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49689049",
+      "evidence": [
+        {
+          "id": "ev-08234a6c7733",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain",
+          "url": "https://news.ycombinator.com/item?id=49689049",
+          "publishedAt": "2026-09-13T21:47:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-982f02f900d9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain",
+          "url": "https://petrelvoyage.com/app",
+          "publishedAt": "2026-09-13T21:47:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-131e4fa7f565",
+      "date": "2026-09-14",
+      "title": "Show HN: Makefaster.dev",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Makefaster.dev。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49687032",
+      "evidence": [
+        {
+          "id": "ev-82526c3c196a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Makefaster.dev",
+          "url": "https://news.ycombinator.com/item?id=49687032",
+          "publishedAt": "2026-09-13T18:24:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-b8411c484e87",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Makefaster.dev",
+          "url": "https://makefaster.dev",
+          "publishedAt": "2026-09-13T18:24:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d79a7255da2c",
+      "date": "2026-09-14",
+      "title": "AI is not a normal technology",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI is not a normal technology。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49690529",
+      "evidence": [
+        {
+          "id": "ev-c3d116ba35ec",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI is not a normal technology",
+          "url": "https://news.ycombinator.com/item?id=49690529",
+          "publishedAt": "2026-09-14T01:00:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-01b6e07c48a3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI is not a normal technology",
+          "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+          "publishedAt": "2026-09-14T01:00:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-93b11bc5d35c",
+      "date": "2026-09-14",
+      "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI agents tested by OpenAI involved in cyber-attack on service, say researchers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49681012",
+      "evidence": [
+        {
+          "id": "ev-b5b4d480c4f0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
+          "url": "https://news.ycombinator.com/item?id=49681012",
+          "publishedAt": "2026-09-13T07:25:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-ce3fcd7f1b44",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI agents tested by OpenAI involved in cyber-attack on service, say researchers",
+          "url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+          "publishedAt": "2026-09-13T07:25:52Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1fccc87588a8",
+      "date": "2026-09-14",
+      "title": "AI bubble pops – Cory Doctorow",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI bubble pops – Cory Doctorow。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49690252",
+      "evidence": [
+        {
+          "id": "ev-d0b8386ee395",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI bubble pops – Cory Doctorow",
+          "url": "https://news.ycombinator.com/item?id=49690252",
+          "publishedAt": "2026-09-14T00:22:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-e72b9ba342b7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI bubble pops – Cory Doctorow",
+          "url": "https://www.youtube.com/watch?v=LiDUg_uylyM",
+          "publishedAt": "2026-09-14T00:22:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e93221abefdc",
+      "date": "2026-09-14",
+      "title": "AI extinction is only one way the future is frightening",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI extinction is only one way the future is frightening。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49689267",
+      "evidence": [
+        {
+          "id": "ev-3de4eb8551bd",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI extinction is only one way the future is frightening",
+          "url": "https://news.ycombinator.com/item?id=49689267",
+          "publishedAt": "2026-09-13T22:14:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-dd37ccce8df3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI extinction is only one way the future is frightening",
+          "url": "https://www.rnz.co.nz/news/world/1362349/ai-extinction-is-only-one-way-the-future-is-frightening",
+          "publishedAt": "2026-09-13T22:14:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5cf92ed2a6e1",
+      "date": "2026-09-14",
+      "title": "Chinese military researchers caught using Claude for air-defense and weapons",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Chinese military researchers caught using Claude for air-defense and weapons。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49684165",
+      "evidence": [
+        {
+          "id": "ev-0186c138bbe5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Chinese military researchers caught using Claude for air-defense and weapons",
+          "url": "https://news.ycombinator.com/item?id=49684165",
+          "publishedAt": "2026-09-13T14:07:08Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-64759a4b67ca",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Chinese military researchers caught using Claude for air-defense and weapons",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-and-tech-giants-caught-using-claude-us-frontier-model-coded-16-air-defense-suppression-tools-targeting-taiwan-drafted-anti-torpedo-specs-and-fed-151-million-training-queries-to-alibaba",
+          "publishedAt": "2026-09-13T14:07:08Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d7516da19e4b",
+      "date": "2026-09-14",
+      "title": "Russian developers used AI to build 'kamikaze' attack drone software",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Russian developers used AI to build 'kamikaze' attack drone software。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49686825",
+      "evidence": [
+        {
+          "id": "ev-6c875f4e8649",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Russian developers used AI to build 'kamikaze' attack drone software",
+          "url": "https://news.ycombinator.com/item?id=49686825",
+          "publishedAt": "2026-09-13T18:08:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-7ef4399ae939",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Russian developers used AI to build 'kamikaze' attack drone software",
+          "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+          "publishedAt": "2026-09-13T18:08:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f37c9521d98e",
+      "date": "2026-09-14",
+      "title": "Show HN: VibeWorld – a shared terminal world for developers and scientists",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: VibeWorld – a shared terminal world for developers and scientists。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49688052",
+      "evidence": [
+        {
+          "id": "ev-8e646aa50603",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: VibeWorld – a shared terminal world for developers and scientists",
+          "url": "https://news.ycombinator.com/item?id=49688052",
+          "publishedAt": "2026-09-13T20:00:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-ea1b59bdbff0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: VibeWorld – a shared terminal world for developers and scientists",
+          "url": "https://github.com/SorBalda/vibeworld",
+          "publishedAt": "2026-09-13T20:00:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 250,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
