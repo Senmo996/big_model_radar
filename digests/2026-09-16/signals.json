@@ -1,0 +1,1505 @@
+{
+  "version": 1,
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T02:12:45.035Z",
+  "cards": [
+    {
+      "id": "sig-4dbe1eee6fdf",
+      "date": "2026-09-16",
+      "title": "Show HN: Bough, the agent I built to replace Claude Code at work",
+      "summary": "同一主题出现 11 条关联证据，覆盖 Hacker News、原始文章、Claude Code Skills、Claude Code。核心动态：Show HN: Bough, the agent I built to replace Claude Code at work。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 98,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 11,
+      "sourceFamilies": [
+        "community",
+        "github",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic",
+        "Claude Code Skills",
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "RAG",
+        "Benchmark",
+        "Pricing"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49711939",
+      "evidence": [
+        {
+          "id": "ev-30bc6cf678f0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Bough, the agent I built to replace Claude Code at work",
+          "url": "https://news.ycombinator.com/item?id=49711939",
+          "publishedAt": "2026-09-15T13:04:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-af513f5f810d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Mods, Functional Hooks in Claude Code and Desktop",
+          "url": "https://news.ycombinator.com/item?id=49712921",
+          "publishedAt": "2026-09-15T14:18:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-bc699b583688",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Bough, the agent I built to replace Claude Code at work",
+          "url": "https://github.com/andreylukin/bough",
+          "publishedAt": "2026-09-15T13:04:27Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3e26e2fc6a6b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Mods, Functional Hooks in Claude Code and Desktop",
+          "url": "https://github.com/anthropics/claude-code/issues/91870",
+          "publishedAt": "2026-09-15T14:18:11Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-644d55943bdc",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1298",
+          "title": "fix(skill-creator): isolate trigger evals and handle Windows and runtime failures",
+          "url": "https://github.com/anthropics/skills/pull/1298",
+          "publishedAt": "2026-09-15T00:09:47Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-08b7e63fff9e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1703",
+          "title": "Add md2video-audio skill",
+          "url": "https://github.com/anthropics/skills/pull/1703",
+          "publishedAt": "2026-09-15T13:29:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-66daa73fed31",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1742",
+          "title": "fix(mcp-builder): support mcp>=2 streamable_http_client import and custom headers",
+          "url": "https://github.com/anthropics/skills/pull/1742",
+          "publishedAt": "2026-09-13T09:59:27Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-b5662046b163",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · Issue #91870",
+          "title": "Mods - make Claude 10x more extensible",
+          "url": "https://github.com/anthropics/claude-code/issues/91870",
+          "publishedAt": "2026-09-16T00:30:53Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 183,
+            "reactions": 113
+          }
+        },
+        {
+          "id": "ev-02ba38506add",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #492",
+          "title": "Security: Community skills distributed under anthropic/ namespace enable trust boundary abuse",
+          "url": "https://github.com/anthropics/skills/issues/492",
+          "publishedAt": "2026-07-20T12:27:13Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 43,
+            "reactions": 2
+          }
+        },
+        {
+          "id": "ev-eb4aa16ed764",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #228",
+          "title": "Enable org-wide skill sharing in Claude.ai",
+          "url": "https://github.com/anthropics/skills/issues/228",
+          "publishedAt": "2026-07-25T13:30:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 8
+          }
+        },
+        {
+          "id": "ev-41e2bfa7c38b",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #556",
+          "title": "run_eval.py: claude -p never triggers skills/commands (0% trigger rate across all queries)",
+          "url": "https://github.com/anthropics/skills/issues/556",
+          "publishedAt": "2026-06-10T02:37:30Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-57d2d8584a83",
+      "date": "2026-09-16",
+      "title": "Hugging Face Incident And The Road Ahead",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Hugging Face Incident And The Road Ahead。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 90,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 82,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "evidence": [
+        {
+          "id": "ev-c0f7996a35c2",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Hugging Face Incident And The Road Ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "publishedAt": "2026-09-15T21:47:00.355Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-861438365926",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Hugging Face is billing OpenAI $100M for hacking it",
+          "url": "https://news.ycombinator.com/item?id=49716241",
+          "publishedAt": "2026-09-15T17:56:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 132,
+            "comments": 44
+          }
+        },
+        {
+          "id": "ev-d161ef728af8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Hugging Face is billing OpenAI $100M for hacking it",
+          "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+          "publishedAt": "2026-09-15T17:56:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-30a66ece28f6",
+      "date": "2026-09-16",
+      "title": "v0.3.5",
+      "summary": "同一主题出现 8 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：v0.3.5。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 33,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "OpenAI",
+        "Anthropic",
+        "Google Gemini",
+        "Model Context Protocol",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "MCP",
+        "Coding",
+        "Model",
+        "RAG",
+        "Security"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/releases/tag/v0.3.5",
+      "evidence": [
+        {
+          "id": "ev-a09157e87e9f",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Release",
+          "title": "v0.3.5",
+          "url": "https://github.com/HKUDS/nanobot/releases/tag/v0.3.5",
+          "publishedAt": "2026-09-15T19:05:37Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-9cf0d9d14ce4",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5782",
+          "title": "fix(dream): enforce configured iteration limit",
+          "url": "https://github.com/HKUDS/nanobot/pull/5782",
+          "publishedAt": "2026-09-16T01:43:59Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-809255319424",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5748",
+          "title": "fix(recovery): persist partial tool progress at batch boundaries",
+          "url": "https://github.com/HKUDS/nanobot/pull/5748",
+          "publishedAt": "2026-09-15T21:16:17Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f243e25dc6a8",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5787",
+          "title": "build: bundle native TUI in platform wheels",
+          "url": "https://github.com/HKUDS/nanobot/pull/5787",
+          "publishedAt": "2026-09-15T18:38:35Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-ffdc1f2244e7",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5781",
+          "title": "Dream runs for 1–2 h looping on the same read_file calls; dream.maxIterations is deprecated/ignored so the global 200-iteration cap applies",
+          "url": "https://github.com/HKUDS/nanobot/issues/5781",
+          "publishedAt": "2026-09-16T02:08:26Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 3,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-fce33053494f",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5784",
+          "title": "QQ: automatic compaction notices are sent as standalone messages, and the channel has no way to collapse them",
+          "url": "https://github.com/HKUDS/nanobot/issues/5784",
+          "publishedAt": "2026-09-15T14:27:10Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-2169b437359e",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5788",
+          "title": "Nanobot 0.3.5 released! Let's go!",
+          "url": "https://github.com/HKUDS/nanobot/issues/5788",
+          "publishedAt": "2026-09-16T02:11:04Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-15T19:02:04Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48196
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-4ab19eec5129",
+      "date": "2026-09-16",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Why I'm still bearish on LLMs after Navier-Stokes。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 92,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49715927",
+      "evidence": [
+        {
+          "id": "ev-ac882df254ed",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+          "url": "https://news.ycombinator.com/item?id=49715927",
+          "publishedAt": "2026-09-15T17:37:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 151,
+            "comments": 132
+          }
+        },
+        {
+          "id": "ev-b989f6e514ee",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+          "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+          "publishedAt": "2026-09-15T17:37:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5c70765736d3",
+      "date": "2026-09-16",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI buys smartphone camera maker Glass Imaging for $300M。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 68,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 88,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49711240",
+      "evidence": [
+        {
+          "id": "ev-71036308e033",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "url": "https://news.ycombinator.com/item?id=49711240",
+          "publishedAt": "2026-09-15T12:01:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 123,
+            "comments": 97
+          }
+        },
+        {
+          "id": "ev-f5d23373899a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "publishedAt": "2026-09-15T12:01:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-dc219802bff1",
+      "date": "2026-09-16",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 85,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49712409",
+      "evidence": [
+        {
+          "id": "ev-b133e39d3d62",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "url": "https://news.ycombinator.com/item?id=49712409",
+          "publishedAt": "2026-09-15T13:41:28Z",
+          "authority": "community",
+          "metrics": {
+            "points": 47,
+            "comments": 108
+          }
+        },
+        {
+          "id": "ev-c231c860bc74",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+          "publishedAt": "2026-09-15T13:41:28Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c73fee3c3093",
+      "date": "2026-09-16",
+      "title": "AI Regulation as Anthropic's Business Model",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI Regulation as Anthropic's Business Model。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 52,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49712120",
+      "evidence": [
+        {
+          "id": "ev-285fa3a51f60",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Regulation as Anthropic's Business Model",
+          "url": "https://news.ycombinator.com/item?id=49712120",
+          "publishedAt": "2026-09-15T13:21:34Z",
+          "authority": "community",
+          "metrics": {
+            "points": 27,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-1a2e4fd2d31d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Regulation as Anthropic's Business Model",
+          "url": "https://twitter.com/kevinnbass/status/2099621874279817638",
+          "publishedAt": "2026-09-15T13:21:34Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2f9f6a39a894",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "METR Anthropic Network",
+          "url": "https://twitter.com/kevinnbass/status/2099621874279817638",
+          "publishedAt": "2026-09-15T02:56:58Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0c370628ccb9",
+      "date": "2026-09-16",
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Pizza Bot – An inbox for AI agents that work in the background。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 62,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49713894",
+      "evidence": [
+        {
+          "id": "ev-0d0edd822457",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "url": "https://news.ycombinator.com/item?id=49713894",
+          "publishedAt": "2026-09-15T15:20:26Z",
+          "authority": "community",
+          "metrics": {
+            "points": 32,
+            "comments": 14
+          }
+        },
+        {
+          "id": "ev-14cc3d96e874",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+          "url": "https://github.com/pizza-bot-app/pizza-bot",
+          "publishedAt": "2026-09-15T15:20:26Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-493548fe328d",
+      "date": "2026-09-16",
+      "title": "Saving Jet Fuel",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Saving Jet Fuel。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 61,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49720164",
+      "evidence": [
+        {
+          "id": "ev-0d69f6718b2b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Saving Jet Fuel",
+          "url": "https://news.ycombinator.com/item?id=49720164",
+          "publishedAt": "2026-09-15T23:17:20Z",
+          "authority": "community",
+          "metrics": {
+            "points": 30,
+            "comments": 13
+          }
+        },
+        {
+          "id": "ev-3a7da1f8a8ba",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Saving Jet Fuel",
+          "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+          "publishedAt": "2026-09-15T23:17:20Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fc0c7fa25f39",
+      "date": "2026-09-16",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Learning to solve hard problems in RL for LLMs by never giving up。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 57,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49717280",
+      "evidence": [
+        {
+          "id": "ev-b025cd696a95",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+          "url": "https://news.ycombinator.com/item?id=49717280",
+          "publishedAt": "2026-09-15T19:07:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 42,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-5475ebb44cb9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+          "url": "https://mnoukhov.github.io/posts/ngu",
+          "publishedAt": "2026-09-15T19:07:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7b5a8705cf59",
+      "date": "2026-09-16",
+      "title": "OpenAI Wants to Know If an AI Industry Slowdown Would Even Be Legal",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Wants to Know If an AI Industry Slowdown Would Even Be Legal。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 48,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49713132",
+      "evidence": [
+        {
+          "id": "ev-aab689096060",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Wants to Know If an AI Industry Slowdown Would Even Be Legal",
+          "url": "https://news.ycombinator.com/item?id=49713132",
+          "publishedAt": "2026-09-15T14:31:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-f812654abe5a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Wants to Know If an AI Industry Slowdown Would Even Be Legal",
+          "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal",
+          "publishedAt": "2026-09-15T14:31:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3a44cf7db6f4",
+      "date": "2026-09-16",
+      "title": "Anthropic and OpenAI look to Uncle Sam to make them too big to fail",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic and OpenAI look to Uncle Sam to make them too big to fail。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49714663",
+      "evidence": [
+        {
+          "id": "ev-6b6e767b9175",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic and OpenAI look to Uncle Sam to make them too big to fail",
+          "url": "https://news.ycombinator.com/item?id=49714663",
+          "publishedAt": "2026-09-15T16:07:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-308af7c9bbef",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic and OpenAI look to Uncle Sam to make them too big to fail",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/15/anthropic-and-openai-look-to-uncle-sam-to-make-them-too-big-to-fail/5296403",
+          "publishedAt": "2026-09-15T16:07:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b772b4495235",
+      "date": "2026-09-16",
+      "title": "California attempts to crack down on health spending",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：California attempts to crack down on health spending。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49717472",
+      "evidence": [
+        {
+          "id": "ev-4cb2146bb7e1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "California attempts to crack down on health spending",
+          "url": "https://news.ycombinator.com/item?id=49717472",
+          "publishedAt": "2026-09-15T19:19:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-4cecd95cab0b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "California attempts to crack down on health spending",
+          "url": "https://www.axios.com/2026/09/14/california-health-spending-limits-affordability",
+          "publishedAt": "2026-09-15T19:19:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b2c80042f440",
+      "date": "2026-09-16",
+      "title": "OpenRouter users spent more on OpenAI models than on Anthropic models last week",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenRouter users spent more on OpenAI models than on Anthropic models last week。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49716466",
+      "evidence": [
+        {
+          "id": "ev-bec7b62fe508",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenRouter users spent more on OpenAI models than on Anthropic models last week",
+          "url": "https://news.ycombinator.com/item?id=49716466",
+          "publishedAt": "2026-09-15T18:10:59Z",
+          "authority": "community",
+          "metrics": {
+            "points": 14,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-5a39782bbf3f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenRouter users spent more on OpenAI models than on Anthropic models last week",
+          "url": "https://twitter.com/OpenRouter/status/2099898254905549220",
+          "publishedAt": "2026-09-15T18:10:59Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ff4a1ca3e70f",
+      "date": "2026-09-16",
+      "title": "Cohere CEO says calls for coordinated slowdown amounts to 'cartel' behaviour",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Cohere CEO says calls for coordinated slowdown amounts to 'cartel' behaviour。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49719906",
+      "evidence": [
+        {
+          "id": "ev-e14cbcd2c26f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Cohere CEO says calls for coordinated slowdown amounts to 'cartel' behaviour",
+          "url": "https://news.ycombinator.com/item?id=49719906",
+          "publishedAt": "2026-09-15T22:47:25Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-e248823c39e7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Cohere CEO says calls for coordinated slowdown amounts to 'cartel' behaviour",
+          "url": "https://www.theglobeandmail.com/business/technology/article-cohere-ceo-aidan-gomez-criticizes-calls-for-ai-slowdown",
+          "publishedAt": "2026-09-15T22:47:25Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c297574dfe64",
+      "date": "2026-09-16",
+      "title": "I asked Claude to build an OS from scratch. A few days later it runs on a laptop",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I asked Claude to build an OS from scratch. A few days later it runs on a laptop。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49712305",
+      "evidence": [
+        {
+          "id": "ev-f4f7fac39233",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I asked Claude to build an OS from scratch. A few days later it runs on a laptop",
+          "url": "https://news.ycombinator.com/item?id=49712305",
+          "publishedAt": "2026-09-15T13:33:20Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-8085b355b2fc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I asked Claude to build an OS from scratch. A few days later it runs on a laptop",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1wfpydl/i_asked_claude_to_build_an_operating_system_from",
+          "publishedAt": "2026-09-15T13:33:20Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5f65e974bc8d",
+      "date": "2026-09-16",
+      "title": "Show HN: Async multi-agent coordination across physical environments",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Async multi-agent coordination across physical environments。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49714247",
+      "evidence": [
+        {
+          "id": "ev-8c33924ed7a1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Async multi-agent coordination across physical environments",
+          "url": "https://news.ycombinator.com/item?id=49714247",
+          "publishedAt": "2026-09-15T15:40:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-3c204f95f136",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Async multi-agent coordination across physical environments",
+          "url": "https://github.com/BlahBlah23406/agent-comms",
+          "publishedAt": "2026-09-15T15:40:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f71b71e516e2",
+      "date": "2026-09-16",
+      "title": "Show HN: EACL is a situated ReBAC authorization library for Datomic and Datahike",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: EACL is a situated ReBAC authorization library for Datomic and Datahike。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49712785",
+      "evidence": [
+        {
+          "id": "ev-4fc5545f4b43",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: EACL is a situated ReBAC authorization library for Datomic and Datahike",
+          "url": "https://news.ycombinator.com/item?id=49712785",
+          "publishedAt": "2026-09-15T14:09:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-15cae508fae0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: EACL is a situated ReBAC authorization library for Datomic and Datahike",
+          "url": "https://github.com/theronic/eacl",
+          "publishedAt": "2026-09-15T14:09:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-47c33e9aa2da",
+      "date": "2026-09-16",
+      "title": "Agentic coding is straining CI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Agentic coding is straining CI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49714174",
+      "evidence": [
+        {
+          "id": "ev-9a3bcb473462",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Agentic coding is straining CI",
+          "url": "https://news.ycombinator.com/item?id=49714174",
+          "publishedAt": "2026-09-15T15:36:35Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-3014b3493e66",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Agentic coding is straining CI",
+          "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+          "publishedAt": "2026-09-15T15:36:35Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-df262178986f",
+      "date": "2026-09-16",
+      "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：How OpenAI Used Its Own LLMs to Design Its AI Chip。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49718194",
+      "evidence": [
+        {
+          "id": "ev-d08a24f2a43f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
+          "url": "https://news.ycombinator.com/item?id=49718194",
+          "publishedAt": "2026-09-15T20:11:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-be3a59588060",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "How OpenAI Used Its Own LLMs to Design Its AI Chip",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "publishedAt": "2026-09-15T20:11:19Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e27e3927abb3",
+      "date": "2026-09-16",
+      "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Agenttik – work on multiple projects in parallel with AI agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49720222",
+      "evidence": [
+        {
+          "id": "ev-d95c85ab3c00",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+          "url": "https://news.ycombinator.com/item?id=49720222",
+          "publishedAt": "2026-09-15T23:24:53Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-d74328c59520",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+          "url": "https://github.com/pausan/agenttik",
+          "publishedAt": "2026-09-15T23:24:53Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-bd09a2207338",
+      "date": "2026-09-16",
+      "title": "Show HN: Biom – A visual workspace where your AI agents' work lands",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Biom – A visual workspace where your AI agents' work lands。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49720507",
+      "evidence": [
+        {
+          "id": "ev-61ac11583265",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Biom – A visual workspace where your AI agents' work lands",
+          "url": "https://news.ycombinator.com/item?id=49720507",
+          "publishedAt": "2026-09-16T00:02:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-2ad252fcbb24",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Biom – A visual workspace where your AI agents' work lands",
+          "url": "https://www.biom.dev",
+          "publishedAt": "2026-09-16T00:02:16Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d69cf37c83e7",
+      "date": "2026-09-16",
+      "title": "Subnormal floating-point numbers are expensive on Intel processors",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Subnormal floating-point numbers are expensive on Intel processors。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49715408",
+      "evidence": [
+        {
+          "id": "ev-71aebe72ce95",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Subnormal floating-point numbers are expensive on Intel processors",
+          "url": "https://news.ycombinator.com/item?id=49715408",
+          "publishedAt": "2026-09-15T16:58:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-fd78c6ea6dbc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Subnormal floating-point numbers are expensive on Intel processors",
+          "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors",
+          "publishedAt": "2026-09-15T16:58:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f9b6472b3ac9",
+      "date": "2026-09-16",
+      "title": "Why a Swift AI pause is unlikely: No one trusts AI companies",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Why a Swift AI pause is unlikely: No one trusts AI companies。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49715182",
+      "evidence": [
+        {
+          "id": "ev-392a2ea2b5e7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Why a Swift AI pause is unlikely: No one trusts AI companies",
+          "url": "https://news.ycombinator.com/item?id=49715182",
+          "publishedAt": "2026-09-15T16:43:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-a0ef7626421b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Why a Swift AI pause is unlikely: No one trusts AI companies",
+          "url": "https://www.axios.com/2026/09/15/ai-trust-safety-anthropic-openai",
+          "publishedAt": "2026-09-15T16:43:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 408,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
