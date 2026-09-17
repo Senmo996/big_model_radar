@@ -1,0 +1,2565 @@
+{
+  "version": 1,
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T02:16:51.864Z",
+  "cards": [
+    {
+      "id": "sig-5e8d460ee26f",
+      "date": "2026-09-17",
+      "title": "My website charged AI agents a penny per page. I watched Claude pay it",
+      "summary": "同一主题出现 16 条关联证据，覆盖 Hacker News、原始文章、CoPaw、Claude Code Skills。核心动态：My website charged AI agents a penny per page. I watched Claude pay it。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 95,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 86,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 16,
+      "sourceFamilies": [
+        "community",
+        "github",
+        "media"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude Code",
+        "CoPaw",
+        "OpenAI",
+        "Claude Code Skills",
+        "Model Context Protocol"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "MCP",
+        "Model",
+        "Security",
+        "API"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49734392",
+      "evidence": [
+        {
+          "id": "ev-4ecd72cb6d85",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "My website charged AI agents a penny per page. I watched Claude pay it",
+          "url": "https://news.ycombinator.com/item?id=49734392",
+          "publishedAt": "2026-09-16T23:22:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-15bbe39e0c29",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Pixel Agents – A pixel-art mission control for your Claude Code agents",
+          "url": "https://news.ycombinator.com/item?id=49730005",
+          "publishedAt": "2026-09-16T17:12:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-83e1d19b691e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "My website charged AI agents a penny per page. I watched Claude pay it",
+          "url": "https://suganthan.com/blog/x402-pay-per-crawl",
+          "publishedAt": "2026-09-16T23:22:56Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-dbbed547d678",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Pixel Agents – A pixel-art mission control for your Claude Code agents",
+          "url": "https://mateovalle.github.io/pixel-agents",
+          "publishedAt": "2026-09-16T17:12:13Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d668aebe9e4c",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · PR #7811",
+          "title": "fix(token-usage): show measured context size in the chat context ring",
+          "url": "https://github.com/agentscope-ai/QwenPaw/pull/7811",
+          "publishedAt": "2026-09-17T02:16:34Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-cc9569026c59",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · PR #7211",
+          "title": "fix(runtime): prevent injected context from persisting",
+          "url": "https://github.com/agentscope-ai/QwenPaw/pull/7211",
+          "publishedAt": "2026-09-17T02:14:53Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-3e28c2ff4466",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · PR #7788",
+          "title": "feat(console): redesign sidebar session list for small screens",
+          "url": "https://github.com/agentscope-ai/QwenPaw/pull/7788",
+          "publishedAt": "2026-09-17T02:14:52Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-644d55943bdc",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1298",
+          "title": "fix(skill-creator): isolate trigger evals and handle Windows and runtime failures",
+          "url": "https://github.com/anthropics/skills/pull/1298",
+          "publishedAt": "2026-09-16T14:51:52Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f8a5992b8722",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1771",
+          "title": "feat(skills): add proofcore-contract-auditor for smart contract notarization",
+          "url": "https://github.com/anthropics/skills/pull/1771",
+          "publishedAt": "2026-09-16T12:12:37Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-08b7e63fff9e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1703",
+          "title": "Add md2video-audio skill",
+          "url": "https://github.com/anthropics/skills/pull/1703",
+          "publishedAt": "2026-09-15T13:29:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0392e021a9a4",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · Issue #7318",
+          "title": "[Discussion] QwenPaw Hub, the multi-tenant edition, is coming in 2.2.0: what should we build next? / QwenPaw 多租户版 Hub 将于 2.2.0 推出：你希望我们接下来做什么？",
+          "url": "https://github.com/agentscope-ai/QwenPaw/issues/7318",
+          "publishedAt": "2026-09-16T07:00:39Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 29,
+            "reactions": 4
+          }
+        },
+        {
+          "id": "ev-8b594696b371",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · Issue #7678",
+          "title": "[Bug]: spawn subAgent",
+          "url": "https://github.com/agentscope-ai/QwenPaw/issues/7678",
+          "publishedAt": "2026-09-16T05:23:09Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 9,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-d8ed345d74ed",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "CoPaw · Issue #6318",
+          "title": "[Feature]: 支持按 conversation 级别指定模型，而非仅绑定 agent",
+          "url": "https://github.com/agentscope-ai/QwenPaw/issues/6318",
+          "publishedAt": "2026-09-17T02:07:02Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 7,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-02ba38506add",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #492",
+          "title": "Security: Community skills distributed under anthropic/ namespace enable trust boundary abuse",
+          "url": "https://github.com/anthropics/skills/issues/492",
+          "publishedAt": "2026-07-20T12:27:13Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 43,
+            "reactions": 2
+          }
+        },
+        {
+          "id": "ev-eb4aa16ed764",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #228",
+          "title": "Enable org-wide skill sharing in Claude.ai",
+          "url": "https://github.com/anthropics/skills/issues/228",
+          "publishedAt": "2026-07-25T13:30:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 8
+          }
+        },
+        {
+          "id": "ev-41e2bfa7c38b",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #556",
+          "title": "run_eval.py: claude -p never triggers skills/commands (0% trigger rate across all queries)",
+          "url": "https://github.com/anthropics/skills/issues/556",
+          "publishedAt": "2026-06-10T02:37:30Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-f57d65913363",
+      "date": "2026-09-17",
+      "title": "v2.1.274",
+      "summary": "同一主题出现 8 条关联证据，覆盖 Claude Code、GitHub Trending。核心动态：v2.1.274。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 86,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic",
+        "Model Context Protocol",
+        "claude-code"
+      ],
+      "topics": [
+        "Agent",
+        "MCP",
+        "Coding",
+        "Model",
+        "RAG",
+        "API"
+      ],
+      "primaryUrl": "https://github.com/anthropics/claude-code/releases/tag/v2.1.274",
+      "evidence": [
+        {
+          "id": "ev-7048f1641286",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · Release",
+          "title": "v2.1.274",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.274",
+          "publishedAt": "2026-09-17T00:12:02Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-78f86fefd349",
+          "source": "github_trending",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Trending",
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "publishedAt": "2026-09-17T02:16:51.864Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 0,
+            "todayStars": 165,
+            "forks": 0
+          }
+        },
+        {
+          "id": "ev-f1ef4da15f54",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · PR #94847",
+          "title": "diff: the first edit opens the pane only when it has a file to list",
+          "url": "https://github.com/anthropics/claude-code/pull/94847",
+          "publishedAt": "2026-09-16T18:58:16Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-ecd7f6fe6b9b",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · PR #94843",
+          "title": "diff: the prompt hint reads the viewport's layout through a type that may lack it",
+          "url": "https://github.com/anthropics/claude-code/pull/94843",
+          "publishedAt": "2026-09-16T18:45:37Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-d316defef3ec",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · PR #94653",
+          "title": "diff: the first edit opens the pane only where the layout docks it",
+          "url": "https://github.com/anthropics/claude-code/pull/94653",
+          "publishedAt": "2026-09-16T04:36:04Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-4122e5073260",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · Issue #16157",
+          "title": "[BUG] Instantly hitting usage limits with Max subscription",
+          "url": "https://github.com/anthropics/claude-code/issues/16157",
+          "publishedAt": "2026-09-17T01:36:52Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1495,
+            "reactions": 694
+          }
+        },
+        {
+          "id": "ev-b5662046b163",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · Issue #91870",
+          "title": "Mods - make Claude 10x more extensible",
+          "url": "https://github.com/anthropics/claude-code/issues/91870",
+          "publishedAt": "2026-09-17T01:37:32Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 187,
+            "reactions": 117
+          }
+        },
+        {
+          "id": "ev-94e36823038a",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · Issue #44805",
+          "title": "Remote Control: mobile app fails with \"GitHub repository access check failed\" when environment has git_repo_url",
+          "url": "https://github.com/anthropics/claude-code/issues/44805",
+          "publishedAt": "2026-09-17T02:03:44Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 17,
+            "reactions": 31
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-3f5073d5601e",
+      "date": "2026-09-17",
+      "title": "New Chatgpt Images Is Here",
+      "summary": "同一主题出现 33 条关联证据，覆盖 OpenAI、Hacker News。核心动态：New Chatgpt Images Is Here。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 85,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 94,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 33,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent",
+        "Coding"
+      ],
+      "primaryUrl": "https://openai.com/index/new-chatgpt-images-is-here",
+      "evidence": [
+        {
+          "id": "ev-bc52a6137bf7",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "New Chatgpt Images Is Here",
+          "url": "https://openai.com/index/new-chatgpt-images-is-here",
+          "publishedAt": "2026-09-17T01:43:52.825Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-62e87bf6e221",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Agent",
+          "url": "https://openai.com/index/introducing-chatgpt-agent",
+          "publishedAt": "2026-09-17T01:43:46.504Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-df16a154e450",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Data Residency In Europe",
+          "url": "https://openai.com/index/introducing-data-residency-in-europe",
+          "publishedAt": "2026-09-17T01:43:46.390Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d3a983c8b12f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Lockdown Mode And Elevated Risk Labels In Chatgpt",
+          "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+          "publishedAt": "2026-09-17T01:43:45.914Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-727a91cae6d5",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Expanding Access To Ai With Chatgpt Ads",
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "publishedAt": "2026-09-17T01:43:45.323Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-69a6d9df5d05",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Prism",
+          "url": "https://openai.com/index/introducing-prism",
+          "publishedAt": "2026-09-17T01:43:45.163Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b5034aaa1238",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Chatgpt Whatsapp Transition",
+          "url": "https://openai.com/index/chatgpt-whatsapp-transition",
+          "publishedAt": "2026-09-17T01:43:44.952Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5065f92e170d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "New Ways To Learn Math And Science In Chatgpt",
+          "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+          "publishedAt": "2026-09-17T01:43:44.232Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8a7501ee51ed",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Images 2 5",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "publishedAt": "2026-09-17T01:43:42.873Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-978b45b04f7a",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Chatgpt Connects Health Records And Healthcare Sources",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "publishedAt": "2026-09-17T01:43:40.386Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1f2f2ab424af",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Team",
+          "url": "https://openai.com/index/introducing-chatgpt-team",
+          "publishedAt": "2026-09-17T01:43:40.378Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-60e9acc69c04",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Chatgpt Memory Dreaming",
+          "url": "https://openai.com/index/chatgpt-memory-dreaming",
+          "publishedAt": "2026-09-17T01:43:38.024Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7ba89c479bb8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Improving Health Intelligence In Chatgpt",
+          "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "publishedAt": "2026-09-17T01:43:37.867Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2a2d7a730f2f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Pulse",
+          "url": "https://openai.com/index/introducing-chatgpt-pulse",
+          "publishedAt": "2026-09-17T01:43:35.902Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8d639b866b6c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Health In Chatgpt",
+          "url": "https://openai.com/index/health-in-chatgpt",
+          "publishedAt": "2026-09-17T01:43:34.952Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4ef0d8ed8b5c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Atlas",
+          "url": "https://openai.com/index/introducing-chatgpt-atlas",
+          "publishedAt": "2026-09-17T01:43:33.585Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-28f1faed97e3",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Data Residency In Asia",
+          "url": "https://openai.com/index/introducing-data-residency-in-asia",
+          "publishedAt": "2026-09-17T01:43:32.262Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-862bc6650a9d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Learn Teach Chatgpt Work Codex",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "publishedAt": "2026-09-17T01:43:32.168Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6e815a7f4e28",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Chatgpt Ads Expands Across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "publishedAt": "2026-09-17T01:43:27.566Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8c27caad0899",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Images 2 0",
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+          "publishedAt": "2026-09-17T01:43:27.172Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-9919116b8eb8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Health",
+          "url": "https://openai.com/index/introducing-chatgpt-health",
+          "publishedAt": "2026-09-17T01:43:25.417Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-01ef6f12ce6d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Put Data To Work",
+          "url": "https://openai.com/index/put-data-to-work",
+          "publishedAt": "2026-09-17T01:43:24.306Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ab86647c1f6d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Our Approach To Advertising And Expanding Access",
+          "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+          "publishedAt": "2026-09-17T01:43:22.709Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ae9b9c356b25",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Samsung Electronics Chatgpt Codex Deployment",
+          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+          "publishedAt": "2026-09-17T01:13:28.398Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-27f780ddb18e",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Our Approach To Age Prediction",
+          "url": "https://openai.com/index/our-approach-to-age-prediction",
+          "publishedAt": "2026-09-17T01:13:15.995Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a6131abbf8ac",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Building Abundant Intelligence",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "publishedAt": "2026-09-17T01:13:11.721Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-75b80afb4d3c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Our Principles",
+          "url": "https://openai.com/index/our-principles",
+          "publishedAt": "2026-09-17T01:13:01.324Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-82a744f6e88f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Ai Mental Health Research Grants",
+          "url": "https://openai.com/index/ai-mental-health-research-grants",
+          "publishedAt": "2026-09-17T01:12:57.799Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2a65f193d098",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Built To Benefit Everyone Our Plan",
+          "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+          "publishedAt": "2026-09-17T01:12:57.165Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-18d5ec629ad1",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "The Full Stack Behind Abundant Intelligence",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "publishedAt": "2026-09-17T01:12:55.111Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-db506a5e9c4b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "publishedAt": "2026-09-17T01:12:52.823Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2c64dbc0062f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Teen Development Research Grants",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "publishedAt": "2026-09-16T12:50:32.610Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f97db6ff0e38",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+          "url": "https://news.ycombinator.com/item?id=49727041",
+          "publishedAt": "2026-09-16T13:51:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 151,
+            "comments": 170
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-f10a9e02429e",
+      "date": "2026-09-17",
+      "title": "Gpt 6 Astra Next Generation Work",
+      "summary": "同一主题出现 52 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Gpt 6 Astra Next Generation Work。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 82,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 33,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 52,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [
+        "Coding",
+        "Model",
+        "Pricing",
+        "Agent",
+        "API"
+      ],
+      "primaryUrl": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "evidence": [
+        {
+          "id": "ev-911a0050dfe6",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 6 Astra Next Generation Work",
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "publishedAt": "2026-09-17T01:50:01.118Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-0a868c3c4605",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra",
+          "publishedAt": "2026-09-17T01:49:13.232Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a8e7ebe040b9",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 5 5 Instant",
+          "url": "https://openai.com/index/gpt-5-5-instant",
+          "publishedAt": "2026-09-17T01:43:45.485Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-aa95d7717315",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Gpt 5 4",
+          "url": "https://openai.com/index/introducing-gpt-5-4",
+          "publishedAt": "2026-09-17T01:43:44.143Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5b47bc7df0d3",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing 4o Image Generation",
+          "url": "https://openai.com/index/introducing-4o-image-generation",
+          "publishedAt": "2026-09-17T01:43:43.678Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a85a13d0a975",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Openai For Nonprofits",
+          "url": "https://openai.com/index/introducing-openai-for-nonprofits",
+          "publishedAt": "2026-09-17T01:43:41.527Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d07b5ced22f7",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Parental Controls",
+          "url": "https://openai.com/index/introducing-parental-controls",
+          "publishedAt": "2026-09-17T01:43:40.477Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-aca06539dc9f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing New Capabilities To Gpt Rosalind",
+          "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+          "publishedAt": "2026-09-17T01:43:39.086Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-0df861f4b14b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 5 1",
+          "url": "https://openai.com/index/gpt-5-1",
+          "publishedAt": "2026-09-17T01:43:37.311Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5e8ec3108db8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Company Knowledge",
+          "url": "https://openai.com/index/introducing-company-knowledge",
+          "publishedAt": "2026-09-17T01:43:36.922Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-291d5c0b9a84",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Chatgpt Enterprise Spend Controls",
+          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "publishedAt": "2026-09-17T01:43:36.731Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-766549208004",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Previewing Gpt 5 6 Sol",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "publishedAt": "2026-09-17T01:43:36.528Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-28df37f75f3e",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Openai Partner Network",
+          "url": "https://openai.com/index/introducing-openai-partner-network",
+          "publishedAt": "2026-09-17T01:43:36.299Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-58ad8f61c0dd",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Improving Gpt 5 6 Sol In Chatgpt",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "publishedAt": "2026-09-17T01:43:34.867Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a39559ac9b6c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Openai Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "publishedAt": "2026-09-17T01:43:34.380Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-efa622c90833",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Chatgpt For Teachers",
+          "url": "https://openai.com/index/chatgpt-for-teachers",
+          "publishedAt": "2026-09-17T01:43:33.008Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2a84e0204835",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 5 1 For Developers",
+          "url": "https://openai.com/index/gpt-5-1-for-developers",
+          "publishedAt": "2026-09-17T01:43:31.757Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-15eb485ac503",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Bringing Chatgpt For Teachers To More Us School Districts",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "publishedAt": "2026-09-17T01:43:31.027Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-dcc135e61efd",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Previewing Ultrafast",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "publishedAt": "2026-09-17T01:43:30.464Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-016c7d83f167",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 5 6 Preferred Model Microsoft 365 Copilot",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "publishedAt": "2026-09-17T01:43:30.367Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-05ad2a7b6670",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 5 6",
+          "url": "https://openai.com/index/gpt-5-6",
+          "publishedAt": "2026-09-17T01:43:29.678Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e84d7874fc0b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Gpt 5",
+          "url": "https://openai.com/index/introducing-gpt-5",
+          "publishedAt": "2026-09-17T01:43:29.672Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b76e7602e154",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Gpt 5 5",
+          "url": "https://openai.com/index/introducing-gpt-5-5",
+          "publishedAt": "2026-09-17T01:43:29.316Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ceb579beef1d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Gpt 5 6 In Kiro",
+          "url": "https://openai.com/index/gpt-5-6-in-kiro",
+          "publishedAt": "2026-09-17T01:43:29.073Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4db5f6aaa58a",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Gpt Oss Safeguard",
+          "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+          "publishedAt": "2026-09-17T01:43:28.001Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4831ff99c0e0",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Aardvark",
+          "url": "https://openai.com/index/introducing-aardvark",
+          "publishedAt": "2026-09-17T01:43:27.968Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-692015e38f33",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Gpt 5 4 Mini And Nano",
+          "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+          "publishedAt": "2026-09-17T01:43:27.618Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ad961eb389ac",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Premium Seats Chatgpt Business",
+          "url": "https://openai.com/index/premium-seats-chatgpt-business",
+          "publishedAt": "2026-09-17T01:43:26.666Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d92ba61d4ec8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Personal Finance Chatgpt",
+          "url": "https://openai.com/index/personal-finance-chatgpt",
+          "publishedAt": "2026-09-17T01:43:26.659Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-27142c8c33fe",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Gpt Live",
+          "url": "https://openai.com/index/introducing-gpt-live",
+          "publishedAt": "2026-09-17T01:43:25.970Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4dde8b08578b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Advancing The Price Performance Frontier With Gpt 5 6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "publishedAt": "2026-09-17T01:43:25.378Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8033c85fe218",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Chatgpt For Your Most Ambitious Work",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "publishedAt": "2026-09-17T01:43:25.373Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-510faf17c3f7",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Testing Ads In Chatgpt",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "publishedAt": "2026-09-17T01:43:24.474Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e3bf2b49e8d1",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Chatgpt Financial Services",
+          "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "publishedAt": "2026-09-17T01:43:24.286Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7b89e11bd961",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Path To Astra",
+          "url": "https://openai.com/index/path-to-astra",
+          "publishedAt": "2026-09-17T01:34:02.684Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-014d6c8004a5",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Supporting Next Generation Ai Startups Thailand",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "publishedAt": "2026-09-17T01:13:18.007Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a038b7388d59",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "How The World Is Putting Chatgpt To Work",
+          "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+          "publishedAt": "2026-09-17T01:13:11.448Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-55842b5dc8c5",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "How Enterprises Put Ai To Work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "publishedAt": "2026-09-17T01:13:06.555Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-02899190a671",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "1 Million Businesses Putting Ai To Work",
+          "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
+          "publishedAt": "2026-09-17T01:13:02.433Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5a7f9d0d8538",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing B2b Signals",
+          "url": "https://openai.com/index/introducing-b2b-signals",
+          "publishedAt": "2026-09-17T01:12:59.562Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-471340b60c8b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Edu For Countries",
+          "url": "https://openai.com/index/edu-for-countries",
+          "publishedAt": "2026-09-17T01:12:58.679Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f8d809bfbf13",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Building An Ai Native Finance Function",
+          "url": "https://openai.com/index/building-an-ai-native-finance-function",
+          "publishedAt": "2026-09-17T01:12:56.784Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-9c7907b44f12",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing The Openai Economic Research Exchange",
+          "url": "https://openai.com/index/introducing-the-openai-economic-research-exchange",
+          "publishedAt": "2026-09-17T01:12:55.436Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b17f75f9521c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "A Scorecard For The Ai Age",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "publishedAt": "2026-09-17T01:12:53.966Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-2c7170c00934",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Expanding Our Presence In Brazil",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "publishedAt": "2026-09-17T01:12:53.545Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3b6d89d0c296",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Chatgpt For Academic Researchers",
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "publishedAt": "2026-09-17T01:12:52.680Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-480652d091bf",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Continuous Voice Interaction With Gpt Live",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "publishedAt": "2026-09-17T01:12:52.582Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-94a5bba35146",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing Genebench Pro",
+          "url": "https://openai.com/index/introducing-genebench-pro",
+          "publishedAt": "2026-09-16T12:50:43.270Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-63174188a691",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Safety Overview Gpt 6 Astra",
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "publishedAt": "2026-09-16T12:50:38.699Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4f841067174b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Introducing The Agents Api",
+          "url": "https://openai.com/index/introducing-the-agents-api",
+          "publishedAt": "2026-09-16T12:50:30.889Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b12daab51dd1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI agents probed Hugging Face for weaknesses two months before major hack",
+          "url": "https://news.ycombinator.com/item?id=49724407",
+          "publishedAt": "2026-09-16T10:27:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-79cc81811ad6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI agents probed Hugging Face for weaknesses two months before major hack",
+          "url": "https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16",
+          "publishedAt": "2026-09-16T10:27:57Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-cf9437e27642",
+      "date": "2026-09-17",
+      "title": "Teen Safety Freedom And Privacy",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Teen Safety Freedom And Privacy。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 78,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 32,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/teen-safety-freedom-and-privacy",
+      "evidence": [
+        {
+          "id": "ev-fde0d2d1ae14",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Teen Safety Freedom And Privacy",
+          "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
+          "publishedAt": "2026-09-17T01:13:06.891Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ced1b57e1e21",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI bosses' safety push sparks rift inside OpenAI and Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49730138",
+          "publishedAt": "2026-09-16T17:20:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-e9d411e16f75",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI bosses' safety push sparks rift inside OpenAI and Anthropic",
+          "url": "https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3",
+          "publishedAt": "2026-09-16T17:20:57Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-69948307f75d",
+      "date": "2026-09-17",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 72,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 72,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49735180",
+      "evidence": [
+        {
+          "id": "ev-1fdfd68a21e3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+          "url": "https://news.ycombinator.com/item?id=49735180",
+          "publishedAt": "2026-09-17T01:02:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 41,
+            "comments": 29
+          }
+        },
+        {
+          "id": "ev-c0c87f8a908d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI discloses six new AI safety incidents",
+          "url": "https://news.ycombinator.com/item?id=49734970",
+          "publishedAt": "2026-09-17T00:33:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-31036e0e8838",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+          "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+          "publishedAt": "2026-09-17T01:02:13Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e20ca4e71057",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI discloses six new AI safety incidents",
+          "url": "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure",
+          "publishedAt": "2026-09-17T00:33:03Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ad944ff49093",
+      "date": "2026-09-17",
+      "title": "Claude Cowork and chat are now one Claude",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude Cowork and chat are now one Claude。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 98,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49729412",
+      "evidence": [
+        {
+          "id": "ev-f9660b7525fe",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Cowork and chat are now one Claude",
+          "url": "https://news.ycombinator.com/item?id=49729412",
+          "publishedAt": "2026-09-16T16:26:25Z",
+          "authority": "community",
+          "metrics": {
+            "points": 203,
+            "comments": 207
+          }
+        },
+        {
+          "id": "ev-46d77295ef64",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Cowork and chat are now one Claude",
+          "url": "https://claude.com/blog/cowork-is-now-claude",
+          "publishedAt": "2026-09-16T16:26:25Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2d99f4c057f5",
+      "date": "2026-09-17",
+      "title": "fix(mcp): identify nanobot requests to Parallel",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(mcp): identify nanobot requests to Parallel。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 41,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Model Context Protocol",
+        "OpenAI",
+        "Anthropic",
+        "Google Gemini",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "MCP",
+        "API",
+        "Coding",
+        "Model",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5797",
+      "evidence": [
+        {
+          "id": "ev-4176c1ca964e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5797",
+          "title": "fix(mcp): identify nanobot requests to Parallel",
+          "url": "https://github.com/HKUDS/nanobot/pull/5797",
+          "publishedAt": "2026-09-17T01:31:01Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-95e06054c2c6",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #2595",
+          "title": "refactor: rename tool progress text variable for clarity",
+          "url": "https://github.com/HKUDS/nanobot/pull/2595",
+          "publishedAt": "2026-09-16T16:17:05Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-9b44ef29ea54",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5152",
+          "title": "fix(subagent): mark partial completion results",
+          "url": "https://github.com/HKUDS/nanobot/pull/5152",
+          "publishedAt": "2026-09-16T15:41:21Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-11966e125fe9",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #4419",
+          "title": "Feature: Automatic reasoning effort escalation (default + escalated levels)",
+          "url": "https://github.com/HKUDS/nanobot/issues/4419",
+          "publishedAt": "2026-09-16T07:24:50Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 5,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-7999473310ed",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5731",
+          "title": "Add AnySearch extract as a web_fetch backend (key-optional, anonymous quota)",
+          "url": "https://github.com/HKUDS/nanobot/issues/5731",
+          "publishedAt": "2026-09-16T08:23:09Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-1e7a6f3dc8d6",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5790",
+          "title": "代码仓库",
+          "url": "https://github.com/HKUDS/nanobot/issues/5790",
+          "publishedAt": "2026-09-16T06:31:11Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-16T10:00:58Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48231
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-00d9f7ea69f6",
+      "date": "2026-09-17",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Breaking the 1.58-bit Barrier for Ternary LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 79,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49732931",
+      "evidence": [
+        {
+          "id": "ev-02ed56b830a9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "url": "https://news.ycombinator.com/item?id=49732931",
+          "publishedAt": "2026-09-16T20:59:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 147,
+            "comments": 19
+          }
+        },
+        {
+          "id": "ev-6fe1b61f5399",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+          "url": "https://arxiv.org/abs/2609.16338",
+          "publishedAt": "2026-09-16T20:59:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0f52ffaf1011",
+      "date": "2026-09-17",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenSpec – A lightweight and configurable AI spec framework。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 73,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49734264",
+      "evidence": [
+        {
+          "id": "ev-7b519b1c51b1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenSpec – A lightweight and configurable AI spec framework",
+          "url": "https://news.ycombinator.com/item?id=49734264",
+          "publishedAt": "2026-09-16T23:06:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 72,
+            "comments": 26
+          }
+        },
+        {
+          "id": "ev-49cc0bb0780b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenSpec – A lightweight and configurable AI spec framework",
+          "url": "https://openspec.dev",
+          "publishedAt": "2026-09-16T23:06:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3c7866c4439c",
+      "date": "2026-09-17",
+      "title": "Model Misalignment Reporting Framework",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI、Hacker News。核心动态：Model Misalignment Reporting Framework。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://openai.com/index/model-misalignment-reporting-framework",
+      "evidence": [
+        {
+          "id": "ev-04a8bf139771",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Model Misalignment Reporting Framework",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "publishedAt": "2026-09-17T00:16:36.851Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-1d18fab50eb4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Model Misalignment Reporting Framework",
+          "url": "https://news.ycombinator.com/item?id=49733739",
+          "publishedAt": "2026-09-16T22:11:42Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-33dd90120d6f",
+      "date": "2026-09-17",
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49727661",
+      "evidence": [
+        {
+          "id": "ev-4fb4d8ed07ee",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+          "url": "https://news.ycombinator.com/item?id=49727661",
+          "publishedAt": "2026-09-16T14:32:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 40,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-c77e5ef2280d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+          "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+          "publishedAt": "2026-09-16T14:32:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c1daec325a89",
+      "date": "2026-09-17",
+      "title": "OpenAI 'temporarily' pauses new sign-ups and upgrades to $200 plan",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News。核心动态：OpenAI 'temporarily' pauses new sign-ups and upgrades to $200 plan。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "evidence": [
+        {
+          "id": "ev-56bf2d4490c6",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "OpenAI 'temporarily' pauses new sign-ups and upgrades to $200 plan",
+          "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+          "publishedAt": "2026-09-16T10:16:19Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-015fab18ca54",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI 'temporarily' pauses new sign-ups and upgrades to $200 plan",
+          "url": "https://news.ycombinator.com/item?id=49724324",
+          "publishedAt": "2026-09-16T10:16:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-603bb65f3bef",
+      "date": "2026-09-17",
+      "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49727511",
+      "evidence": [
+        {
+          "id": "ev-c06213ba7d6d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "url": "https://news.ycombinator.com/item?id=49727511",
+          "publishedAt": "2026-09-16T14:24:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 26,
+            "comments": 11
+          }
+        },
+        {
+          "id": "ev-d91a80c9bb12",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+          "publishedAt": "2026-09-16T14:24:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3125a1ae5290",
+      "date": "2026-09-17",
+      "title": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: SeasonMap – when to travel where? visualized with climate data。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 52,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49728781",
+      "evidence": [
+        {
+          "id": "ev-122636248033",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+          "url": "https://news.ycombinator.com/item?id=49728781",
+          "publishedAt": "2026-09-16T15:43:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 9
+          }
+        },
+        {
+          "id": "ev-03aa6cee0e33",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: SeasonMap – when to travel where? visualized with climate data",
+          "url": "https://seasonmap.app",
+          "publishedAt": "2026-09-16T15:43:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-64fa11deb3fc",
+      "date": "2026-09-17",
+      "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 51,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49729492",
+      "evidence": [
+        {
+          "id": "ev-df775bf099d7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+          "url": "https://news.ycombinator.com/item?id=49729492",
+          "publishedAt": "2026-09-16T16:32:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 9
+          }
+        },
+        {
+          "id": "ev-75e71a913f67",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "With 1 Extension: $20K in Bounties from Anthropic, Perplexity, Google, Microsoft",
+          "url": "https://forever.security/blog/bragjack-hijacking-5-browsers-via-built-in-ai-assistants",
+          "publishedAt": "2026-09-16T16:32:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4957cf4c6ad4",
+      "date": "2026-09-17",
+      "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49735351",
+      "evidence": [
+        {
+          "id": "ev-d27e86a04ea8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
+          "url": "https://news.ycombinator.com/item?id=49735351",
+          "publishedAt": "2026-09-17T01:30:49Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-6576d61a57db",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
+          "url": "https://nypost.com/2026/09/14/business/big-short-trader-michael-burry-slams-openai-anthropic-for-self-serving-calls-to-slow-ai",
+          "publishedAt": "2026-09-17T01:30:49Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-00c635c7acaa",
+      "date": "2026-09-17",
+      "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49735049",
+      "evidence": [
+        {
+          "id": "ev-00e0e9b8fa74",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
+          "url": "https://news.ycombinator.com/item?id=49735049",
+          "publishedAt": "2026-09-17T00:44:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-dbd803394fe8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "What's Scarier Than Agents Taking over Internet? CEO Cartel Trying Take over AI",
+          "url": "https://fractalsofchange.substack.com/p/q-whats-scarier-than-a-swarm-of-ai",
+          "publishedAt": "2026-09-17T00:44:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8d47f780ad02",
+      "date": "2026-09-17",
+      "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49723441",
+      "evidence": [
+        {
+          "id": "ev-e8311f414f14",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
+          "url": "https://news.ycombinator.com/item?id=49723441",
+          "publishedAt": "2026-09-16T08:13:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-ec0c13dce9ac",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic's proposed AI watchdog METR has deep ties to Effective Altruism",
+          "url": "https://nypost.com/2026/09/15/business/anthropic-ceo-dario-amodeis-handpicked-ai-watchdog-has-deep-ties-to-effective-altruism-movement-a-complete-joke",
+          "publishedAt": "2026-09-16T08:13:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7f9991ec06a6",
+      "date": "2026-09-17",
+      "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49733794",
+      "evidence": [
+        {
+          "id": "ev-fbf93c4162cd",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+          "url": "https://news.ycombinator.com/item?id=49733794",
+          "publishedAt": "2026-09-16T22:16:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-554ccc693589",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+          "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
+          "publishedAt": "2026-09-16T22:16:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-99a349a37770",
+      "date": "2026-09-17",
+      "title": "Migrating the GitHub Copilot Runtime to Rust, Using Copilot",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Migrating the GitHub Copilot Runtime to Rust, Using Copilot。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49735238",
+      "evidence": [
+        {
+          "id": "ev-3cb647fc814d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Migrating the GitHub Copilot Runtime to Rust, Using Copilot",
+          "url": "https://news.ycombinator.com/item?id=49735238",
+          "publishedAt": "2026-09-17T01:12:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-069c10a2ecae",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Migrating the GitHub Copilot Runtime to Rust, Using Copilot",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "publishedAt": "2026-09-17T01:12:27Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d92e2b983ce9",
+      "date": "2026-09-17",
+      "title": "Show HN: Fail2zig. A single-binary fail2ban replacement written in Zig",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Fail2zig. A single-binary fail2ban replacement written in Zig。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49732015",
+      "evidence": [
+        {
+          "id": "ev-3e36e71a2fb6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Fail2zig. A single-binary fail2ban replacement written in Zig",
+          "url": "https://news.ycombinator.com/item?id=49732015",
+          "publishedAt": "2026-09-16T19:52:26Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-bd3576078cf2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Fail2zig. A single-binary fail2ban replacement written in Zig",
+          "url": "https://fail2zig.com",
+          "publishedAt": "2026-09-16T19:52:26Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2fb74e85d4b7",
+      "date": "2026-09-17",
+      "title": "Show HN: ManyBot – Framework to build WhatsApp bots, without the boring part",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: ManyBot – Framework to build WhatsApp bots, without the boring part。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49727647",
+      "evidence": [
+        {
+          "id": "ev-ebb139fc0d12",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: ManyBot – Framework to build WhatsApp bots, without the boring part",
+          "url": "https://news.ycombinator.com/item?id=49727647",
+          "publishedAt": "2026-09-16T14:31:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-a79ad6241d18",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: ManyBot – Framework to build WhatsApp bots, without the boring part",
+          "url": "https://manybot.org",
+          "publishedAt": "2026-09-16T14:31:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-faf5892fc3b2",
+      "date": "2026-09-17",
+      "title": "The LLMs Yearn for the Spines",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The LLMs Yearn for the Spines。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49733100",
+      "evidence": [
+        {
+          "id": "ev-1d8d6f1b4df3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The LLMs Yearn for the Spines",
+          "url": "https://news.ycombinator.com/item?id=49733100",
+          "publishedAt": "2026-09-16T21:13:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-ad931133d164",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The LLMs Yearn for the Spines",
+          "url": "https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines",
+          "publishedAt": "2026-09-16T21:13:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 471,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
