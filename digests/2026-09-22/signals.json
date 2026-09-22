@@ -1,0 +1,1405 @@
+{
+  "version": 1,
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T02:18:23.243Z",
+  "cards": [
+    {
+      "id": "sig-f24447ebbd17",
+      "date": "2026-09-22",
+      "title": "The Work Now Within Reach",
+      "summary": "同一主题出现 8 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：The Work Now Within Reach。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 80,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 27,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://openai.com/index/the-work-now-within-reach",
+      "evidence": [
+        {
+          "id": "ev-db506a5e9c4b",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "The Work Now Within Reach",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "publishedAt": "2026-09-22T01:10:03.631Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-01ef6f12ce6d",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Put Data To Work",
+          "url": "https://openai.com/index/put-data-to-work",
+          "publishedAt": "2026-09-21T23:30:17.389Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-71913ee0ba1f",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "Download The Chatgpt Work Guide For Data Teams",
+          "url": "https://openai.com/business/learn/download-the-chatgpt-work-guide-for-data-teams",
+          "publishedAt": "2026-09-21T20:52:44.954Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d5b0d4b4a300",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "Chatgpt Usage And Adoption Patterns At Work",
+          "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+          "publishedAt": "2026-09-21T20:28:39.231Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f4ee71bddd35",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · business",
+          "title": "Inside Gpt5 Our Best Model For Work",
+          "url": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+          "publishedAt": "2026-09-21T20:28:38.743Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d6106be20f41",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · signals",
+          "title": "Enterprise Data",
+          "url": "https://openai.com/signals/enterprise-data",
+          "publishedAt": "2026-09-21T20:28:38.735Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-8de0b1d458d2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Degrading Their Models, Also for Paid Users",
+          "url": "https://news.ycombinator.com/item?id=49783477",
+          "publishedAt": "2026-09-21T05:52:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-bb4807061dc3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Degrading Their Models, Also for Paid Users",
+          "url": "https://old.reddit.com/r/codex/comments/1wkwdfl/the_end_of_the_codex_era_ive_completely_lost",
+          "publishedAt": "2026-09-21T05:52:36Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-52e1fd3c8813",
+      "date": "2026-09-22",
+      "title": "Advisory Group On Mathematics And Ai",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、OpenAI 官方、Hacker News。核心动态：Advisory Group On Mathematics And Ai。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 77,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 79,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "evidence": [
+        {
+          "id": "ev-ce1dc63a5f64",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Advisory Group On Mathematics And Ai",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "publishedAt": "2026-09-22T02:04:15.798Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-75ce9d476e31",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "publishedAt": "2026-09-21T17:27:49Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f05f971406dd",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://news.ycombinator.com/item?id=49790389",
+          "publishedAt": "2026-09-21T17:27:49Z",
+          "authority": "community",
+          "metrics": {
+            "points": 69,
+            "comments": 55
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-313ecbd5aa6f",
+      "date": "2026-09-22",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 90,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49783133",
+      "evidence": [
+        {
+          "id": "ev-9e31f93e9880",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "url": "https://news.ycombinator.com/item?id=49783133",
+          "publishedAt": "2026-09-21T04:42:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 254,
+            "comments": 56
+          }
+        },
+        {
+          "id": "ev-80d912585e8e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "url": "https://github.com/volotat/mini-AGI",
+          "publishedAt": "2026-09-21T04:42:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7f45583ad91f",
+      "date": "2026-09-22",
+      "title": "The Claude Delusion",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The Claude Delusion。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 91,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49787765",
+      "evidence": [
+        {
+          "id": "ev-b6632af58d69",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The Claude Delusion",
+          "url": "https://news.ycombinator.com/item?id=49787765",
+          "publishedAt": "2026-09-21T14:30:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 90,
+            "comments": 154
+          }
+        },
+        {
+          "id": "ev-d0f40156cd55",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The Claude Delusion",
+          "url": "https://pluralistic.net/2026/09/21/sunsetting",
+          "publishedAt": "2026-09-21T14:30:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-088f3fc9092f",
+      "date": "2026-09-22",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude Status – Elevated errors for multiple models。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 74,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49795579",
+      "evidence": [
+        {
+          "id": "ev-03dfdc722452",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Status – Elevated errors for multiple models",
+          "url": "https://news.ycombinator.com/item?id=49795579",
+          "publishedAt": "2026-09-22T01:05:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 60,
+            "comments": 33
+          }
+        },
+        {
+          "id": "ev-91aa3cbd3873",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Status – Elevated errors for multiple models",
+          "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+          "publishedAt": "2026-09-22T01:05:19Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-98b215314e89",
+      "date": "2026-09-22",
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Foremerge – Catch intent conflicts between parallel coding agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 62,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49789356",
+      "evidence": [
+        {
+          "id": "ev-ad8ef088a6d7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "url": "https://news.ycombinator.com/item?id=49789356",
+          "publishedAt": "2026-09-21T16:22:06Z",
+          "authority": "community",
+          "metrics": {
+            "points": 39,
+            "comments": 10
+          }
+        },
+        {
+          "id": "ev-87e24b9d8dd3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+          "url": "https://github.com/naw103/foremerge",
+          "publishedAt": "2026-09-21T16:22:06Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-57fe94f63b06",
+      "date": "2026-09-22",
+      "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 58,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49791384",
+      "evidence": [
+        {
+          "id": "ev-6ccbb7bf6a7b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+          "url": "https://news.ycombinator.com/item?id=49791384",
+          "publishedAt": "2026-09-21T18:33:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 24,
+            "comments": 10
+          }
+        },
+        {
+          "id": "ev-a7ad3c4f65f0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+          "publishedAt": "2026-09-21T18:33:56Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d7d32924970d",
+      "date": "2026-09-22",
+      "title": "Do not fear AI. Fear AI companies",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Do not fear AI. Fear AI companies。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49794422",
+      "evidence": [
+        {
+          "id": "ev-a32749fa85d0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Do not fear AI. Fear AI companies",
+          "url": "https://news.ycombinator.com/item?id=49794422",
+          "publishedAt": "2026-09-21T22:40:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 26,
+            "comments": 11
+          }
+        },
+        {
+          "id": "ev-5917ce2e8aed",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Do not fear AI. Fear AI companies",
+          "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+          "publishedAt": "2026-09-21T22:40:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-83d768df64b2",
+      "date": "2026-09-22",
+      "title": "fix(memory): bound automatic transcript summarization",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(memory): bound automatic transcript summarization。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "RAG",
+        "API",
+        "MCP"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5857",
+      "evidence": [
+        {
+          "id": "ev-4f887f180a39",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5857",
+          "title": "fix(memory): bound automatic transcript summarization",
+          "url": "https://github.com/HKUDS/nanobot/pull/5857",
+          "publishedAt": "2026-09-21T22:00:54Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-77699d378c7f",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5856",
+          "title": "feat(webui): inspect and stop session commands without consuming output",
+          "url": "https://github.com/HKUDS/nanobot/pull/5856",
+          "publishedAt": "2026-09-21T21:42:06Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-17f828101f17",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5855",
+          "title": "feat(webui): show bounded parent-scoped subtask outputs",
+          "url": "https://github.com/HKUDS/nanobot/pull/5855",
+          "publishedAt": "2026-09-21T21:15:58Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-d2e5e9563a90",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5849",
+          "title": "Auto-compaction deadlock: summarize_transcript has no token-budget guard, compaction can never recover once history exceeds input budget",
+          "url": "https://github.com/HKUDS/nanobot/issues/5849",
+          "publishedAt": "2026-09-21T19:00:11Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a552dd49b77f",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5770",
+          "title": "[WebUI] Opening the mobile sidebar focuses the search button and shows the \"Search ⌘K\" tooltip",
+          "url": "https://github.com/HKUDS/nanobot/issues/5770",
+          "publishedAt": "2026-09-21T08:26:58Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-ea0a0b830386",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5843",
+          "title": "[BUILD stage latency] Long sessions wait 10s–tens of seconds before LLM call; unclear whether expected",
+          "url": "https://github.com/HKUDS/nanobot/issues/5843",
+          "publishedAt": "2026-09-21T07:59:24Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-21T21:42:03Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48463
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-0ef99e984caf",
+      "date": "2026-09-22",
+      "title": "Building standards for the next phase of AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News。核心动态：Building standards for the next phase of AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/building-standards-next-phase-ai",
+      "evidence": [
+        {
+          "id": "ev-ee8b92133516",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "publishedAt": "2026-09-21T17:18:16Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5862ed5002d7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Building standards for the next phase of AI",
+          "url": "https://news.ycombinator.com/item?id=49790253",
+          "publishedAt": "2026-09-21T17:18:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-3892e4c2cd7c",
+      "date": "2026-09-22",
+      "title": "Anthropic at $2T isn't far-fetched",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic at $2T isn't far-fetched。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 53,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49791046",
+      "evidence": [
+        {
+          "id": "ev-5f1b31a70115",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic at $2T isn't far-fetched",
+          "url": "https://news.ycombinator.com/item?id=49791046",
+          "publishedAt": "2026-09-21T18:11:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 12
+          }
+        },
+        {
+          "id": "ev-51d2d24ab022",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic at $2T isn't far-fetched",
+          "url": "https://www.ft.com/content/01a7b883-452c-4902-b40e-e3957de5d89e",
+          "publishedAt": "2026-09-21T18:11:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5833789cbdd1",
+      "date": "2026-09-22",
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 53,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49795718",
+      "evidence": [
+        {
+          "id": "ev-da2b55b97742",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+          "url": "https://news.ycombinator.com/item?id=49795718",
+          "publishedAt": "2026-09-22T01:24:49Z",
+          "authority": "community",
+          "metrics": {
+            "points": 29,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-f8b6c8d78ca8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+          "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568",
+          "publishedAt": "2026-09-22T01:24:49Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a777275de0b8",
+      "date": "2026-09-22",
+      "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Nvidia boss says there is '0% chance' AI destroys the world by 2030。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 47,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49784978",
+      "evidence": [
+        {
+          "id": "ev-ef35d340f356",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
+          "url": "https://news.ycombinator.com/item?id=49784978",
+          "publishedAt": "2026-09-21T09:21:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 7
+          }
+        },
+        {
+          "id": "ev-20e6efb2bf70",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Nvidia boss says there is '0% chance' AI destroys the world by 2030",
+          "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+          "publishedAt": "2026-09-21T09:21:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-da9923f0847e",
+      "date": "2026-09-22",
+      "title": "Show HN: Vellum, the best diagram editor you'll ever use",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Vellum, the best diagram editor you'll ever use。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 44,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49789066",
+      "evidence": [
+        {
+          "id": "ev-d05e86964c00",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Vellum, the best diagram editor you'll ever use",
+          "url": "https://news.ycombinator.com/item?id=49789066",
+          "publishedAt": "2026-09-21T16:05:42Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-7cd480a772ee",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Vellum, the best diagram editor you'll ever use",
+          "url": "https://vellum.blueprintr.io",
+          "publishedAt": "2026-09-21T16:05:42Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a071fa68dfbb",
+      "date": "2026-09-22",
+      "title": "Bessent Targets OpenAI Managers for Hugging Face Incident",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Bessent Targets OpenAI Managers for Hugging Face Incident。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49787915",
+      "evidence": [
+        {
+          "id": "ev-7a3011832bd5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Bessent Targets OpenAI Managers for Hugging Face Incident",
+          "url": "https://news.ycombinator.com/item?id=49787915",
+          "publishedAt": "2026-09-21T14:42:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-d57576b36557",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Bessent Targets OpenAI Managers for Hugging Face Incident",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame",
+          "publishedAt": "2026-09-21T14:42:27Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4bcdb2ca597d",
+      "date": "2026-09-22",
+      "title": "Halo: Post-train LLMs 3x faster than TRL and Megatron",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Halo: Post-train LLMs 3x faster than TRL and Megatron。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49790874",
+      "evidence": [
+        {
+          "id": "ev-ac3bf7688b1b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Halo: Post-train LLMs 3x faster than TRL and Megatron",
+          "url": "https://news.ycombinator.com/item?id=49790874",
+          "publishedAt": "2026-09-21T17:59:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-e24f5a88cc1d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Halo: Post-train LLMs 3x faster than TRL and Megatron",
+          "url": "https://twitter.com/whitecircle/status/2102087563913609534",
+          "publishedAt": "2026-09-21T17:59:52Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-da6893aede71",
+      "date": "2026-09-22",
+      "title": "The president wanted to unleash AI. Then came Anthropic",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The president wanted to unleash AI. Then came Anthropic。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49782916",
+      "evidence": [
+        {
+          "id": "ev-6ab4c57ad272",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The president wanted to unleash AI. Then came Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49782916",
+          "publishedAt": "2026-09-21T04:01:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-1faf01815c51",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The president wanted to unleash AI. Then came Anthropic",
+          "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
+          "publishedAt": "2026-09-21T04:01:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5ec6258baced",
+      "date": "2026-09-22",
+      "title": "You can use any LLM just like JEV",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：You can use any LLM just like JEV。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49791782",
+      "evidence": [
+        {
+          "id": "ev-add732fe6db9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "You can use any LLM just like JEV",
+          "url": "https://news.ycombinator.com/item?id=49791782",
+          "publishedAt": "2026-09-21T19:03:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-de356043a0d9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "You can use any LLM just like JEV",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev",
+          "publishedAt": "2026-09-21T19:03:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-789d1382801c",
+      "date": "2026-09-22",
+      "title": "B.C. government to sue OpenAI after Tumbler Ridge mass shooting",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：B.C. government to sue OpenAI after Tumbler Ridge mass shooting。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49791898",
+      "evidence": [
+        {
+          "id": "ev-afab97a58a9b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "B.C. government to sue OpenAI after Tumbler Ridge mass shooting",
+          "url": "https://news.ycombinator.com/item?id=49791898",
+          "publishedAt": "2026-09-21T19:10:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-961495322d96",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "B.C. government to sue OpenAI after Tumbler Ridge mass shooting",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-government-announce-update-openai-legal-action-9.7352395",
+          "publishedAt": "2026-09-21T19:10:50Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1a7aae01bca6",
+      "date": "2026-09-22",
+      "title": "I Am in need of Testers",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I Am in need of Testers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49794537",
+      "evidence": [
+        {
+          "id": "ev-8eda04aa7e6e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I Am in need of Testers",
+          "url": "https://news.ycombinator.com/item?id=49794537",
+          "publishedAt": "2026-09-21T22:56:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-f9c5872d42ca",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I Am in need of Testers",
+          "url": "https://agaro.ai",
+          "publishedAt": "2026-09-21T22:56:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f4254ac20352",
+      "date": "2026-09-22",
+      "title": "I built an autonomous accounting tool to let AI do my taxes",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I built an autonomous accounting tool to let AI do my taxes。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49795855",
+      "evidence": [
+        {
+          "id": "ev-6a6459e91262",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I built an autonomous accounting tool to let AI do my taxes",
+          "url": "https://news.ycombinator.com/item?id=49795855",
+          "publishedAt": "2026-09-22T01:45:53Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-039484a95fda",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I built an autonomous accounting tool to let AI do my taxes",
+          "url": "https://github.com/CodeGameDev29/KFAutonomousAccounting",
+          "publishedAt": "2026-09-22T01:45:53Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-25db00ae7105",
+      "date": "2026-09-22",
+      "title": "Jev: System One Models for Prod, Not God – With Diogo Almeida, CEO, TypeSafe AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Jev: System One Models for Prod, Not God – With Diogo Almeida, CEO, TypeSafe AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49794590",
+      "evidence": [
+        {
+          "id": "ev-fe5143c7492c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Jev: System One Models for Prod, Not God – With Diogo Almeida, CEO, TypeSafe AI",
+          "url": "https://news.ycombinator.com/item?id=49794590",
+          "publishedAt": "2026-09-21T23:01:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-a1b23f9d41c0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Jev: System One Models for Prod, Not God – With Diogo Almeida, CEO, TypeSafe AI",
+          "url": "https://www.latent.space/p/jev",
+          "publishedAt": "2026-09-21T23:01:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-68d3e7ad392e",
+      "date": "2026-09-22",
+      "title": "Show HN: Praxos – Multiplayer AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Praxos – Multiplayer AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49793831",
+      "evidence": [
+        {
+          "id": "ev-fffafd733925",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Praxos – Multiplayer AI",
+          "url": "https://news.ycombinator.com/item?id=49793831",
+          "publishedAt": "2026-09-21T21:40:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-0797cafda6d8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Praxos – Multiplayer AI",
+          "url": "https://www.praxos.ai",
+          "publishedAt": "2026-09-21T21:40:19Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-600c4188c957",
+      "date": "2026-09-22",
+      "title": "The A.I. Party House Where Networking Has a Dark Side",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The A.I. Party House Where Networking Has a Dark Side。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49795580",
+      "evidence": [
+        {
+          "id": "ev-cbcd294a9b8c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The A.I. Party House Where Networking Has a Dark Side",
+          "url": "https://news.ycombinator.com/item?id=49795580",
+          "publishedAt": "2026-09-22T01:05:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-5529ed73c996",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The A.I. Party House Where Networking Has a Dark Side",
+          "url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+          "publishedAt": "2026-09-22T01:05:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 307,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
