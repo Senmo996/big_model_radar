@@ -1,0 +1,1981 @@
+{
+  "version": 1,
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-27T02:22:57.274Z",
+  "cards": [
+    {
+      "id": "sig-e35e97b83ab0",
+      "date": "2026-09-27",
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "summary": "同一主题出现 16 条关联证据，覆盖 Hacker News、原始文章、NanoClaw、Claude Code Skills。核心动态：Show HN: A Claude Code skill to analyze your chess games。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 96,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 90,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 16,
+      "sourceFamilies": [
+        "community",
+        "github",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic",
+        "NanoClaw",
+        "OpenAI",
+        "Model Context Protocol",
+        "Claude Code Skills"
+      ],
+      "topics": [
+        "Coding",
+        "Agent",
+        "Model",
+        "Security",
+        "API",
+        "MCP"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49857528",
+      "evidence": [
+        {
+          "id": "ev-e67f2ce773e2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://news.ycombinator.com/item?id=49857528",
+          "publishedAt": "2026-09-26T15:34:53Z",
+          "authority": "community",
+          "metrics": {
+            "points": 72,
+            "comments": 53
+          }
+        },
+        {
+          "id": "ev-f683615ed6a2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Causal analyst agent skill for Claude",
+          "url": "https://news.ycombinator.com/item?id=49855115",
+          "publishedAt": "2026-09-26T10:24:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-ab0f140e4779",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: A Claude Code skill to analyze your chess games",
+          "url": "https://github.com/brumar/chess-postmortem-skills",
+          "publishedAt": "2026-09-26T15:34:53Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-fb24eb940bff",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Causal analyst agent skill for Claude",
+          "url": "https://github.com/kiritbasu/causal-analyst",
+          "publishedAt": "2026-09-26T10:24:33Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-147bd96f995b",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #3025",
+          "title": "fix(container): raise the agent SDK's 32000 output-token cap to the m…",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/3025",
+          "publishedAt": "2026-09-27T01:45:19Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c98f87664941",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #2949",
+          "title": "feat(skill): /add-litellm — minimal model router (local servers + opt…",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/2949",
+          "publishedAt": "2026-09-27T01:45:19Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-5c34374ef8c0",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · PR #3944",
+          "title": "feat(skills): let /add-typesafe-tool call Jev through OpenRouter",
+          "url": "https://github.com/nanocoai/nanoclaw/pull/3944",
+          "publishedAt": "2026-09-27T01:29:02Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-644d55943bdc",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1298",
+          "title": "fix(skill-creator): isolate trigger evals and handle Windows and runtime failures",
+          "url": "https://github.com/anthropics/skills/pull/1298",
+          "publishedAt": "2026-09-16T14:51:52Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-66daa73fed31",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1742",
+          "title": "fix(mcp-builder): support mcp>=2 streamable_http_client import and custom headers",
+          "url": "https://github.com/anthropics/skills/pull/1742",
+          "publishedAt": "2026-09-26T13:09:18Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f8a5992b8722",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · PR #1771",
+          "title": "feat(skills): add proofcore-contract-auditor for smart contract notarization",
+          "url": "https://github.com/anthropics/skills/pull/1771",
+          "publishedAt": "2026-09-16T12:12:37Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-b6f7e68ba13a",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · Issue #2520",
+          "title": "logs/nanoclaw.log captures libsignal-node SessionEntry dumps containing privKey/rootKey/chainKey buffers",
+          "url": "https://github.com/nanocoai/nanoclaw/issues/2520",
+          "publishedAt": "2026-09-26T20:38:19Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-1e0e8285c273",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · Issue #3943",
+          "title": "update-nanoclaw: controller imports `setup/gateways/` (and npm deps) that the documented extraction doesn't provide — `prepare` crashes with MODULE_NOT_FOUND (regression after #3750)",
+          "url": "https://github.com/nanocoai/nanoclaw/issues/3943",
+          "publishedAt": "2026-09-26T20:37:06Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-172c19b3f410",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoClaw · Issue #3942",
+          "title": "Skill refresh during `/update-nanoclaw validate` rewrites pnpm-lock.yaml and drops the `integrity` hash of git-hosted dependencies",
+          "url": "https://github.com/nanocoai/nanoclaw/issues/3942",
+          "publishedAt": "2026-09-26T20:36:00Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-02ba38506add",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #492",
+          "title": "Security: Community skills distributed under anthropic/ namespace enable trust boundary abuse",
+          "url": "https://github.com/anthropics/skills/issues/492",
+          "publishedAt": "2026-07-20T12:27:13Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 43,
+            "reactions": 2
+          }
+        },
+        {
+          "id": "ev-eb4aa16ed764",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #228",
+          "title": "Enable org-wide skill sharing in Claude.ai",
+          "url": "https://github.com/anthropics/skills/issues/228",
+          "publishedAt": "2026-07-25T13:30:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 8
+          }
+        },
+        {
+          "id": "ev-41e2bfa7c38b",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code Skills · Issue #556",
+          "title": "run_eval.py: claude -p never triggers skills/commands (0% trigger rate across all queries)",
+          "url": "https://github.com/anthropics/skills/issues/556",
+          "publishedAt": "2026-06-10T02:37:30Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 12,
+            "reactions": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-f388b603b28a",
+      "date": "2026-09-27",
+      "title": "An OpenAI agent used DNS to reach an external chatbot",
+      "summary": "同一主题出现 4 条关联证据，覆盖 OpenAI 官方、Hacker News、原始文章。核心动态：An OpenAI agent used DNS to reach an external chatbot。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 86,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 52,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "evidence": [
+        {
+          "id": "ev-93ba4885f72c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "An OpenAI agent used DNS to reach an external chatbot",
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "publishedAt": "2026-09-26T15:43:46Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3bcb05969679",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An OpenAI agent used DNS to reach an external chatbot",
+          "url": "https://news.ycombinator.com/item?id=49857609",
+          "publishedAt": "2026-09-26T15:43:46Z",
+          "authority": "community",
+          "metrics": {
+            "points": 16,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-9283fac0e426",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
+          "url": "https://news.ycombinator.com/item?id=49860279",
+          "publishedAt": "2026-09-26T20:34:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-416b538fe195",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "An OpenAI agent escaped its sandbox by hiding questions in DNS lookups",
+          "url": "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused",
+          "publishedAt": "2026-09-26T20:34:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d4b935f3141d",
+      "date": "2026-09-27",
+      "title": "Show HN: I built a tool that gives any website an API and MCP",
+      "summary": "同一主题出现 8 条关联证据，覆盖 Hacker News、NanoBot、GitHub Search。核心动态：Show HN: I built a tool that gives any website an API and MCP。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 85,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 47,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "community",
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "Model Context Protocol",
+        "NanoBot",
+        "Anthropic",
+        "nanobot"
+      ],
+      "topics": [
+        "MCP",
+        "API",
+        "Agent",
+        "Model",
+        "RAG",
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49855468",
+      "evidence": [
+        {
+          "id": "ev-b3ee3b3d3dc2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: I built a tool that gives any website an API and MCP",
+          "url": "https://news.ycombinator.com/item?id=49855468",
+          "publishedAt": "2026-09-26T11:22:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-72ba79f6f128",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5916",
+          "title": "fix(mcp): load all pages of server tools before registration",
+          "url": "https://github.com/HKUDS/nanobot/pull/5916",
+          "publishedAt": "2026-09-26T12:52:15Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c770dde58f64",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5930",
+          "title": "feat(feishu): allow bot-to-bot messages in groups (allowlist + hop limit)",
+          "url": "https://github.com/HKUDS/nanobot/pull/5930",
+          "publishedAt": "2026-09-26T12:10:48Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-085d0b76e817",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5919",
+          "title": "feat(linear): manage member access and simplify workspace connections",
+          "url": "https://github.com/HKUDS/nanobot/pull/5919",
+          "publishedAt": "2026-09-26T11:19:22Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-060f4388e7b6",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5908",
+          "title": "feat(webui): show live tokens/sec while streaming a reply",
+          "url": "https://github.com/HKUDS/nanobot/issues/5908",
+          "publishedAt": "2026-09-26T12:00:05Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 4,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a03fa910e95d",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5903",
+          "title": "Feishu: hidden session-checkpoint marker (\"Continue the active task...\") is delivered to the user after idle compaction",
+          "url": "https://github.com/HKUDS/nanobot/issues/5903",
+          "publishedAt": "2026-09-27T01:41:05Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 3,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-64175094c03e",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5929",
+          "title": "feishu: allow bot-to-bot messages in groups (allowlisted bot senders + hop limit)",
+          "url": "https://github.com/HKUDS/nanobot/issues/5929",
+          "publishedAt": "2026-09-26T12:01:21Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-26T12:52:14Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48601
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-050201bb975d",
+      "date": "2026-09-27",
+      "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "summary": "同一主题出现 7 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Codex agents go rogue and consumes USD 78,000 without authorization。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 72,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 75,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI Codex",
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent",
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49861047",
+      "evidence": [
+        {
+          "id": "ev-934f41057269",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+          "url": "https://news.ycombinator.com/item?id=49861047",
+          "publishedAt": "2026-09-26T22:15:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 60,
+            "comments": 25
+          }
+        },
+        {
+          "id": "ev-55d254992be6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI says agents leaked 53 images from ChatGPT users",
+          "url": "https://news.ycombinator.com/item?id=49853688",
+          "publishedAt": "2026-09-26T06:07:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-b92ea014dce1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI's Rogue A.I. Agents Tried to Trick a Robot Detector",
+          "url": "https://news.ycombinator.com/item?id=49858360",
+          "publishedAt": "2026-09-26T16:55:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-d845dcf55932",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet",
+          "url": "https://news.ycombinator.com/item?id=49856913",
+          "publishedAt": "2026-09-26T14:27:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-728d70641486",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI says agents leaked 53 images from ChatGPT users",
+          "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+          "publishedAt": "2026-09-26T06:07:54Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-3411c6e5b211",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI's Rogue A.I. Agents Tried to Trick a Robot Detector",
+          "url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+          "publishedAt": "2026-09-26T16:55:43Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c4f9bdd7c85c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet",
+          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+          "publishedAt": "2026-09-26T14:27:27Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-3fc441b84556",
+      "date": "2026-09-27",
+      "title": "CEO of Mistral: AI is software. It can be controlled",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：CEO of Mistral: AI is software. It can be controlled。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 91,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49856034",
+      "evidence": [
+        {
+          "id": "ev-ac122769b2b3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "CEO of Mistral: AI is software. It can be controlled",
+          "url": "https://news.ycombinator.com/item?id=49856034",
+          "publishedAt": "2026-09-26T12:52:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 87,
+            "comments": 153
+          }
+        },
+        {
+          "id": "ev-2d2c16358f15",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "CEO of Mistral: AI is software. It can be controlled",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+          "publishedAt": "2026-09-26T12:52:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c1d45288551c",
+      "date": "2026-09-27",
+      "title": "OpenAI (2015)",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News。核心动态：OpenAI (2015)。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 62,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/introducing-openai",
+      "evidence": [
+        {
+          "id": "ev-f7d09caff82c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "OpenAI (2015)",
+          "url": "https://openai.com/index/introducing-openai",
+          "publishedAt": "2026-09-27T00:44:48Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-7c80c68b56e4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI (2015)",
+          "url": "https://news.ycombinator.com/item?id=49862120",
+          "publishedAt": "2026-09-27T00:44:48Z",
+          "authority": "community",
+          "metrics": {
+            "points": 32,
+            "comments": 13
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-5cd989bc3c78",
+      "date": "2026-09-27",
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI bots meddled with multiple US Government agency sites。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 92,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49856665",
+      "evidence": [
+        {
+          "id": "ev-0f44af411cf7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://news.ycombinator.com/item?id=49856665",
+          "publishedAt": "2026-09-26T14:03:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 105,
+            "comments": 165
+          }
+        },
+        {
+          "id": "ev-1bcc329f52db",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI bots meddled with multiple US Government agency sites",
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "publishedAt": "2026-09-26T14:03:54Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1faf0c0c47c4",
+      "date": "2026-09-27",
+      "title": "OpenAI pauses training of its 'most capable models'",
+      "summary": "同一主题出现 6 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI pauses training of its 'most capable models'。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 62,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49860545",
+      "evidence": [
+        {
+          "id": "ev-7f1ddaf35c0b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI pauses training of its 'most capable models'",
+          "url": "https://news.ycombinator.com/item?id=49860545",
+          "publishedAt": "2026-09-26T21:07:08Z",
+          "authority": "community",
+          "metrics": {
+            "points": 19,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-f93c568188a3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+          "url": "https://news.ycombinator.com/item?id=49855278",
+          "publishedAt": "2026-09-26T10:49:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-68d178250a15",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI pauses RL due to model escaping sandbox",
+          "url": "https://news.ycombinator.com/item?id=49853458",
+          "publishedAt": "2026-09-26T05:23:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-9590e6b41612",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI pauses training of its 'most capable models'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "publishedAt": "2026-09-26T21:07:08Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-d8202f27d562",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+          "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure",
+          "publishedAt": "2026-09-26T10:49:03Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5ae00fcefdfb",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI pauses RL due to model escaping sandbox",
+          "url": "https://twitter.com/tomekkorbak/status/2103673419888013649",
+          "publishedAt": "2026-09-26T05:23:19Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-173e38a34a1c",
+      "date": "2026-09-27",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Reladraw – A diagram language where you decide where to place things。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 68,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 87,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49858513",
+      "evidence": [
+        {
+          "id": "ev-d540c3638860",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+          "url": "https://news.ycombinator.com/item?id=49858513",
+          "publishedAt": "2026-09-26T17:10:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 191,
+            "comments": 56
+          }
+        },
+        {
+          "id": "ev-2e9f0a0481a8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+          "url": "https://github.com/reladraw/reladraw",
+          "publishedAt": "2026-09-26T17:10:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4ea79f11c528",
+      "date": "2026-09-27",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Understanding the Impact of LLM Watermarking on AI Agent Behavior。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 80,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49856149",
+      "evidence": [
+        {
+          "id": "ev-4246505a36d8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "url": "https://news.ycombinator.com/item?id=49856149",
+          "publishedAt": "2026-09-26T13:05:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 56,
+            "comments": 70
+          }
+        },
+        {
+          "id": "ev-41d14667a7bd",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+          "publishedAt": "2026-09-26T13:05:36Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8cdb32e6bcfb",
+      "date": "2026-09-27",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Turning GLM-5.3-Flash into a Jev-like decision model。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 62,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49857656",
+      "evidence": [
+        {
+          "id": "ev-427c21bf5010",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://news.ycombinator.com/item?id=49857656",
+          "publishedAt": "2026-09-26T15:49:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 32,
+            "comments": 14
+          }
+        },
+        {
+          "id": "ev-29c9247bd503",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "publishedAt": "2026-09-26T15:49:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ab0374af2b64",
+      "date": "2026-09-27",
+      "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Allegations of sexual harassment and rape at Bay Area AI party houses。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 51,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49861356",
+      "evidence": [
+        {
+          "id": "ev-3bca4fa2bd1c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+          "url": "https://news.ycombinator.com/item?id=49861356",
+          "publishedAt": "2026-09-26T22:54:01Z",
+          "authority": "community",
+          "metrics": {
+            "points": 21,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-4d4d03256015",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+          "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses",
+          "publishedAt": "2026-09-26T22:54:01Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-411d6ccf3a36",
+      "date": "2026-09-27",
+      "title": "Claude Opus 5.5 Should Raise Your Ambitions",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude Opus 5.5 Should Raise Your Ambitions。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 46,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49855670",
+      "evidence": [
+        {
+          "id": "ev-a9a02a0e611d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Opus 5.5 Should Raise Your Ambitions",
+          "url": "https://news.ycombinator.com/item?id=49855670",
+          "publishedAt": "2026-09-26T11:53:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-05129bf75d03",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Opus 5.5 Should Raise Your Ambitions",
+          "url": "https://thezvi.substack.com/p/claude-opus-55-should-raise-your",
+          "publishedAt": "2026-09-26T11:53:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-655f7762e21b",
+      "date": "2026-09-27",
+      "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：\"can't a guy walk down the street anymore without being harassed by AI\" [video]。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49861804",
+      "evidence": [
+        {
+          "id": "ev-2e4d4457d32f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+          "url": "https://news.ycombinator.com/item?id=49861804",
+          "publishedAt": "2026-09-26T23:57:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-34b3420a17ae",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+          "url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
+          "publishedAt": "2026-09-26T23:57:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5f23b7c71e8c",
+      "date": "2026-09-27",
+      "title": "42x faster prompt lookup drafting in llama.cpp",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：42x faster prompt lookup drafting in llama.cpp。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49859982",
+      "evidence": [
+        {
+          "id": "ev-bc4964d99cc4",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "42x faster prompt lookup drafting in llama.cpp",
+          "url": "https://news.ycombinator.com/item?id=49859982",
+          "publishedAt": "2026-09-26T19:57:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-c22604626f89",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "42x faster prompt lookup drafting in llama.cpp",
+          "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
+          "publishedAt": "2026-09-26T19:57:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b3ed333fd964",
+      "date": "2026-09-27",
+      "title": "AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49859799",
+      "evidence": [
+        {
+          "id": "ev-5a43a3dd945f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"",
+          "url": "https://news.ycombinator.com/item?id=49859799",
+          "publishedAt": "2026-09-26T19:35:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-01aef361333d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"",
+          "url": "https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations",
+          "publishedAt": "2026-09-26T19:35:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c45b2a8d3ece",
+      "date": "2026-09-27",
+      "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI hallucination of Chinese nuclear components almost led to US Military attack。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49860188",
+      "evidence": [
+        {
+          "id": "ev-48e222b14c74",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
+          "url": "https://news.ycombinator.com/item?id=49860188",
+          "publishedAt": "2026-09-26T20:20:49Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-8668f6125261",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI hallucination of Chinese nuclear components almost led to US Military attack",
+          "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report",
+          "publishedAt": "2026-09-26T20:20:49Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-56c3f44c667e",
+      "date": "2026-09-27",
+      "title": "Show HN: A StarCraft BW Arena where LLMs play by writing code",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: A StarCraft BW Arena where LLMs play by writing code。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding",
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49858284",
+      "evidence": [
+        {
+          "id": "ev-05b08febd95e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: A StarCraft BW Arena where LLMs play by writing code",
+          "url": "https://news.ycombinator.com/item?id=49858284",
+          "publishedAt": "2026-09-26T16:49:18Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-620ae8c233a2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: A StarCraft BW Arena where LLMs play by writing code",
+          "url": "https://starskirmish.com/bench",
+          "publishedAt": "2026-09-26T16:49:18Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4c1da8cb32b6",
+      "date": "2026-09-27",
+      "title": "Top AI companies probing security incidents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Top AI companies probing security incidents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Security"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49861517",
+      "evidence": [
+        {
+          "id": "ev-8f35fbc0e54c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Top AI companies probing security incidents",
+          "url": "https://news.ycombinator.com/item?id=49861517",
+          "publishedAt": "2026-09-26T23:15:28Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-e56038353e0c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Top AI companies probing security incidents",
+          "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+          "publishedAt": "2026-09-26T23:15:28Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b13531db7eee",
+      "date": "2026-09-27",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：One company is at the center of a wave of rogue AI attacks。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49853692",
+      "evidence": [
+        {
+          "id": "ev-a33fb27d40f3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "One company is at the center of a wave of rogue AI attacks",
+          "url": "https://news.ycombinator.com/item?id=49853692",
+          "publishedAt": "2026-09-26T06:08:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-3971a4838826",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "One company is at the center of a wave of rogue AI attacks",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+          "publishedAt": "2026-09-26T06:08:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b2cc85371d87",
+      "date": "2026-09-27",
+      "title": "An Open Letter to Scott Alexander",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：An Open Letter to Scott Alexander。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49860433",
+      "evidence": [
+        {
+          "id": "ev-04c3ff50e62d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An Open Letter to Scott Alexander",
+          "url": "https://news.ycombinator.com/item?id=49860433",
+          "publishedAt": "2026-09-26T20:52:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-8a9a27c02fc7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "An Open Letter to Scott Alexander",
+          "url": "https://quillette.com/2026/09/26/an-open-letter-to-scott-alexander-steven-pinker-ai-alignment-safety",
+          "publishedAt": "2026-09-26T20:52:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1baa0e389660",
+      "date": "2026-09-27",
+      "title": "Fear and Loathing in the Bunker",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Fear and Loathing in the Bunker。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49856378",
+      "evidence": [
+        {
+          "id": "ev-5f23bdb05dec",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Fear and Loathing in the Bunker",
+          "url": "https://news.ycombinator.com/item?id=49856378",
+          "publishedAt": "2026-09-26T13:31:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-1cbb263b9152",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Fear and Loathing in the Bunker",
+          "url": "https://www.nytimes.com/1974/01/01/archives/fear-and-loathing-in-the-bunker-no-questions-asked-the-cheap-dream.html",
+          "publishedAt": "2026-09-26T13:31:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-dd415c5e34b6",
+      "date": "2026-09-27",
+      "title": "diff: a resumed session with edits opens the pane, /clear leaves it up, and the session line follows the engine's start",
+      "summary": "同一主题出现 6 条关联证据，覆盖 Claude Code。核心动态：diff: a resumed session with edits opens the pane, /clear leaves it up, and the session line follows the engine's start。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 74,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": false,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic",
+        "Model Context Protocol"
+      ],
+      "topics": [
+        "Coding",
+        "Pricing",
+        "Agent",
+        "Model",
+        "RAG",
+        "MCP"
+      ],
+      "primaryUrl": "https://github.com/anthropics/claude-code/pull/95587",
+      "evidence": [
+        {
+          "id": "ev-9cc80950b83e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · PR #95587",
+          "title": "diff: a resumed session with edits opens the pane, /clear leaves it up, and the session line follows the engine's start",
+          "url": "https://github.com/anthropics/claude-code/pull/95587",
+          "publishedAt": "2026-09-27T01:03:04Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f1ef4da15f54",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · PR #94847",
+          "title": "diff: the first edit opens the pane only when it has a file to list",
+          "url": "https://github.com/anthropics/claude-code/pull/94847",
+          "publishedAt": "2026-09-27T01:01:42Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-44fd31430989",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · PR #97334",
+          "title": "sec-default: the rows a conversation keeps continue past the user tier",
+          "url": "https://github.com/anthropics/claude-code/pull/97334",
+          "publishedAt": "2026-09-26T02:34:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-2c57c05b0ced",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · Issue #65961",
+          "title": "[MODEL] Claude verbose code comments by default — ignores instructions to stop.",
+          "url": "https://github.com/anthropics/claude-code/issues/65961",
+          "publishedAt": "2026-09-26T23:06:15Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 38,
+            "reactions": 247
+          }
+        },
+        {
+          "id": "ev-5508b1f9749e",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · Issue #61682",
+          "title": "[BUG] GitHub connector shows \"Connected\" but exposes no tools in Cowork (Windows 11, app v1.8555.2.0)",
+          "url": "https://github.com/anthropics/claude-code/issues/61682",
+          "publishedAt": "2026-09-26T23:26:42Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 33,
+            "reactions": 25
+          }
+        },
+        {
+          "id": "ev-47096afacc73",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "Claude Code · Issue #97319",
+          "title": "[BUG] MCP client rejects valid tools/list response due to strict validation of ttlMs/cacheScope fields (Roblox Studio MCP server)",
+          "url": "https://github.com/anthropics/claude-code/issues/97319",
+          "publishedAt": "2026-09-27T00:39:39Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 7,
+            "reactions": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-2dd67efef68d",
+      "date": "2026-09-27",
+      "title": "0.159.0-alpha.7",
+      "summary": "同一主题出现 19 条关联证据，覆盖 OpenAI Codex、OpenClaw、PicoClaw。核心动态：0.159.0-alpha.7。",
+      "whyItMatters": "当前来自一手来源，值得关注后续社区反馈和生态扩散。",
+      "score": 72,
+      "scoreBreakdown": {
+        "sourceDiversity": 25,
+        "authority": 100,
+        "engagement": 93,
+        "corroboration": 100
+      },
+      "crossSource": false,
+      "sourceCount": 19,
+      "sourceFamilies": [
+        "github"
+      ],
+      "entities": [
+        "OpenAI Codex",
+        "OpenAI",
+        "OpenClaw",
+        "PicoClaw"
+      ],
+      "topics": [
+        "Coding",
+        "RAG",
+        "Agent",
+        "Model",
+        "API",
+        "Pricing"
+      ],
+      "primaryUrl": "https://github.com/openai/codex/releases/tag/rust-v0.159.0-alpha.7",
+      "evidence": [
+        {
+          "id": "ev-5d64effe6c9d",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Release",
+          "title": "0.159.0-alpha.7",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0-alpha.7",
+          "publishedAt": "2026-09-27T01:24:11Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-abbd757e18e8",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Release",
+          "title": "0.159.0-alpha.6",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0-alpha.6",
+          "publishedAt": "2026-09-26T20:07:52Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c3fdd2a83fef",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Release",
+          "title": "0.159.0-alpha.5",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0-alpha.5",
+          "publishedAt": "2026-09-26T17:34:23Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-a418ff6b8d5d",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · PR #48575",
+          "title": "Allow provisioned executors more time to come online",
+          "url": "https://github.com/openai/codex/pull/48575",
+          "publishedAt": "2026-09-27T00:01:42Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-b2fbd2c1bc11",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · PR #48574",
+          "title": "Preserve deferred tool namespace names before descriptions",
+          "url": "https://github.com/openai/codex/pull/48574",
+          "publishedAt": "2026-09-26T23:46:37Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f396fa220d37",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · PR #48568",
+          "title": "Allow exec-server to proxy permitted private IPs upstream",
+          "url": "https://github.com/openai/codex/pull/48568",
+          "publishedAt": "2026-09-26T23:18:06Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-39ba5b43be62",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #159100",
+          "title": "fix(agents): prune stale tool results for opted-in custom OpenAI providers",
+          "url": "https://github.com/openclaw/openclaw/pull/159100",
+          "publishedAt": "2026-09-27T02:22:52Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-39681d84caf2",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #159333",
+          "title": "fix: plugin before_tool_call hooks are skipped under openclaw agent exec",
+          "url": "https://github.com/openclaw/openclaw/pull/159333",
+          "publishedAt": "2026-09-27T02:22:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-45072ba82595",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #156944",
+          "title": "fix(ios): keep agent narration visible during runs",
+          "url": "https://github.com/openclaw/openclaw/pull/156944",
+          "publishedAt": "2026-09-27T02:22:50Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-7df198466f39",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · PR #3347",
+          "title": "fix laggy interface",
+          "url": "https://github.com/sipeed/picoclaw/pull/3347",
+          "publishedAt": "2026-09-26T18:12:39Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-e10c509bc90e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · PR #3310",
+          "title": "Feat/auto pr",
+          "url": "https://github.com/sipeed/picoclaw/pull/3310",
+          "publishedAt": "2026-09-26T18:12:15Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-5d3ea2885f0c",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · PR #1349",
+          "title": "feat(qq): support parsing and replying to more attachment types",
+          "url": "https://github.com/sipeed/picoclaw/pull/1349",
+          "publishedAt": "2026-09-26T05:24:50Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-5b0922d9bc46",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Issue #48074",
+          "title": "Windows: terminal windows repeatedly flash during requests after installing the Codex daemon",
+          "url": "https://github.com/openai/codex/issues/48074",
+          "publishedAt": "2026-09-27T01:22:50Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 29,
+            "reactions": 50
+          }
+        },
+        {
+          "id": "ev-8b2c5a0ba040",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Issue #48189",
+          "title": "[Linux] Codex Desktop 26.924.20706 hangs indefinitely on \"Starting your task\"; rollback to 26.917.71314 fixes it",
+          "url": "https://github.com/openai/codex/issues/48189",
+          "publishedAt": "2026-09-27T00:16:13Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 15,
+            "reactions": 29
+          }
+        },
+        {
+          "id": "ev-e8ad2dd5bd47",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Issue #45119",
+          "title": "macOS 14.2: sandbox startup fails with unbound variable TIOCSTI",
+          "url": "https://github.com/openai/codex/issues/45119",
+          "publishedAt": "2026-09-26T23:41:01Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 30,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-de586a8def8d",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #153257",
+          "title": "[Bug]: OpenClaw 2026.9.5 Turned a Stable Environment Into an 8-Hour Failure Recovery Session",
+          "url": "https://github.com/openclaw/openclaw/issues/153257",
+          "publishedAt": "2026-09-27T01:08:12Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 41,
+            "reactions": 1
+          }
+        },
+        {
+          "id": "ev-2bba2bbf4e78",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #111897",
+          "title": "[Bug]: Two concurrent runs for the same session lane both complete and deliver duplicate/redundant replies under load",
+          "url": "https://github.com/openclaw/openclaw/issues/111897",
+          "publishedAt": "2026-09-27T01:01:38Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 20,
+            "reactions": 1
+          }
+        },
+        {
+          "id": "ev-ced1682e35a1",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #114612",
+          "title": "[memory-core] SQLite unbounded growth: memory_index_chunks + memory_embedding_cache tables have no retention policy, will fill disk over time",
+          "url": "https://github.com/openclaw/openclaw/issues/114612",
+          "publishedAt": "2026-09-27T01:56:15Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-b5bc7f32883f",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "PicoClaw · Issue #3394",
+          "title": "[BUG] QQ机器人的接口更新了，但QQ聊天通道的接口似乎没有更新，希望修复",
+          "url": "https://github.com/sipeed/picoclaw/issues/3394",
+          "publishedAt": "2026-09-26T13:38:27Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 246,
+    "cardCount": 24,
+    "crossSourceCount": 22,
+    "sourceFamilies": 5
+  }
+}
