@@ -1,0 +1,1493 @@
+{
+  "version": 1,
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T02:26:44.837Z",
+  "cards": [
+    {
+      "id": "sig-dec0460cedc6",
+      "date": "2026-09-28",
+      "title": "OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images",
+      "summary": "同一主题出现 11 条关联证据，覆盖 OpenAI 官方、Hacker News、原始文章。核心动态：OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 95,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 87,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 11,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent",
+        "Model"
+      ],
+      "primaryUrl": "https://openai.com/hugging-face-incident-and-misalignment",
+      "evidence": [
+        {
+          "id": "ev-22cd863556d8",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images",
+          "url": "https://openai.com/hugging-face-incident-and-misalignment",
+          "publishedAt": "2026-09-27T05:39:46Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-dfcf96fa1908",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "url": "https://news.ycombinator.com/item?id=49868202",
+          "publishedAt": "2026-09-27T16:29:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 54,
+            "comments": 106
+          }
+        },
+        {
+          "id": "ev-2d191616e779",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+          "url": "https://news.ycombinator.com/item?id=49864790",
+          "publishedAt": "2026-09-27T09:07:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 16,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-866dd773fa51",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+          "url": "https://news.ycombinator.com/item?id=49872468",
+          "publishedAt": "2026-09-28T01:20:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-e1f8f37e71a1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI to Halt Training of Some Models",
+          "url": "https://news.ycombinator.com/item?id=49871351",
+          "publishedAt": "2026-09-27T22:09:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-30b41a397942",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI halts training of latest models",
+          "url": "https://news.ycombinator.com/item?id=49864306",
+          "publishedAt": "2026-09-27T07:40:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-44ef255d6801",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Freezes Development of Top Models After Rogue Agents Leak User Images",
+          "url": "https://news.ycombinator.com/item?id=49863653",
+          "publishedAt": "2026-09-27T05:39:46Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-7c987d15a1fd",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "publishedAt": "2026-09-27T16:29:38Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4cb4caf5b546",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+          "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
+          "publishedAt": "2026-09-27T09:07:03Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-43a798b82ec7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI to Halt Training of Some Models",
+          "url": "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912",
+          "publishedAt": "2026-09-27T22:09:43Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-db0a22ec535b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI halts training of latest models",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "publishedAt": "2026-09-27T07:40:36Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-dc5dd3f2201b",
+      "date": "2026-09-28",
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "summary": "同一主题出现 6 条关联证据，覆盖 Hacker News、原始文章。核心动态：SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 76,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 90,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 6,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49868831",
+      "evidence": [
+        {
+          "id": "ev-3a2b1d8e917e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://news.ycombinator.com/item?id=49868831",
+          "publishedAt": "2026-09-27T17:32:02Z",
+          "authority": "community",
+          "metrics": {
+            "points": 177,
+            "comments": 90
+          }
+        },
+        {
+          "id": "ev-dd364f64ab26",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic CEO Amodei set to meet with Trump",
+          "url": "https://news.ycombinator.com/item?id=49870423",
+          "publishedAt": "2026-09-27T20:18:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-9339f34ad142",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Trump and Anthropic CEO Dario Amodei Set for White House Dinner",
+          "url": "https://news.ycombinator.com/item?id=49870436",
+          "publishedAt": "2026-09-27T20:20:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-1e45c03f55ec",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "publishedAt": "2026-09-27T17:32:02Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6da1e8ad476a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic CEO Amodei set to meet with Trump",
+          "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+          "publishedAt": "2026-09-27T20:18:31Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6044413f4a11",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Trump and Anthropic CEO Dario Amodei Set for White House Dinner",
+          "url": "https://www.wsj.com/tech/ai/trump-and-anthropic-ceo-dario-amodei-set-for-white-house-dinner-32c2d0ab",
+          "publishedAt": "2026-09-27T20:20:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c72f0e69f1fe",
+      "date": "2026-09-28",
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49863864",
+      "evidence": [
+        {
+          "id": "ev-b6094130af1c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "publishedAt": "2026-09-27T06:19:33Z",
+          "authority": "community",
+          "metrics": {
+            "points": 603,
+            "comments": 587
+          }
+        },
+        {
+          "id": "ev-800beb3b33f4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "publishedAt": "2026-09-27T06:19:33Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-dbe8a1c78e82",
+      "date": "2026-09-28",
+      "title": "feat(web-fetch): add optional Unbrowse reader backend",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：feat(web-fetch): add optional Unbrowse reader backend。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 24,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Claude Code",
+        "Anthropic",
+        "OpenAI",
+        "OpenAI Codex",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "MCP",
+        "Coding",
+        "RAG",
+        "API",
+        "Model"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5945",
+      "evidence": [
+        {
+          "id": "ev-a06216b795f5",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5945",
+          "title": "feat(web-fetch): add optional Unbrowse reader backend",
+          "url": "https://github.com/HKUDS/nanobot/pull/5945",
+          "publishedAt": "2026-09-28T01:00:52Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-1775edb4bea4",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5580",
+          "title": "fix(session): move persistence off event loop",
+          "url": "https://github.com/HKUDS/nanobot/pull/5580",
+          "publishedAt": "2026-09-27T18:55:39Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0f24cc873a69",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5943",
+          "title": "refactor(session): centralize state ownership in SQLite",
+          "url": "https://github.com/HKUDS/nanobot/pull/5943",
+          "publishedAt": "2026-09-27T17:33:06Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-1062f0b037c2",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5898",
+          "title": "gpt-6 model series through Github Copilot",
+          "url": "https://github.com/HKUDS/nanobot/issues/5898",
+          "publishedAt": "2026-09-27T11:09:40Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-e47d91936109",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5924",
+          "title": "Agent gets stuck in sudo loop - becomes unusuable",
+          "url": "https://github.com/HKUDS/nanobot/issues/5924",
+          "publishedAt": "2026-09-27T10:30:07Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c2f21d51841f",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5939",
+          "title": "OpenAI Codex model discovery omits GPT-6 Sol and Luna with pinned client_version",
+          "url": "https://github.com/HKUDS/nanobot/issues/5939",
+          "publishedAt": "2026-09-27T12:30:19Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-27T17:24:38Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48619
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-e6d8408ea2ae",
+      "date": "2026-09-28",
+      "title": "Have an LLC",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Have an LLC。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 69,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49870304",
+      "evidence": [
+        {
+          "id": "ev-74aee1709e00",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Have an LLC",
+          "url": "https://news.ycombinator.com/item?id=49870304",
+          "publishedAt": "2026-09-27T20:04:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 42,
+            "comments": 25
+          }
+        },
+        {
+          "id": "ev-b6e3ceaf1ca4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Have an LLC",
+          "url": "https://zachholman.com/posts/you-should-have-an-llc",
+          "publishedAt": "2026-09-27T20:04:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9635ae151be9",
+      "date": "2026-09-28",
+      "title": "George Hotz’s opinion on AI coding",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：George Hotz’s opinion on AI coding。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 54,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49871139",
+      "evidence": [
+        {
+          "id": "ev-f9f66b68e829",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "George Hotz’s opinion on AI coding",
+          "url": "https://news.ycombinator.com/item?id=49871139",
+          "publishedAt": "2026-09-27T21:40:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 15,
+            "comments": 9
+          }
+        },
+        {
+          "id": "ev-6110ac58757e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "George Hotz’s opinion on AI coding",
+          "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+          "publishedAt": "2026-09-27T21:40:54Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d6dc929bfc25",
+      "date": "2026-09-28",
+      "title": "Show HN: Panda, the world's first personal AI computer",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Panda, the world's first personal AI computer。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 55,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49872550",
+      "evidence": [
+        {
+          "id": "ev-9e0cde6b7bf5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Panda, the world's first personal AI computer",
+          "url": "https://news.ycombinator.com/item?id=49872550",
+          "publishedAt": "2026-09-28T01:35:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 16
+          }
+        },
+        {
+          "id": "ev-20374ce8c314",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Panda, the world's first personal AI computer",
+          "url": "https://pandax1.com",
+          "publishedAt": "2026-09-28T01:35:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-15205498bd10",
+      "date": "2026-09-28",
+      "title": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49872522",
+      "evidence": [
+        {
+          "id": "ev-1c85b6be5948",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "url": "https://news.ycombinator.com/item?id=49872522",
+          "publishedAt": "2026-09-28T01:30:17Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-5cecd37a6295",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "publishedAt": "2026-09-28T01:30:17Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ee24bca3fc86",
+      "date": "2026-09-28",
+      "title": "Being a Doctor Will Never Be the Same After A.I",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Being a Doctor Will Never Be the Same After A.I。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49871368",
+      "evidence": [
+        {
+          "id": "ev-0b9c2428cefd",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Being a Doctor Will Never Be the Same After A.I",
+          "url": "https://news.ycombinator.com/item?id=49871368",
+          "publishedAt": "2026-09-27T22:11:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-039851791ea0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Being a Doctor Will Never Be the Same After A.I",
+          "url": "https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html",
+          "publishedAt": "2026-09-27T22:11:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6f2d9ccd5b80",
+      "date": "2026-09-28",
+      "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49869486",
+      "evidence": [
+        {
+          "id": "ev-857a4d756672",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+          "url": "https://news.ycombinator.com/item?id=49869486",
+          "publishedAt": "2026-09-27T18:34:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-dbec114896b0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+          "url": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
+          "publishedAt": "2026-09-27T18:34:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f6b8c33f35cb",
+      "date": "2026-09-28",
+      "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：\"The refrigerator is dead\": Samsung's AI fridges shut down after update。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49872507",
+      "evidence": [
+        {
+          "id": "ev-aca91ad8e050",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
+          "url": "https://news.ycombinator.com/item?id=49872507",
+          "publishedAt": "2026-09-28T01:28:34Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-ba913aa065e6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "\"The refrigerator is dead\": Samsung's AI fridges shut down after update",
+          "url": "https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html",
+          "publishedAt": "2026-09-28T01:28:34Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6a913662ffaa",
+      "date": "2026-09-28",
+      "title": "A thesis isn't enough for a PhD",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：A thesis isn't enough for a PhD。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49871022",
+      "evidence": [
+        {
+          "id": "ev-1c929db24107",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "A thesis isn't enough for a PhD",
+          "url": "https://news.ycombinator.com/item?id=49871022",
+          "publishedAt": "2026-09-27T21:26:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-84846e208498",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "A thesis isn't enough for a PhD",
+          "url": "https://lemire.me/blog/2026/09/26/a-thesis-isnt-enough-for-a-phd",
+          "publishedAt": "2026-09-27T21:26:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fa6628ccf251",
+      "date": "2026-09-28",
+      "title": "An Open Letter to Scott Alexander",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：An Open Letter to Scott Alexander。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49871832",
+      "evidence": [
+        {
+          "id": "ev-404b6a1d5d7f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An Open Letter to Scott Alexander",
+          "url": "https://news.ycombinator.com/item?id=49871832",
+          "publishedAt": "2026-09-27T23:24:35Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-8a9a27c02fc7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "An Open Letter to Scott Alexander",
+          "url": "https://quillette.com/2026/09/26/an-open-letter-to-scott-alexander-steven-pinker-ai-alignment-safety",
+          "publishedAt": "2026-09-27T23:24:35Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-204cfe6dd767",
+      "date": "2026-09-28",
+      "title": "Anthropic is a supply chain risk for all of us",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic is a supply chain risk for all of us。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49870695",
+      "evidence": [
+        {
+          "id": "ev-0540ca433d18",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic is a supply chain risk for all of us",
+          "url": "https://news.ycombinator.com/item?id=49870695",
+          "publishedAt": "2026-09-27T20:50:55Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-de9a684e2812",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic is a supply chain risk for all of us",
+          "url": "https://building138.com/anthropic-is-a-supply-chain-risk-for-all-of-us",
+          "publishedAt": "2026-09-27T20:50:55Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-340ff60f774d",
+      "date": "2026-09-28",
+      "title": "Did Anthropic's A.I. Really Make a Scientific Discovery on Its Own?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Did Anthropic's A.I. Really Make a Scientific Discovery on Its Own?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49870911",
+      "evidence": [
+        {
+          "id": "ev-8fe66afaba59",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Did Anthropic's A.I. Really Make a Scientific Discovery on Its Own?",
+          "url": "https://news.ycombinator.com/item?id=49870911",
+          "publishedAt": "2026-09-27T21:13:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-3cf146fb1fcc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Did Anthropic's A.I. Really Make a Scientific Discovery on Its Own?",
+          "url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+          "publishedAt": "2026-09-27T21:13:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5b5b92d0da15",
+      "date": "2026-09-28",
+      "title": "DSPy – Program, don't prompt, your LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：DSPy – Program, don't prompt, your LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49870084",
+      "evidence": [
+        {
+          "id": "ev-2bc02217bc41",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "DSPy – Program, don't prompt, your LLMs",
+          "url": "https://news.ycombinator.com/item?id=49870084",
+          "publishedAt": "2026-09-27T19:38:34Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-48c5783478f2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "DSPy – Program, don't prompt, your LLMs",
+          "url": "https://dspy.ai/current",
+          "publishedAt": "2026-09-27T19:38:34Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-afb4631c31eb",
+      "date": "2026-09-28",
+      "title": "Earth chorus waves show limited link to rapid electron loss from radiation belts",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Earth chorus waves show limited link to rapid electron loss from radiation belts。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49869196",
+      "evidence": [
+        {
+          "id": "ev-e4e6a4d3136a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Earth chorus waves show limited link to rapid electron loss from radiation belts",
+          "url": "https://news.ycombinator.com/item?id=49869196",
+          "publishedAt": "2026-09-27T18:08:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-86bbafb6ba32",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Earth chorus waves show limited link to rapid electron loss from radiation belts",
+          "url": "https://phys.org/news/2026-09-earth-chorus-limited-link-rapid.html",
+          "publishedAt": "2026-09-27T18:08:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4bc13336ef89",
+      "date": "2026-09-28",
+      "title": "Google OpenAI Anthropic Begin Forming SAFA – Standards Authority for Frontier AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Google OpenAI Anthropic Begin Forming SAFA – Standards Authority for Frontier AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49869112",
+      "evidence": [
+        {
+          "id": "ev-fb22fda33913",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Google OpenAI Anthropic Begin Forming SAFA – Standards Authority for Frontier AI",
+          "url": "https://news.ycombinator.com/item?id=49869112",
+          "publishedAt": "2026-09-27T18:00:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-fe5e515d80e8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Google OpenAI Anthropic Begin Forming SAFA – Standards Authority for Frontier AI",
+          "url": "https://www.proactiveinvestors.com/companies/news/1099096/google-openai-and-anthropic-move-closer-to-ai-safety-standards-body-1099096.html",
+          "publishedAt": "2026-09-27T18:00:36Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d8931dfb5146",
+      "date": "2026-09-28",
+      "title": "Show HN: Jevdit – a social network moderated by Jev",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Jevdit – a social network moderated by Jev。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49870654",
+      "evidence": [
+        {
+          "id": "ev-1da0673fbf46",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Jevdit – a social network moderated by Jev",
+          "url": "https://news.ycombinator.com/item?id=49870654",
+          "publishedAt": "2026-09-27T20:46:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-27c33d41e4d0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Jevdit – a social network moderated by Jev",
+          "url": "https://jevdit.com",
+          "publishedAt": "2026-09-27T20:46:03Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-322db0254327",
+      "date": "2026-09-28",
+      "title": "You do not have to hand IT to the techbros",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：You do not have to hand IT to the techbros。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49870011",
+      "evidence": [
+        {
+          "id": "ev-0a86386eb8ac",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "You do not have to hand IT to the techbros",
+          "url": "https://news.ycombinator.com/item?id=49870011",
+          "publishedAt": "2026-09-27T19:30:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-9a21a203549d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "You do not have to hand IT to the techbros",
+          "url": "https://parsingphase.dev/tech/LLMs/ydnht.html",
+          "publishedAt": "2026-09-27T19:30:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d9cec81edd3a",
+      "date": "2026-09-28",
+      "title": "China and U.S. to open AI 'communication channel' after summit",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：China and U.S. to open AI 'communication channel' after summit。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49869011",
+      "evidence": [
+        {
+          "id": "ev-f7b181947c8b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "China and U.S. to open AI 'communication channel' after summit",
+          "url": "https://news.ycombinator.com/item?id=49869011",
+          "publishedAt": "2026-09-27T17:51:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-86ee0d47e0a7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "China and U.S. to open AI 'communication channel' after summit",
+          "url": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line",
+          "publishedAt": "2026-09-27T17:51:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-32f36109ea19",
+      "date": "2026-09-28",
+      "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Orglet, an open source desktop app for your own team of cute AI workers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49869508",
+      "evidence": [
+        {
+          "id": "ev-9f99e6630e1b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+          "url": "https://news.ycombinator.com/item?id=49869508",
+          "publishedAt": "2026-09-27T18:37:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-d0f38498b736",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+          "url": "https://orglet.codepawl.com",
+          "publishedAt": "2026-09-27T18:37:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-132f93484487",
+      "date": "2026-09-28",
+      "title": "Show HN: Has Anthropic been nerfing their models without disclosure",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Has Anthropic been nerfing their models without disclosure。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49871819",
+      "evidence": [
+        {
+          "id": "ev-1490131fb4d6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Has Anthropic been nerfing their models without disclosure",
+          "url": "https://news.ycombinator.com/item?id=49871819",
+          "publishedAt": "2026-09-27T23:21:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-f8cb8a935dea",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Has Anthropic been nerfing their models without disclosure",
+          "url": "https://github.com/ninjahawk/livenerf",
+          "publishedAt": "2026-09-27T23:21:50Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b5a88cd9be04",
+      "date": "2026-09-28",
+      "title": "Show HN: swe-mux – A terminal multiplexer for coding agents optimized for mobile",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: swe-mux – A terminal multiplexer for coding agents optimized for mobile。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49867905",
+      "evidence": [
+        {
+          "id": "ev-e44a9b0f547d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: swe-mux – A terminal multiplexer for coding agents optimized for mobile",
+          "url": "https://news.ycombinator.com/item?id=49867905",
+          "publishedAt": "2026-09-27T16:02:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-2ea95f0124dc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: swe-mux – A terminal multiplexer for coding agents optimized for mobile",
+          "url": "https://github.com/jatoran/swe-mux",
+          "publishedAt": "2026-09-27T16:02:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 253,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
