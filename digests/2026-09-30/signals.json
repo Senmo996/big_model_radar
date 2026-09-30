@@ -1,0 +1,1345 @@
+{
+  "version": 1,
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T02:52:08.322Z",
+  "cards": [
+    {
+      "id": "sig-11fe13a154ae",
+      "date": "2026-09-30",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic (Claude)、Hacker News。核心动态：GLM-5.3 and the spread of advanced cyber capabilities。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 78,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 97,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model",
+        "Security"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "evidence": [
+        {
+          "id": "ev-f8a59320b763",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+          "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+          "publishedAt": "2026-09-29T19:28:51.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6fa8ca99d375",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+          "url": "https://news.ycombinator.com/item?id=49897075",
+          "publishedAt": "2026-09-29T17:31:26Z",
+          "authority": "community",
+          "metrics": {
+            "points": 196,
+            "comments": 190
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-148f5abb2d7c",
+      "date": "2026-09-30",
+      "title": "Hugging Face Incident And The Road Ahead",
+      "summary": "同一主题出现 3 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Hugging Face Incident And The Road Ahead。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 78,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 32,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "evidence": [
+        {
+          "id": "ev-c0f7996a35c2",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Hugging Face Incident And The Road Ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "publishedAt": "2026-09-29T17:25:54.388Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-4abe519f573f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Gets Sued over the Hugging Face Hack",
+          "url": "https://news.ycombinator.com/item?id=49901051",
+          "publishedAt": "2026-09-29T21:40:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-6df987768713",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Gets Sued over the Hugging Face Hack",
+          "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack",
+          "publishedAt": "2026-09-29T21:40:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a28d0ac0732d",
+      "date": "2026-09-30",
+      "title": "Claude partial outage",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude partial outage。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 93,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49893876",
+      "evidence": [
+        {
+          "id": "ev-9816d79fcd1a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude partial outage",
+          "url": "https://news.ycombinator.com/item?id=49893876",
+          "publishedAt": "2026-09-29T14:25:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 171,
+            "comments": 143
+          }
+        },
+        {
+          "id": "ev-5e3860fbf0ea",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude partial outage",
+          "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+          "publishedAt": "2026-09-29T14:25:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-bc5ce67a7fae",
+      "date": "2026-09-30",
+      "title": "fix(tools): preserve PATH for argument-vector commands",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(tools): preserve PATH for argument-vector commands。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 30,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Model Context Protocol",
+        "OpenAI",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "RAG",
+        "API",
+        "Model",
+        "MCP"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5986",
+      "evidence": [
+        {
+          "id": "ev-5cba70dfc6f4",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5986",
+          "title": "fix(tools): preserve PATH for argument-vector commands",
+          "url": "https://github.com/HKUDS/nanobot/pull/5986",
+          "publishedAt": "2026-09-30T02:40:37Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-52dbf4dd2195",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5981",
+          "title": "fix(tui): accept goal requests during active turns",
+          "url": "https://github.com/HKUDS/nanobot/pull/5981",
+          "publishedAt": "2026-09-30T02:33:09Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-352dd298bb2e",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5985",
+          "title": "feat(subagent): add session-owned task messaging and cancellation",
+          "url": "https://github.com/HKUDS/nanobot/pull/5985",
+          "publishedAt": "2026-09-30T02:11:08Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-17250e5b00ea",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5298",
+          "title": "Proposal: budget model-visible MCP schemas for large tool sets",
+          "url": "https://github.com/HKUDS/nanobot/issues/5298",
+          "publishedAt": "2026-09-29T12:53:59Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-6d50e4c4a850",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5900",
+          "title": "Silent context compaction and reduce WeChat channel polling log verbosity",
+          "url": "https://github.com/HKUDS/nanobot/issues/5900",
+          "publishedAt": "2026-09-29T13:26:30Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-da6e0c1275cd",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5967",
+          "title": "Fallback models are skipped when a provider reports \"insufficient credits\" (HTTP 400)",
+          "url": "https://github.com/HKUDS/nanobot/issues/5967",
+          "publishedAt": "2026-09-30T01:55:33Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-30T02:33:08Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48689
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-05d4e57838ef",
+      "date": "2026-09-30",
+      "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Targets $30B in New Funding at $1.4T Value。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 64,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49897336",
+      "evidence": [
+        {
+          "id": "ev-bd53de478df2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+          "url": "https://news.ycombinator.com/item?id=49897336",
+          "publishedAt": "2026-09-29T17:44:21Z",
+          "authority": "community",
+          "metrics": {
+            "points": 41,
+            "comments": 13
+          }
+        },
+        {
+          "id": "ev-e6b9200cdd25",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+          "publishedAt": "2026-09-29T17:44:21Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8a704add03c9",
+      "date": "2026-09-30",
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49891721",
+      "evidence": [
+        {
+          "id": "ev-2f7609a958ae",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+          "url": "https://news.ycombinator.com/item?id=49891721",
+          "publishedAt": "2026-09-29T12:01:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 44,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-a27f48b0d28f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+          "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+          "publishedAt": "2026-09-29T12:01:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f0025135025f",
+      "date": "2026-09-30",
+      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：McDonald's Is Using AI to Dynamically Price Its Burgers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 57,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Pricing"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49901900",
+      "evidence": [
+        {
+          "id": "ev-a19598ef9ab2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+          "url": "https://news.ycombinator.com/item?id=49901900",
+          "publishedAt": "2026-09-29T22:52:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 18,
+            "comments": 12
+          }
+        },
+        {
+          "id": "ev-4409b2f0b233",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+          "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+          "publishedAt": "2026-09-29T22:52:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7134275a3139",
+      "date": "2026-09-30",
+      "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Councilmember, residents push back on AI 'blight scores' given to homes。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 45,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49902354",
+      "evidence": [
+        {
+          "id": "ev-de15c59ae2e5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
+          "url": "https://news.ycombinator.com/item?id=49902354",
+          "publishedAt": "2026-09-29T23:38:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 14,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-4188f1e131d4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
+          "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874",
+          "publishedAt": "2026-09-29T23:38:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-eeb5d8a891d4",
+      "date": "2026-09-30",
+      "title": "Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Firefox's chief on why he hopes a redesign will help win users from Chrome。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 44,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49902614",
+      "evidence": [
+        {
+          "id": "ev-3288560427a0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Firefox's chief on why he hopes a redesign will help win users from Chrome",
+          "url": "https://news.ycombinator.com/item?id=49902614",
+          "publishedAt": "2026-09-30T00:08:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-a87521d720a9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Firefox's chief on why he hopes a redesign will help win users from Chrome",
+          "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice",
+          "publishedAt": "2026-09-30T00:08:27Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e0f7626ae9e5",
+      "date": "2026-09-30",
+      "title": "AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49899270",
+      "evidence": [
+        {
+          "id": "ev-a765f3ec7a53",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law",
+          "url": "https://news.ycombinator.com/item?id=49899270",
+          "publishedAt": "2026-09-29T19:45:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-b36406dba37b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law",
+          "url": "https://www.politico.com/news/2026/09/29/advocates-sue-openai-over-hugging-face-hack-with-california-anti-hacking-law-01097532",
+          "publishedAt": "2026-09-29T19:45:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-650db4d0c5cd",
+      "date": "2026-09-30",
+      "title": "Anthropic IPO leak is insane",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic IPO leak is insane。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49900851",
+      "evidence": [
+        {
+          "id": "ev-85823bfa8730",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic IPO leak is insane",
+          "url": "https://news.ycombinator.com/item?id=49900851",
+          "publishedAt": "2026-09-29T21:25:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-b2295f9252b1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic IPO leak is insane",
+          "url": "https://www.reddit.com/r/stocks/comments/1wtdg4w/anthropic_ipo_leak_is_insane",
+          "publishedAt": "2026-09-29T21:25:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4660f96194a2",
+      "date": "2026-09-30",
+      "title": "OpenAI Ignored Employees Who Warned It Wasn't Doing Enough About Security",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Ignored Employees Who Warned It Wasn't Doing Enough About Security。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Security"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49897817",
+      "evidence": [
+        {
+          "id": "ev-3d480ff5e7d0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Ignored Employees Who Warned It Wasn't Doing Enough About Security",
+          "url": "https://news.ycombinator.com/item?id=49897817",
+          "publishedAt": "2026-09-29T18:09:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-c7da0d5ca91f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Ignored Employees Who Warned It Wasn't Doing Enough About Security",
+          "url": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+          "publishedAt": "2026-09-29T18:09:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7a80c6771136",
+      "date": "2026-09-30",
+      "title": "OpenAI Launches Decisions API",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI Launches Decisions API。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "API"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49897587",
+      "evidence": [
+        {
+          "id": "ev-d30ca790dfa6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Launches Decisions API",
+          "url": "https://news.ycombinator.com/item?id=49897587",
+          "publishedAt": "2026-09-29T17:58:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-1ae10dfea4d6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Launches Decisions API",
+          "url": "https://twitter.com/thsottiaux/status/2104986448269279399",
+          "publishedAt": "2026-09-29T17:58:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b49a2cfc3cb4",
+      "date": "2026-09-30",
+      "title": "'AI should assist teachers, not replace them': Union warns of AI marking risks",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：'AI should assist teachers, not replace them': Union warns of AI marking risks。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49902320",
+      "evidence": [
+        {
+          "id": "ev-4f88f6d6131d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "'AI should assist teachers, not replace them': Union warns of AI marking risks",
+          "url": "https://news.ycombinator.com/item?id=49902320",
+          "publishedAt": "2026-09-29T23:34:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-5ff381a8a95d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "'AI should assist teachers, not replace them': Union warns of AI marking risks",
+          "url": "https://www.rnz.co.nz/news/education/1656575/ai-should-assist-teachers-not-replace-them-union-warns-of-risks-of-ai-marking",
+          "publishedAt": "2026-09-29T23:34:57Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-eb5dd4a9927b",
+      "date": "2026-09-30",
+      "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic warns AI may pose 'existential risks to humanity' in IPO filing。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49888334",
+      "evidence": [
+        {
+          "id": "ev-13e72bd68d80",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+          "url": "https://news.ycombinator.com/item?id=49888334",
+          "publishedAt": "2026-09-29T04:38:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-af61f7f972d1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing",
+          "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+          "publishedAt": "2026-09-29T04:38:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c40a5da5856c",
+      "date": "2026-09-30",
+      "title": "China broadens travel curbs to encompass family of top AI talent",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：China broadens travel curbs to encompass family of top AI talent。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49902999",
+      "evidence": [
+        {
+          "id": "ev-d1487425cfdb",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "China broadens travel curbs to encompass family of top AI talent",
+          "url": "https://news.ycombinator.com/item?id=49902999",
+          "publishedAt": "2026-09-30T00:52:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-699ad4c61cc5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "China broadens travel curbs to encompass family of top AI talent",
+          "url": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
+          "publishedAt": "2026-09-30T00:52:00Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-dbbcaf6e2199",
+      "date": "2026-09-30",
+      "title": "Routing LLM traffic across inference providers with TCP-style congestion control",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Routing LLM traffic across inference providers with TCP-style congestion control。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49897322",
+      "evidence": [
+        {
+          "id": "ev-12ec323ed599",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Routing LLM traffic across inference providers with TCP-style congestion control",
+          "url": "https://news.ycombinator.com/item?id=49897322",
+          "publishedAt": "2026-09-29T17:43:35Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-2d6f06a15d2f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Routing LLM traffic across inference providers with TCP-style congestion control",
+          "url": "https://getunblocked.com/blog/adaptive-routing-inference-providers",
+          "publishedAt": "2026-09-29T17:43:35Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6dad57d10f8d",
+      "date": "2026-09-30",
+      "title": "Show HN: EventSend – Event tracking and routing for solo founders and SaaS teams",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: EventSend – Event tracking and routing for solo founders and SaaS teams。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49902837",
+      "evidence": [
+        {
+          "id": "ev-30997c9a236e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: EventSend – Event tracking and routing for solo founders and SaaS teams",
+          "url": "https://news.ycombinator.com/item?id=49902837",
+          "publishedAt": "2026-09-30T00:33:13Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-f60cada5bef1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: EventSend – Event tracking and routing for solo founders and SaaS teams",
+          "url": "https://eventsend.io",
+          "publishedAt": "2026-09-30T00:33:13Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c3d70ae81cdc",
+      "date": "2026-09-30",
+      "title": "Show HN: Open-source skills for end-to-end video ad campaigns",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Open-source skills for end-to-end video ad campaigns。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49888905",
+      "evidence": [
+        {
+          "id": "ev-b89ee7c54208",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Open-source skills for end-to-end video ad campaigns",
+          "url": "https://news.ycombinator.com/item?id=49888905",
+          "publishedAt": "2026-09-29T06:11:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-557a4dd70bf5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Open-source skills for end-to-end video ad campaigns",
+          "url": "https://github.com/SupercmoHQ/superCMO-skills",
+          "publishedAt": "2026-09-29T06:11:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f3ec03be1156",
+      "date": "2026-09-30",
+      "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Trump and major AI executives sign \"morally binding\" voluntary controls。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49901481",
+      "evidence": [
+        {
+          "id": "ev-03226d7ac735",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
+          "url": "https://news.ycombinator.com/item?id=49901481",
+          "publishedAt": "2026-09-29T22:13:42Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-bd308801c7f4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
+          "url": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls",
+          "publishedAt": "2026-09-29T22:13:42Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b331396acde3",
+      "date": "2026-09-30",
+      "title": "US job openings fall in August; layoffs remain low",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：US job openings fall in August; layoffs remain low。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49897347",
+      "evidence": [
+        {
+          "id": "ev-c9633a0f3ea8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "US job openings fall in August; layoffs remain low",
+          "url": "https://news.ycombinator.com/item?id=49897347",
+          "publishedAt": "2026-09-29T17:45:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-d79a1fd9aa12",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "US job openings fall in August; layoffs remain low",
+          "url": "https://www.reuters.com/business/us-job-openings-fall-august-layoffs-remain-low-2026-09-29",
+          "publishedAt": "2026-09-29T17:45:00Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6fce8aacb8fa",
+      "date": "2026-09-30",
+      "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Pricing"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49902323",
+      "evidence": [
+        {
+          "id": "ev-c67ae013a397",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+          "url": "https://news.ycombinator.com/item?id=49902323",
+          "publishedAt": "2026-09-29T23:35:05Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-543f170359f4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+          "url": "https://www.neowin.net/news/your-big-mac-might-cost-more-if-mcdonalds-pricing-ai-thinks-people-nearby-can-afford-it",
+          "publishedAt": "2026-09-29T23:35:05Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6a1960962da8",
+      "date": "2026-09-30",
+      "title": "Donating to Open Source",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Donating to Open Source。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49891739",
+      "evidence": [
+        {
+          "id": "ev-3d4bc89f26e9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Donating to Open Source",
+          "url": "https://news.ycombinator.com/item?id=49891739",
+          "publishedAt": "2026-09-29T12:02:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-cbe0d3fb6d11",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Donating to Open Source",
+          "url": "https://entropicthoughts.com/open-source-donation",
+          "publishedAt": "2026-09-29T12:02:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6f07094af78c",
+      "date": "2026-09-30",
+      "title": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49891989",
+      "evidence": [
+        {
+          "id": "ev-bd803cd4e4a7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
+          "url": "https://news.ycombinator.com/item?id=49891989",
+          "publishedAt": "2026-09-29T12:22:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-d6c9d4482f42",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
+          "url": "https://github.com/ivankovic/codediff",
+          "publishedAt": "2026-09-29T12:22:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 272,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
