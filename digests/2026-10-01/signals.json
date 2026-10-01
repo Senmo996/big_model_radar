@@ -1,0 +1,1458 @@
+{
+  "version": 1,
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T02:58:19.872Z",
+  "cards": [
+    {
+      "id": "sig-fbb6e2bcf387",
+      "date": "2026-10-01",
+      "title": "openclaw 2026.9.7",
+      "summary": "同一主题出现 8 条关联证据，覆盖 OpenClaw、GitHub Trending。核心动态：openclaw 2026.9.7。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 84,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 92,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 8,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "OpenClaw",
+        "OpenAI",
+        "openclaw"
+      ],
+      "topics": [
+        "Agent",
+        "RAG",
+        "Model",
+        "Pricing",
+        "Coding"
+      ],
+      "primaryUrl": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.7",
+      "evidence": [
+        {
+          "id": "ev-afc02dc9f3ca",
+          "source": "github_release",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Release",
+          "title": "openclaw 2026.9.7",
+          "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.7",
+          "publishedAt": "2026-09-30T04:44:14Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-63c05e3f65af",
+          "source": "github_trending",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Trending",
+          "title": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "publishedAt": "2026-10-01T02:58:19.872Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 0,
+            "todayStars": 136,
+            "forks": 0
+          }
+        },
+        {
+          "id": "ev-c170ab2ed010",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #162226",
+          "title": "fix(agents): stop model-catalog worker from discarding incrementally-loaded plugins on scope growth",
+          "url": "https://github.com/openclaw/openclaw/pull/162226",
+          "publishedAt": "2026-10-01T02:58:12Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-cf0cc08a4f4f",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #161421",
+          "title": "fix: paired clients time out behind queued connection metadata",
+          "url": "https://github.com/openclaw/openclaw/pull/161421",
+          "publishedAt": "2026-10-01T02:58:10Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-30355d9da0e1",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · PR #162321",
+          "title": "fix(doctor): avoid stack overflow on deep session owner chains",
+          "url": "https://github.com/openclaw/openclaw/pull/162321",
+          "publishedAt": "2026-10-01T02:58:04Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-514f215f4a7d",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #143524",
+          "title": "[Bug]: Agent SQLite WAL grows to 1.4–2.8 GB in days despite wal_autocheckpoint=1000; blocks gateway startup (Windows, 2026.9.2/9.3)",
+          "url": "https://github.com/openclaw/openclaw/issues/143524",
+          "publishedAt": "2026-10-01T02:50:36Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 100,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-de586a8def8d",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #153257",
+          "title": "[Bug]: OpenClaw 2026.9.5 Turned a Stable Environment Into an 8-Hour Failure Recovery Session",
+          "url": "https://github.com/openclaw/openclaw/issues/153257",
+          "publishedAt": "2026-09-30T21:32:44Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 40,
+            "reactions": 1
+          }
+        },
+        {
+          "id": "ev-7e707c38fe4e",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenClaw · Issue #44925",
+          "title": "[Bug]: Subagent completion silently lost — no retry, no notification, no auto-restart on timeout",
+          "url": "https://github.com/openclaw/openclaw/issues/44925",
+          "publishedAt": "2026-09-30T09:47:02Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 30,
+            "reactions": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-6366e0d92764",
+      "date": "2026-10-01",
+      "title": "fix(linear): reject stale member access updates after reauthorization",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(linear): reject stale member access updates after reauthorization。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 74,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 50,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Anthropic",
+        "nanobot"
+      ],
+      "topics": [
+        "API",
+        "Agent",
+        "Model",
+        "Security",
+        "Coding",
+        "RAG"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5997",
+      "evidence": [
+        {
+          "id": "ev-9b711d6e6c6d",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5997",
+          "title": "fix(linear): reject stale member access updates after reauthorization",
+          "url": "https://github.com/HKUDS/nanobot/pull/5997",
+          "publishedAt": "2026-09-30T17:41:15Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-6f481900bded",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5941",
+          "title": "feat(webui): connect to existing remote nanobot instances (NAN-157)",
+          "url": "https://github.com/HKUDS/nanobot/pull/5941",
+          "publishedAt": "2026-09-30T17:14:18Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-2bd46a5cc98d",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5907",
+          "title": "test: consolidate redundant coverage across the test suite",
+          "url": "https://github.com/HKUDS/nanobot/pull/5907",
+          "publishedAt": "2026-09-30T17:07:31Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a03fa910e95d",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5903",
+          "title": "Feishu: hidden session-checkpoint marker (\"Continue the active task...\") is delivered to the user after idle compaction",
+          "url": "https://github.com/HKUDS/nanobot/issues/5903",
+          "publishedAt": "2026-09-30T07:31:48Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 5,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-bf8da619e81e",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5987",
+          "title": "Numbers-only cannot be recognized in TUI debug‑mode, while alphabet characters work fine",
+          "url": "https://github.com/HKUDS/nanobot/issues/5987",
+          "publishedAt": "2026-09-30T10:10:01Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 4,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-35816ed2c65e",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #3626",
+          "title": "Telegram long polling silently hangs — bot alive but stops receiving updates",
+          "url": "https://github.com/HKUDS/nanobot/issues/3626",
+          "publishedAt": "2026-09-30T03:42:59Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 4,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-09-30T17:14:17Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48703
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-5cf8433dbb4c",
+      "date": "2026-10-01",
+      "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic's IPO Prospectus Is a Fucking Doozy。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 72,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 72,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49914149",
+      "evidence": [
+        {
+          "id": "ev-5a6a701fe483",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
+          "url": "https://news.ycombinator.com/item?id=49914149",
+          "publishedAt": "2026-09-30T20:44:19Z",
+          "authority": "community",
+          "metrics": {
+            "points": 52,
+            "comments": 23
+          }
+        },
+        {
+          "id": "ev-68670a3151c8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
+          "url": "https://news.ycombinator.com/item?id=49913443",
+          "publishedAt": "2026-09-30T19:53:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-f797561e5466",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
+          "url": "https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus",
+          "publishedAt": "2026-09-30T20:44:19Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-b1d917a3a87b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic IPO prospectus lays bare deep dependence on Big Tech partners",
+          "url": "https://www.reuters.com/world/anthropic-ipo-prospectus-lays-bare-deep-dependence-big-tech-partners-2026-09-29",
+          "publishedAt": "2026-09-30T19:53:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-160650b9adc3",
+      "date": "2026-10-01",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 84,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49911995",
+      "evidence": [
+        {
+          "id": "ev-7069f4eea00f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+          "url": "https://news.ycombinator.com/item?id=49911995",
+          "publishedAt": "2026-09-30T17:37:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 130,
+            "comments": 59
+          }
+        },
+        {
+          "id": "ev-0ea4100b55e5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "publishedAt": "2026-09-30T17:37:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-75fe9db70265",
+      "date": "2026-10-01",
+      "title": "Claude Says",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Claude Says。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 74,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49911928",
+      "evidence": [
+        {
+          "id": "ev-a06c1ed6333a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude Says",
+          "url": "https://news.ycombinator.com/item?id=49911928",
+          "publishedAt": "2026-09-30T17:32:06Z",
+          "authority": "community",
+          "metrics": {
+            "points": 67,
+            "comments": 31
+          }
+        },
+        {
+          "id": "ev-50d0d1a16f42",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Claude Says",
+          "url": "https://ohhfishal.net/Posts/claude",
+          "publishedAt": "2026-09-30T17:32:06Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8dfd779f10bc",
+      "date": "2026-10-01",
+      "title": "Reddit is putting more limits on old.reddit.com",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Reddit is putting more limits on old.reddit.com。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 70,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49913588",
+      "evidence": [
+        {
+          "id": "ev-4aa034281f40",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Reddit is putting more limits on old.reddit.com",
+          "url": "https://news.ycombinator.com/item?id=49913588",
+          "publishedAt": "2026-09-30T20:05:26Z",
+          "authority": "community",
+          "metrics": {
+            "points": 47,
+            "comments": 25
+          }
+        },
+        {
+          "id": "ev-175798f9c282",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Reddit is putting more limits on old.reddit.com",
+          "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months",
+          "publishedAt": "2026-09-30T20:05:26Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b8e958f619a7",
+      "date": "2026-10-01",
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Doing a Machine Learning PhD While Working in Japan。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 68,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49905644",
+      "evidence": [
+        {
+          "id": "ev-a79f311ac8d3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Doing a Machine Learning PhD While Working in Japan",
+          "url": "https://news.ycombinator.com/item?id=49905644",
+          "publishedAt": "2026-09-30T07:33:45Z",
+          "authority": "community",
+          "metrics": {
+            "points": 51,
+            "comments": 19
+          }
+        },
+        {
+          "id": "ev-d0ed05cba0ca",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Doing a Machine Learning PhD While Working in Japan",
+          "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+          "publishedAt": "2026-09-30T07:33:45Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-36e9e47ba338",
+      "date": "2026-10-01",
+      "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 60,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49910328",
+      "evidence": [
+        {
+          "id": "ev-2dc94893ecad",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+          "url": "https://news.ycombinator.com/item?id=49910328",
+          "publishedAt": "2026-09-30T15:33:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 27,
+            "comments": 12
+          }
+        },
+        {
+          "id": "ev-f65ba09a4028",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+          "url": "https://openparrot.app",
+          "publishedAt": "2026-09-30T15:33:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c33a66ad0216",
+      "date": "2026-10-01",
+      "title": "Disrupting a coordinated model-distillation campaign [by Kimi]",
+      "summary": "同一主题出现 2 条关联证据，覆盖 OpenAI 官方、Hacker News。核心动态：Disrupting a coordinated model-distillation campaign [by Kimi]。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "evidence": [
+        {
+          "id": "ev-1cff82c3c634",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI 官方",
+          "title": "Disrupting a coordinated model-distillation campaign [by Kimi]",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "publishedAt": "2026-09-30T17:47:07Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-6f981451bdb9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Disrupting a coordinated model-distillation campaign [by Kimi]",
+          "url": "https://news.ycombinator.com/item?id=49912105",
+          "publishedAt": "2026-09-30T17:47:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-dbd82a657cca",
+      "date": "2026-10-01",
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：FTC opens probe into AI giants including Anthropic and OpenAI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 55,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49911520",
+      "evidence": [
+        {
+          "id": "ev-37fa36f69c04",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49911520",
+          "publishedAt": "2026-09-30T16:59:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 33,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-5f7404f04938",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+          "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30",
+          "publishedAt": "2026-09-30T16:59:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-7d180bc032a0",
+      "date": "2026-10-01",
+      "title": "Religious Scholars Met with Anthropic. What They Heard Stunned Them",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Hacker News、原始文章。核心动态：Religious Scholars Met with Anthropic. What They Heard Stunned Them。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49917037",
+      "evidence": [
+        {
+          "id": "ev-df2cb9687278",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Religious Scholars Met with Anthropic. What They Heard Stunned Them",
+          "url": "https://news.ycombinator.com/item?id=49917037",
+          "publishedAt": "2026-10-01T02:37:02Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-e4d561d2addd",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Religious Scholars Met with Anthropic. What They Heard Stunned Them",
+          "url": "https://news.ycombinator.com/item?id=49906855",
+          "publishedAt": "2026-09-30T10:24:36Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-23048bad9a57",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Religious Scholars Met with Anthropic. What They Heard Stunned Them",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "publishedAt": "2026-10-01T02:37:02Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f75e656309a3",
+      "date": "2026-10-01",
+      "title": "Senate Democrats block bill to limit lawmakers' stock trades, citing voter ID",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Senate Democrats block bill to limit lawmakers' stock trades, citing voter ID。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 50,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49913958",
+      "evidence": [
+        {
+          "id": "ev-1323a33f9e9c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Senate Democrats block bill to limit lawmakers' stock trades, citing voter ID",
+          "url": "https://news.ycombinator.com/item?id=49913958",
+          "publishedAt": "2026-09-30T20:31:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 9
+          }
+        },
+        {
+          "id": "ev-263b01d1ed17",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Senate Democrats block bill to limit lawmakers' stock trades, citing voter ID",
+          "url": "https://www.cbsnews.com/news/senate-stock-trading-voter-id-bill-democrats-block",
+          "publishedAt": "2026-09-30T20:31:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6147c22edcaf",
+      "date": "2026-10-01",
+      "title": "What do you want from AI?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic (Claude)、Hacker News。核心动态：What do you want from AI?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Security",
+        "Pricing"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/your-thoughts-on-ai",
+      "evidence": [
+        {
+          "id": "ev-ce05f0847429",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "What do you want from AI?",
+          "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+          "publishedAt": "2026-09-30T08:47:38.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-bf56e42173cc",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "What do you want from AI?",
+          "url": "https://news.ycombinator.com/item?id=49912678",
+          "publishedAt": "2026-09-30T18:40:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-ca76a56654e9",
+      "date": "2026-10-01",
+      "title": "192GB Framework Desktop open for pre-order",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：192GB Framework Desktop open for pre-order。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49915907",
+      "evidence": [
+        {
+          "id": "ev-62336df63c69",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "192GB Framework Desktop open for pre-order",
+          "url": "https://news.ycombinator.com/item?id=49915907",
+          "publishedAt": "2026-09-30T23:41:30Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-baba0f4d13c5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "192GB Framework Desktop open for pre-order",
+          "url": "https://frame.work/au/en/products/desktop-diy-amd-aimax400/configuration/new",
+          "publishedAt": "2026-09-30T23:41:30Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-882e32e1a831",
+      "date": "2026-10-01",
+      "title": "California Legalizes Balcony Solar",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：California Legalizes Balcony Solar。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49916351",
+      "evidence": [
+        {
+          "id": "ev-3814d0d10149",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "California Legalizes Balcony Solar",
+          "url": "https://news.ycombinator.com/item?id=49916351",
+          "publishedAt": "2026-10-01T00:47:14Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-0368ec89bf8a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "California Legalizes Balcony Solar",
+          "url": "https://www.kqed.org/science/2002120/california-officially-legalizes-balcony-solar-opening-the-market-to-the-new-technology",
+          "publishedAt": "2026-10-01T00:47:14Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c83167d5e6c9",
+      "date": "2026-10-01",
+      "title": "OpenAPPA: Deterministic guardrails that don't break agents",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAPPA: Deterministic guardrails that don't break agents。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49913499",
+      "evidence": [
+        {
+          "id": "ev-646465646b63",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAPPA: Deterministic guardrails that don't break agents",
+          "url": "https://news.ycombinator.com/item?id=49913499",
+          "publishedAt": "2026-09-30T19:57:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-242052cbb7b0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAPPA: Deterministic guardrails that don't break agents",
+          "url": "https://github.com/archestra-ai/OpenAPPA",
+          "publishedAt": "2026-09-30T19:57:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b962ed6cdffd",
+      "date": "2026-10-01",
+      "title": "Show HN: Perspica – A semantic diff for reviewing code",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Perspica – A semantic diff for reviewing code。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49914005",
+      "evidence": [
+        {
+          "id": "ev-dd9700b1432b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Perspica – A semantic diff for reviewing code",
+          "url": "https://news.ycombinator.com/item?id=49914005",
+          "publishedAt": "2026-09-30T20:34:49Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-57ff3ce0dfc7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Perspica – A semantic diff for reviewing code",
+          "url": "https://github.com/sshah03/perspica",
+          "publishedAt": "2026-09-30T20:34:49Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4bae29bebe5a",
+      "date": "2026-10-01",
+      "title": "Bill Gates on the Dangers of AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Bill Gates on the Dangers of AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49915688",
+      "evidence": [
+        {
+          "id": "ev-72d03fd90107",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Bill Gates on the Dangers of AI",
+          "url": "https://news.ycombinator.com/item?id=49915688",
+          "publishedAt": "2026-09-30T23:13:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-b509154e035a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Bill Gates on the Dangers of AI",
+          "url": "https://www.theatlantic.com/podcasts/2026/08/bill-gates-dangers-ai/688418",
+          "publishedAt": "2026-09-30T23:13:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e0276434945b",
+      "date": "2026-10-01",
+      "title": "Anthropic IPO docs reportedly reveal over $40B in losses last year",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic IPO docs reportedly reveal over $40B in losses last year。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49909850",
+      "evidence": [
+        {
+          "id": "ev-37881ae5adf5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic IPO docs reportedly reveal over $40B in losses last year",
+          "url": "https://news.ycombinator.com/item?id=49909850",
+          "publishedAt": "2026-09-30T14:54:58Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-2bf055670416",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic IPO docs reportedly reveal over $40B in losses last year",
+          "url": "https://mashable.com/tech/anthropic-lost-42-billion-in-2025",
+          "publishedAt": "2026-09-30T14:54:58Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-942a6d4b1b28",
+      "date": "2026-10-01",
+      "title": "Show HN: Datastory, Data storytelling with AI and an open knowledge graph",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Datastory, Data storytelling with AI and an open knowledge graph。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49911411",
+      "evidence": [
+        {
+          "id": "ev-9c2edc64d994",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Datastory, Data storytelling with AI and an open knowledge graph",
+          "url": "https://news.ycombinator.com/item?id=49911411",
+          "publishedAt": "2026-09-30T16:52:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-d2a11db13bfc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Datastory, Data storytelling with AI and an open knowledge graph",
+          "url": "https://www.datastory.tech",
+          "publishedAt": "2026-09-30T16:52:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f79282b546e7",
+      "date": "2026-10-01",
+      "title": "Show HN: Explainroo, Open Source Framework to Make Explainer Videos with Claude",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Explainroo, Open Source Framework to Make Explainer Videos with Claude。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49908484",
+      "evidence": [
+        {
+          "id": "ev-205167fa2e8d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Explainroo, Open Source Framework to Make Explainer Videos with Claude",
+          "url": "https://news.ycombinator.com/item?id=49908484",
+          "publishedAt": "2026-09-30T13:13:27Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-0df1990ed1f9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Explainroo, Open Source Framework to Make Explainer Videos with Claude",
+          "url": "https://github.com/vincentsch/explainroo",
+          "publishedAt": "2026-09-30T13:13:27Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-703053edd469",
+      "date": "2026-10-01",
+      "title": "Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49916388",
+      "evidence": [
+        {
+          "id": "ev-f519faf4f8fb",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI",
+          "url": "https://news.ycombinator.com/item?id=49916388",
+          "publishedAt": "2026-10-01T00:54:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-1edbebf14309",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI",
+          "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+          "publishedAt": "2026-10-01T00:54:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b3fd4e87d96f",
+      "date": "2026-10-01",
+      "title": "There Are Plenty of Laws on the Books to Check the A.I. Giants. Use Them",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：There Are Plenty of Laws on the Books to Check the A.I. Giants. Use Them。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49914448",
+      "evidence": [
+        {
+          "id": "ev-adc89b31e309",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "There Are Plenty of Laws on the Books to Check the A.I. Giants. Use Them",
+          "url": "https://news.ycombinator.com/item?id=49914448",
+          "publishedAt": "2026-09-30T21:04:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-10e983b668c2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "There Are Plenty of Laws on the Books to Check the A.I. Giants. Use Them",
+          "url": "https://www.nytimes.com/2026/09/30/opinion/ai-anthropic-amodei-self-regulation.html",
+          "publishedAt": "2026-09-30T21:04:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d2300e73b33d",
+      "date": "2026-10-01",
+      "title": "Gemini 4 Argon: Google is back among the top three labs in intelligence achieved",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Gemini 4 Argon: Google is back among the top three labs in intelligence achieved。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Google Gemini"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49916067",
+      "evidence": [
+        {
+          "id": "ev-ecce07f0ea60",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Gemini 4 Argon: Google is back among the top three labs in intelligence achieved",
+          "url": "https://news.ycombinator.com/item?id=49916067",
+          "publishedAt": "2026-10-01T00:07:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-afe13f5bb91a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Gemini 4 Argon: Google is back among the top three labs in intelligence achieved",
+          "url": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs",
+          "publishedAt": "2026-10-01T00:07:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 378,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
