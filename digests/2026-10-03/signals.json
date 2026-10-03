@@ -1,0 +1,1374 @@
+{
+  "version": 1,
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T02:46:41.502Z",
+  "cards": [
+    {
+      "id": "sig-ef304264a280",
+      "date": "2026-10-03",
+      "title": "fix(providers): stream Codex image generation responses",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：fix(providers): stream Codex image generation responses。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 70,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 36,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Gemini CLI",
+        "Google Gemini",
+        "Model Context Protocol",
+        "OpenAI",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "RAG",
+        "MCP",
+        "Model",
+        "API"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/6011",
+      "evidence": [
+        {
+          "id": "ev-d337d62758a8",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #6011",
+          "title": "fix(providers): stream Codex image generation responses",
+          "url": "https://github.com/HKUDS/nanobot/pull/6011",
+          "publishedAt": "2026-10-02T17:21:01Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-de2b9f066b53",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5918",
+          "title": "fix(tools): preserve valid JSON Schema union arguments",
+          "url": "https://github.com/HKUDS/nanobot/pull/5918",
+          "publishedAt": "2026-10-02T17:16:55Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c1f570af719c",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5995",
+          "title": "fix(agent): clear stale failure state when resuming runner iterations",
+          "url": "https://github.com/HKUDS/nanobot/pull/5995",
+          "publishedAt": "2026-10-02T17:01:31Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-1062f0b037c2",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5898",
+          "title": "gpt-6 model series through Github Copilot",
+          "url": "https://github.com/HKUDS/nanobot/issues/5898",
+          "publishedAt": "2026-10-02T13:03:13Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 4,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-3760dda182c9",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #6002",
+          "title": "`reasoningEffort` silently drops `temperature` for all 38 `openai_compat` providers, not just o1/o3/o4",
+          "url": "https://github.com/HKUDS/nanobot/issues/6002",
+          "publishedAt": "2026-10-02T09:42:50Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a2e93a21df98",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5932",
+          "title": "cron: pending actions are lost if the merged store cannot be saved",
+          "url": "https://github.com/HKUDS/nanobot/issues/5932",
+          "publishedAt": "2026-10-02T16:08:51Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-10-02T17:16:55Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48746
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-38d726fbcae7",
+      "date": "2026-10-03",
+      "title": "Claude-Shaped Science",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic 官方、Hacker News。核心动态：Claude-Shaped Science。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 69,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 60,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/research/claude-shaped-science",
+      "evidence": [
+        {
+          "id": "ev-c2cefeedc174",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官方",
+          "title": "Claude-Shaped Science",
+          "url": "https://www.anthropic.com/research/claude-shaped-science",
+          "publishedAt": "2026-10-02T13:38:03Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-23b33ca8c272",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Claude-Shaped Science",
+          "url": "https://news.ycombinator.com/item?id=49933386",
+          "publishedAt": "2026-10-02T13:38:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 28,
+            "comments": 12
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-84dd6960a4e2",
+      "date": "2026-10-03",
+      "title": "One month coding with GLM 5.3 Flash",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：One month coding with GLM 5.3 Flash。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 68,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 87,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49934620",
+      "evidence": [
+        {
+          "id": "ev-c5b96f543473",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "One month coding with GLM 5.3 Flash",
+          "url": "https://news.ycombinator.com/item?id=49934620",
+          "publishedAt": "2026-10-02T15:29:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 119,
+            "comments": 91
+          }
+        },
+        {
+          "id": "ev-09e5a977c587",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "One month coding with GLM 5.3 Flash",
+          "url": "https://wagtail.org/blog/one-month-on-glm-53-flash",
+          "publishedAt": "2026-10-02T15:29:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6b547625f379",
+      "date": "2026-10-03",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：From the creator of Redis; run LLM locally with ds4。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 67,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 84,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49936575",
+      "evidence": [
+        {
+          "id": "ev-5ca69afad98f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "From the creator of Redis; run LLM locally with ds4",
+          "url": "https://news.ycombinator.com/item?id=49936575",
+          "publishedAt": "2026-10-02T18:01:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 161,
+            "comments": 41
+          }
+        },
+        {
+          "id": "ev-afd838ba6959",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "From the creator of Redis; run LLM locally with ds4",
+          "url": "https://dwarfstar.sh",
+          "publishedAt": "2026-10-02T18:01:16Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-30aedb6abaef",
+      "date": "2026-10-03",
+      "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 66,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 80,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49932606",
+      "evidence": [
+        {
+          "id": "ev-281a412ba09a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+          "url": "https://news.ycombinator.com/item?id=49932606",
+          "publishedAt": "2026-10-02T12:12:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 48,
+            "comments": 73
+          }
+        },
+        {
+          "id": "ev-5ea275ea58ce",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+          "url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops",
+          "publishedAt": "2026-10-02T12:12:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-329b532e1266",
+      "date": "2026-10-03",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Made an open-source Lego AI generator。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 77,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49937916",
+      "evidence": [
+        {
+          "id": "ev-f8e9d3c619c5",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Made an open-source Lego AI generator",
+          "url": "https://news.ycombinator.com/item?id=49937916",
+          "publishedAt": "2026-10-02T20:00:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 74,
+            "comments": 41
+          }
+        },
+        {
+          "id": "ev-752b3ad1b2df",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Made an open-source Lego AI generator",
+          "url": "https://github.com/anteloc/ldraw-nova",
+          "publishedAt": "2026-10-02T20:00:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2a41944f9dd6",
+      "date": "2026-10-03",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Anthropic (Claude)、Anthropic 官方、Hacker News。核心动态：Claude Frontier Academy: $100M to train 10,000 engineers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 21,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "Anthropic",
+        "Google Gemini"
+      ],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/news/claude-frontier-academy",
+      "evidence": [
+        {
+          "id": "ev-bea7f9063652",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · news",
+          "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
+          "url": "https://www.anthropic.com/news/claude-frontier-academy",
+          "publishedAt": "2026-10-02T17:12:50.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5ade2957a319",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官方",
+          "title": "Anthropic invests $100M to train 10k engineers",
+          "url": "https://www.anthropic.com/news/claude-frontier-academy",
+          "publishedAt": "2026-10-02T17:06:29Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-eda5d67e1a19",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic invests $100M to train 10k engineers",
+          "url": "https://news.ycombinator.com/item?id=49935906",
+          "publishedAt": "2026-10-02T17:06:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-15d4743d83d0",
+      "date": "2026-10-03",
+      "title": "OpenAI cuts ties with 3 safety researchers",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI cuts ties with 3 safety researchers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49930345",
+      "evidence": [
+        {
+          "id": "ev-37f0622a1cbe",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI cuts ties with 3 safety researchers",
+          "url": "https://news.ycombinator.com/item?id=49930345",
+          "publishedAt": "2026-10-02T06:15:46Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-b0fedbabd04f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
+          "url": "https://news.ycombinator.com/item?id=49932246",
+          "publishedAt": "2026-10-02T11:21:35Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-3bf479b20f84",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI cuts ties with 3 safety researchers",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+          "publishedAt": "2026-10-02T06:15:46Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-011715dd069d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
+          "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
+          "publishedAt": "2026-10-02T11:21:35Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fc1745a95500",
+      "date": "2026-10-03",
+      "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 58,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Security"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49930430",
+      "evidence": [
+        {
+          "id": "ev-32162e106c03",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
+          "url": "https://news.ycombinator.com/item?id=49930430",
+          "publishedAt": "2026-10-02T06:31:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 24,
+            "comments": 10
+          }
+        },
+        {
+          "id": "ev-265e5806d670",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI godfather Yann LeCun: Anthropic CEO deluded, doesn't understand cybersecurity",
+          "url": "https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity",
+          "publishedAt": "2026-10-02T06:31:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4413950eb0a9",
+      "date": "2026-10-03",
+      "title": "Can we predict the jobs robots will do?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic 官方、Hacker News。核心动态：Can we predict the jobs robots will do?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "evidence": [
+        {
+          "id": "ev-25e5aa8be0aa",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官方",
+          "title": "Can we predict the jobs robots will do?",
+          "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+          "publishedAt": "2026-10-03T01:24:57Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-82e8f1d0a3c7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Can we predict the jobs robots will do?",
+          "url": "https://news.ycombinator.com/item?id=49940547",
+          "publishedAt": "2026-10-03T01:24:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-4b55685b511f",
+      "date": "2026-10-03",
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 54,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49940467",
+      "evidence": [
+        {
+          "id": "ev-8c00e98ea401",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49940467",
+          "publishedAt": "2026-10-03T01:09:01Z",
+          "authority": "community",
+          "metrics": {
+            "points": 15,
+            "comments": 9
+          }
+        },
+        {
+          "id": "ev-a1619b8f2312",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+          "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+          "publishedAt": "2026-10-03T01:09:01Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4bff4530d637",
+      "date": "2026-10-03",
+      "title": "Lambda Land",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Lambda Land。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 48,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49936964",
+      "evidence": [
+        {
+          "id": "ev-11220ac785a6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Lambda Land",
+          "url": "https://news.ycombinator.com/item?id=49936964",
+          "publishedAt": "2026-10-02T18:36:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 17,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-ac4c8ac823d2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Lambda Land",
+          "url": "https://lambdaland.org/posts/2026-10-01-measure",
+          "publishedAt": "2026-10-02T18:36:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0fe7db36e69e",
+      "date": "2026-10-03",
+      "title": "OpenAI hacks 2nd Australian Government Department",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI hacks 2nd Australian Government Department。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 45,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49931667",
+      "evidence": [
+        {
+          "id": "ev-49389fc9275b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI hacks 2nd Australian Government Department",
+          "url": "https://news.ycombinator.com/item?id=49931667",
+          "publishedAt": "2026-10-02T09:47:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 6
+          }
+        },
+        {
+          "id": "ev-aa734810e4a6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI hacks 2nd Australian Government Department",
+          "url": "https://www.abc.net.au/news/2026-10-02/rogue-open-ai-agent-breach-nsw-government-website/107223108",
+          "publishedAt": "2026-10-02T09:47:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e76e88af3dce",
+      "date": "2026-10-03",
+      "title": "Show HN: Google Maps Scraper MCP",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Google Maps Scraper MCP。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 42,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Model Context Protocol"
+      ],
+      "topics": [
+        "MCP"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49940653",
+      "evidence": [
+        {
+          "id": "ev-ba5c8f86e5c0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Google Maps Scraper MCP",
+          "url": "https://news.ycombinator.com/item?id=49940653",
+          "publishedAt": "2026-10-03T01:46:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-3986b4ac0eeb",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Google Maps Scraper MCP",
+          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
+          "publishedAt": "2026-10-03T01:46:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-28535ce0ba3b",
+      "date": "2026-10-03",
+      "title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Apple will limit Mac disk access as AI agents 'substantially' increase risk。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49938271",
+      "evidence": [
+        {
+          "id": "ev-82d490e7a6e0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk",
+          "url": "https://news.ycombinator.com/item?id=49938271",
+          "publishedAt": "2026-10-02T20:33:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-ca8cd0fab858",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk",
+          "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+          "publishedAt": "2026-10-02T20:33:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a78ccf60c4bb",
+      "date": "2026-10-03",
+      "title": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49940406",
+      "evidence": [
+        {
+          "id": "ev-3d5fe0f8787f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
+          "url": "https://news.ycombinator.com/item?id=49940406",
+          "publishedAt": "2026-10-03T00:58:44Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-0da2c577c3ea",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The Fastest Growing Market in Tech Isn't AI – Tomasz Tunguz",
+          "url": "https://tomtunguz.com/allium-bloomberg-rwa",
+          "publishedAt": "2026-10-03T00:58:44Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a9fa82456cb6",
+      "date": "2026-10-03",
+      "title": "\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49930708",
+      "evidence": [
+        {
+          "id": "ev-2f72f8fc2fd6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49930708",
+          "publishedAt": "2026-10-02T07:17:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-fddfa4ced719",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "\"We're not going to shoot ourselves in the foot\" over hack fallout, says OpenAI",
+          "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer",
+          "publishedAt": "2026-10-02T07:17:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-370ba10b2c36",
+      "date": "2026-10-03",
+      "title": "Anthropic Nearly Walked Out on Pope Leo XIV's AI Encyclical",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic Nearly Walked Out on Pope Leo XIV's AI Encyclical。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49936368",
+      "evidence": [
+        {
+          "id": "ev-86c999d3134b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic Nearly Walked Out on Pope Leo XIV's AI Encyclical",
+          "url": "https://news.ycombinator.com/item?id=49936368",
+          "publishedAt": "2026-10-02T17:46:48Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-4d9cdf85884b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic Nearly Walked Out on Pope Leo XIV's AI Encyclical",
+          "url": "https://www.thelettersfromleo.com/p/nyt-anthropic-nearly-walked-out-on",
+          "publishedAt": "2026-10-02T17:46:48Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c95923601b05",
+      "date": "2026-10-03",
+      "title": "ASD-STE100: What It Is and What It Has to Do with LLMs",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：ASD-STE100: What It Is and What It Has to Do with LLMs。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49938070",
+      "evidence": [
+        {
+          "id": "ev-9886ec1635fb",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "ASD-STE100: What It Is and What It Has to Do with LLMs",
+          "url": "https://news.ycombinator.com/item?id=49938070",
+          "publishedAt": "2026-10-02T20:15:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-4716cbdaf1d8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "ASD-STE100: What It Is and What It Has to Do with LLMs",
+          "url": "https://kgolubic.com/posts/asd-ste100-and-llms",
+          "publishedAt": "2026-10-02T20:15:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-06131a33926a",
+      "date": "2026-10-03",
+      "title": "Rai: CPU-only LLM inference engine in pure Rust",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Rai: CPU-only LLM inference engine in pure Rust。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49936094",
+      "evidence": [
+        {
+          "id": "ev-d29041af5f58",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Rai: CPU-only LLM inference engine in pure Rust",
+          "url": "https://news.ycombinator.com/item?id=49936094",
+          "publishedAt": "2026-10-02T17:23:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-61d70e220ebb",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Rai: CPU-only LLM inference engine in pure Rust",
+          "url": "https://github.com/Classevelabs/rai",
+          "publishedAt": "2026-10-02T17:23:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-087da9b4a82a",
+      "date": "2026-10-03",
+      "title": "Show HN: Draw from your friends' Claude quota",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Draw from your friends' Claude quota。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49937235",
+      "evidence": [
+        {
+          "id": "ev-02be8e999895",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Draw from your friends' Claude quota",
+          "url": "https://news.ycombinator.com/item?id=49937235",
+          "publishedAt": "2026-10-02T19:02:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-d2aac83de273",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Draw from your friends' Claude quota",
+          "url": "https://github.com/jaynlabs/jaynshare",
+          "publishedAt": "2026-10-02T19:02:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-d87a79ef00d1",
+      "date": "2026-10-03",
+      "title": "Show HN: Television – an open source GUI for your agent harness",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Television – an open source GUI for your agent harness。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49939817",
+      "evidence": [
+        {
+          "id": "ev-8c971b80d372",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Television – an open source GUI for your agent harness",
+          "url": "https://news.ycombinator.com/item?id=49939817",
+          "publishedAt": "2026-10-02T23:25:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-c23107d3d2cf",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Television – an open source GUI for your agent harness",
+          "url": "https://television.run",
+          "publishedAt": "2026-10-02T23:25:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-04c5c8f32fdf",
+      "date": "2026-10-03",
+      "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49939300",
+      "evidence": [
+        {
+          "id": "ev-7dcb3417b461",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
+          "url": "https://news.ycombinator.com/item?id=49939300",
+          "publishedAt": "2026-10-02T22:15:58Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-a77cc2a71502",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
+          "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
+          "publishedAt": "2026-10-02T22:15:58Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fd0b75572959",
+      "date": "2026-10-03",
+      "title": "DeepSeek open sourced their Huawei Ascend programming stack",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：DeepSeek open sourced their Huawei Ascend programming stack。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 53,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49939381",
+      "evidence": [
+        {
+          "id": "ev-55d196af23b2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "DeepSeek open sourced their Huawei Ascend programming stack",
+          "url": "https://news.ycombinator.com/item?id=49939381",
+          "publishedAt": "2026-10-02T22:26:51Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-f36c06d70330",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "DeepSeek open sourced their Huawei Ascend programming stack",
+          "url": "https://aistockwire.com/blog/deepseek-huawei-ascend-tilelang-open-source-nvidia-nvda-cuda-september-2026",
+          "publishedAt": "2026-10-02T22:26:51Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 291,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
