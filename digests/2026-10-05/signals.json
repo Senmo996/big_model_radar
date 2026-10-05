@@ -1,0 +1,1362 @@
+{
+  "version": 1,
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T02:53:45.978Z",
+  "cards": [
+    {
+      "id": "sig-c1d4716c5344",
+      "date": "2026-10-05",
+      "title": "feat(agent): budget model-visible MCP schemas",
+      "summary": "同一主题出现 7 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：feat(agent): budget model-visible MCP schemas。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 74,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 53,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 7,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Model Context Protocol",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "MCP",
+        "Model",
+        "Coding",
+        "RAG",
+        "Open Source"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5388",
+      "evidence": [
+        {
+          "id": "ev-5cd1f1bf8e0a",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5388",
+          "title": "feat(agent): budget model-visible MCP schemas",
+          "url": "https://github.com/HKUDS/nanobot/pull/5388",
+          "publishedAt": "2026-10-05T00:58:06Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-9b44ef29ea54",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5152",
+          "title": "fix(subagent): mark partial completion results",
+          "url": "https://github.com/HKUDS/nanobot/pull/5152",
+          "publishedAt": "2026-10-05T00:58:06Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-7f02b2ecfb73",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #6057",
+          "title": "feat(webui): choose the chat for scheduled tasks",
+          "url": "https://github.com/HKUDS/nanobot/pull/6057",
+          "publishedAt": "2026-10-05T00:58:05Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0682c06842a6",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5266",
+          "title": "Logs about token consumption (too many tokens are burned)",
+          "url": "https://github.com/HKUDS/nanobot/issues/5266",
+          "publishedAt": "2026-10-04T23:53:56Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 13,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-6d50e4c4a850",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #5900",
+          "title": "Silent context compaction and reduce WeChat channel polling log verbosity",
+          "url": "https://github.com/HKUDS/nanobot/issues/5900",
+          "publishedAt": "2026-10-04T06:49:16Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-6e59d7c25088",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #6031",
+          "title": "Notify chat channels when a fallback model serves a turn (currently WebUI-only)",
+          "url": "https://github.com/HKUDS/nanobot/issues/6031",
+          "publishedAt": "2026-10-05T01:46:57Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-10-04T21:16:34Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48786
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-1a497a9f2292",
+      "date": "2026-10-05",
+      "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+      "summary": "同一主题出现 4 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 42,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 4,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49959056",
+      "evidence": [
+        {
+          "id": "ev-af43ae9bd5ea",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "url": "https://news.ycombinator.com/item?id=49959056",
+          "publishedAt": "2026-10-04T23:34:17Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-6312b845e8a7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat Instead",
+          "url": "https://news.ycombinator.com/item?id=49954402",
+          "publishedAt": "2026-10-04T14:50:25Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-eaee1ef61e35",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+          "publishedAt": "2026-10-04T23:34:17Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-c5a26279baa1",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat Instead",
+          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+          "publishedAt": "2026-10-04T14:50:25Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6a7d21921883",
+      "date": "2026-10-05",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Powerless F1 drivers frustrated by Bahrain F1 software glitch。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 71,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49959869",
+      "evidence": [
+        {
+          "id": "ev-f7f26094e389",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+          "url": "https://news.ycombinator.com/item?id=49959869",
+          "publishedAt": "2026-10-05T01:54:08Z",
+          "authority": "community",
+          "metrics": {
+            "points": 54,
+            "comments": 25
+          }
+        },
+        {
+          "id": "ev-d630db719b91",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+          "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968",
+          "publishedAt": "2026-10-05T01:54:08Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-065df2d6702b",
+      "date": "2026-10-05",
+      "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：I asked Claude build a physically accurate O'Neill cylinder you can walk around。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 68,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49957191",
+      "evidence": [
+        {
+          "id": "ev-cc5d7308c8d8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "url": "https://news.ycombinator.com/item?id=49957191",
+          "publishedAt": "2026-10-04T19:49:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 29,
+            "comments": 29
+          }
+        },
+        {
+          "id": "ev-919ba8eddd88",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "url": "https://island-three.gruberbuilds.workers.dev",
+          "publishedAt": "2026-10-04T19:49:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4a8c96c4a082",
+      "date": "2026-10-05",
+      "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Hacker News、原始文章。核心动态：Legal risks pile up for Altman as OpenAI uncovers hacks。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 52,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49959361",
+      "evidence": [
+        {
+          "id": "ev-d8e9a1282b70",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
+          "url": "https://news.ycombinator.com/item?id=49959361",
+          "publishedAt": "2026-10-05T00:17:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-267ea62cd3be",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
+          "url": "https://news.ycombinator.com/item?id=49953179",
+          "publishedAt": "2026-10-04T12:06:57Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-7b5b6e86a8f7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
+          "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf",
+          "publishedAt": "2026-10-05T00:17:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-756a4f0a93ec",
+      "date": "2026-10-05",
+      "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI doesn't need 'superintelligence' or evil intent to start a nuclear war。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 54,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49958358",
+      "evidence": [
+        {
+          "id": "ev-4abacdc5a139",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "url": "https://news.ycombinator.com/item?id=49958358",
+          "publishedAt": "2026-10-04T22:03:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 15,
+            "comments": 9
+          }
+        },
+        {
+          "id": "ev-e08be897d6c6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
+          "publishedAt": "2026-10-04T22:03:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9c183980023c",
+      "date": "2026-10-05",
+      "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：An AI couldn't beat humans at StarCraft, so it decided to cheat。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 47,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49957870",
+      "evidence": [
+        {
+          "id": "ev-7e22c1df9a8f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+          "url": "https://news.ycombinator.com/item?id=49957870",
+          "publishedAt": "2026-10-04T21:07:09Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 7
+          }
+        },
+        {
+          "id": "ev-29970bf7a72a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "publishedAt": "2026-10-04T21:07:09Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-aee70f10a12d",
+      "date": "2026-10-05",
+      "title": "TurboPython – A Python-to-C++ Compiler",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：TurboPython – A Python-to-C++ Compiler。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 46,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49954875",
+      "evidence": [
+        {
+          "id": "ev-daa96f041668",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "TurboPython – A Python-to-C++ Compiler",
+          "url": "https://news.ycombinator.com/item?id=49954875",
+          "publishedAt": "2026-10-04T15:42:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-b1fc3e6d65ae",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "TurboPython – A Python-to-C++ Compiler",
+          "url": "https://tpy-lang.org",
+          "publishedAt": "2026-10-04T15:42:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-51c132621f51",
+      "date": "2026-10-05",
+      "title": "Is Russia using AI for disinformation in CAR?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Is Russia using AI for disinformation in CAR?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 42,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49956275",
+      "evidence": [
+        {
+          "id": "ev-5e9743dd5dc0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Is Russia using AI for disinformation in CAR?",
+          "url": "https://news.ycombinator.com/item?id=49956275",
+          "publishedAt": "2026-10-04T18:04:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-1773567c7683",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Is Russia using AI for disinformation in CAR?",
+          "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947",
+          "publishedAt": "2026-10-04T18:04:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-9f3c017bf9b3",
+      "date": "2026-10-05",
+      "title": "Google's first orbital data center is in orbit",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Google's first orbital data center is in orbit。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49955549",
+      "evidence": [
+        {
+          "id": "ev-e8a674f4fd50",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Google's first orbital data center is in orbit",
+          "url": "https://news.ycombinator.com/item?id=49955549",
+          "publishedAt": "2026-10-04T16:50:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-b11ff7dcebd8",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Google's first orbital data center is in orbit",
+          "url": "https://lemire.me/blog/2026/10/04/googles-first-orbital-data-center-is-in-orbit",
+          "publishedAt": "2026-10-04T16:50:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-77eb90177500",
+      "date": "2026-10-05",
+      "title": "Why Does Nobody Use Lemmy?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Why Does Nobody Use Lemmy?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49955531",
+      "evidence": [
+        {
+          "id": "ev-84e3c83567f1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Why Does Nobody Use Lemmy?",
+          "url": "https://news.ycombinator.com/item?id=49955531",
+          "publishedAt": "2026-10-04T16:48:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-512d49e3e715",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Why Does Nobody Use Lemmy?",
+          "url": "https://byte21516.xyz/blog/posts/2026/useLemmy/useLemmy.html",
+          "publishedAt": "2026-10-04T16:48:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-60d218e98314",
+      "date": "2026-10-05",
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic asks Claude users to share voice data for AI model training。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49953892",
+      "evidence": [
+        {
+          "id": "ev-3457483e5f19",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic asks Claude users to share voice data for AI model training",
+          "url": "https://news.ycombinator.com/item?id=49953892",
+          "publishedAt": "2026-10-04T13:44:26Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-610b5d26c197",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic asks Claude users to share voice data for AI model training",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training",
+          "publishedAt": "2026-10-04T13:44:26Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6cab7262f8f9",
+      "date": "2026-10-05",
+      "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Florida woman used Claude as a diary, then Anthropic reported an entry to police。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49958089",
+      "evidence": [
+        {
+          "id": "ev-2d7a14153af9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "url": "https://news.ycombinator.com/item?id=49958089",
+          "publishedAt": "2026-10-04T21:29:59Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-6c2fa42d0519",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "publishedAt": "2026-10-04T21:29:59Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-71f1f51898b5",
+      "date": "2026-10-05",
+      "title": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49958950",
+      "evidence": [
+        {
+          "id": "ev-7853cd8fab76",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
+          "url": "https://news.ycombinator.com/item?id=49958950",
+          "publishedAt": "2026-10-04T23:18:17Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-2398d14c6675",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
+          "url": "https://redactpdf.ai",
+          "publishedAt": "2026-10-04T23:18:17Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-393adb6965e5",
+      "date": "2026-10-05",
+      "title": "Our AI Agents Should Pay the People Who Help Them",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Our AI Agents Should Pay the People Who Help Them。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49958668",
+      "evidence": [
+        {
+          "id": "ev-8ed70ba20db7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Our AI Agents Should Pay the People Who Help Them",
+          "url": "https://news.ycombinator.com/item?id=49958668",
+          "publishedAt": "2026-10-04T22:38:32Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-364e7c7e9b2a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Our AI Agents Should Pay the People Who Help Them",
+          "url": "https://danielmiessler.com/blog/agents-should-pay-creators",
+          "publishedAt": "2026-10-04T22:38:32Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ae05ddf960c5",
+      "date": "2026-10-05",
+      "title": "Show HN: MapLibre Compose, Interactive Vector Maps for Compose Multiplatform",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: MapLibre Compose, Interactive Vector Maps for Compose Multiplatform。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "RAG"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49957752",
+      "evidence": [
+        {
+          "id": "ev-5972fc205455",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: MapLibre Compose, Interactive Vector Maps for Compose Multiplatform",
+          "url": "https://news.ycombinator.com/item?id=49957752",
+          "publishedAt": "2026-10-04T20:55:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-1677713fcfd7",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: MapLibre Compose, Interactive Vector Maps for Compose Multiplatform",
+          "url": "https://github.com/maplibre/maplibre-compose",
+          "publishedAt": "2026-10-04T20:55:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c973d4c7d4a1",
+      "date": "2026-10-05",
+      "title": "Skyfall – open-source WebGPU aircombat game that runs in your browser",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Skyfall – open-source WebGPU aircombat game that runs in your browser。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49958153",
+      "evidence": [
+        {
+          "id": "ev-22c769069e69",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Skyfall – open-source WebGPU aircombat game that runs in your browser",
+          "url": "https://news.ycombinator.com/item?id=49958153",
+          "publishedAt": "2026-10-04T21:37:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-9250686abe9e",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Skyfall – open-source WebGPU aircombat game that runs in your browser",
+          "url": "https://github.com/a7ul/skyfall",
+          "publishedAt": "2026-10-04T21:37:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-816b13badcc1",
+      "date": "2026-10-05",
+      "title": "UberDDR4: The Open-Source DDR4 Controller",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：UberDDR4: The Open-Source DDR4 Controller。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49957152",
+      "evidence": [
+        {
+          "id": "ev-8ee136fe496b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "UberDDR4: The Open-Source DDR4 Controller",
+          "url": "https://news.ycombinator.com/item?id=49957152",
+          "publishedAt": "2026-10-04T19:46:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-5ac0d80a9579",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "UberDDR4: The Open-Source DDR4 Controller",
+          "url": "https://www.openiphub.com/post/uberddr4-the-open-source-ddr4-controller",
+          "publishedAt": "2026-10-04T19:46:00Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-bfded7d68644",
+      "date": "2026-10-05",
+      "title": "Agentic Compliance in Finance",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Agentic Compliance in Finance。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49958629",
+      "evidence": [
+        {
+          "id": "ev-20c139e6b304",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Agentic Compliance in Finance",
+          "url": "https://news.ycombinator.com/item?id=49958629",
+          "publishedAt": "2026-10-04T22:33:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-5ddf22ab4ab5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Agentic Compliance in Finance",
+          "url": "https://blog.gigacore.in/series/ai-in-finance/agentic-compliance-an-engineering-approach",
+          "publishedAt": "2026-10-04T22:33:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-55b4764b5100",
+      "date": "2026-10-05",
+      "title": "An OpenAI agent reached four Australian government systems. Nobody noticed",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：An OpenAI agent reached four Australian government systems. Nobody noticed。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49959024",
+      "evidence": [
+        {
+          "id": "ev-978c3b709a60",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An OpenAI agent reached four Australian government systems. Nobody noticed",
+          "url": "https://news.ycombinator.com/item?id=49959024",
+          "publishedAt": "2026-10-04T23:29:37Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-28d3e3a0564f",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "An OpenAI agent reached four Australian government systems. Nobody noticed",
+          "url": "https://trustboundarystudio.com/posts/openai-medicare-2026",
+          "publishedAt": "2026-10-04T23:29:37Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a2edf694a8cd",
+      "date": "2026-10-05",
+      "title": "Decision 2.0: our newest decision models",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Decision 2.0: our newest decision models。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49958655",
+      "evidence": [
+        {
+          "id": "ev-22e903fa0a47",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Decision 2.0: our newest decision models",
+          "url": "https://news.ycombinator.com/item?id=49958655",
+          "publishedAt": "2026-10-04T22:36:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-e065b79c42e4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Decision 2.0: our newest decision models",
+          "url": "https://twitter.com/vllm_project/status/2106193438098256191",
+          "publishedAt": "2026-10-04T22:36:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2636177e7666",
+      "date": "2026-10-05",
+      "title": "Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49959135",
+      "evidence": [
+        {
+          "id": "ev-daf7badd498b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"",
+          "url": "https://news.ycombinator.com/item?id=49959135",
+          "publishedAt": "2026-10-04T23:46:01Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-072b3a71dddd",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Linux 7.3-Rc6 Released: Normal for the New \"AI Normal\"",
+          "url": "https://www.phoronix.com/news/Linux-7.3-rc6-Released",
+          "publishedAt": "2026-10-04T23:46:01Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4fc0a99c92a6",
+      "date": "2026-10-05",
+      "title": "My New Course at UT Austin: AI Alignment Theory",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：My New Course at UT Austin: AI Alignment Theory。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49959916",
+      "evidence": [
+        {
+          "id": "ev-5681d71f2548",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "My New Course at UT Austin: AI Alignment Theory",
+          "url": "https://news.ycombinator.com/item?id=49959916",
+          "publishedAt": "2026-10-05T02:04:11Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-75e0314bafa2",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "My New Course at UT Austin: AI Alignment Theory",
+          "url": "https://scottaaronson.blog/?p=10125",
+          "publishedAt": "2026-10-05T02:04:11Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6fc64cd0da6a",
+      "date": "2026-10-05",
+      "title": "Rumors of lost gold spur clandestine excursions into New York sewers",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Rumors of lost gold spur clandestine excursions into New York sewers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 51,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 21,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=49954795",
+      "evidence": [
+        {
+          "id": "ev-c622528e7794",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Rumors of lost gold spur clandestine excursions into New York sewers",
+          "url": "https://news.ycombinator.com/item?id=49954795",
+          "publishedAt": "2026-10-04T15:34:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 3,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-5f82cb83c63b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Rumors of lost gold spur clandestine excursions into New York sewers",
+          "url": "https://www.theguardian.com/us-news/2026/oct/04/new-york-sewers-gold-mole-people",
+          "publishedAt": "2026-10-04T15:34:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 310,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
