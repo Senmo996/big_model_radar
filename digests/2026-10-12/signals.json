@@ -1,0 +1,1296 @@
+{
+  "version": 1,
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T03:08:47.563Z",
+  "cards": [
+    {
+      "id": "sig-399819dd7a53",
+      "date": "2026-10-12",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：The gap in shared understanding of LLM capability is widening。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 100,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50047422",
+      "evidence": [
+        {
+          "id": "ev-70dd8e4a350f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "publishedAt": "2026-10-11T20:20:52Z",
+          "authority": "community",
+          "metrics": {
+            "points": 280,
+            "comments": 457
+          }
+        },
+        {
+          "id": "ev-c5fa74c96083",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "publishedAt": "2026-10-11T20:20:52Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a74773f506ac",
+      "date": "2026-10-12",
+      "title": "Recursive self-improvement through collective intelligence",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Recursive self-improvement through collective intelligence。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 76,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50048522",
+      "evidence": [
+        {
+          "id": "ev-ba5d2c2cdb4d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Recursive self-improvement through collective intelligence",
+          "url": "https://news.ycombinator.com/item?id=50048522",
+          "publishedAt": "2026-10-11T22:22:10Z",
+          "authority": "community",
+          "metrics": {
+            "points": 74,
+            "comments": 39
+          }
+        },
+        {
+          "id": "ev-31877de6a63a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Recursive self-improvement through collective intelligence",
+          "url": "https://pub.sakana.ai/mass",
+          "publishedAt": "2026-10-11T22:22:10Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-b831238a9688",
+      "date": "2026-10-12",
+      "title": "Anthropic is out with new nonsense about Claude",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic is out with new nonsense about Claude。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 63,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 67,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50046117",
+      "evidence": [
+        {
+          "id": "ev-7297b83cd701",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic is out with new nonsense about Claude",
+          "url": "https://news.ycombinator.com/item?id=50046117",
+          "publishedAt": "2026-10-11T18:16:54Z",
+          "authority": "community",
+          "metrics": {
+            "points": 23,
+            "comments": 29
+          }
+        },
+        {
+          "id": "ev-e11e19ce5135",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic is out with new nonsense about Claude",
+          "url": "https://dair-community.social/@emilymbender/117412868905734653",
+          "publishedAt": "2026-10-11T18:16:54Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-cc4dc61a227c",
+      "date": "2026-10-12",
+      "title": "feat(models): add per-preset request overrides",
+      "summary": "同一主题出现 5 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：feat(models): add per-preset request overrides。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 5,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Anthropic",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "API",
+        "Benchmark",
+        "MCP"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/6159",
+      "evidence": [
+        {
+          "id": "ev-3c2405e1802b",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #6159",
+          "title": "feat(models): add per-preset request overrides",
+          "url": "https://github.com/HKUDS/nanobot/pull/6159",
+          "publishedAt": "2026-10-12T03:08:41Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-e84992e89294",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #6168",
+          "title": "feat(update): integrate managed installs and recoverable in-app updates",
+          "url": "https://github.com/HKUDS/nanobot/pull/6168",
+          "publishedAt": "2026-10-12T03:08:27Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-f8f439976d83",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #6167",
+          "title": "fix(cron): keep pending interval runs across gateway restarts",
+          "url": "https://github.com/HKUDS/nanobot/pull/6167",
+          "publishedAt": "2026-10-12T03:06:42Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-a0424fda03a9",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #6165",
+          "title": "Default Docker image doesn't result in working app + poor onboarding doc",
+          "url": "https://github.com/HKUDS/nanobot/issues/6165",
+          "publishedAt": "2026-10-12T00:44:56Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-10-12T03:08:40Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48962
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-42ee859e08ef",
+      "date": "2026-10-12",
+      "title": "Show HN: Shpyrd – A new type of cloud for AI era",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Shpyrd – A new type of cloud for AI era。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 59,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50048731",
+      "evidence": [
+        {
+          "id": "ev-25496c15ca2c",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Shpyrd – A new type of cloud for AI era",
+          "url": "https://news.ycombinator.com/item?id=50048731",
+          "publishedAt": "2026-10-11T22:42:08Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 20
+          }
+        },
+        {
+          "id": "ev-be8cc58bcadd",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Shpyrd – A new type of cloud for AI era",
+          "url": "https://www.shpyrd.io",
+          "publishedAt": "2026-10-11T22:42:08Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1cc36e2764b1",
+      "date": "2026-10-12",
+      "title": "We solved SQLite's single-writer limitation",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：We solved SQLite's single-writer limitation。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 59,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 52,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50044919",
+      "evidence": [
+        {
+          "id": "ev-e5de5b3f48ab",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "We solved SQLite's single-writer limitation",
+          "url": "https://news.ycombinator.com/item?id=50044919",
+          "publishedAt": "2026-10-11T16:25:25Z",
+          "authority": "community",
+          "metrics": {
+            "points": 29,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-d719b1b1766c",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "We solved SQLite's single-writer limitation",
+          "url": "https://marcobambini.substack.com/p/we-solved-sqlites-single-writer-limitation",
+          "publishedAt": "2026-10-11T16:25:25Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f4d8fe54964d",
+      "date": "2026-10-12",
+      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Calculate your p[DOOM], An interactive article to think critically about AI risk。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 48,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50048870",
+      "evidence": [
+        {
+          "id": "ev-974969584aa2",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+          "url": "https://news.ycombinator.com/item?id=50048870",
+          "publishedAt": "2026-10-11T22:55:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 8
+          }
+        },
+        {
+          "id": "ev-6adb49c201a9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+          "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+          "publishedAt": "2026-10-11T22:55:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-e89c9cfeb0fc",
+      "date": "2026-10-12",
+      "title": "OpenAI fired its own auditor before its revenue story shrank by $20B",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI fired its own auditor before its revenue story shrank by $20B。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 47,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50047520",
+      "evidence": [
+        {
+          "id": "ev-42b114ff438d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI fired its own auditor before its revenue story shrank by $20B",
+          "url": "https://news.ycombinator.com/item?id=50047520",
+          "publishedAt": "2026-10-11T20:31:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 13,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-2d584526690a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI fired its own auditor before its revenue story shrank by $20B",
+          "url": "https://theinference.org/article/openai-fired-its-own-auditor-s-contact-days-before-its-revenue-story-shrank-by-20-billion",
+          "publishedAt": "2026-10-11T20:31:50Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c8d86475fdfb",
+      "date": "2026-10-12",
+      "title": "Does Claude Have Rights?",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Does Claude Have Rights?。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 43,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50043904",
+      "evidence": [
+        {
+          "id": "ev-01aba517981f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Does Claude Have Rights?",
+          "url": "https://news.ycombinator.com/item?id=50043904",
+          "publishedAt": "2026-10-11T14:50:31Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 5
+          }
+        },
+        {
+          "id": "ev-43fc43fdeb73",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Does Claude Have Rights?",
+          "url": "https://www.project-syndicate.org/onpoint/anthropic-training-claude-to-believe-it-may-have-rights-by-mustafa-suleyman-2026-09",
+          "publishedAt": "2026-10-11T14:50:31Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f65720b575df",
+      "date": "2026-10-12",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 42,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50049388",
+      "evidence": [
+        {
+          "id": "ev-2bf6e0df34b3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "url": "https://news.ycombinator.com/item?id=50049388",
+          "publishedAt": "2026-10-11T23:47:59Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-1ad45ddf44f9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+          "url": "https://github.com/plimsollmark/plimsoll",
+          "publishedAt": "2026-10-11T23:47:59Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-246e55a05871",
+      "date": "2026-10-12",
+      "title": "Yes I Understand How LLMs Work",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Yes I Understand How LLMs Work。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 45,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50049596",
+      "evidence": [
+        {
+          "id": "ev-903034651ac1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Yes I Understand How LLMs Work",
+          "url": "https://news.ycombinator.com/item?id=50049596",
+          "publishedAt": "2026-10-12T00:16:28Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 4
+          }
+        },
+        {
+          "id": "ev-5320a5ce01ec",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Yes I Understand How LLMs Work",
+          "url": "https://kemendo.com/yes-i-understand-how-llms-work.html",
+          "publishedAt": "2026-10-12T00:16:28Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8884e09eecc8",
+      "date": "2026-10-12",
+      "title": "AI is changing how Lawyers work – and putting the billable hour under pressure",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI is changing how Lawyers work – and putting the billable hour under pressure。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 39,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50049997",
+      "evidence": [
+        {
+          "id": "ev-b9ea83e846d1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI is changing how Lawyers work – and putting the billable hour under pressure",
+          "url": "https://news.ycombinator.com/item?id=50049997",
+          "publishedAt": "2026-10-12T01:04:07Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-6115e5d74977",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI is changing how Lawyers work – and putting the billable hour under pressure",
+          "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+          "publishedAt": "2026-10-12T01:04:07Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-bb4ce447138e",
+      "date": "2026-10-12",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI is less regulated than milk, says Microsoft president。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50049014",
+      "evidence": [
+        {
+          "id": "ev-7f28190d2006",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI is less regulated than milk, says Microsoft president",
+          "url": "https://news.ycombinator.com/item?id=50049014",
+          "publishedAt": "2026-10-11T23:09:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-779987dc14e9",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI is less regulated than milk, says Microsoft president",
+          "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+          "publishedAt": "2026-10-11T23:09:56Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-8b8fa3721163",
+      "date": "2026-10-12",
+      "title": "Jensen Huang thinks AI is going great",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Jensen Huang thinks AI is going great。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50048574",
+      "evidence": [
+        {
+          "id": "ev-c3d5a4464e8e",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Jensen Huang thinks AI is going great",
+          "url": "https://news.ycombinator.com/item?id=50048574",
+          "publishedAt": "2026-10-11T22:26:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-081c0a1bf83a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Jensen Huang thinks AI is going great",
+          "url": "https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html",
+          "publishedAt": "2026-10-11T22:26:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-93e6c474ce6d",
+      "date": "2026-10-12",
+      "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50050367",
+      "evidence": [
+        {
+          "id": "ev-ae3ce54be62a",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
+          "url": "https://news.ycombinator.com/item?id=50050367",
+          "publishedAt": "2026-10-12T01:57:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-7488660fb53d",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
+          "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+          "publishedAt": "2026-10-12T01:57:00Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-12bfa56000e1",
+      "date": "2026-10-12",
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：OpenAI fires 3 safety researchers in dispute over AI risks。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50047557",
+      "evidence": [
+        {
+          "id": "ev-9cfabc3cab95",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+          "url": "https://news.ycombinator.com/item?id=50047557",
+          "publishedAt": "2026-10-11T20:35:03Z",
+          "authority": "community",
+          "metrics": {
+            "points": 14,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-741b29c57d87",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+          "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+          "publishedAt": "2026-10-11T20:35:03Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1fb7c66122c7",
+      "date": "2026-10-12",
+      "title": "Inside McDonald's push to have AI price your Big Mac",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Inside McDonald's push to have AI price your Big Mac。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 35,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Pricing"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50048464",
+      "evidence": [
+        {
+          "id": "ev-1fa21e463179",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Inside McDonald's push to have AI price your Big Mac",
+          "url": "https://news.ycombinator.com/item?id=50048464",
+          "publishedAt": "2026-10-11T22:16:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-f9407c0254f3",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Inside McDonald's push to have AI price your Big Mac",
+          "url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29",
+          "publishedAt": "2026-10-11T22:16:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2935fa919f1c",
+      "date": "2026-10-12",
+      "title": "'Pure insanity': Mathematicians react to OpenAI's math results drop",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：'Pure insanity': Mathematicians react to OpenAI's math results drop。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50041162",
+      "evidence": [
+        {
+          "id": "ev-c3cb6bda5937",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "'Pure insanity': Mathematicians react to OpenAI's math results drop",
+          "url": "https://news.ycombinator.com/item?id=50041162",
+          "publishedAt": "2026-10-11T09:07:08Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-29239d04ab33",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "'Pure insanity': Mathematicians react to OpenAI's math results drop",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "publishedAt": "2026-10-11T09:07:08Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2e093d2a44ed",
+      "date": "2026-10-12",
+      "title": "Anthropic's Claude submits false tip on a Philadelphia unsolved homicide case",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Anthropic's Claude submits false tip on a Philadelphia unsolved homicide case。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50047538",
+      "evidence": [
+        {
+          "id": "ev-e2a1fb2eeb16",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Anthropic's Claude submits false tip on a Philadelphia unsolved homicide case",
+          "url": "https://news.ycombinator.com/item?id=50047538",
+          "publishedAt": "2026-10-11T20:33:39Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-c5dadbf2a692",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Anthropic's Claude submits false tip on a Philadelphia unsolved homicide case",
+          "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
+          "publishedAt": "2026-10-11T20:33:39Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-de8bf0eb1b1e",
+      "date": "2026-10-12",
+      "title": "Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 33,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50049588",
+      "evidence": [
+        {
+          "id": "ev-9a449a617c5f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "url": "https://news.ycombinator.com/item?id=50049588",
+          "publishedAt": "2026-10-12T00:15:12Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-08a6431c6140",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+          "url": "https://github.com/SaarthurR/atticus-mac",
+          "publishedAt": "2026-10-12T00:15:12Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-6e73c90a907c",
+      "date": "2026-10-12",
+      "title": "Bone Stress Injuries in Runners Using Carbon Fiber Plate Footwear",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Bone Stress Injuries in Runners Using Carbon Fiber Plate Footwear。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 30,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50049692",
+      "evidence": [
+        {
+          "id": "ev-c1149a3b15e1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Bone Stress Injuries in Runners Using Carbon Fiber Plate Footwear",
+          "url": "https://news.ycombinator.com/item?id=50049692",
+          "publishedAt": "2026-10-12T00:26:50Z",
+          "authority": "community",
+          "metrics": {
+            "points": 6,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-472d674e3ad4",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Bone Stress Injuries in Runners Using Carbon Fiber Plate Footwear",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10356879",
+          "publishedAt": "2026-10-12T00:26:50Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-f6059e6f6c9d",
+      "date": "2026-10-12",
+      "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：JulianFlux: Electrodynamic vector retrieval and causal routing for AI。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "RAG",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50048702",
+      "evidence": [
+        {
+          "id": "ev-f17110297ac1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+          "url": "https://news.ycombinator.com/item?id=50048702",
+          "publishedAt": "2026-10-11T22:39:40Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-71e9f93d5164",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+          "url": "https://github.com/julianjohnson-web/julianflux-research",
+          "publishedAt": "2026-10-11T22:39:40Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-fb2f83f1ee0a",
+      "date": "2026-10-12",
+      "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Amazon in talks to buy AI startup Decart for around $7B, WSJ reports。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50048591",
+      "evidence": [
+        {
+          "id": "ev-315f47aafd8d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
+          "url": "https://news.ycombinator.com/item?id=50048591",
+          "publishedAt": "2026-10-11T22:28:18Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-346678b8e42a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
+          "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11",
+          "publishedAt": "2026-10-11T22:28:18Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-aad39144e10e",
+      "date": "2026-10-12",
+      "title": "Free YouTube Transcript Generator",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Free YouTube Transcript Generator。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 52,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 24,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50050397",
+      "evidence": [
+        {
+          "id": "ev-8e2ee654a2fe",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Free YouTube Transcript Generator",
+          "url": "https://news.ycombinator.com/item?id=50050397",
+          "publishedAt": "2026-10-12T02:02:01Z",
+          "authority": "community",
+          "metrics": {
+            "points": 4,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-17935ff7c811",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Free YouTube Transcript Generator",
+          "url": "https://videotranscriber.ai/youtube-transcript-generator",
+          "publishedAt": "2026-10-12T02:02:01Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 223,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
