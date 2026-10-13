@@ -1,0 +1,1477 @@
+{
+  "version": 1,
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T04:24:48.120Z",
+  "cards": [
+    {
+      "id": "sig-6f1caf42e328",
+      "date": "2026-10-13",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "summary": "同一主题出现 10 条关联证据，覆盖 Hacker News、原始文章、LobsterAI、OpenAI Codex。核心动态：Codex CLI installs a persistent, self-updating background daemon by default。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 98,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 100,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 10,
+      "sourceFamilies": [
+        "community",
+        "github",
+        "media"
+      ],
+      "entities": [
+        "OpenAI Codex",
+        "LobsterAI",
+        "OpenAI",
+        "OpenClaw",
+        "Model Context Protocol"
+      ],
+      "topics": [
+        "Coding",
+        "RAG",
+        "Agent",
+        "Model",
+        "MCP",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50060694",
+      "evidence": [
+        {
+          "id": "ev-0846b842df72",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "url": "https://news.ycombinator.com/item?id=50060694",
+          "publishedAt": "2026-10-12T18:29:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 497,
+            "comments": 255
+          }
+        },
+        {
+          "id": "ev-f82edc27a099",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "url": "https://github.com/openai/codex/issues/48195",
+          "publishedAt": "2026-10-12T18:29:04Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-774ad2179b11",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "LobsterAI · PR #2850",
+          "title": "fix(im): safely destroy background accumulators",
+          "url": "https://github.com/netease-youdao/LobsterAI/pull/2850",
+          "publishedAt": "2026-10-13T04:00:26Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-75c0afc17996",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "LobsterAI · PR #2849",
+          "title": "feat(experts): add configurable expert plaza and summon flow",
+          "url": "https://github.com/netease-youdao/LobsterAI/pull/2849",
+          "publishedAt": "2026-10-13T03:47:55Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-5d85bf63cf52",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "LobsterAI · PR #2848",
+          "title": "feat: open with",
+          "url": "https://github.com/netease-youdao/LobsterAI/pull/2848",
+          "publishedAt": "2026-10-13T03:20:10Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-e8425aaca761",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Issue #48195",
+          "title": "CLI: make `daemon_auto_start` opt-in — a persistent, self-updating background daemon shouldn't be the default",
+          "url": "https://github.com/openai/codex/issues/48195",
+          "publishedAt": "2026-10-13T04:02:00Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 16,
+            "reactions": 132
+          }
+        },
+        {
+          "id": "ev-dacda9e2b0b6",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Issue #30408",
+          "title": "MCP server processes leak: per-thread processes never cleaned up (9+ GB RSS)",
+          "url": "https://github.com/openai/codex/issues/30408",
+          "publishedAt": "2026-10-13T03:17:52Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 53,
+            "reactions": 16
+          }
+        },
+        {
+          "id": "ev-ab9399fe3df3",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "OpenAI Codex · Issue #51675",
+          "title": "[macOS Desktop] Cloud tasks disappear from sidebar after restart; Dots lists them and direct reads restore individual entries",
+          "url": "https://github.com/openai/codex/issues/51675",
+          "publishedAt": "2026-10-13T03:21:56Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 20,
+            "reactions": 5
+          }
+        },
+        {
+          "id": "ev-f39f600a470e",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "LobsterAI · Issue #2801",
+          "title": "[邀收录] 10/12 agent harness 榜单 · 免费 L1 收录(判据预注册+独立判读)",
+          "url": "https://github.com/netease-youdao/LobsterAI/issues/2801",
+          "publishedAt": "2026-10-13T01:51:01Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 2,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-c1f705fcc7ff",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "LobsterAI · Issue #2793",
+          "title": "Skill-controlled metadata lets an installed skill cause arbitrary directory deletion on uninstall",
+          "url": "https://github.com/netease-youdao/LobsterAI/issues/2793",
+          "publishedAt": "2026-10-12T09:11:34Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 1,
+            "reactions": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-a89c3c8f2d06",
+      "date": "2026-10-13",
+      "title": "Teens Learn And Plan",
+      "summary": "同一主题出现 5 条关联证据，覆盖 OpenAI、Hacker News、原始文章。核心动态：Teens Learn And Plan。",
+      "whyItMatters": "该主题已跨越 3 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 98,
+      "scoreBreakdown": {
+        "sourceDiversity": 95,
+        "authority": 100,
+        "engagement": 98,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 5,
+      "sourceFamilies": [
+        "community",
+        "media",
+        "official"
+      ],
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://openai.com/index/teens-learn-and-plan",
+      "evidence": [
+        {
+          "id": "ev-2df13320385c",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "OpenAI · index",
+          "title": "Teens Learn And Plan",
+          "url": "https://openai.com/index/teens-learn-and-plan",
+          "publishedAt": "2026-10-12T07:51:18.707Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-246ae8556a96",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Just say no to OpenAI and Anthropic",
+          "url": "https://news.ycombinator.com/item?id=50060500",
+          "publishedAt": "2026-10-12T18:17:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 156,
+            "comments": 148
+          }
+        },
+        {
+          "id": "ev-b275d9fa6cb7",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+          "url": "https://news.ycombinator.com/item?id=50056063",
+          "publishedAt": "2026-10-12T13:20:04Z",
+          "authority": "community",
+          "metrics": {
+            "points": 53,
+            "comments": 65
+          }
+        },
+        {
+          "id": "ev-8c4a92ae8b99",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Just say no to OpenAI and Anthropic",
+          "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic",
+          "publishedAt": "2026-10-12T18:17:29Z",
+          "authority": "community",
+          "metrics": {}
+        },
+        {
+          "id": "ev-e1834d7afaa0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+          "url": "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable",
+          "publishedAt": "2026-10-12T13:20:04Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2387bc5c2c20",
+      "date": "2026-10-13",
+      "title": "Strengthening our defenses against distillation attacks",
+      "summary": "同一主题出现 3 条关联证据，覆盖 Anthropic (Claude)、Hacker News。核心动态：Strengthening our defenses against distillation attacks。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 76,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 76,
+        "corroboration": 75
+      },
+      "crossSource": true,
+      "sourceCount": 3,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding",
+        "Model",
+        "Security",
+        "Pricing",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/distillation-defenses",
+      "evidence": [
+        {
+          "id": "ev-a0df3055cea2",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Strengthening our defenses against distillation attacks",
+          "url": "https://www.anthropic.com/research/distillation-defenses",
+          "publishedAt": "2026-10-12T23:54:41.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-5edb2d440fef",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "Investigating unintended model actions in our evaluations and internal use",
+          "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+          "publishedAt": "2026-10-12T15:52:32.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-f45fe632ce5b",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Strengthening our defenses against distillation attacks",
+          "url": "https://news.ycombinator.com/item?id=50065553",
+          "publishedAt": "2026-10-13T01:46:47Z",
+          "authority": "community",
+          "metrics": {
+            "points": 31,
+            "comments": 59
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-bbb5c3aaa7f6",
+      "date": "2026-10-13",
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic (Claude)、Hacker News。核心动态：AI models may be capable of self-replicating without access to a datacenter。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 75,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 85,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Agent",
+        "Model",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://www.anthropic.com/research/self-replicating-ai",
+      "evidence": [
+        {
+          "id": "ev-dc43d9ce9540",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic (Claude) · research",
+          "title": "AI models may be capable of self-replicating without access to a datacenter",
+          "url": "https://www.anthropic.com/research/self-replicating-ai",
+          "publishedAt": "2026-10-13T00:44:16.000Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-ce58a884e5c3",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI models may be capable of self-replicating without access to a datacenter",
+          "url": "https://news.ycombinator.com/item?id=50061603",
+          "publishedAt": "2026-10-12T19:25:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 81,
+            "comments": 97
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-4603c6b6f905",
+      "date": "2026-10-13",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 71,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 99,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50051583",
+      "evidence": [
+        {
+          "id": "ev-efce53cd99e1",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://news.ycombinator.com/item?id=50051583",
+          "publishedAt": "2026-10-12T05:03:47Z",
+          "authority": "community",
+          "metrics": {
+            "points": 238,
+            "comments": 210
+          }
+        },
+        {
+          "id": "ev-c837f15606c5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+          "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+          "publishedAt": "2026-10-12T05:03:47Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-515b4c646946",
+      "date": "2026-10-13",
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Blood cells from 80-year-old donor become stem cells with molecular age under 20。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 68,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 86,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50064536",
+      "evidence": [
+        {
+          "id": "ev-75f13ad106ee",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+          "url": "https://news.ycombinator.com/item?id=50064536",
+          "publishedAt": "2026-10-12T23:34:22Z",
+          "authority": "community",
+          "metrics": {
+            "points": 125,
+            "comments": 80
+          }
+        },
+        {
+          "id": "ev-0a0496d3862a",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+          "url": "https://doi.org/10.1111/acel.70751",
+          "publishedAt": "2026-10-12T23:34:22Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-77429040a803",
+      "date": "2026-10-13",
+      "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Feds got warrants to use fake cell towers to hunt down Don Lemon's producer。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 68,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 89,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50059446",
+      "evidence": [
+        {
+          "id": "ev-2d95f86af602",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+          "url": "https://news.ycombinator.com/item?id=50059446",
+          "publishedAt": "2026-10-12T17:08:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 159,
+            "comments": 100
+          }
+        },
+        {
+          "id": "ev-a0539068d7d5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+          "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer",
+          "publishedAt": "2026-10-12T17:08:16Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-48c1556f3abf",
+      "date": "2026-10-13",
+      "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 65,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 74,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50060311",
+      "evidence": [
+        {
+          "id": "ev-c96b204a4fff",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+          "url": "https://news.ycombinator.com/item?id=50060311",
+          "publishedAt": "2026-10-12T18:03:56Z",
+          "authority": "community",
+          "metrics": {
+            "points": 39,
+            "comments": 43
+          }
+        },
+        {
+          "id": "ev-f21e07752481",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: Opus 5.5 made a fully featured Figma clone in 3 hours / 8 prompts",
+          "url": "https://www.mana.space/home/rZfbotNWAXegQypmpkzaAPFC6Mp1/Apps/Figma%20Next%20Launch",
+          "publishedAt": "2026-10-12T18:03:56Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2209b693300f",
+      "date": "2026-10-13",
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：A look at OpenAI’s math that’s claimed computes faster Fourier transforms。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 71,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "OpenAI"
+      ],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50065932",
+      "evidence": [
+        {
+          "id": "ev-7c252f28c4c0",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+          "url": "https://news.ycombinator.com/item?id=50065932",
+          "publishedAt": "2026-10-13T02:46:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 46,
+            "comments": 30
+          }
+        },
+        {
+          "id": "ev-1f861a965695",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+          "url": "https://www.argmin.net/p/faster-fourier-transforms",
+          "publishedAt": "2026-10-13T02:46:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-09afc20a94ea",
+      "date": "2026-10-13",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Janas: Run LLMs larger than RAM by streaming experts from SSD。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 64,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 73,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50063717",
+      "evidence": [
+        {
+          "id": "ev-3b76e0901a8d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "url": "https://news.ycombinator.com/item?id=50063717",
+          "publishedAt": "2026-10-12T22:05:43Z",
+          "authority": "community",
+          "metrics": {
+            "points": 67,
+            "comments": 25
+          }
+        },
+        {
+          "id": "ev-62842cbe79c0",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "url": "https://github.com/prabanta-dev/janas",
+          "publishedAt": "2026-10-12T22:05:43Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-4bbe35c9aee1",
+      "date": "2026-10-13",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI Models Can Provably Hide Arbitrary Capabilities。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 62,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 62,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50065692",
+      "evidence": [
+        {
+          "id": "ev-da4083667dbe",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+          "url": "https://news.ycombinator.com/item?id=50065692",
+          "publishedAt": "2026-10-13T02:07:08Z",
+          "authority": "community",
+          "metrics": {
+            "points": 35,
+            "comments": 12
+          }
+        },
+        {
+          "id": "ev-a67fd0d1db65",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+          "url": "https://arxiv.org/abs/2610.13928",
+          "publishedAt": "2026-10-13T02:07:08Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-c720cb028320",
+      "date": "2026-10-13",
+      "title": "refactor(session): centralize state ownership in SQLite",
+      "summary": "同一主题出现 5 条关联证据，覆盖 NanoBot、GitHub Search。核心动态：refactor(session): centralize state ownership in SQLite。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 61,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 0,
+        "corroboration": 100
+      },
+      "crossSource": true,
+      "sourceCount": 5,
+      "sourceFamilies": [
+        "discovery",
+        "github"
+      ],
+      "entities": [
+        "NanoBot",
+        "Model Context Protocol",
+        "nanobot"
+      ],
+      "topics": [
+        "Agent",
+        "Coding",
+        "Model",
+        "RAG",
+        "API",
+        "Benchmark"
+      ],
+      "primaryUrl": "https://github.com/HKUDS/nanobot/pull/5943",
+      "evidence": [
+        {
+          "id": "ev-0f24cc873a69",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #5943",
+          "title": "refactor(session): centralize state ownership in SQLite",
+          "url": "https://github.com/HKUDS/nanobot/pull/5943",
+          "publishedAt": "2026-10-13T04:08:10Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-6a71cf8211cc",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #6179",
+          "title": "refactor(webui): separate presentation views and expand component gallery",
+          "url": "https://github.com/HKUDS/nanobot/pull/6179",
+          "publishedAt": "2026-10-13T03:58:51Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-3203e837ec83",
+          "source": "github_pr",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · PR #6166",
+          "title": "refactor: isolate runtime contracts and enforce import boundaries",
+          "url": "https://github.com/HKUDS/nanobot/pull/6166",
+          "publishedAt": "2026-10-13T03:41:08Z",
+          "authority": "primary",
+          "metrics": {
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-68034cf5d8cd",
+          "source": "github_issue",
+          "sourceFamily": "github",
+          "sourceLabel": "NanoBot · Issue #6182",
+          "title": "Proposal: optional Plazmi world catch-up example through restricted MCP tools",
+          "url": "https://github.com/HKUDS/nanobot/issues/6182",
+          "publishedAt": "2026-10-13T03:43:12Z",
+          "authority": "primary",
+          "metrics": {
+            "comments": 0,
+            "reactions": 0
+          }
+        },
+        {
+          "id": "ev-0636dca3974c",
+          "source": "github_search",
+          "sourceFamily": "discovery",
+          "sourceLabel": "GitHub Search · ai-agent",
+          "title": "HKUDS/nanobot",
+          "url": "https://github.com/HKUDS/nanobot",
+          "publishedAt": "2026-10-13T03:58:23Z",
+          "authority": "discovery",
+          "metrics": {
+            "totalStars": 48986
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-405dcbec08dc",
+      "date": "2026-10-13",
+      "title": "OSS Scanner",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Anthropic 官方、Hacker News。核心动态：OSS Scanner。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 60,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 100,
+        "engagement": 27,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "official"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://red.anthropic.com/oss-scanner",
+      "evidence": [
+        {
+          "id": "ev-c08151a84b40",
+          "source": "official",
+          "sourceFamily": "official",
+          "sourceLabel": "Anthropic 官方",
+          "title": "OSS Scanner",
+          "url": "https://red.anthropic.com/oss-scanner",
+          "publishedAt": "2026-10-12T23:19:16Z",
+          "authority": "primary",
+          "metrics": {}
+        },
+        {
+          "id": "ev-410be9b159f9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "OSS Scanner",
+          "url": "https://news.ycombinator.com/item?id=50064421",
+          "publishedAt": "2026-10-12T23:19:16Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "sig-3434d0c38c76",
+      "date": "2026-10-13",
+      "title": "Linus Torvalds used Claude Code to rewrite how Linux reads cached files",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Linus Torvalds used Claude Code to rewrite how Linux reads cached files。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 48,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Claude Code",
+        "Anthropic"
+      ],
+      "topics": [
+        "Coding"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50062224",
+      "evidence": [
+        {
+          "id": "ev-77cacbdc1277",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Linus Torvalds used Claude Code to rewrite how Linux reads cached files",
+          "url": "https://news.ycombinator.com/item?id=50062224",
+          "publishedAt": "2026-10-12T20:06:15Z",
+          "authority": "community",
+          "metrics": {
+            "points": 16,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-6d6d9eadaea6",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Linus Torvalds used Claude Code to rewrite how Linux reads cached files",
+          "url": "https://startupfortune.com/linus-torvalds-used-claude-code-to-rewrite-how-linux-reads-cached-files",
+          "publishedAt": "2026-10-12T20:06:15Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-eb16f6455bc5",
+      "date": "2026-10-13",
+      "title": "Nvidia accused of trying to cut a deal with Anna's Archive",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Nvidia accused of trying to cut a deal with Anna's Archive。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 58,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 48,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50062098",
+      "evidence": [
+        {
+          "id": "ev-320817ef6ad9",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Nvidia accused of trying to cut a deal with Anna's Archive",
+          "url": "https://news.ycombinator.com/item?id=50062098",
+          "publishedAt": "2026-10-12T19:57:38Z",
+          "authority": "community",
+          "metrics": {
+            "points": 17,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-3e1930831799",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Nvidia accused of trying to cut a deal with Anna's Archive",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-accused-of-trying-to-cut-a-deal-with-annas-archive-for-high-speed-access-to-the-massive-pirated-book-haul-allegedly-chased-stolen-data-to-fuel-its-llms",
+          "publishedAt": "2026-10-12T19:57:38Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-ce40096c686c",
+      "date": "2026-10-13",
+      "title": "AWS Lambda Web Functions",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AWS Lambda Web Functions。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 57,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 45,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50064063",
+      "evidence": [
+        {
+          "id": "ev-1633a148e388",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AWS Lambda Web Functions",
+          "url": "https://news.ycombinator.com/item?id=50064063",
+          "publishedAt": "2026-10-12T22:37:41Z",
+          "authority": "community",
+          "metrics": {
+            "points": 12,
+            "comments": 3
+          }
+        },
+        {
+          "id": "ev-3bf6a350c34b",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AWS Lambda Web Functions",
+          "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere",
+          "publishedAt": "2026-10-12T22:37:41Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2720aa8a60bc",
+      "date": "2026-10-13",
+      "title": "A shared, verifiable fix database that AI agents read and write themselves",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：A shared, verifiable fix database that AI agents read and write themselves。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50064444",
+      "evidence": [
+        {
+          "id": "ev-ab1a3abfcd83",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "A shared, verifiable fix database that AI agents read and write themselves",
+          "url": "https://news.ycombinator.com/item?id=50064444",
+          "publishedAt": "2026-10-12T23:22:00Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-5c3ed7c868cc",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "A shared, verifiable fix database that AI agents read and write themselves",
+          "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+          "publishedAt": "2026-10-12T23:22:00Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5eb3815bf4f0",
+      "date": "2026-10-13",
+      "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50065062",
+      "evidence": [
+        {
+          "id": "ev-7f1565d413e8",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+          "url": "https://news.ycombinator.com/item?id=50065062",
+          "publishedAt": "2026-10-13T00:38:48Z",
+          "authority": "community",
+          "metrics": {
+            "points": 11,
+            "comments": 0
+          }
+        },
+        {
+          "id": "ev-1a373b155b69",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
+          "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo",
+          "publishedAt": "2026-10-13T00:38:48Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-0da32f6fa13a",
+      "date": "2026-10-13",
+      "title": "Drop in Russian bot traffic after Yandex drone strikes was mostly web crawlers",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Drop in Russian bot traffic after Yandex drone strikes was mostly web crawlers。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 38,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50059573",
+      "evidence": [
+        {
+          "id": "ev-4860ebe6a257",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Drop in Russian bot traffic after Yandex drone strikes was mostly web crawlers",
+          "url": "https://news.ycombinator.com/item?id=50059573",
+          "publishedAt": "2026-10-12T17:17:23Z",
+          "authority": "community",
+          "metrics": {
+            "points": 7,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-fd2d1f355525",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Drop in Russian bot traffic after Yandex drone strikes was mostly web crawlers",
+          "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+          "publishedAt": "2026-10-12T17:17:23Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-1d48aef13ad6",
+      "date": "2026-10-13",
+      "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：SpaceXSI: Unified plans across Grok, Cursor, and X Premium。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 41,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50064808",
+      "evidence": [
+        {
+          "id": "ev-144bb33c826d",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+          "url": "https://news.ycombinator.com/item?id=50064808",
+          "publishedAt": "2026-10-13T00:07:46Z",
+          "authority": "community",
+          "metrics": {
+            "points": 10,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-63c25d03bc09",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+          "url": "https://x.ai/pricing",
+          "publishedAt": "2026-10-13T00:07:46Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-a13be2786686",
+      "date": "2026-10-13",
+      "title": "What it felt like when I was interviewed by an AI assistant",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：What it felt like when I was interviewed by an AI assistant。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 56,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 40,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50064758",
+      "evidence": [
+        {
+          "id": "ev-d070a5b8d5fd",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "What it felt like when I was interviewed by an AI assistant",
+          "url": "https://news.ycombinator.com/item?id=50064758",
+          "publishedAt": "2026-10-13T00:00:25Z",
+          "authority": "community",
+          "metrics": {
+            "points": 9,
+            "comments": 2
+          }
+        },
+        {
+          "id": "ev-5f1252a2eb60",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "What it felt like when I was interviewed by an AI assistant",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
+          "publishedAt": "2026-10-13T00:00:25Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-5d2f673c208b",
+      "date": "2026-10-13",
+      "title": "Show HN: E2E – Open-source agentic testing framework for web, iOS and Android",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Show HN: E2E – Open-source agentic testing framework for web, iOS and Android。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 55,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 36,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Agent",
+        "Open Source"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50058032",
+      "evidence": [
+        {
+          "id": "ev-a03df6c89887",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Show HN: E2E – Open-source agentic testing framework for web, iOS and Android",
+          "url": "https://news.ycombinator.com/item?id=50058032",
+          "publishedAt": "2026-10-12T15:41:29Z",
+          "authority": "community",
+          "metrics": {
+            "points": 8,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-5ee73bf0f892",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Show HN: E2E – Open-source agentic testing framework for web, iOS and Android",
+          "url": "https://github.com/tester-army/e2e",
+          "publishedAt": "2026-10-12T15:41:29Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-2d6eb1b2c899",
+      "date": "2026-10-13",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：An Anthropic AI model sent a false homicide tip to Philadelphia police。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [
+        "Anthropic"
+      ],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50065402",
+      "evidence": [
+        {
+          "id": "ev-3c048ea8bf8f",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://news.ycombinator.com/item?id=50065402",
+          "publishedAt": "2026-10-13T01:25:28Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-59ed6f9116c5",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "publishedAt": "2026-10-13T01:25:28Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    },
+    {
+      "id": "sig-838d589d0f7e",
+      "date": "2026-10-13",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "同一主题出现 2 条关联证据，覆盖 Hacker News、原始文章。核心动态：Epic Games reportedly pivoting to \"AI first\" game development model。",
+      "whyItMatters": "该主题已跨越 2 类来源相互印证，传播强度和可信度高于单一渠道动态。",
+      "score": 54,
+      "scoreBreakdown": {
+        "sourceDiversity": 60,
+        "authority": 70,
+        "engagement": 32,
+        "corroboration": 50
+      },
+      "crossSource": true,
+      "sourceCount": 2,
+      "sourceFamilies": [
+        "community",
+        "media"
+      ],
+      "entities": [],
+      "topics": [
+        "Model"
+      ],
+      "primaryUrl": "https://news.ycombinator.com/item?id=50065312",
+      "evidence": [
+        {
+          "id": "ev-9952a75704c6",
+          "source": "hacker_news",
+          "sourceFamily": "community",
+          "sourceLabel": "Hacker News",
+          "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "url": "https://news.ycombinator.com/item?id=50065312",
+          "publishedAt": "2026-10-13T01:13:24Z",
+          "authority": "community",
+          "metrics": {
+            "points": 5,
+            "comments": 1
+          }
+        },
+        {
+          "id": "ev-7ba24080e132",
+          "source": "article",
+          "sourceFamily": "media",
+          "sourceLabel": "原始文章",
+          "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+          "publishedAt": "2026-10-13T01:13:24Z",
+          "authority": "community",
+          "metrics": {}
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "evidenceCount": 251,
+    "cardCount": 24,
+    "crossSourceCount": 24,
+    "sourceFamilies": 5
+  }
+}
